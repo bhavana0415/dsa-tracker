@@ -10,6 +10,8 @@ const QuestionSchema = new Schema(
         difficulty: String,
         star: Boolean,
         score: Number,
+        sheetname: String,
+        date: Date,
     },
     {
         timestamps: true,
