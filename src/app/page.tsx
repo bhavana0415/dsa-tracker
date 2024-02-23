@@ -27,6 +27,6 @@ export default function Home() {
 
 
   return (
-    <>Welcome to DSA Tracker</>
+    <main>Welcome to DSA Tracker</main>
   );
 }
