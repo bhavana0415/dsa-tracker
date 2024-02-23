@@ -1,8 +1,8 @@
 import { configureStore } from "@reduxjs/toolkit";
-
+import fetchSliceReducer from './FetchData/fetchSlice';
 export const store = configureStore({
     reducer: {
-
+        fetchData: fetchSliceReducer,
     }
 })
 
