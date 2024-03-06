@@ -4,6 +4,12 @@ import { useSelector, useDispatch } from 'react-redux';
 import { RootState } from "./GlobalRedux/store";
 import { fetchQuestionsAsync } from "./GlobalRedux/FetchData/fetchSlice";
 import { useEffect } from "react";
+import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from "@/components/ui/accordion"
 
 export default function Home() {
   const questions = useSelector((state: RootState) => state.fetchData.currentQuestions);
@@ -21,12 +27,18 @@ export default function Home() {
     fetchData();
   }
 
-  useEffect(()=>{
+  useEffect(() => {
     console.log(questions);
-  },[questions]);
+  }, [questions]);
 
 
   return (
-    <main>Welcome to DSA Tracker</main>
+    <main>
+      <div
+        style={{ backgroundImage: 'url(/coder.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}
+        className="w-[500px] h-[400px]">
+      </div>
+
+    </main>
   );
 }

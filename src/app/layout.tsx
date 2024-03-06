@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { ReduxProvider } from "./GlobalRedux/provider";
+import Header from "@/components/Header/header";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,6 +19,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
+        <div style={{ backgroundColor: "rgb(7, 15, 43)" }} className="w-full p-4 flex items-center justify-center">
+          <Header></Header>
+        </div>
         <ReduxProvider>{children} </ReduxProvider>
       </body>
     </html>
