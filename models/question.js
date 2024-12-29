@@ -1,23 +1,22 @@
-import mongoose, {Schema} from "mongoose";
+import mongoose, { Schema } from "mongoose";
 
 const QuestionSchema = new Schema(
     {
-        topic: String,
-        name: String,
-        link: String,
-        status: String,
-        notes: String,
-        difficulty: String,
-        star: Boolean,
-        score: Number,
-        sheetname: String,
-        date: Date,
+        data: {
+            type: Object,
+            required: true,
+        },
+        user: {
+            type: mongoose.Types.ObjectId,
+            required: true,
+            ref: 'User',
+        },
     },
     {
         timestamps: true,
     }
 );
 
-const Question = mongoose.models.Question || mongoose.model('Question',QuestionSchema);
+const Question = mongoose.models.Question || mongoose.model('Question', QuestionSchema);
 
 export default Question;

@@ -17,6 +17,15 @@ const config = {
         "2xl": "1400px",
       },
     },
+    colors: {
+      'cyan': "#155e75",
+      'skyblue': "#dbeafe",
+      'rose': '#fda4af',
+      '070F2B': '#070F2B',
+      '1B1A55': '#1B1A55',
+      '535C91': '#535C91',
+      '9290C3': '#9290C3',
+    },
     extend: {
       colors: {
         border: "hsl(var(--border))",

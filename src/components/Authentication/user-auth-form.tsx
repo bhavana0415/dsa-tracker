@@ -1,0 +1,206 @@
+"use client";
+
+import * as React from "react";
+import { zodResolver } from "@hookform/resolvers/zod";
+import { signIn } from "next-auth/react";
+import { useForm } from "react-hook-form";
+import Link from "next/link";
+import * as z from "zod";
+import { userAuthSchema } from "../../lib/validations/auth";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { Button } from "@/components/ui/button";
+import {
+  Card,
+  CardContent,
+  CardFooter,
+  CardHeader,
+} from "@/components/ui/card";
+import { useRouter, useSearchParams } from "next/navigation";
+
+type FormData = z.infer<typeof userAuthSchema>;
+
+export function UserAuthForm() {
+  const {
+    register,
+    handleSubmit,
+    formState: { errors },
+    setError,
+  } = useForm<FormData>({
+    resolver: zodResolver(userAuthSchema),
+    defaultValues: {
+      email: "",
+      password: "",
+    },
+  });
+  const [isLoading, setIsLoading] = React.useState(false);
+  const router = useRouter();
+  const searchParams = useSearchParams();
+
+  const checkPassword = async (email: string, password: string) => {
+    const callbackUrl = searchParams.get("callbackUrl") || "/";
+    try {
+      const signInResult = await signIn("credentials", {
+        email: email,
+        password: password,
+        redirect: false,
+      });
+
+      if (signInResult?.ok) {
+        router.push(callbackUrl);
+      } else {
+        setError("password", {
+          message: "The password you entered is incorrect.",
+        });
+      }
+    } catch (error) {
+      console.log("Error during sign-in:", error);
+    }
+  };
+
+  const checkIfRegistered = async (email: string, password: string) => {
+    setIsLoading(true);
+    try {
+      const response = await fetch(
+        "http://localhost:3000/api/routes/authentication",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            email,
+          }),
+        }
+      );
+
+      const data = await response.json();
+      if (!data.exists) {
+        setError("email", {
+          message:
+            "The email you entered isn’t connected to an account. Create a new Munus account.",
+        });
+      } else {
+        await checkPassword(email, password);
+      }
+    } catch (error) {
+      console.log("Error during sign-in:", error);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  async function onSubmit(data: FormData) {
+    checkIfRegistered(data.email, data.password);
+  }
+
+  return (
+    <div className="grid gap-6">
+      <Label className="text-center text-lg font-bold">Login to Continue</Label>
+      <Card className="w-[350px]">
+        <CardHeader></CardHeader>
+        <CardContent>
+          <form onSubmit={handleSubmit(onSubmit)}>
+            <div className="grid gap-4">
+              <div>
+                <Label htmlFor="email" className="font-bold">
+                  Email
+                </Label>
+                <div className="relative">
+                  <Input
+                    id="email"
+                    type="email"
+                    placeholder="name@example.com"
+                    disabled={isLoading}
+                    className={`w-full pr-10 ${
+                      errors.email
+                        ? "bg-red-300 focus:ring-red-500"
+                        : "focus:bg-green-300 focus:ring-green-500"
+                    }`}
+                    {...register("email")}
+                  />
+                  {errors.email && (
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth="1.5"
+                      stroke="currentColor"
+                      className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-red-600"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z"
+                      />
+                    </svg>
+                  )}
+                  {errors.email && (
+                    <p className="text-xs text-red-600">
+                      {errors.email.message}
+                    </p>
+                  )}
+                </div>
+              </div>
+              <div>
+                <Label htmlFor="password" className="font-bold">
+                  Password
+                </Label>
+                <div className="relative">
+                  <Input
+                    id="password"
+                    type="password"
+                    placeholder="********"
+                    disabled={isLoading}
+                    className={`w-full pr-10 ${
+                      errors.password
+                        ? "bg-red-300 focus:ring-red-500"
+                        : "focus:bg-green-300 focus:ring-green-500"
+                    }`}
+                    {...register("password")}
+                  />
+                  {errors.password && (
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth="1.5"
+                      stroke="currentColor"
+                      className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-red-600"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z"
+                      />
+                    </svg>
+                  )}
+                  {errors.password && (
+                    <p className="text-xs text-red-600">
+                      {errors.password.message}
+                    </p>
+                  )}
+                </div>
+              </div>
+              <Button
+                variant="default"
+                type="submit"
+                disabled={isLoading}
+                className="text-white bg-red-600"
+              >
+                {isLoading ? "Loading..." : "Login"}
+              </Button>
+            </div>
+          </form>
+        </CardContent>
+        <CardFooter className="flex flex-col gap-2">
+          <Link href="/auth/forgot-password">
+            <p className="text-sm text-gray-600 hover:underline font-bold">
+              Forgot Password
+            </p>
+          </Link>
+        </CardFooter>
+      </Card>
+    </div>
+  );
+}
