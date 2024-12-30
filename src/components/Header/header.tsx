@@ -48,7 +48,7 @@ const Header = () => {
 
   return (
     <>
-      <header className="w-full h-fit text-slate-700 fixed top-0 z-50 flex flex-col lg:flex-row shadow-b bg-background border-b-2 border-slate-500">
+      <header className="w-full h-fit text-slate-700 fixed top-0 z-50 flex flex-col lg:flex-row shadow-b bg-secondary border-b-2 border-slate-500">
         <a
           href="/"
           className="flex items-center whitespace-nowrap text-2xl font-black justify-center m-4"
@@ -77,7 +77,7 @@ const Header = () => {
         </label>
         <nav
           aria-label="Header Navigation"
-          className="py-0 peer-checked:h-auto flex h-0 w-full flex-col items-center overflow-hidden transition-all duration-300 lg:ml-24 lg:h-auto lg:flex-row justify-center bg-background"
+          className="py-0 peer-checked:h-auto flex h-0 w-full flex-col items-center overflow-hidden transition-all duration-300 lg:ml-24 lg:h-auto lg:flex-row justify-center bg-secondary"
         >
           <ul className="flex w-full items-center m-2 flex-col lg:flex-row justify-center">
             {components.map((item, index) => (

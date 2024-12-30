@@ -339,7 +339,7 @@ export const ApnaCollege = {
             "id": "q_id_1_21"
         }
     ],
-    "Array2D": [
+    "2D Arrays": [
         {
             "topic": "2D Arrays",
             "name": "Zigzag (or diagonal) Traversal of Matrix",
@@ -723,7 +723,7 @@ export const ApnaCollege = {
             "id": "q_id_4_20"
         }
     ],
-    "LList": [
+    "Linked List": [
         {
             "topic": "Linked List",
             "name": "Reverse Linked List",
@@ -907,7 +907,7 @@ export const ApnaCollege = {
             "id": "q_id_5_25"
         }
     ],
-    "SQ": [
+    "Stacks & Queues": [
         {
             "topic": "Stacks & Queues",
             "name": "Implement two stacks in an Array",
@@ -1254,7 +1254,7 @@ export const ApnaCollege = {
             "id": "q_id_7_21"
         }
     ],
-    "BT": [
+    "Binary Trees": [
         {
             "topic": "Binary Trees",
             "name": "Maximum Depth of Binary Tree",
@@ -1487,7 +1487,7 @@ export const ApnaCollege = {
             "id": "q_id_8_32"
         }
     ],
-    "HHash": [
+    "Heaps & Hashing": [
         {
             "topic": "Heaps & Hashing",
             "name": "Choose k array elements such that the difference of maximum and minimum is minimized",
@@ -1685,7 +1685,7 @@ export const ApnaCollege = {
             "id": "q_id_9_27"
         }
     ],
-    "BST": [
+    "Binary Search Trees": [
         {
             "topic": "Binary Search Trees",
             "name": "Lowest Common Ancestor of a Binary Search Tree",
@@ -2160,7 +2160,7 @@ export const ApnaCollege = {
             "id": "q_id_12_5"
         }
     ],
-    "BM": [
+    "Bit Manipulation": [
         {
             "topic": "Bit Manipulation",
             "name": "Count set bits in an integer",
@@ -2232,7 +2232,7 @@ export const ApnaCollege = {
             "id": "q_id_13_9"
         }
     ],
-    "STree": [
+    "Segment Trees": [
         {
             "topic": "Segment Trees",
             "name": "Range Sum Query - Immutable",

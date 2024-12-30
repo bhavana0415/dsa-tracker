@@ -9,10 +9,12 @@ import { useRouter } from "next/navigation";
 import EmailForm from "../Forms/emailForm";
 import VerifyCodeForm from "../Forms/verificationForm";
 import RegisterForm from "../Forms/registerForm";
+import ChooseAvatar from "../Forms/chooseAvatar";
 
 const userSchema = {
   email: "",
   password: "",
+  avatar: "",
   questions: [],
   score: 0,
 };
@@ -30,7 +32,11 @@ export function UserRegistrationForm() {
     }
   };
 
-  const registerUser = async () => {
+  const registerUser = async (path: string) => {
+    const data = {
+      ...user,
+      avatar: path,
+    };
     setIsLoading(true);
     try {
       const response = await fetch("http://localhost:3000/api/routes/users", {
@@ -38,9 +44,7 @@ export function UserRegistrationForm() {
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({
-          ...user,
-        }),
+        body: JSON.stringify(data),
       });
       if (response.status == 200) {
         toast({
@@ -73,7 +77,10 @@ export function UserRegistrationForm() {
       <Card className="w-[350px] border-none shadow-none">
         <CardHeader>Register</CardHeader>
         <CardContent>
-          <Progress value={Math.ceil((page * 100) / 3)} className="w-[60%]" />
+          <Progress
+            value={Math.ceil((page * 100) / 3)}
+            className="w-[60%] h-2 mb-6"
+          />
           {page == 1 ? (
             <EmailForm
               user={user}
@@ -87,13 +94,10 @@ export function UserRegistrationForm() {
               setPage={setPage}
               verifyCode={verifyCode}
             />
+          ) : page == 3 ? (
+            <RegisterForm user={user} setPage={setPage} setUser={setUser} />
           ) : (
-            <RegisterForm
-              user={user}
-              setUser={setUser}
-              registerUser={registerUser}
-              isLoading={isLoading}
-            />
+            <ChooseAvatar registerUser={registerUser} isLoading={isLoading} />
           )}
         </CardContent>
       </Card>

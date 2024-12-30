@@ -3,58 +3,43 @@
 @tailwind utilities;
 
 body {
-  @apply bg-background text-foreground min-h-screen;
+  @apply bg-secondary text-foreground min-h-screen;
 }
 
 @layer base {
   :root {
-    --background: #9ae6fb;
-    --foreground: #092635;
-    --primary: #95d2b3;
-    --secondary: #d8efd3;
-    --ternary: #007e81;
+    --foreground: #002d44;
+    --primary: #bed1cf;
+    --secondary: #e78895;
+    --ternary: #ffe4c9;
+    --quaternary: #fff7f1;
   }
 
   .dark {
-    --background: #092635;
-    --foreground: #9ae6fb;
-    --primary: #1b4242;
-    --secondary: #5c8374;
-    --ternary: #9ec8b9;
+    --foreground: #c8fffd;
+    --primary: #1a1a1d;
+    --secondary: #3b1c32;
+    --ternary: #6a1e55;
+    --quaternary: #a64d79;
   }
 }
 
 @layer utilities {
-  .bg-background {
-    background-color: var(--background);
+  .bg-primary {
+    background-color: var(--primary);
   }
-
-  .bg-backgroundReverse {
-    background-color: var(--foreground);
+  .bg-secondary {
+    background-color: var(--secondary);
+  }
+  .bg-ternary {
+    background-color: var(--ternary);
+  }
+  .bg-quaternary {
+    background-color: var(--quaternary);
   }
 
   .text-foreground {
     color: var(--foreground);
-  }
-
-  .text-foregroundReverse {
-    color: var(--background);
-  }
-
-  .bg-customColorOne {
-    background-color: var(--customColorOne);
-  }
-
-  .bg-primary {
-    background-color: var(--primary);
-  }
-
-  .bg-secondary {
-    background-color: var(--secondary);
-  }
-
-  .bg-ternary {
-    background-color: var(--ternary);
   }
 
   .hover\\:translate-y-1:hover {

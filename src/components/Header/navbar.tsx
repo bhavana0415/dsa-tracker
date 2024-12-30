@@ -19,6 +19,7 @@ import { useEffect } from "react";
 import LightModeIcon from "@mui/icons-material/LightMode";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import { useSelector, useDispatch } from "react-redux";
+import { setCurrentMode } from "@/store/Features/currentState/currentStateSlice";
 
 const Navbar = () => {
   const currentMode = useSelector((state) => state.currentState.currentMode);
@@ -37,8 +38,8 @@ const Navbar = () => {
   };
 
   return (
-    <header className="sticky top-0 z-40 w-full border-b bg-background">
-      <div className="container flex h-16 items-center justify-between py-4 md:py-6">
+    <header className="sticky top-0 z-40 w-full border-b bg-primary">
+      <div className="container flex h-16 items-center justify-between py-2 md:py-4">
         <Link
           href="#"
           className="mr-4 flex items-center space-x-2"
@@ -48,33 +49,33 @@ const Navbar = () => {
         </Link>
         <nav className="hidden items-center justify-center space-x-4 md:flex">
           <NavigationMenu className="list-none">
-            <NavigationMenuItem className="list-none">
-              <NavigationMenuTrigger className="flex items-center space-x-2 no-marker">
+            <NavigationMenuItem>
+              <NavigationMenuTrigger className="flex items-center space-x-2 no-marker bg-transparent hover:scale-105 transform transition duration-300">
                 DSA cheat sheets
               </NavigationMenuTrigger>
-              <NavigationMenuContent>
-                <div className="grid w-[200px] gap-0 bg-primary">
+              <NavigationMenuContent className="border-none">
+                <div className="grid w-[200px] gap-0 bg-ternary">
                   <NavigationMenuLink
                     href="/dsa/apna-college"
-                    className="text-sm text-foreground hover:bg-secondary p-2 justify-items-center"
+                    className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
                   >
                     Apna College
                   </NavigationMenuLink>
                   <NavigationMenuLink
                     href="/dsa/fraz"
-                    className="text-sm text-foreground hover:bg-secondary p-2 justify-items-center"
+                    className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
                   >
                     Fraz
                   </NavigationMenuLink>
                   <NavigationMenuLink
                     href="/dsa/love-babbar"
-                    className="text-sm text-foreground hover:bg-secondary p-2 justify-items-center"
+                    className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
                   >
                     Love Babbar
                   </NavigationMenuLink>
                   <NavigationMenuLink
                     href="/dsa/striver"
-                    className="text-sm text-foreground hover:bg-secondary p-2 justify-items-center"
+                    className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
                   >
                     Striver
                   </NavigationMenuLink>
@@ -89,6 +90,13 @@ const Navbar = () => {
           >
             <TimerIcon />
           </Link>
+          <button onClick={changeMode}>
+            {currentMode == "dark" ? (
+              <LightModeIcon className="text-foreground mx-2" />
+            ) : (
+              <DarkModeIcon className="text-foreground" />
+            )}
+          </button>
           {/* <Link
             href="/goal"
             className="text-muted-foreground hover:text-foreground"
@@ -155,7 +163,7 @@ const Navbar = () => {
                 Goal
               </Link> */}
               <button onClick={changeMode}>
-                {currentMode ? (
+                {currentMode == "dark" ? (
                   <LightModeIcon className="text-foreground mx-2" />
                 ) : (
                   <DarkModeIcon className="text-foreground" />

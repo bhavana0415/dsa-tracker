@@ -11,7 +11,7 @@ import { Button } from "@/components/ui/button";
 
 type FormData = z.infer<typeof userRegisterSchema>;
 
-const RegisterForm = ({ user, setUser, registerUser, isLoading }) => {
+const RegisterForm = ({ user, setUser, setPage }) => {
   const {
     register,
     handleSubmit,
@@ -28,7 +28,7 @@ const RegisterForm = ({ user, setUser, registerUser, isLoading }) => {
       ...prevUser,
       password: data.password,
     }));
-    registerUser();
+    setPage(4);
   };
 
   return (
@@ -41,18 +41,12 @@ const RegisterForm = ({ user, setUser, registerUser, isLoading }) => {
             type="email"
             defaultValue={user.email}
             {...register("email")}
-            disabled={isLoading}
             readOnly
           />
         </div>
         <div className="flex flex-col space-y-1.5">
           <Label htmlFor="lastname">Password</Label>
-          <Input
-            id="password"
-            type="password"
-            {...register("password")}
-            disabled={isLoading}
-          />
+          <Input id="password" type="password" {...register("password")} />
           {errors.password && (
             <p className="text-xs text-red-600">{errors.password.message}</p>
           )}
@@ -63,7 +57,6 @@ const RegisterForm = ({ user, setUser, registerUser, isLoading }) => {
             id="confirmPassword"
             type="password"
             {...register("confirmPassword")}
-            disabled={isLoading}
           />
           {errors.confirmPassword && (
             <p className="text-xs text-red-600">
@@ -75,9 +68,8 @@ const RegisterForm = ({ user, setUser, registerUser, isLoading }) => {
           type="submit"
           className="text-white bg-red-600"
           style={{ width: "-webkit-fill-available" }}
-          disabled={isLoading}
         >
-          {isLoading ? "Loading..." : "Register"}
+          Next
         </Button>
       </div>
     </form>
