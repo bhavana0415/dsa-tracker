@@ -1,7158 +1,7158 @@
 export const ApnaCollege = {
-    "Arrays": [
+    Arrays: [
         {
-            "topic": "Arrays",
-            "name": "Maximum and Minimum Element in an Array",
-            "link": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/",
-            "difficulty": "Easy",
-            "id": "q_id_0_0"
+            topic: "Arrays",
+            name: "Maximum and Minimum Element in an Array",
+            link: "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_0_0",
         },
         {
-            "topic": "Arrays",
-            "name": "Reverse the Array",
-            "link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/",
-            "difficulty": "Easy",
-            "id": "q_id_0_1"
+            topic: "Arrays",
+            name: "Reverse the Array",
+            link: "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_0_1",
         },
         {
-            "topic": "Arrays",
-            "name": "Maximum-Subarray",
-            "link": "https://leetcode.com/problems/maximum-subarray/",
-            "difficulty": "Easy",
-            "id": "q_id_0_2"
+            topic: "Arrays",
+            name: "Maximum-Subarray",
+            link: "https://leetcode.com/problems/maximum-subarray/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_0_2",
         },
         {
-            "topic": "Arrays",
-            "name": "Contains Duplicate",
-            "link": "https://leetcode.com/problems/contains-duplicate/",
-            "difficulty": "Easy",
-            "id": "q_id_0_3"
+            topic: "Arrays",
+            name: "Contains Duplicate",
+            link: "https://leetcode.com/problems/contains-duplicate/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_0_3",
         },
         {
-            "topic": "Arrays",
-            "name": "Chocolate Distribution Problem",
-            "link": "https://www.geeksforgeeks.org/chocolate-distribution-problem/",
-            "difficulty": "Easy",
-            "id": "q_id_0_4"
+            topic: "Arrays",
+            name: "Chocolate Distribution Problem",
+            link: "https://www.geeksforgeeks.org/chocolate-distribution-problem/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_0_4",
         },
         {
-            "topic": "Arrays",
-            "name": "Search in Rotated Sorted Array",
-            "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-            "difficulty": "Easy",
-            "id": "q_id_0_5"
+            topic: "Arrays",
+            name: "Search in Rotated Sorted Array",
+            link: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_0_5",
         },
         {
-            "topic": "Arrays",
-            "name": "Next Permutation",
-            "link": "https://leetcode.com/problems/next-permutation/",
-            "difficulty": "Medium",
-            "id": "q_id_0_6"
+            topic: "Arrays",
+            name: "Next Permutation",
+            link: "https://leetcode.com/problems/next-permutation/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_6",
         },
         {
-            "topic": "Arrays",
-            "name": "Best time to Buy and Sell Stock",
-            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-            "difficulty": "Medium",
-            "id": "q_id_0_7"
+            topic: "Arrays",
+            name: "Best time to Buy and Sell Stock",
+            link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_7",
         },
         {
-            "topic": "Arrays",
-            "name": "Repeat and Missing Number Array",
-            "link": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
-            "difficulty": "Medium",
-            "id": "q_id_0_8"
+            topic: "Arrays",
+            name: "Repeat and Missing Number Array",
+            link: "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_8",
         },
         {
-            "topic": "Arrays",
-            "name": "Kth-Largest Element in an Array",
-            "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
-            "difficulty": "Medium",
-            "id": "q_id_0_9"
+            topic: "Arrays",
+            name: "Kth-Largest Element in an Array",
+            link: "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_9",
         },
         {
-            "topic": "Arrays",
-            "name": "Trapping Rain Water",
-            "link": "https://leetcode.com/problems/trapping-rain-water/",
-            "difficulty": "Medium",
-            "id": "q_id_0_10"
+            topic: "Arrays",
+            name: "Trapping Rain Water",
+            link: "https://leetcode.com/problems/trapping-rain-water/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_10",
         },
         {
-            "topic": "Arrays",
-            "name": "Product of Array Except Self",
-            "link": "https://leetcode.com/problems/product-of-array-except-self/",
-            "difficulty": "Medium",
-            "id": "q_id_0_11"
+            topic: "Arrays",
+            name: "Product of Array Except Self",
+            link: "https://leetcode.com/problems/product-of-array-except-self/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_11",
         },
         {
-            "topic": "Arrays",
-            "name": "Maximum Product Subarray",
-            "link": "https://leetcode.com/problems/maximum-product-subarray/",
-            "difficulty": "Medium",
-            "id": "q_id_0_12"
+            topic: "Arrays",
+            name: "Maximum Product Subarray",
+            link: "https://leetcode.com/problems/maximum-product-subarray/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_12",
         },
         {
-            "topic": "Arrays",
-            "name": "Find Minimum in Rotated Sorted Array",
-            "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-            "difficulty": "Medium",
-            "id": "q_id_0_13"
+            topic: "Arrays",
+            name: "Find Minimum in Rotated Sorted Array",
+            link: "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_13",
         },
         {
-            "topic": "Arrays",
-            "name": "Find Pair with Sum in Sorted & Rotated Array",
-            "link": "https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp",
-            "difficulty": "Medium",
-            "id": "q_id_0_14"
+            topic: "Arrays",
+            name: "Find Pair with Sum in Sorted & Rotated Array",
+            link: "https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_14",
         },
         {
-            "topic": "Arrays",
-            "name": "3Sum",
-            "link": "https://leetcode.com/problems/3sum/",
-            "difficulty": "Medium",
-            "id": "q_id_0_15"
+            topic: "Arrays",
+            name: "3Sum",
+            link: "https://leetcode.com/problems/3sum/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_15",
         },
         {
-            "topic": "Arrays",
-            "name": "Container With Most Water",
-            "link": "https://leetcode.com/problems/container-with-most-water/",
-            "difficulty": "Medium",
-            "id": "q_id_0_16"
+            topic: "Arrays",
+            name: "Container With Most Water",
+            link: "https://leetcode.com/problems/container-with-most-water/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_16",
         },
         {
-            "topic": "Arrays",
-            "name": "Given Sum Pair",
-            "link": "https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/",
-            "difficulty": "Medium",
-            "id": "q_id_0_17"
+            topic: "Arrays",
+            name: "Given Sum Pair",
+            link: "https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_17",
         },
         {
-            "topic": "Arrays",
-            "name": "Kth - Smallest Element",
-            "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1",
-            "difficulty": "Medium",
-            "id": "q_id_0_18"
+            topic: "Arrays",
+            name: "Kth - Smallest Element",
+            link: "https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_18",
         },
         {
-            "topic": "Arrays",
-            "name": "Merge Overlapping Intervals",
-            "link": "https://www.geeksforgeeks.org/merging-intervals/",
-            "difficulty": "Medium",
-            "id": "q_id_0_19"
+            topic: "Arrays",
+            name: "Merge Overlapping Intervals",
+            link: "https://www.geeksforgeeks.org/merging-intervals/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_19",
         },
         {
-            "topic": "Arrays",
-            "name": "Find Minimum Number of Merge Operations to Make an Array Palindrome",
-            "link": "https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/",
-            "difficulty": "Medium",
-            "id": "q_id_0_20"
+            topic: "Arrays",
+            name: "Find Minimum Number of Merge Operations to Make an Array Palindrome",
+            link: "https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_20",
         },
         {
-            "topic": "Arrays",
-            "name": "Given an Array of Numbers Arrange the Numbers to Form the Biggest Number",
-            "link": "https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/",
-            "difficulty": "Medium",
-            "id": "q_id_0_21"
+            topic: "Arrays",
+            name: "Given an Array of Numbers Arrange the Numbers to Form the Biggest Number",
+            link: "https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_21",
         },
         {
-            "topic": "Arrays",
-            "name": "Space Optimization Using Bit Manipulations",
-            "link": "https://www.geeksforgeeks.org/space-optimization-using-bit-manipulations/",
-            "difficulty": "Medium",
-            "id": "q_id_0_22"
+            topic: "Arrays",
+            name: "Space Optimization Using Bit Manipulations",
+            link: "https://www.geeksforgeeks.org/space-optimization-using-bit-manipulations/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_0_22",
         },
         {
-            "topic": "Arrays",
-            "name": "Subarray Sum Divisible K",
-            "link": "https://www.geeksforgeeks.org/longest-subarray-sum-divisible-k/",
-            "difficulty": "Hard",
-            "id": "q_id_0_23"
+            topic: "Arrays",
+            name: "Subarray Sum Divisible K",
+            link: "https://www.geeksforgeeks.org/longest-subarray-sum-divisible-k/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_0_23",
         },
         {
-            "topic": "Arrays",
-            "name": "Print all Possible Combinations of r Elements in a Given Array of Size n",
-            "link": "https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/",
-            "difficulty": "Hard",
-            "id": "q_id_0_24"
+            topic: "Arrays",
+            name: "Print all Possible Combinations of r Elements in a Given Array of Size n",
+            link: "https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_0_24",
         },
         {
-            "topic": "Arrays",
-            "name": "Mo's Algorithm",
-            "link": "https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/",
-            "difficulty": "Hard",
-            "id": "q_id_0_25"
-        }
+            topic: "Arrays",
+            name: "Mo's Algorithm",
+            link: "https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_0_25",
+        },
     ],
-    "Strings": [
+    Strings: [
         {
-            "topic": "Strings",
-            "name": "Valid Palindrome",
-            "link": "https://leetcode.com/problems/valid-palindrome/",
-            "difficulty": "Easy",
-            "id": "q_id_1_0"
+            topic: "Strings",
+            name: "Valid Palindrome",
+            link: "https://leetcode.com/problems/valid-palindrome/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_1_0",
         },
         {
-            "topic": "Strings",
-            "name": "Valid Anagram",
-            "link": "https://leetcode.com/problems/valid-anagram/",
-            "difficulty": "Easy",
-            "id": "q_id_1_1"
+            topic: "Strings",
+            name: "Valid Anagram",
+            link: "https://leetcode.com/problems/valid-anagram/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_1_1",
         },
         {
-            "topic": "Strings",
-            "name": "Valid parentheses",
-            "link": "https://leetcode.com/problems/valid-parentheses/",
-            "difficulty": "Easy",
-            "id": "q_id_1_2"
+            topic: "Strings",
+            name: "Valid parentheses",
+            link: "https://leetcode.com/problems/valid-parentheses/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_1_2",
         },
         {
-            "topic": "Strings",
-            "name": "Remove Consecutive Characters",
-            "link": "https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1",
-            "difficulty": "Easy",
-            "id": "q_id_1_3"
+            topic: "Strings",
+            name: "Remove Consecutive Characters",
+            link: "https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_1_3",
         },
         {
-            "topic": "Strings",
-            "name": "Longest Common Prefix",
-            "link": "https://leetcode.com/problems/longest-common-prefix/",
-            "difficulty": "Easy",
-            "id": "q_id_1_4"
+            topic: "Strings",
+            name: "Longest Common Prefix",
+            link: "https://leetcode.com/problems/longest-common-prefix/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_1_4",
         },
         {
-            "topic": "Strings",
-            "name": "Convert a Sentence into its Equivalent Mobile Numeric Keypad Sequence",
-            "link": "https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/",
-            "difficulty": "Easy",
-            "id": "q_id_1_5"
+            topic: "Strings",
+            name: "Convert a Sentence into its Equivalent Mobile Numeric Keypad Sequence",
+            link: "https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_1_5",
         },
         {
-            "topic": "Strings",
-            "name": "Print all the Duplicates in the Input String",
-            "link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
-            "difficulty": "Easy",
-            "id": "q_id_1_6"
+            topic: "Strings",
+            name: "Print all the Duplicates in the Input String",
+            link: "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_1_6",
         },
         {
-            "topic": "Strings",
-            "name": "Longest Substring without Repeating Characters",
-            "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-            "difficulty": "Medium",
-            "id": "q_id_1_7"
+            topic: "Strings",
+            name: "Longest Substring without Repeating Characters",
+            link: "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_7",
         },
         {
-            "topic": "Strings",
-            "name": "Longest Repeating Character Replacement",
-            "link": "https://leetcode.com/problems/longest-repeating-character-replacement/",
-            "difficulty": "Medium",
-            "id": "q_id_1_8"
+            topic: "Strings",
+            name: "Longest Repeating Character Replacement",
+            link: "https://leetcode.com/problems/longest-repeating-character-replacement/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_8",
         },
         {
-            "topic": "Strings",
-            "name": "Group Anagrams",
-            "link": "https://leetcode.com/problems/group-anagrams/",
-            "difficulty": "Medium",
-            "id": "q_id_1_9"
+            topic: "Strings",
+            name: "Group Anagrams",
+            link: "https://leetcode.com/problems/group-anagrams/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_9",
         },
         {
-            "topic": "Strings",
-            "name": "Longest Palindromic Substring",
-            "link": "https://leetcode.com/problems/longest-palindromic-substring/",
-            "difficulty": "Medium",
-            "id": "q_id_1_10"
+            topic: "Strings",
+            name: "Longest Palindromic Substring",
+            link: "https://leetcode.com/problems/longest-palindromic-substring/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_10",
         },
         {
-            "topic": "Strings",
-            "name": "Palindromic Substrings",
-            "link": "https://leetcode.com/problems/palindromic-substrings/",
-            "difficulty": "Medium",
-            "id": "q_id_1_11"
+            topic: "Strings",
+            name: "Palindromic Substrings",
+            link: "https://leetcode.com/problems/palindromic-substrings/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_11",
         },
         {
-            "topic": "Strings",
-            "name": "Next Permutation",
-            "link": "https://practice.geeksforgeeks.org/problems/next-permutation5226/1",
-            "difficulty": "Medium",
-            "id": "q_id_1_12"
+            topic: "Strings",
+            name: "Next Permutation",
+            link: "https://practice.geeksforgeeks.org/problems/next-permutation5226/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_12",
         },
         {
-            "topic": "Strings",
-            "name": "Count Palindromic Subsequences",
-            "link": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
-            "difficulty": "Medium",
-            "id": "q_id_1_13"
+            topic: "Strings",
+            name: "Count Palindromic Subsequences",
+            link: "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_13",
         },
         {
-            "topic": "Strings",
-            "name": "Smallest Window in a String Containing all the Characters of Another String",
-            "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1",
-            "difficulty": "Medium",
-            "id": "q_id_1_14"
+            topic: "Strings",
+            name: "Smallest Window in a String Containing all the Characters of Another String",
+            link: "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_14",
         },
         {
-            "topic": "Strings",
-            "name": "Wildcard String Matching",
-            "link": "https://practice.geeksforgeeks.org/problems/wildcard-string-matching1126/1",
-            "difficulty": "Medium",
-            "id": "q_id_1_15"
+            topic: "Strings",
+            name: "Wildcard String Matching",
+            link: "https://practice.geeksforgeeks.org/problems/wildcard-string-matching1126/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_15",
         },
         {
-            "topic": "Strings",
-            "name": "Longest Prefix Suffix",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
-            "difficulty": "Medium",
-            "id": "q_id_1_16"
+            topic: "Strings",
+            name: "Longest Prefix Suffix",
+            link: "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_16",
         },
         {
-            "topic": "Strings",
-            "name": "Rabin-Karp Algorithm for Pattern Searching",
-            "link": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
-            "difficulty": "Medium",
-            "id": "q_id_1_17"
+            topic: "Strings",
+            name: "Rabin-Karp Algorithm for Pattern Searching",
+            link: "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_17",
         },
         {
-            "topic": "Strings",
-            "name": "Transform One String to Another using Minimum Number of Given Operation",
-            "link": "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/",
-            "difficulty": "Medium",
-            "id": "q_id_1_18"
+            topic: "Strings",
+            name: "Transform One String to Another using Minimum Number of Given Operation",
+            link: "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_1_18",
         },
         {
-            "topic": "Strings",
-            "name": "Minimum Window Substring",
-            "link": "https://leetcode.com/problems/minimum-window-substring/",
-            "difficulty": "Hard",
-            "id": "q_id_1_19"
+            topic: "Strings",
+            name: "Minimum Window Substring",
+            link: "https://leetcode.com/problems/minimum-window-substring/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_1_19",
         },
         {
-            "topic": "Strings",
-            "name": "Boyer Moore Algorithm for Pattern Searching",
-            "link": "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
-            "difficulty": "Hard",
-            "id": "q_id_1_20"
+            topic: "Strings",
+            name: "Boyer Moore Algorithm for Pattern Searching",
+            link: "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_1_20",
         },
         {
-            "topic": "Strings",
-            "name": "Word Wrap",
-            "link": "https://practice.geeksforgeeks.org/problems/word-wrap1646/1",
-            "difficulty": "Hard",
-            "id": "q_id_1_21"
-        }
+            topic: "Strings",
+            name: "Word Wrap",
+            link: "https://practice.geeksforgeeks.org/problems/word-wrap1646/1",
+            difficulty: "Hard",
+            q_id: "q_id_ac_1_21",
+        },
     ],
     "2D Arrays": [
         {
-            "topic": "2D Arrays",
-            "name": "Zigzag (or diagonal) Traversal of Matrix",
-            "link": "https://www.geeksforgeeks.org/zigzag-or-diagonal-traversal-of-matrix/",
-            "difficulty": "Medium",
-            "id": "q_id_2_0"
+            topic: "2D Arrays",
+            name: "Zigzag (or diagonal) Traversal of Matrix",
+            link: "https://www.geeksforgeeks.org/zigzag-or-diagonal-traversal-of-matrix/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_2_0",
         },
         {
-            "topic": "2D Arrays",
-            "name": "Set Matrix Zeroes",
-            "link": "https://leetcode.com/problems/set-matrix-zeroes/",
-            "difficulty": "Medium",
-            "id": "q_id_2_1"
+            topic: "2D Arrays",
+            name: "Set Matrix Zeroes",
+            link: "https://leetcode.com/problems/set-matrix-zeroes/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_2_1",
         },
         {
-            "topic": "2D Arrays",
-            "name": "Spiral Matrix",
-            "link": "https://leetcode.com/problems/spiral-matrix/",
-            "difficulty": "Medium",
-            "id": "q_id_2_2"
+            topic: "2D Arrays",
+            name: "Spiral Matrix",
+            link: "https://leetcode.com/problems/spiral-matrix/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_2_2",
         },
         {
-            "topic": "2D Arrays",
-            "name": "Rotate Image",
-            "link": "https://leetcode.com/problems/rotate-image/",
-            "difficulty": "Medium",
-            "id": "q_id_2_3"
+            topic: "2D Arrays",
+            name: "Rotate Image",
+            link: "https://leetcode.com/problems/rotate-image/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_2_3",
         },
         {
-            "topic": "2D Arrays",
-            "name": "Word Search",
-            "link": "https://leetcode.com/problems/word-search/",
-            "difficulty": "Medium",
-            "id": "q_id_2_4"
+            topic: "2D Arrays",
+            name: "Word Search",
+            link: "https://leetcode.com/problems/word-search/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_2_4",
         },
         {
-            "topic": "2D Arrays",
-            "name": "Find the Number of Islands | Set 1 (Using DFS)",
-            "link": "https://www.geeksforgeeks.org/find-number-of-islands/",
-            "difficulty": "Medium",
-            "id": "q_id_2_5"
+            topic: "2D Arrays",
+            name: "Find the Number of Islands | Set 1 (Using DFS)",
+            link: "https://www.geeksforgeeks.org/find-number-of-islands/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_2_5",
         },
         {
-            "topic": "2D Arrays",
-            "name": "Given a Matrix of ‘O’ and ‘X’, Replace ‘O’ with ‘X’ if Surrounded by ‘X’",
-            "link": "https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/",
-            "difficulty": "Medium",
-            "id": "q_id_2_6"
+            topic: "2D Arrays",
+            name: "Given a Matrix of ‘O’ and ‘X’, Replace ‘O’ with ‘X’ if Surrounded by ‘X’",
+            link: "https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_2_6",
         },
         {
-            "topic": "2D Arrays",
-            "name": "Find a Common Element in all Rows of a Given Row-Wise Sorted Matrix",
-            "link": "https://www.geeksforgeeks.org/find-common-element-rows-row-wise-sorted-matrix/",
-            "difficulty": "Medium",
-            "id": "q_id_2_7"
+            topic: "2D Arrays",
+            name: "Find a Common Element in all Rows of a Given Row-Wise Sorted Matrix",
+            link: "https://www.geeksforgeeks.org/find-common-element-rows-row-wise-sorted-matrix/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_2_7",
         },
         {
-            "topic": "2D Arrays",
-            "name": "Create a Matrix with Alternating Rectangles of O and X",
-            "link": "https://www.geeksforgeeks.org/create-a-matrix-with-alternating-rectangles-of-0-and-x/",
-            "difficulty": "Medium",
-            "id": "q_id_2_8"
+            topic: "2D Arrays",
+            name: "Create a Matrix with Alternating Rectangles of O and X",
+            link: "https://www.geeksforgeeks.org/create-a-matrix-with-alternating-rectangles-of-0-and-x/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_2_8",
         },
         {
-            "topic": "2D Arrays",
-            "name": "Maximum Size Rectangle of all 1s",
-            "link": "https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/",
-            "difficulty": "Hard",
-            "id": "q_id_2_9"
-        }
+            topic: "2D Arrays",
+            name: "Maximum Size Rectangle of all 1s",
+            link: "https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_2_9",
+        },
     ],
     "Searching & Sorting": [
         {
-            "topic": "Searching & Sorting",
-            "name": "Permute Two Arrays such that Sum of Every Pair is Greater or Equal to K",
-            "link": "https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/",
-            "difficulty": "Easy",
-            "id": "q_id_3_0"
+            topic: "Searching & Sorting",
+            name: "Permute Two Arrays such that Sum of Every Pair is Greater or Equal to K",
+            link: "https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_3_0",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Counting Sort",
-            "link": "https://www.geeksforgeeks.org/counting-sort/",
-            "difficulty": "Easy",
-            "id": "q_id_3_1"
+            topic: "Searching & Sorting",
+            name: "Counting Sort",
+            link: "https://www.geeksforgeeks.org/counting-sort/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_3_1",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Find Common Elements in Three Sorted Arrays",
-            "link": "https://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/",
-            "difficulty": "Easy",
-            "id": "q_id_3_2"
+            topic: "Searching & Sorting",
+            name: "Find Common Elements in Three Sorted Arrays",
+            link: "https://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_3_2",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Searching in an Array where Adjacent Differ by at Most K",
-            "link": "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/",
-            "difficulty": "Easy",
-            "id": "q_id_3_3"
+            topic: "Searching & Sorting",
+            name: "Searching in an Array where Adjacent Differ by at Most K",
+            link: "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_3_3",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Ceiling in a Sorted Array",
-            "link": "https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/",
-            "difficulty": "Easy",
-            "id": "q_id_3_4"
+            topic: "Searching & Sorting",
+            name: "Ceiling in a Sorted Array",
+            link: "https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_3_4",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Pair with Given Difference",
-            "link": "https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/",
-            "difficulty": "Easy",
-            "id": "q_id_3_5"
+            topic: "Searching & Sorting",
+            name: "Pair with Given Difference",
+            link: "https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_3_5",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Majority Element",
-            "link": "https://www.geeksforgeeks.org/majority-element/",
-            "difficulty": "Medium",
-            "id": "q_id_3_6"
+            topic: "Searching & Sorting",
+            name: "Majority Element",
+            link: "https://www.geeksforgeeks.org/majority-element/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_6",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Count Triplets with Sum Smaller than a Given Value",
-            "link": "https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/",
-            "difficulty": "Medium",
-            "id": "q_id_3_7"
+            topic: "Searching & Sorting",
+            name: "Count Triplets with Sum Smaller than a Given Value",
+            link: "https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_7",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Maximum Sum Subsequence with No Adjacent Elements",
-            "link": "https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/",
-            "difficulty": "Medium",
-            "id": "q_id_3_8"
+            topic: "Searching & Sorting",
+            name: "Maximum Sum Subsequence with No Adjacent Elements",
+            link: "https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_8",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Merge Sorted Arrays using O(1) Space",
-            "link": "https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/",
-            "difficulty": "Medium",
-            "id": "q_id_3_9"
+            topic: "Searching & Sorting",
+            name: "Merge Sorted Arrays using O(1) Space",
+            link: "https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_9",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Inversion of Array",
-            "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
-            "difficulty": "Medium",
-            "id": "q_id_3_10"
+            topic: "Searching & Sorting",
+            name: "Inversion of Array",
+            link: "https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_10",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Find Duplicates in O(n) Time and O(1) Extra Space",
-            "link": "https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/",
-            "difficulty": "Medium",
-            "id": "q_id_3_11"
+            topic: "Searching & Sorting",
+            name: "Find Duplicates in O(n) Time and O(1) Extra Space",
+            link: "https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_11",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Radix Sort",
-            "link": "https://www.geeksforgeeks.org/radix-sort/",
-            "difficulty": "Medium",
-            "id": "q_id_3_12"
+            topic: "Searching & Sorting",
+            name: "Radix Sort",
+            link: "https://www.geeksforgeeks.org/radix-sort/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_12",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Product of Array Except Itself",
-            "link": "https://www.geeksforgeeks.org/a-product-array-puzzle/",
-            "difficulty": "Medium",
-            "id": "q_id_3_13"
+            topic: "Searching & Sorting",
+            name: "Product of Array Except Itself",
+            link: "https://www.geeksforgeeks.org/a-product-array-puzzle/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_13",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Make all Array Elements Equal",
-            "link": "https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/",
-            "difficulty": "Medium",
-            "id": "q_id_3_14"
+            topic: "Searching & Sorting",
+            name: "Make all Array Elements Equal",
+            link: "https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_14",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Check if Reversing a Sub Array Make the Array Sorted",
-            "link": "https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/",
-            "difficulty": "Medium",
-            "id": "q_id_3_15"
+            topic: "Searching & Sorting",
+            name: "Check if Reversing a Sub Array Make the Array Sorted",
+            link: "https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_3_15",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Find Four Elements that Sum to a Given Value",
-            "link": "https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/",
-            "difficulty": "Hard",
-            "id": "q_id_3_16"
+            topic: "Searching & Sorting",
+            name: "Find Four Elements that Sum to a Given Value",
+            link: "https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_3_16",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Median of Two Sorted Arrays with Different Size",
-            "link": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/",
-            "difficulty": "Hard",
-            "id": "q_id_3_17"
+            topic: "Searching & Sorting",
+            name: "Median of Two Sorted Arrays with Different Size",
+            link: "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_3_17",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Median of Stream of Integers Running Integers",
-            "link": "https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/",
-            "difficulty": "Hard",
-            "id": "q_id_3_18"
+            topic: "Searching & Sorting",
+            name: "Median of Stream of Integers Running Integers",
+            link: "https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_3_18",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Print Subarrays with 0 Sum",
-            "link": "https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/",
-            "difficulty": "Hard",
-            "id": "q_id_3_19"
+            topic: "Searching & Sorting",
+            name: "Print Subarrays with 0 Sum",
+            link: "https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_3_19",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Aggressive Cows",
-            "link": "https://www.spoj.com/problems/AGGRCOW/",
-            "difficulty": "Hard",
-            "id": "q_id_3_20"
+            topic: "Searching & Sorting",
+            name: "Aggressive Cows",
+            link: "https://www.spoj.com/problems/AGGRCOW/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_3_20",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Allocate Minimum Number of Pages",
-            "link": "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
-            "difficulty": "Hard",
-            "id": "q_id_3_21"
+            topic: "Searching & Sorting",
+            name: "Allocate Minimum Number of Pages",
+            link: "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
+            difficulty: "Hard",
+            q_id: "q_id_ac_3_21",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Minimum Swaps to Sort",
-            "link": "https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/",
-            "difficulty": "Hard",
-            "id": "q_id_3_22"
-        }
+            topic: "Searching & Sorting",
+            name: "Minimum Swaps to Sort",
+            link: "https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_3_22",
+        },
     ],
-    "Backtracking": [
+    Backtracking: [
         {
-            "topic": "Backtracking",
-            "name": "Rat in a Maze",
-            "link": "https://www.geeksforgeeks.org/backttracking-set-2-rat-in-a-maze/",
-            "difficulty": "Medium",
-            "id": "q_id_4_0"
+            topic: "Backtracking",
+            name: "Rat in a Maze",
+            link: "https://www.geeksforgeeks.org/backttracking-set-2-rat-in-a-maze/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_4_0",
         },
         {
-            "topic": "Backtracking",
-            "name": "Combinational Sum",
-            "link": "https://www.geeksforgeeks.org/combinational-sum/",
-            "difficulty": "Medium",
-            "id": "q_id_4_1"
+            topic: "Backtracking",
+            name: "Combinational Sum",
+            link: "https://www.geeksforgeeks.org/combinational-sum/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_4_1",
         },
         {
-            "topic": "Backtracking",
-            "name": "Crossword Puzzle",
-            "link": "https://www.hackerrank.com/challenges/crossword-puzzle/problem",
-            "difficulty": "Medium",
-            "id": "q_id_4_2"
+            topic: "Backtracking",
+            name: "Crossword Puzzle",
+            link: "https://www.hackerrank.com/challenges/crossword-puzzle/problem",
+            difficulty: "Medium",
+            q_id: "q_id_ac_4_2",
         },
         {
-            "topic": "Backtracking",
-            "name": "Longest Possible Route in a Matrix with Hurdles",
-            "link": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
-            "difficulty": "Medium",
-            "id": "q_id_4_3"
+            topic: "Backtracking",
+            name: "Longest Possible Route in a Matrix with Hurdles",
+            link: "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_4_3",
         },
         {
-            "topic": "Backtracking",
-            "name": "Printing all solutions in N-Queen Problem",
-            "link": "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/",
-            "difficulty": "Medium",
-            "id": "q_id_4_4"
+            topic: "Backtracking",
+            name: "Printing all solutions in N-Queen Problem",
+            link: "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_4_4",
         },
         {
-            "topic": "Backtracking",
-            "name": "Solve the Sudoku",
-            "link": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1",
-            "difficulty": "Medium",
-            "id": "q_id_4_5"
+            topic: "Backtracking",
+            name: "Solve the Sudoku",
+            link: "https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_4_5",
         },
         {
-            "topic": "Backtracking",
-            "name": "Partition Equal Subset Sum",
-            "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
-            "difficulty": "Medium",
-            "id": "q_id_4_6"
+            topic: "Backtracking",
+            name: "Partition Equal Subset Sum",
+            link: "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_4_6",
         },
         {
-            "topic": "Backtracking",
-            "name": "M Coloring Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
-            "difficulty": "Medium",
-            "id": "q_id_4_7"
+            topic: "Backtracking",
+            name: "M Coloring Problem",
+            link: "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_4_7",
         },
         {
-            "topic": "Backtracking",
-            "name": "Knight Tour",
-            "link": "https://www.geeksforgeeks.org/backtracking-set-1-the-knights-tour-problem/",
-            "difficulty": "Hard",
-            "id": "q_id_4_8"
+            topic: "Backtracking",
+            name: "Knight Tour",
+            link: "https://www.geeksforgeeks.org/backtracking-set-1-the-knights-tour-problem/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_8",
         },
         {
-            "topic": "Backtracking",
-            "name": "Sudoku",
-            "link": "https://www.geeksforgeeks.org/backtracking-set-7-suduku/",
-            "difficulty": "Hard",
-            "id": "q_id_4_9"
+            topic: "Backtracking",
+            name: "Sudoku",
+            link: "https://www.geeksforgeeks.org/backtracking-set-7-suduku/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_9",
         },
         {
-            "topic": "Backtracking",
-            "name": "Remove Invalid Parentheses",
-            "link": "https://www.geeksforgeeks.org/remove-invalid-parentheses/",
-            "difficulty": "Hard",
-            "id": "q_id_4_10"
+            topic: "Backtracking",
+            name: "Remove Invalid Parentheses",
+            link: "https://www.geeksforgeeks.org/remove-invalid-parentheses/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_10",
         },
         {
-            "topic": "Backtracking",
-            "name": "Word Break Problem using Backtracking",
-            "link": "https://www.geeksforgeeks.org/word-break-problem-using-backtracking/",
-            "difficulty": "Hard",
-            "id": "q_id_4_11"
+            topic: "Backtracking",
+            name: "Word Break Problem using Backtracking",
+            link: "https://www.geeksforgeeks.org/word-break-problem-using-backtracking/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_11",
         },
         {
-            "topic": "Backtracking",
-            "name": "Print all Palindromic Partitions of a String",
-            "link": "https://www.geeksforgeeks.org/print-palindromic-partitions-string/",
-            "difficulty": "Hard",
-            "id": "q_id_4_12"
+            topic: "Backtracking",
+            name: "Print all Palindromic Partitions of a String",
+            link: "https://www.geeksforgeeks.org/print-palindromic-partitions-string/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_12",
         },
         {
-            "topic": "Backtracking",
-            "name": "Find Shortest Safe Route in a Path with Landmines",
-            "link": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
-            "difficulty": "Hard",
-            "id": "q_id_4_13"
+            topic: "Backtracking",
+            name: "Find Shortest Safe Route in a Path with Landmines",
+            link: "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_13",
         },
         {
-            "topic": "Backtracking",
-            "name": "Partition of Set into K Subsets with Equal Sum",
-            "link": "https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/",
-            "difficulty": "Hard",
-            "id": "q_id_4_14"
+            topic: "Backtracking",
+            name: "Partition of Set into K Subsets with Equal Sum",
+            link: "https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_14",
         },
         {
-            "topic": "Backtracking",
-            "name": "Backtracking set-7 Hamiltonian Cycle",
-            "link": "https://www.geeksforgeeks.org/backtracking-set-7-hamiltonian-cycle/",
-            "difficulty": "Hard",
-            "id": "q_id_4_15"
+            topic: "Backtracking",
+            name: "Backtracking set-7 Hamiltonian Cycle",
+            link: "https://www.geeksforgeeks.org/backtracking-set-7-hamiltonian-cycle/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_15",
         },
         {
-            "topic": "Backtracking",
-            "name": "Tug-of-War",
-            "link": "https://www.geeksforgeeks.org/tug-of-war/",
-            "difficulty": "Hard",
-            "id": "q_id_4_16"
+            topic: "Backtracking",
+            name: "Tug-of-War",
+            link: "https://www.geeksforgeeks.org/tug-of-war/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_16",
         },
         {
-            "topic": "Backtracking",
-            "name": "Maximum Possible Number by doing at most K swaps",
-            "link": "https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/",
-            "difficulty": "Hard",
-            "id": "q_id_4_17"
+            topic: "Backtracking",
+            name: "Maximum Possible Number by doing at most K swaps",
+            link: "https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_17",
         },
         {
-            "topic": "Backtracking",
-            "name": "Backtracking set-8 Solving Cryptarithmetic Puzzles",
-            "link": "https://www.geeksforgeeks.org/backtracking-set-8-solving-cryptarithmetic-puzzles/",
-            "difficulty": "Hard",
-            "id": "q_id_4_18"
+            topic: "Backtracking",
+            name: "Backtracking set-8 Solving Cryptarithmetic Puzzles",
+            link: "https://www.geeksforgeeks.org/backtracking-set-8-solving-cryptarithmetic-puzzles/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_18",
         },
         {
-            "topic": "Backtracking",
-            "name": "Find Paths from Corner Cell to Middle Cell in Maze",
-            "link": "https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/",
-            "difficulty": "Hard",
-            "id": "q_id_4_19"
+            topic: "Backtracking",
+            name: "Find Paths from Corner Cell to Middle Cell in Maze",
+            link: "https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_19",
         },
         {
-            "topic": "Backtracking",
-            "name": "Arithmetic Expressions",
-            "link": "https://www.hackerrank.com/challenges/arithmetic-expressions/problem",
-            "difficulty": "Hard",
-            "id": "q_id_4_20"
-        }
+            topic: "Backtracking",
+            name: "Arithmetic Expressions",
+            link: "https://www.hackerrank.com/challenges/arithmetic-expressions/problem",
+            difficulty: "Hard",
+            q_id: "q_id_ac_4_20",
+        },
     ],
     "Linked List": [
         {
-            "topic": "Linked List",
-            "name": "Reverse Linked List",
-            "link": "https://leetcode.com/problems/reverse-linked-list/",
-            "difficulty": "Easy",
-            "id": "q_id_5_0"
+            topic: "Linked List",
+            name: "Reverse Linked List",
+            link: "https://leetcode.com/problems/reverse-linked-list/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_5_0",
         },
         {
-            "topic": "Linked List",
-            "name": "Linked List Cycle",
-            "link": "https://leetcode.com/problems/linked-list-cycle/",
-            "difficulty": "Easy",
-            "id": "q_id_5_1"
+            topic: "Linked List",
+            name: "Linked List Cycle",
+            link: "https://leetcode.com/problems/linked-list-cycle/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_5_1",
         },
         {
-            "topic": "Linked List",
-            "name": "Merge Two Sorted Lists",
-            "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
-            "difficulty": "Easy",
-            "id": "q_id_5_2"
+            topic: "Linked List",
+            name: "Merge Two Sorted Lists",
+            link: "https://leetcode.com/problems/merge-two-sorted-lists/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_5_2",
         },
         {
-            "topic": "Linked List",
-            "name": "Delete without Head node",
-            "link": "https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/",
-            "difficulty": "Easy",
-            "id": "q_id_5_3"
+            topic: "Linked List",
+            name: "Delete without Head node",
+            link: "https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_5_3",
         },
         {
-            "topic": "Linked List",
-            "name": "Remove duplicates from an unsorted linked list",
-            "link": "https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/",
-            "difficulty": "Easy",
-            "id": "q_id_5_4"
+            topic: "Linked List",
+            name: "Remove duplicates from an unsorted linked list",
+            link: "https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_5_4",
         },
         {
-            "topic": "Linked List",
-            "name": "Sort a linked list of 0s-1s-or-2s",
-            "link": "https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/",
-            "difficulty": "Easy",
-            "id": "q_id_5_5"
+            topic: "Linked List",
+            name: "Sort a linked list of 0s-1s-or-2s",
+            link: "https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_5_5",
         },
         {
-            "topic": "Linked List",
-            "name": "Multiply two numbers represented linked lists",
-            "link": "https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/",
-            "difficulty": "Easy",
-            "id": "q_id_5_6"
+            topic: "Linked List",
+            name: "Multiply two numbers represented linked lists",
+            link: "https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_5_6",
         },
         {
-            "topic": "Linked List",
-            "name": "Remove nth node from end of list",
-            "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-            "difficulty": "Medium",
-            "id": "q_id_5_7"
+            topic: "Linked List",
+            name: "Remove nth node from end of list",
+            link: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_7",
         },
         {
-            "topic": "Linked List",
-            "name": "Reorder List",
-            "link": "https://leetcode.com/problems/reorder-list/",
-            "difficulty": "Medium",
-            "id": "q_id_5_8"
+            topic: "Linked List",
+            name: "Reorder List",
+            link: "https://leetcode.com/problems/reorder-list/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_8",
         },
         {
-            "topic": "Linked List",
-            "name": "Detect and remove loop in a linked list",
-            "link": "https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/",
-            "difficulty": "Medium",
-            "id": "q_id_5_9"
+            topic: "Linked List",
+            name: "Detect and remove loop in a linked list",
+            link: "https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_9",
         },
         {
-            "topic": "Linked List",
-            "name": "Write a Function to get the Intersection Point of two Linked Lists",
-            "link": "https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/",
-            "difficulty": "Medium",
-            "id": "q_id_5_10"
+            topic: "Linked List",
+            name: "Write a Function to get the Intersection Point of two Linked Lists",
+            link: "https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_10",
         },
         {
-            "topic": "Linked List",
-            "name": "Flatten a linked list with next and child pointers",
-            "link": "https://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/",
-            "difficulty": "Medium",
-            "id": "q_id_5_11"
+            topic: "Linked List",
+            name: "Flatten a linked list with next and child pointers",
+            link: "https://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_11",
         },
         {
-            "topic": "Linked List",
-            "name": "Linked list in zig-zag fashion",
-            "link": "https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/",
-            "difficulty": "Medium",
-            "id": "q_id_5_12"
+            topic: "Linked List",
+            name: "Linked list in zig-zag fashion",
+            link: "https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_12",
         },
         {
-            "topic": "Linked List",
-            "name": "Reverse a doubly linked list",
-            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
-            "difficulty": "Medium",
-            "id": "q_id_5_13"
+            topic: "Linked List",
+            name: "Reverse a doubly linked list",
+            link: "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_13",
         },
         {
-            "topic": "Linked List",
-            "name": "Delete nodes which have a greater value on the right side",
-            "link": "https://www.geeksforgeeks.org/delete-nodes-which-have-a-greater-value-on-right-side/",
-            "difficulty": "Medium",
-            "id": "q_id_5_14"
+            topic: "Linked List",
+            name: "Delete nodes which have a greater value on the right side",
+            link: "https://www.geeksforgeeks.org/delete-nodes-which-have-a-greater-value-on-right-side/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_14",
         },
         {
-            "topic": "Linked List",
-            "name": "Segregate even and odd Elements in a Linked List",
-            "link": "https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/",
-            "difficulty": "Medium",
-            "id": "q_id_5_15"
+            topic: "Linked List",
+            name: "Segregate even and odd Elements in a Linked List",
+            link: "https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_15",
         },
         {
-            "topic": "Linked List",
-            "name": "Point to next higher value node in a linked list with an Arbitrary Pointer",
-            "link": "https://www.geeksforgeeks.org/point-to-next-higher-value-node-in-a-linked-list-with-an-arbitrary-pointer/",
-            "difficulty": "Medium",
-            "id": "q_id_5_16"
+            topic: "Linked List",
+            name: "Point to next higher value node in a linked list with an Arbitrary Pointer",
+            link: "https://www.geeksforgeeks.org/point-to-next-higher-value-node-in-a-linked-list-with-an-arbitrary-pointer/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_16",
         },
         {
-            "topic": "Linked List",
-            "name": "Rearrange a given linked list in place",
-            "link": "https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/",
-            "difficulty": "Medium",
-            "id": "q_id_5_17"
+            topic: "Linked List",
+            name: "Rearrange a given linked list in place",
+            link: "https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_17",
         },
         {
-            "topic": "Linked List",
-            "name": "Sort Biotonic Doubly Linked Lists",
-            "link": "https://www.geeksforgeeks.org/sort-biotonic-doubly-linked-list/",
-            "difficulty": "Medium",
-            "id": "q_id_5_18"
+            topic: "Linked List",
+            name: "Sort Biotonic Doubly Linked Lists",
+            link: "https://www.geeksforgeeks.org/sort-biotonic-doubly-linked-list/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_5_18",
         },
         {
-            "topic": "Linked List",
-            "name": "Merge K Sorted Lists",
-            "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
-            "difficulty": "Hard",
-            "id": "q_id_5_19"
+            topic: "Linked List",
+            name: "Merge K Sorted Lists",
+            link: "https://leetcode.com/problems/merge-k-sorted-lists/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_5_19",
         },
         {
-            "topic": "Linked List",
-            "name": "Merge sort for linked list",
-            "link": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/",
-            "difficulty": "Hard",
-            "id": "q_id_5_20"
+            topic: "Linked List",
+            name: "Merge sort for linked list",
+            link: "https://www.geeksforgeeks.org/merge-sort-for-linked-list/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_5_20",
         },
         {
-            "topic": "Linked List",
-            "name": "Quicksort on singly-linked list",
-            "link": "https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/",
-            "difficulty": "Hard",
-            "id": "q_id_5_21"
+            topic: "Linked List",
+            name: "Quicksort on singly-linked list",
+            link: "https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_5_21",
         },
         {
-            "topic": "Linked List",
-            "name": "Sum of two linked lists",
-            "link": "https://www.geeksforgeeks.org/sum-of-two-linked-lists/",
-            "difficulty": "Hard",
-            "id": "q_id_5_22"
+            topic: "Linked List",
+            name: "Sum of two linked lists",
+            link: "https://www.geeksforgeeks.org/sum-of-two-linked-lists/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_5_22",
         },
         {
-            "topic": "Linked List",
-            "name": "Flattening a linked list",
-            "link": "https://www.geeksforgeeks.org/flattening-a-linked-list/",
-            "difficulty": "Hard",
-            "id": "q_id_5_23"
+            topic: "Linked List",
+            name: "Flattening a linked list",
+            link: "https://www.geeksforgeeks.org/flattening-a-linked-list/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_5_23",
         },
         {
-            "topic": "Linked List",
-            "name": "Clone a linked list with next and random Pointer",
-            "link": "https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/",
-            "difficulty": "Hard",
-            "id": "q_id_5_24"
+            topic: "Linked List",
+            name: "Clone a linked list with next and random Pointer",
+            link: "https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_5_24",
         },
         {
-            "topic": "Linked List",
-            "name": "Subtract two numbers represented as linked lists",
-            "link": "https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/",
-            "difficulty": "Hard",
-            "id": "q_id_5_25"
-        }
+            topic: "Linked List",
+            name: "Subtract two numbers represented as linked lists",
+            link: "https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_5_25",
+        },
     ],
     "Stacks & Queues": [
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement two stacks in an Array",
-            "link": "https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/",
-            "difficulty": "Easy",
-            "id": "q_id_6_0"
+            topic: "Stacks & Queues",
+            name: "Implement two stacks in an Array",
+            link: "https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_6_0",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Evaluation of Postfix Expression",
-            "link": "https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/",
-            "difficulty": "Easy",
-            "id": "q_id_6_1"
+            topic: "Stacks & Queues",
+            name: "Evaluation of Postfix Expression",
+            link: "https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_6_1",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement Stack using Queues",
-            "link": "https://leetcode.com/problems/implement-stack-using-queues/",
-            "difficulty": "Easy",
-            "id": "q_id_6_2"
+            topic: "Stacks & Queues",
+            name: "Implement Stack using Queues",
+            link: "https://leetcode.com/problems/implement-stack-using-queues/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_6_2",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Queue Reversal",
-            "link": "https://practice.geeksforgeeks.org/problems/queue-reversal/1",
-            "difficulty": "Easy",
-            "id": "q_id_6_3"
+            topic: "Stacks & Queues",
+            name: "Queue Reversal",
+            link: "https://practice.geeksforgeeks.org/problems/queue-reversal/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_6_3",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement Stack Queue using Deque",
-            "link": "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
-            "difficulty": "Easy",
-            "id": "q_id_6_4"
+            topic: "Stacks & Queues",
+            name: "Implement Stack Queue using Deque",
+            link: "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_6_4",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Reverse first k elements of queue",
-            "link": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1",
-            "difficulty": "Easy",
-            "id": "q_id_6_5"
+            topic: "Stacks & Queues",
+            name: "Reverse first k elements of queue",
+            link: "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_6_5",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Design Stack with Middle Operation",
-            "link": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/",
-            "difficulty": "Medium",
-            "id": "q_id_6_6"
+            topic: "Stacks & Queues",
+            name: "Design Stack with Middle Operation",
+            link: "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_6",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Infix to Postfix",
-            "link": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/",
-            "difficulty": "Medium",
-            "id": "q_id_6_7"
+            topic: "Stacks & Queues",
+            name: "Infix to Postfix",
+            link: "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_7",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Design and Implement Special stack",
-            "link": "https://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure/",
-            "difficulty": "Medium",
-            "id": "q_id_6_8"
+            topic: "Stacks & Queues",
+            name: "Design and Implement Special stack",
+            link: "https://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_8",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Longest Valid String",
-            "link": "https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/",
-            "difficulty": "Medium",
-            "id": "q_id_6_9"
+            topic: "Stacks & Queues",
+            name: "Longest Valid String",
+            link: "https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_9",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Find if an expression has duplicate parenthesis or not",
-            "link": "https://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/",
-            "difficulty": "Medium",
-            "id": "q_id_6_10"
+            topic: "Stacks & Queues",
+            name: "Find if an expression has duplicate parenthesis or not",
+            link: "https://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_10",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Stack permutations check if an array is a stack permutation of the other",
-            "link": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/",
-            "difficulty": "Medium",
-            "id": "q_id_6_11"
+            topic: "Stacks & Queues",
+            name: "Stack permutations check if an array is a stack permutation of the other",
+            link: "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_11",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Count natural numbers whose permutation greater number",
-            "link": "https://www.geeksforgeeks.org/count-natural-numbers-whose-permutation-greater-number/",
-            "difficulty": "Medium",
-            "id": "q_id_6_12"
+            topic: "Stacks & Queues",
+            name: "Count natural numbers whose permutation greater number",
+            link: "https://www.geeksforgeeks.org/count-natural-numbers-whose-permutation-greater-number/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_12",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Sort a stack using Recursion",
-            "link": "https://www.geeksforgeeks.org/sort-a-stack-using-recursion/",
-            "difficulty": "Medium",
-            "id": "q_id_6_13"
+            topic: "Stacks & Queues",
+            name: "Sort a stack using Recursion",
+            link: "https://www.geeksforgeeks.org/sort-a-stack-using-recursion/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_13",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Queue based approach for first non-repeating character in a stream",
-            "link": "https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/",
-            "difficulty": "Medium",
-            "id": "q_id_6_14"
+            topic: "Stacks & Queues",
+            name: "Queue based approach for first non-repeating character in a stream",
+            link: "https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_14",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "The Celebrity Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
-            "difficulty": "Medium",
-            "id": "q_id_6_15"
+            topic: "Stacks & Queues",
+            name: "The Celebrity Problem",
+            link: "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_15",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Next larger Element",
-            "link": "https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1",
-            "difficulty": "Medium",
-            "id": "q_id_6_16"
+            topic: "Stacks & Queues",
+            name: "Next larger Element",
+            link: "https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_16",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Distance of the nearest cell",
-            "link": "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1",
-            "difficulty": "Medium",
-            "id": "q_id_6_17"
+            topic: "Stacks & Queues",
+            name: "Distance of the nearest cell",
+            link: "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_17",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Rotten-oranges",
-            "link": "https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1",
-            "difficulty": "Medium",
-            "id": "q_id_6_18"
+            topic: "Stacks & Queues",
+            name: "Rotten-oranges",
+            link: "https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_18",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Next smaller element",
-            "link": "https://www.geeksforgeeks.org/next-smaller-element/",
-            "difficulty": "Medium",
-            "id": "q_id_6_19"
+            topic: "Stacks & Queues",
+            name: "Next smaller element",
+            link: "https://www.geeksforgeeks.org/next-smaller-element/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_19",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Circular-tour",
-            "link": "https://practice.geeksforgeeks.org/problems/circular-tour/1",
-            "difficulty": "Medium",
-            "id": "q_id_6_20"
+            topic: "Stacks & Queues",
+            name: "Circular-tour",
+            link: "https://practice.geeksforgeeks.org/problems/circular-tour/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_6_20",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Efficiently implement k-stacks single array",
-            "link": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/",
-            "difficulty": "Hard",
-            "id": "q_id_6_21"
+            topic: "Stacks & Queues",
+            name: "Efficiently implement k-stacks single array",
+            link: "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_6_21",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "The celebrity problem",
-            "link": "http://geeksforgeeks.org/the-celebrity-problem/",
-            "difficulty": "Hard",
-            "id": "q_id_6_22"
+            topic: "Stacks & Queues",
+            name: "The celebrity problem",
+            link: "http://geeksforgeeks.org/the-celebrity-problem/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_6_22",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Iterative tower of hanoi",
-            "link": "https://www.geeksforgeeks.org/iterative-tower-of-hanoi/",
-            "difficulty": "Hard",
-            "id": "q_id_6_23"
+            topic: "Stacks & Queues",
+            name: "Iterative tower of hanoi",
+            link: "https://www.geeksforgeeks.org/iterative-tower-of-hanoi/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_6_23",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Find the maximum of minimums for every window size in a given array",
-            "link": "https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/",
-            "difficulty": "Hard",
-            "id": "q_id_6_24"
+            topic: "Stacks & Queues",
+            name: "Find the maximum of minimums for every window size in a given array",
+            link: "https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_6_24",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "lru cache implementation",
-            "link": "https://www.geeksforgeeks.org/lru-cache-implementation/",
-            "difficulty": "Hard",
-            "id": "q_id_6_25"
+            topic: "Stacks & Queues",
+            name: "lru cache implementation",
+            link: "https://www.geeksforgeeks.org/lru-cache-implementation/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_6_25",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Find a tour that visits all stations",
-            "link": "https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/",
-            "difficulty": "Hard",
-            "id": "q_id_6_26"
-        }
+            topic: "Stacks & Queues",
+            name: "Find a tour that visits all stations",
+            link: "https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_6_26",
+        },
     ],
-    "Greedy": [
+    Greedy: [
         {
-            "topic": "Greedy",
-            "name": "Activity selection problem greedy algo",
-            "link": "https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/",
-            "difficulty": "Easy",
-            "id": "q_id_7_0"
+            topic: "Greedy",
+            name: "Activity selection problem greedy algo",
+            link: "https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_7_0",
         },
         {
-            "topic": "Greedy",
-            "name": "Greedy algorithm to find minimum number of coins",
-            "link": "https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/",
-            "difficulty": "Easy",
-            "id": "q_id_7_1"
+            topic: "Greedy",
+            name: "Greedy algorithm to find minimum number of coins",
+            link: "https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_7_1",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimum sum two numbers formed digits array-2",
-            "link": "https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array-2/",
-            "difficulty": "Easy",
-            "id": "q_id_7_2"
+            topic: "Greedy",
+            name: "Minimum sum two numbers formed digits array-2",
+            link: "https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array-2/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_7_2",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimum sum absolute difference pairs two arrays",
-            "link": "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/",
-            "difficulty": "Easy",
-            "id": "q_id_7_3"
+            topic: "Greedy",
+            name: "Minimum sum absolute difference pairs two arrays",
+            link: "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_7_3",
         },
         {
-            "topic": "Greedy",
-            "name": "Find maximum height pyramid from the given array of objects",
-            "link": "https://www.geeksforgeeks.org/find-maximum-height-pyramid-from-the-given-array-of-objects/",
-            "difficulty": "Easy",
-            "id": "q_id_7_4"
+            topic: "Greedy",
+            name: "Find maximum height pyramid from the given array of objects",
+            link: "https://www.geeksforgeeks.org/find-maximum-height-pyramid-from-the-given-array-of-objects/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_7_4",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimum cost for acquiring all coins with k extra coins allowed with every coin",
-            "link": "https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/",
-            "difficulty": "Easy",
-            "id": "q_id_7_5"
+            topic: "Greedy",
+            name: "Minimum cost for acquiring all coins with k extra coins allowed with every coin",
+            link: "https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_7_5",
         },
         {
-            "topic": "Greedy",
-            "name": "Find maximum equal sum of every three stacks",
-            "link": "http://geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/",
-            "difficulty": "Easy",
-            "id": "q_id_7_6"
+            topic: "Greedy",
+            name: "Find maximum equal sum of every three stacks",
+            link: "http://geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_7_6",
         },
         {
-            "topic": "Greedy",
-            "name": "Job sequencing problem",
-            "link": "https://www.geeksforgeeks.org/job-sequencing-problem/",
-            "difficulty": "Medium",
-            "id": "q_id_7_7"
+            topic: "Greedy",
+            name: "Job sequencing problem",
+            link: "https://www.geeksforgeeks.org/job-sequencing-problem/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_7_7",
         },
         {
-            "topic": "Greedy",
-            "name": "Greedy algorithm egyptian fraction",
-            "link": "https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/",
-            "difficulty": "Medium",
-            "id": "q_id_7_8"
+            topic: "Greedy",
+            name: "Greedy algorithm egyptian fraction",
+            link: "https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_7_8",
         },
         {
-            "topic": "Greedy",
-            "name": "Fractional knapsack problem",
-            "link": "https://www.geeksforgeeks.org/fractional-knapsack-problem/",
-            "difficulty": "Medium",
-            "id": "q_id_7_9"
+            topic: "Greedy",
+            name: "Fractional knapsack problem",
+            link: "https://www.geeksforgeeks.org/fractional-knapsack-problem/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_7_9",
         },
         {
-            "topic": "Greedy",
-            "name": "Maximum length chain of pairs",
-            "link": "https://www.geeksforgeeks.org/maximum-length-chain-of-pairs-dp-20/",
-            "difficulty": "Medium",
-            "id": "q_id_7_10"
+            topic: "Greedy",
+            name: "Maximum length chain of pairs",
+            link: "https://www.geeksforgeeks.org/maximum-length-chain-of-pairs-dp-20/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_7_10",
         },
         {
-            "topic": "Greedy",
-            "name": "Find smallest number with given number of digits and digit sum",
-            "link": "https://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/",
-            "difficulty": "Medium",
-            "id": "q_id_7_11"
+            topic: "Greedy",
+            name: "Find smallest number with given number of digits and digit sum",
+            link: "https://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_7_11",
         },
         {
-            "topic": "Greedy",
-            "name": "Maximize sum of consecutive differences circular-array",
-            "link": "https://www.geeksforgeeks.org/maximize-sum-consecutive-differences-circular-array/",
-            "difficulty": "Medium",
-            "id": "q_id_7_12"
+            topic: "Greedy",
+            name: "Maximize sum of consecutive differences circular-array",
+            link: "https://www.geeksforgeeks.org/maximize-sum-consecutive-differences-circular-array/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_7_12",
         },
         {
-            "topic": "Greedy",
-            "name": "paper-cut minimum number squares",
-            "link": "https://www.geeksforgeeks.org/paper-cut-minimum-number-squares/",
-            "difficulty": "Medium",
-            "id": "q_id_7_13"
+            topic: "Greedy",
+            name: "paper-cut minimum number squares",
+            link: "https://www.geeksforgeeks.org/paper-cut-minimum-number-squares/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_7_13",
         },
         {
-            "topic": "Greedy",
-            "name": "Lexicographically smallest array-k consecutive swaps",
-            "link": "http://geeksforgeeks.org/lexicographically-smallest-array-k-consecutive-swaps/",
-            "difficulty": "Medium",
-            "id": "q_id_7_14"
+            topic: "Greedy",
+            name: "Lexicographically smallest array-k consecutive swaps",
+            link: "http://geeksforgeeks.org/lexicographically-smallest-array-k-consecutive-swaps/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_7_14",
         },
         {
-            "topic": "Greedy",
-            "name": "Problems-CHOCOLA",
-            "link": "https://www.spoj.com/problems/CHOCOLA/",
-            "difficulty": "Medium",
-            "id": "q_id_7_15"
+            topic: "Greedy",
+            name: "Problems-CHOCOLA",
+            link: "https://www.spoj.com/problems/CHOCOLA/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_7_15",
         },
         {
-            "topic": "Greedy",
-            "name": "Find minimum time to finish all jobs with given constraints",
-            "link": "https://www.geeksforgeeks.org/find-minimum-time-to-finish-all-jobs-with-given-constraints/",
-            "difficulty": "Hard",
-            "id": "q_id_7_16"
+            topic: "Greedy",
+            name: "Find minimum time to finish all jobs with given constraints",
+            link: "https://www.geeksforgeeks.org/find-minimum-time-to-finish-all-jobs-with-given-constraints/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_7_16",
         },
         {
-            "topic": "Greedy",
-            "name": "Job sequencing using disjoint set union",
-            "link": "https://www.geeksforgeeks.org/job-sequencing-using-disjoint-set-union/",
-            "difficulty": "Hard",
-            "id": "q_id_7_17"
+            topic: "Greedy",
+            name: "Job sequencing using disjoint set union",
+            link: "https://www.geeksforgeeks.org/job-sequencing-using-disjoint-set-union/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_7_17",
         },
         {
-            "topic": "Greedy",
-            "name": "Rearrange characters string such that no two adjacent are same",
-            "link": "https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/",
-            "difficulty": "Hard",
-            "id": "q_id_7_18"
+            topic: "Greedy",
+            name: "Rearrange characters string such that no two adjacent are same",
+            link: "https://www.geeksforgeeks.org/rearrange-characters-string-no-two-adjacent/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_7_18",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimum edges to reverse to make path from a source to a destination",
-            "link": "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/",
-            "difficulty": "Hard",
-            "id": "q_id_7_19"
+            topic: "Greedy",
+            name: "Minimum edges to reverse to make path from a source to a destination",
+            link: "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_7_19",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
-            "link": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
-            "difficulty": "Hard",
-            "id": "q_id_7_20"
+            topic: "Greedy",
+            name: "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+            link: "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_7_20",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimum Cost to cut a board into squares",
-            "link": "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/",
-            "difficulty": "Hard",
-            "id": "q_id_7_21"
-        }
+            topic: "Greedy",
+            name: "Minimum Cost to cut a board into squares",
+            link: "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_7_21",
+        },
     ],
     "Binary Trees": [
         {
-            "topic": "Binary Trees",
-            "name": "Maximum Depth of Binary Tree",
-            "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-            "difficulty": "Easy",
-            "id": "q_id_8_0"
+            topic: "Binary Trees",
+            name: "Maximum Depth of Binary Tree",
+            link: "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_0",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Reverse Level Order Traversal",
-            "link": "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1",
-            "difficulty": "Easy",
-            "id": "q_id_8_1"
+            topic: "Binary Trees",
+            name: "Reverse Level Order Traversal",
+            link: "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_1",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Subtree of Another Tree",
-            "link": "https://leetcode.com/problems/subtree-of-another-tree/",
-            "difficulty": "Easy",
-            "id": "q_id_8_2"
+            topic: "Binary Trees",
+            name: "Subtree of Another Tree",
+            link: "https://leetcode.com/problems/subtree-of-another-tree/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_2",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Invert Binary Tree",
-            "link": "https://leetcode.com/problems/invert-binary-tree/",
-            "difficulty": "Easy",
-            "id": "q_id_8_3"
+            topic: "Binary Trees",
+            name: "Invert Binary Tree",
+            link: "https://leetcode.com/problems/invert-binary-tree/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_3",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Binary Tree Level Order Traversal",
-            "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
-            "difficulty": "Easy",
-            "id": "q_id_8_4"
+            topic: "Binary Trees",
+            name: "Binary Tree Level Order Traversal",
+            link: "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_4",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Left View of Binary Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
-            "difficulty": "Easy",
-            "id": "q_id_8_5"
+            topic: "Binary Trees",
+            name: "Left View of Binary Tree",
+            link: "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_5",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Right View of Binary Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
-            "difficulty": "Easy",
-            "id": "q_id_8_6"
+            topic: "Binary Trees",
+            name: "Right View of Binary Tree",
+            link: "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_6",
         },
         {
-            "topic": "Binary Trees",
-            "name": "ZigZag Tree Traversal",
-            "link": "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
-            "difficulty": "Easy",
-            "id": "q_id_8_7"
+            topic: "Binary Trees",
+            name: "ZigZag Tree Traversal",
+            link: "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_7",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Create a mirror tree from the given binary tree",
-            "link": "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/",
-            "difficulty": "Easy",
-            "id": "q_id_8_8"
+            topic: "Binary Trees",
+            name: "Create a mirror tree from the given binary tree",
+            link: "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_8",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Leaf at same level",
-            "link": "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1",
-            "difficulty": "Easy",
-            "id": "q_id_8_9"
+            topic: "Binary Trees",
+            name: "Leaf at same level",
+            link: "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_9",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Check for Balanced Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
-            "difficulty": "Easy",
-            "id": "q_id_8_10"
+            topic: "Binary Trees",
+            name: "Check for Balanced Tree",
+            link: "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_10",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Transform to Sum Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1",
-            "difficulty": "Easy",
-            "id": "q_id_8_11"
+            topic: "Binary Trees",
+            name: "Transform to Sum Tree",
+            link: "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_11",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Check if Tree is Isomorphic",
-            "link": "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1",
-            "difficulty": "Easy",
-            "id": "q_id_8_12"
+            topic: "Binary Trees",
+            name: "Check if Tree is Isomorphic",
+            link: "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_12",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Same Tree",
-            "link": "https://leetcode.com/problems/same-tree/",
-            "difficulty": "Easy",
-            "id": "q_id_8_13"
+            topic: "Binary Trees",
+            name: "Same Tree",
+            link: "https://leetcode.com/problems/same-tree/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_8_13",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Construct Binary Tree from Preorder and Inorder Traversal",
-            "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
-            "difficulty": "Medium",
-            "id": "q_id_8_14"
+            topic: "Binary Trees",
+            name: "Construct Binary Tree from Preorder and Inorder Traversal",
+            link: "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_14",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Height of Binary Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
-            "difficulty": "Medium",
-            "id": "q_id_8_15"
+            topic: "Binary Trees",
+            name: "Height of Binary Tree",
+            link: "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_15",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Diameter of a Binary Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
-            "difficulty": "Medium",
-            "id": "q_id_8_16"
+            topic: "Binary Trees",
+            name: "Diameter of a Binary Tree",
+            link: "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_16",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Top View of Binary Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
-            "difficulty": "Medium",
-            "id": "q_id_8_17"
+            topic: "Binary Trees",
+            name: "Top View of Binary Tree",
+            link: "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_17",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Bottom View of Binary Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
-            "difficulty": "Medium",
-            "id": "q_id_8_18"
+            topic: "Binary Trees",
+            name: "Bottom View of Binary Tree",
+            link: "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_18",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Diagonal Traversal of Binary Tree",
-            "link": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/",
-            "difficulty": "Medium",
-            "id": "q_id_8_19"
+            topic: "Binary Trees",
+            name: "Diagonal Traversal of Binary Tree",
+            link: "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_19",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Boundary Traversal of binary tree",
-            "link": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
-            "difficulty": "Medium",
-            "id": "q_id_8_20"
+            topic: "Binary Trees",
+            name: "Boundary Traversal of binary tree",
+            link: "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_20",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Construct Binary Tree from String with Brackets",
-            "link": "https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/",
-            "difficulty": "Medium",
-            "id": "q_id_8_21"
+            topic: "Binary Trees",
+            name: "Construct Binary Tree from String with Brackets",
+            link: "https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_21",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Minimum swap required to convert binary tree to binary search tree",
-            "link": "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/",
-            "difficulty": "Medium",
-            "id": "q_id_8_22"
+            topic: "Binary Trees",
+            name: "Minimum swap required to convert binary tree to binary search tree",
+            link: "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_22",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Duplicate subtree in Binary Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
-            "difficulty": "Medium",
-            "id": "q_id_8_23"
+            topic: "Binary Trees",
+            name: "Duplicate subtree in Binary Tree",
+            link: "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_23",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Check if a given graph is tree or not",
-            "link": "https://www.geeksforgeeks.org/check-given-graph-tree/",
-            "difficulty": "Medium",
-            "id": "q_id_8_24"
+            topic: "Binary Trees",
+            name: "Check if a given graph is tree or not",
+            link: "https://www.geeksforgeeks.org/check-given-graph-tree/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_24",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Lowest Common Ancestor in a Binary Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
-            "difficulty": "Medium",
-            "id": "q_id_8_25"
+            topic: "Binary Trees",
+            name: "Lowest Common Ancestor in a Binary Tree",
+            link: "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_25",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Min distance between two given nodes of a Binary Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
-            "difficulty": "Medium",
-            "id": "q_id_8_26"
+            topic: "Binary Trees",
+            name: "Min distance between two given nodes of a Binary Tree",
+            link: "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_26",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Duplicate Subtrees",
-            "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1",
-            "difficulty": "Medium",
-            "id": "q_id_8_27"
+            topic: "Binary Trees",
+            name: "Duplicate Subtrees",
+            link: "https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_27",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Kth ancestor of a node in binary tree",
-            "link": "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/",
-            "difficulty": "Medium",
-            "id": "q_id_8_28"
+            topic: "Binary Trees",
+            name: "Kth ancestor of a node in binary tree",
+            link: "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_8_28",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Binary Tree Maximum Path Sum",
-            "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
-            "difficulty": "Hard",
-            "id": "q_id_8_29"
+            topic: "Binary Trees",
+            name: "Binary Tree Maximum Path Sum",
+            link: "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_8_29",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Serialize and Deserialize Binary Tree",
-            "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
-            "difficulty": "Hard",
-            "id": "q_id_8_30"
+            topic: "Binary Trees",
+            name: "Serialize and Deserialize Binary Tree",
+            link: "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_8_30",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Binary Tree to DLL",
-            "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
-            "difficulty": "Hard",
-            "id": "q_id_8_31"
+            topic: "Binary Trees",
+            name: "Binary Tree to DLL",
+            link: "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+            difficulty: "Hard",
+            q_id: "q_id_ac_8_31",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Print all k-sum paths in a binary tree",
-            "link": "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/",
-            "difficulty": "Hard",
-            "id": "q_id_8_32"
-        }
+            topic: "Binary Trees",
+            name: "Print all k-sum paths in a binary tree",
+            link: "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_8_32",
+        },
     ],
     "Heaps & Hashing": [
         {
-            "topic": "Heaps & Hashing",
-            "name": "Choose k array elements such that the difference of maximum and minimum is minimized",
-            "link": "https://www.geeksforgeeks.org/k-numbers-difference-maximum-minimum-k-number-minimized/",
-            "difficulty": "Medium",
-            "id": "q_id_9_0"
+            topic: "Heaps & Hashing",
+            name: "Choose k array elements such that the difference of maximum and minimum is minimized",
+            link: "https://www.geeksforgeeks.org/k-numbers-difference-maximum-minimum-k-number-minimized/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_0",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Heap Sort",
-            "link": "https://www.geeksforgeeks.org/heap-sort/",
-            "difficulty": "Medium",
-            "id": "q_id_9_1"
+            topic: "Heaps & Hashing",
+            name: "Heap Sort",
+            link: "https://www.geeksforgeeks.org/heap-sort/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_1",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Top K Frequent Elements",
-            "link": "https://leetcode.com/problems/top-k-frequent-elements/",
-            "difficulty": "Medium",
-            "id": "q_id_9_2"
+            topic: "Heaps & Hashing",
+            name: "Top K Frequent Elements",
+            link: "https://leetcode.com/problems/top-k-frequent-elements/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_2",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "k largest elements in an array",
-            "link": "https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/",
-            "difficulty": "Medium",
-            "id": "q_id_9_3"
+            topic: "Heaps & Hashing",
+            name: "k largest elements in an array",
+            link: "https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_3",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Next Greater Element",
-            "link": "https://www.geeksforgeeks.org/next-greater-element/",
-            "difficulty": "Medium",
-            "id": "q_id_9_4"
+            topic: "Heaps & Hashing",
+            name: "Next Greater Element",
+            link: "https://www.geeksforgeeks.org/next-greater-element/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_4",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "K’th Smallest/Largest Element in Unsorted Array",
-            "link": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/",
-            "difficulty": "Medium",
-            "id": "q_id_9_5"
+            topic: "Heaps & Hashing",
+            name: "K’th Smallest/Largest Element in Unsorted Array",
+            link: "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_5",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Find the maximum repeating number in O(n) time and O(1) extra space",
-            "link": "https://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/",
-            "difficulty": "Medium",
-            "id": "q_id_9_6"
+            topic: "Heaps & Hashing",
+            name: "Find the maximum repeating number in O(n) time and O(1) extra space",
+            link: "https://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_6",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "K-th smallest element after removing some integers from natural numbers",
-            "link": "https://www.geeksforgeeks.org/k-th-smallest-element-removing-integers-natural-numbers/",
-            "difficulty": "Medium",
-            "id": "q_id_9_7"
+            topic: "Heaps & Hashing",
+            name: "K-th smallest element after removing some integers from natural numbers",
+            link: "https://www.geeksforgeeks.org/k-th-smallest-element-removing-integers-natural-numbers/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_7",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Find k closest elements to a given value",
-            "link": "https://www.geeksforgeeks.org/find-k-closest-elements-given-value/",
-            "difficulty": "Medium",
-            "id": "q_id_9_8"
+            topic: "Heaps & Hashing",
+            name: "Find k closest elements to a given value",
+            link: "https://www.geeksforgeeks.org/find-k-closest-elements-given-value/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_8",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "K’th largest element in a stream",
-            "link": "https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/",
-            "difficulty": "Medium",
-            "id": "q_id_9_9"
+            topic: "Heaps & Hashing",
+            name: "K’th largest element in a stream",
+            link: "https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_9",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Connect Ropes",
-            "link": "https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/",
-            "difficulty": "Medium",
-            "id": "q_id_9_10"
+            topic: "Heaps & Hashing",
+            name: "Connect Ropes",
+            link: "https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_10",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Cuckoo Hashing",
-            "link": "https://www.geeksforgeeks.org/cuckoo-hashing/",
-            "difficulty": "Medium",
-            "id": "q_id_9_11"
+            topic: "Heaps & Hashing",
+            name: "Cuckoo Hashing",
+            link: "https://www.geeksforgeeks.org/cuckoo-hashing/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_11",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Itinerary from a List of Tickets",
-            "link": "https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/",
-            "difficulty": "Medium",
-            "id": "q_id_9_12"
+            topic: "Heaps & Hashing",
+            name: "Itinerary from a List of Tickets",
+            link: "https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_12",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Largest Subarray with 0 Sum",
-            "link": "http://geeksforgeeks.org/find-the-largest-subarray-with-0-sum/",
-            "difficulty": "Medium",
-            "id": "q_id_9_13"
+            topic: "Heaps & Hashing",
+            name: "Largest Subarray with 0 Sum",
+            link: "http://geeksforgeeks.org/find-the-largest-subarray-with-0-sum/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_13",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Count distinct elements in every window of size k",
-            "link": "https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/",
-            "difficulty": "Medium",
-            "id": "q_id_9_14"
+            topic: "Heaps & Hashing",
+            name: "Count distinct elements in every window of size k",
+            link: "https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_14",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Group Shifted Strings",
-            "link": "https://www.geeksforgeeks.org/group-shifted-string/",
-            "difficulty": "Medium",
-            "id": "q_id_9_15"
+            topic: "Heaps & Hashing",
+            name: "Group Shifted Strings",
+            link: "https://www.geeksforgeeks.org/group-shifted-string/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_9_15",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Merge K Sorted lists",
-            "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
-            "difficulty": "Hard",
-            "id": "q_id_9_16"
+            topic: "Heaps & Hashing",
+            name: "Merge K Sorted lists",
+            link: "https://leetcode.com/problems/merge-k-sorted-lists/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_16",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Find Median from Data Stream",
-            "link": "https://leetcode.com/problems/find-median-from-data-stream/",
-            "difficulty": "Hard",
-            "id": "q_id_9_17"
+            topic: "Heaps & Hashing",
+            name: "Find Median from Data Stream",
+            link: "https://leetcode.com/problems/find-median-from-data-stream/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_17",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Sliding Window Maximum",
-            "link": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/",
-            "difficulty": "Hard",
-            "id": "q_id_9_18"
+            topic: "Heaps & Hashing",
+            name: "Sliding Window Maximum",
+            link: "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_18",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Find the smallest positive number",
-            "link": "https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/",
-            "difficulty": "Hard",
-            "id": "q_id_9_19"
+            topic: "Heaps & Hashing",
+            name: "Find the smallest positive number",
+            link: "https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_19",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Find Surpasser Count of each element in the array",
-            "link": "https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/",
-            "difficulty": "Hard",
-            "id": "q_id_9_20"
+            topic: "Heaps & Hashing",
+            name: "Find Surpasser Count of each element in the array",
+            link: "https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_20",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Tournament Tree and Binary Heap",
-            "link": "https://www.geeksforgeeks.org/tournament-tree-and-binary-heap/",
-            "difficulty": "Hard",
-            "id": "q_id_9_21"
+            topic: "Heaps & Hashing",
+            name: "Tournament Tree and Binary Heap",
+            link: "https://www.geeksforgeeks.org/tournament-tree-and-binary-heap/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_21",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Check for palindrome",
-            "link": "https://www.geeksforgeeks.org/online-algorithm-for-checking-palindrome-in-a-stream/",
-            "difficulty": "Hard",
-            "id": "q_id_9_22"
+            topic: "Heaps & Hashing",
+            name: "Check for palindrome",
+            link: "https://www.geeksforgeeks.org/online-algorithm-for-checking-palindrome-in-a-stream/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_22",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Length of the largest subarray with contiguous elements",
-            "link": "https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/",
-            "difficulty": "Hard",
-            "id": "q_id_9_23"
+            topic: "Heaps & Hashing",
+            name: "Length of the largest subarray with contiguous elements",
+            link: "https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_23",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Palindrome Substring Queries",
-            "link": "https://www.geeksforgeeks.org/palindrome-substring-queries/",
-            "difficulty": "Hard",
-            "id": "q_id_9_24"
+            topic: "Heaps & Hashing",
+            name: "Palindrome Substring Queries",
+            link: "https://www.geeksforgeeks.org/palindrome-substring-queries/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_24",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Subarray distinct elements",
-            "link": "https://www.geeksforgeeks.org/subarrays-distinct-elements/",
-            "difficulty": "Hard",
-            "id": "q_id_9_25"
+            topic: "Heaps & Hashing",
+            name: "Subarray distinct elements",
+            link: "https://www.geeksforgeeks.org/subarrays-distinct-elements/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_25",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "Find the recurring function",
-            "link": "https://www.geeksforgeeks.org/find-recurring-sequence-fraction/",
-            "difficulty": "Hard",
-            "id": "q_id_9_26"
+            topic: "Heaps & Hashing",
+            name: "Find the recurring function",
+            link: "https://www.geeksforgeeks.org/find-recurring-sequence-fraction/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_26",
         },
         {
-            "topic": "Heaps & Hashing",
-            "name": "K maximum sum combinations from two arrays",
-            "link": "https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/",
-            "difficulty": "Hard",
-            "id": "q_id_9_27"
-        }
+            topic: "Heaps & Hashing",
+            name: "K maximum sum combinations from two arrays",
+            link: "https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_9_27",
+        },
     ],
     "Binary Search Trees": [
         {
-            "topic": "Binary Search Trees",
-            "name": "Lowest Common Ancestor of a Binary Search Tree",
-            "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-            "difficulty": "Easy",
-            "id": "q_id_10_0"
+            topic: "Binary Search Trees",
+            name: "Lowest Common Ancestor of a Binary Search Tree",
+            link: "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_10_0",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Binary Search Tree | Set 1 (Search and Insertion)",
-            "link": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/",
-            "difficulty": "Easy",
-            "id": "q_id_10_1"
+            topic: "Binary Search Trees",
+            name: "Binary Search Tree | Set 1 (Search and Insertion)",
+            link: "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_10_1",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Minimum element in BST",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1",
-            "difficulty": "Easy",
-            "id": "q_id_10_2"
+            topic: "Binary Search Trees",
+            name: "Minimum element in BST",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_10_2",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Predecessor and Successor",
-            "link": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
-            "difficulty": "Easy",
-            "id": "q_id_10_3"
+            topic: "Binary Search Trees",
+            name: "Predecessor and Successor",
+            link: "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_10_3",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Check whether BST contains Dead End",
-            "link": "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
-            "difficulty": "Easy",
-            "id": "q_id_10_4"
+            topic: "Binary Search Trees",
+            name: "Check whether BST contains Dead End",
+            link: "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_10_4",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Binary Tree to BST",
-            "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1",
-            "difficulty": "Easy",
-            "id": "q_id_10_5"
+            topic: "Binary Search Trees",
+            name: "Binary Tree to BST",
+            link: "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_10_5",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Kth largest element in BST",
-            "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
-            "difficulty": "Easy",
-            "id": "q_id_10_6"
+            topic: "Binary Search Trees",
+            name: "Kth largest element in BST",
+            link: "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_10_6",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Validate Binary Search Tree",
-            "link": "https://leetcode.com/problems/validate-binary-search-tree/",
-            "difficulty": "Medium",
-            "id": "q_id_10_7"
+            topic: "Binary Search Trees",
+            name: "Validate Binary Search Tree",
+            link: "https://leetcode.com/problems/validate-binary-search-tree/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_10_7",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Kth Smallest Element in a BST",
-            "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
-            "difficulty": "Medium",
-            "id": "q_id_10_8"
+            topic: "Binary Search Trees",
+            name: "Kth Smallest Element in a BST",
+            link: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_10_8",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Delete Node in a BST",
-            "link": "https://leetcode.com/problems/delete-node-in-a-bst/",
-            "difficulty": "Medium",
-            "id": "q_id_10_9"
+            topic: "Binary Search Trees",
+            name: "Delete Node in a BST",
+            link: "https://leetcode.com/problems/delete-node-in-a-bst/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_10_9",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Flatten BST to sorted list",
-            "link": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/",
-            "difficulty": "Medium",
-            "id": "q_id_10_10"
+            topic: "Binary Search Trees",
+            name: "Flatten BST to sorted list",
+            link: "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_10_10",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Preorder to Postorder",
-            "link": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1",
-            "difficulty": "Medium",
-            "id": "q_id_10_11"
+            topic: "Binary Search Trees",
+            name: "Preorder to Postorder",
+            link: "https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_10_11",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Count BST nodes that lie in a given range",
-            "link": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
-            "difficulty": "Medium",
-            "id": "q_id_10_12"
+            topic: "Binary Search Trees",
+            name: "Count BST nodes that lie in a given range",
+            link: "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_10_12",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Populate Inorder Successor for all Nodes",
-            "link": "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1",
-            "difficulty": "Medium",
-            "id": "q_id_10_13"
+            topic: "Binary Search Trees",
+            name: "Populate Inorder Successor for all Nodes",
+            link: "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_10_13",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Convert Normal BST to Balanced BST",
-            "link": "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/",
-            "difficulty": "Medium",
-            "id": "q_id_10_14"
+            topic: "Binary Search Trees",
+            name: "Convert Normal BST to Balanced BST",
+            link: "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_10_14",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Merge two BSTs",
-            "link": "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/",
-            "difficulty": "Medium",
-            "id": "q_id_10_15"
+            topic: "Binary Search Trees",
+            name: "Merge two BSTs",
+            link: "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_10_15",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Given n appointments, find all conflicting appointments",
-            "link": "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/",
-            "difficulty": "Hard",
-            "id": "q_id_10_16"
+            topic: "Binary Search Trees",
+            name: "Given n appointments, find all conflicting appointments",
+            link: "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_10_16",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Replace every element",
-            "link": "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/",
-            "difficulty": "Hard",
-            "id": "q_id_10_17"
+            topic: "Binary Search Trees",
+            name: "Replace every element",
+            link: "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_10_17",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Construct BST from given preorder traversal",
-            "link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/",
-            "difficulty": "Hard",
-            "id": "q_id_10_18"
+            topic: "Binary Search Trees",
+            name: "Construct BST from given preorder traversal",
+            link: "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_10_18",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Find median of BST in O(n) time and O(1) space",
-            "link": "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
-            "difficulty": "Hard",
-            "id": "q_id_10_19"
+            topic: "Binary Search Trees",
+            name: "Find median of BST in O(n) time and O(1) space",
+            link: "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_10_19",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Largest BST in a Binary Tree",
-            "link": "https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/",
-            "difficulty": "Hard",
-            "id": "q_id_10_20"
-        }
+            topic: "Binary Search Trees",
+            name: "Largest BST in a Binary Tree",
+            link: "https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_10_20",
+        },
     ],
-    "Graphs": [
+    Graphs: [
         {
-            "topic": "Graphs",
-            "name": "BFS Traversal of Graph",
-            "link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
-            "difficulty": "Easy",
-            "id": "q_id_11_0"
+            topic: "Graphs",
+            name: "BFS Traversal of Graph",
+            link: "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_11_0",
         },
         {
-            "topic": "Graphs",
-            "name": "Depth First Search or DFS for a Graph",
-            "link": "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/",
-            "difficulty": "Easy",
-            "id": "q_id_11_1"
+            topic: "Graphs",
+            name: "Depth First Search or DFS for a Graph",
+            link: "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_11_1",
         },
         {
-            "topic": "Graphs",
-            "name": "Flood Fill Algorithm",
-            "link": "https://leetcode.com/problems/flood-fill/",
-            "difficulty": "Easy",
-            "id": "q_id_11_2"
+            topic: "Graphs",
+            name: "Flood Fill Algorithm",
+            link: "https://leetcode.com/problems/flood-fill/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_11_2",
         },
         {
-            "topic": "Graphs",
-            "name": "Number of Triangles in Directed and Undirected Graphs",
-            "link": "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/",
-            "difficulty": "Easy",
-            "id": "q_id_11_3"
+            topic: "Graphs",
+            name: "Number of Triangles in Directed and Undirected Graphs",
+            link: "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_11_3",
         },
         {
-            "topic": "Graphs",
-            "name": "Detect cycle in a graph",
-            "link": "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/",
-            "difficulty": "Medium",
-            "id": "q_id_11_4"
+            topic: "Graphs",
+            name: "Detect cycle in a graph",
+            link: "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_4",
         },
         {
-            "topic": "Graphs",
-            "name": "Detect cycle in an undirected graph",
-            "link": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
-            "difficulty": "Medium",
-            "id": "q_id_11_5"
+            topic: "Graphs",
+            name: "Detect cycle in an undirected graph",
+            link: "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_5",
         },
         {
-            "topic": "Graphs",
-            "name": "Rat in a Maze Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
-            "difficulty": "Medium",
-            "id": "q_id_11_6"
+            topic: "Graphs",
+            name: "Rat in a Maze Problem",
+            link: "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_6",
         },
         {
-            "topic": "Graphs",
-            "name": "Steps by Knight",
-            "link": "https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1",
-            "difficulty": "Medium",
-            "id": "q_id_11_7"
+            topic: "Graphs",
+            name: "Steps by Knight",
+            link: "https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_7",
         },
         {
-            "topic": "Graphs",
-            "name": "Clone graph",
-            "link": "https://leetcode.com/problems/clone-graph/",
-            "difficulty": "Medium",
-            "id": "q_id_11_8"
+            topic: "Graphs",
+            name: "Clone graph",
+            link: "https://leetcode.com/problems/clone-graph/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_8",
         },
         {
-            "topic": "Graphs",
-            "name": "Number of Operations to Make Network Connected",
-            "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
-            "difficulty": "Medium",
-            "id": "q_id_11_9"
+            topic: "Graphs",
+            name: "Number of Operations to Make Network Connected",
+            link: "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_9",
         },
         {
-            "topic": "Graphs",
-            "name": "Dijkstra’s shortest path algorithm",
-            "link": "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/",
-            "difficulty": "Medium",
-            "id": "q_id_11_10"
+            topic: "Graphs",
+            name: "Dijkstra’s shortest path algorithm",
+            link: "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_10",
         },
         {
-            "topic": "Graphs",
-            "name": "Topological Sort",
-            "link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
-            "difficulty": "Medium",
-            "id": "q_id_11_11"
+            topic: "Graphs",
+            name: "Topological Sort",
+            link: "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_11",
         },
         {
-            "topic": "Graphs",
-            "name": "Oliver and the Game",
-            "link": "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/",
-            "difficulty": "Medium",
-            "id": "q_id_11_12"
+            topic: "Graphs",
+            name: "Oliver and the Game",
+            link: "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_12",
         },
         {
-            "topic": "Graphs",
-            "name": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
-            "link": "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/",
-            "difficulty": "Medium",
-            "id": "q_id_11_13"
+            topic: "Graphs",
+            name: "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+            link: "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_13",
         },
         {
-            "topic": "Graphs",
-            "name": "Find whether it is possible to finish all tasks or not from given dependencies",
-            "link": "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
-            "difficulty": "Medium",
-            "id": "q_id_11_14"
+            topic: "Graphs",
+            name: "Find whether it is possible to finish all tasks or not from given dependencies",
+            link: "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_14",
         },
         {
-            "topic": "Graphs",
-            "name": "Find the number of islands",
-            "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
-            "difficulty": "Medium",
-            "id": "q_id_11_15"
+            topic: "Graphs",
+            name: "Find the number of islands",
+            link: "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_15",
         },
         {
-            "topic": "Graphs",
-            "name": "Prim's Algo",
-            "link": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
-            "difficulty": "Medium",
-            "id": "q_id_11_16"
+            topic: "Graphs",
+            name: "Prim's Algo",
+            link: "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_16",
         },
         {
-            "topic": "Graphs",
-            "name": "Negative Weighted Cycle",
-            "link": "https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1",
-            "difficulty": "Medium",
-            "id": "q_id_11_17"
+            topic: "Graphs",
+            name: "Negative Weighted Cycle",
+            link: "https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_17",
         },
         {
-            "topic": "Graphs",
-            "name": "Floyd Warshall",
-            "link": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
-            "difficulty": "Medium",
-            "id": "q_id_11_18"
+            topic: "Graphs",
+            name: "Floyd Warshall",
+            link: "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_18",
         },
         {
-            "topic": "Graphs",
-            "name": "Graph Coloring",
-            "link": "https://www.geeksforgeeks.org/graph-coloring-applications/",
-            "difficulty": "Medium",
-            "id": "q_id_11_19"
+            topic: "Graphs",
+            name: "Graph Coloring",
+            link: "https://www.geeksforgeeks.org/graph-coloring-applications/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_19",
         },
         {
-            "topic": "Graphs",
-            "name": "Snakes and Ladders",
-            "link": "https://leetcode.com/problems/snakes-and-ladders/",
-            "difficulty": "Medium",
-            "id": "q_id_11_20"
+            topic: "Graphs",
+            name: "Snakes and Ladders",
+            link: "https://leetcode.com/problems/snakes-and-ladders/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_20",
         },
         {
-            "topic": "Graphs",
-            "name": "Kosaraju's Theorem",
-            "link": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
-            "difficulty": "Medium",
-            "id": "q_id_11_21"
+            topic: "Graphs",
+            name: "Kosaraju's Theorem",
+            link: "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_21",
         },
         {
-            "topic": "Graphs",
-            "name": "Journey to moon",
-            "link": "https://www.hackerrank.com/challenges/journey-to-the-moon/problem",
-            "difficulty": "Medium",
-            "id": "q_id_11_22"
+            topic: "Graphs",
+            name: "Journey to moon",
+            link: "https://www.hackerrank.com/challenges/journey-to-the-moon/problem",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_22",
         },
         {
-            "topic": "Graphs",
-            "name": "Vertex Cover",
-            "link": "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/",
-            "difficulty": "Medium",
-            "id": "q_id_11_23"
+            topic: "Graphs",
+            name: "Vertex Cover",
+            link: "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_23",
         },
         {
-            "topic": "Graphs",
-            "name": "M Coloring Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
-            "difficulty": "Medium",
-            "id": "q_id_11_24"
+            topic: "Graphs",
+            name: "M Coloring Problem",
+            link: "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_24",
         },
         {
-            "topic": "Graphs",
-            "name": "Cheapest Flights Within K Stops",
-            "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
-            "difficulty": "Medium",
-            "id": "q_id_11_25"
+            topic: "Graphs",
+            name: "Cheapest Flights Within K Stops",
+            link: "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_25",
         },
         {
-            "topic": "Graphs",
-            "name": "Find if there is a path of more than k length from a source",
-            "link": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
-            "difficulty": "Medium",
-            "id": "q_id_11_26"
+            topic: "Graphs",
+            name: "Find if there is a path of more than k length from a source",
+            link: "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_26",
         },
         {
-            "topic": "Graphs",
-            "name": "Bellman Ford",
-            "link": "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
-            "difficulty": "Medium",
-            "id": "q_id_11_27"
+            topic: "Graphs",
+            name: "Bellman Ford",
+            link: "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_27",
         },
         {
-            "topic": "Graphs",
-            "name": "Bipartite Graph",
-            "link": "https://www.geeksforgeeks.org/bipartite-graph/",
-            "difficulty": "Medium",
-            "id": "q_id_11_28"
+            topic: "Graphs",
+            name: "Bipartite Graph",
+            link: "https://www.geeksforgeeks.org/bipartite-graph/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_11_28",
         },
         {
-            "topic": "Graphs",
-            "name": "Word-Ladder",
-            "link": "https://leetcode.com/problems/word-ladder/",
-            "difficulty": "Hard",
-            "id": "q_id_11_29"
+            topic: "Graphs",
+            name: "Word-Ladder",
+            link: "https://leetcode.com/problems/word-ladder/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_29",
         },
         {
-            "topic": "Graphs",
-            "name": "Allen Dictionary",
-            "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
-            "difficulty": "Hard",
-            "id": "q_id_11_30"
+            topic: "Graphs",
+            name: "Allen Dictionary",
+            link: "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_30",
         },
         {
-            "topic": "Graphs",
-            "name": "Kruskals MST",
-            "link": "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/",
-            "difficulty": "Hard",
-            "id": "q_id_11_31"
+            topic: "Graphs",
+            name: "Kruskals MST",
+            link: "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_31",
         },
         {
-            "topic": "Graphs",
-            "name": "Total number spanning trees graph",
-            "link": "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
-            "difficulty": "Hard",
-            "id": "q_id_11_32"
+            topic: "Graphs",
+            name: "Total number spanning trees graph",
+            link: "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_32",
         },
         {
-            "topic": "Graphs",
-            "name": "Travelling Salesman",
-            "link": "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
-            "difficulty": "Hard",
-            "id": "q_id_11_33"
+            topic: "Graphs",
+            name: "Travelling Salesman",
+            link: "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_33",
         },
         {
-            "topic": "Graphs",
-            "name": "Find longest path directed acyclic graph",
-            "link": "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/",
-            "difficulty": "Hard",
-            "id": "q_id_11_34"
+            topic: "Graphs",
+            name: "Find longest path directed acyclic graph",
+            link: "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_34",
         },
         {
-            "topic": "Graphs",
-            "name": "Two Clique Problem",
-            "link": "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/",
-            "difficulty": "Hard",
-            "id": "q_id_11_35"
+            topic: "Graphs",
+            name: "Two Clique Problem",
+            link: "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_35",
         },
         {
-            "topic": "Graphs",
-            "name": "Minimise the cash flow",
-            "link": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
-            "difficulty": "Hard",
-            "id": "q_id_11_36"
+            topic: "Graphs",
+            name: "Minimise the cash flow",
+            link: "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_36",
         },
         {
-            "topic": "Graphs",
-            "name": "Chinese postman",
-            "link": "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/",
-            "difficulty": "Hard",
-            "id": "q_id_11_37"
+            topic: "Graphs",
+            name: "Chinese postman",
+            link: "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_37",
         },
         {
-            "topic": "Graphs",
-            "name": "Water Jug Problem",
-            "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
-            "difficulty": "Hard",
-            "id": "q_id_11_38"
+            topic: "Graphs",
+            name: "Water Jug Problem",
+            link: "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_38",
         },
         {
-            "topic": "Graphs",
-            "name": "Water Jug Problem 2",
-            "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
-            "difficulty": "Hard",
-            "id": "q_id_11_39"
-        }
+            topic: "Graphs",
+            name: "Water Jug Problem 2",
+            link: "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_11_39",
+        },
     ],
-    "Tries": [
+    Tries: [
         {
-            "topic": "Tries",
-            "name": "Construct a trie from scratch",
-            "link": "https://www.geeksforgeeks.org/trie-insert-and-search/",
-            "difficulty": "Medium",
-            "id": "q_id_12_0"
+            topic: "Tries",
+            name: "Construct a trie from scratch",
+            link: "https://www.geeksforgeeks.org/trie-insert-and-search/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_12_0",
         },
         {
-            "topic": "Tries",
-            "name": "Print unique rows in a given boolean matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1",
-            "difficulty": "Medium",
-            "id": "q_id_12_1"
+            topic: "Tries",
+            name: "Print unique rows in a given boolean matrix",
+            link: "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_12_1",
         },
         {
-            "topic": "Tries",
-            "name": "Word Break Problem | (Trie solution)",
-            "link": "https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
-            "difficulty": "Medium",
-            "id": "q_id_12_2"
+            topic: "Tries",
+            name: "Word Break Problem | (Trie solution)",
+            link: "https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_12_2",
         },
         {
-            "topic": "Tries",
-            "name": "Given a sequence of words, print all anagrams together",
-            "link": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
-            "difficulty": "Medium",
-            "id": "q_id_12_3"
+            topic: "Tries",
+            name: "Given a sequence of words, print all anagrams together",
+            link: "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+            difficulty: "Medium",
+            q_id: "q_id_ac_12_3",
         },
         {
-            "topic": "Tries",
-            "name": "Find shortest unique prefix for every word in a given list",
-            "link": "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/",
-            "difficulty": "Hard",
-            "id": "q_id_12_4"
+            topic: "Tries",
+            name: "Find shortest unique prefix for every word in a given list",
+            link: "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_12_4",
         },
         {
-            "topic": "Tries",
-            "name": "Implement a Phone Directory",
-            "link": "https://practice.geeksforgeeks.org/problems/phone-directory/0",
-            "difficulty": "Hard",
-            "id": "q_id_12_5"
-        }
+            topic: "Tries",
+            name: "Implement a Phone Directory",
+            link: "https://practice.geeksforgeeks.org/problems/phone-directory/0",
+            difficulty: "Hard",
+            q_id: "q_id_ac_12_5",
+        },
     ],
     "Bit Manipulation": [
         {
-            "topic": "Bit Manipulation",
-            "name": "Count set bits in an integer",
-            "link": "https://practice.geeksforgeeks.org/problems/set-bits-0143/1",
-            "difficulty": "Easy",
-            "id": "q_id_13_0"
+            topic: "Bit Manipulation",
+            name: "Count set bits in an integer",
+            link: "https://practice.geeksforgeeks.org/problems/set-bits-0143/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_13_0",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Find the two non-repeating elements in an array of repeating elements",
-            "link": "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
-            "difficulty": "Easy",
-            "id": "q_id_13_1"
+            topic: "Bit Manipulation",
+            name: "Find the two non-repeating elements in an array of repeating elements",
+            link: "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_13_1",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Program to find whether a no is power of two",
-            "link": "https://practice.geeksforgeeks.org/problems/power-of-2/0",
-            "difficulty": "Easy",
-            "id": "q_id_13_2"
+            topic: "Bit Manipulation",
+            name: "Program to find whether a no is power of two",
+            link: "https://practice.geeksforgeeks.org/problems/power-of-2/0",
+            difficulty: "Easy",
+            q_id: "q_id_ac_13_2",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Find position of the only set bit",
-            "link": "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
-            "difficulty": "Easy",
-            "id": "q_id_13_3"
+            topic: "Bit Manipulation",
+            name: "Find position of the only set bit",
+            link: "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_13_3",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Count number of bits to be flipped to convert A to B",
-            "link": "https://practice.geeksforgeeks.org/problems/bit-difference/0",
-            "difficulty": "Easy",
-            "id": "q_id_13_4"
+            topic: "Bit Manipulation",
+            name: "Count number of bits to be flipped to convert A to B",
+            link: "https://practice.geeksforgeeks.org/problems/bit-difference/0",
+            difficulty: "Easy",
+            q_id: "q_id_ac_13_4",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Count total set bits in all numbers from 1 to n",
-            "link": "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0",
-            "difficulty": "Medium",
-            "id": "q_id_13_5"
+            topic: "Bit Manipulation",
+            name: "Count total set bits in all numbers from 1 to n",
+            link: "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0",
+            difficulty: "Medium",
+            q_id: "q_id_ac_13_5",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Copy set bits in a range",
-            "link": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/",
-            "difficulty": "Medium",
-            "id": "q_id_13_6"
+            topic: "Bit Manipulation",
+            name: "Copy set bits in a range",
+            link: "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_13_6",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Calculate square of a number without using *, / and pow()",
-            "link": "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/",
-            "difficulty": "Medium",
-            "id": "q_id_13_7"
+            topic: "Bit Manipulation",
+            name: "Calculate square of a number without using *, / and pow()",
+            link: "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_13_7",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Divide two integers without using multiplication, division and mod operator",
-            "link": "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/",
-            "difficulty": "Medium",
-            "id": "q_id_13_8"
+            topic: "Bit Manipulation",
+            name: "Divide two integers without using multiplication, division and mod operator",
+            link: "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_13_8",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Power Set",
-            "link": "https://practice.geeksforgeeks.org/problems/power-set4302/1",
-            "difficulty": "Medium",
-            "id": "q_id_13_9"
-        }
+            topic: "Bit Manipulation",
+            name: "Power Set",
+            link: "https://practice.geeksforgeeks.org/problems/power-set4302/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_13_9",
+        },
     ],
     "Segment Trees": [
         {
-            "topic": "Segment Trees",
-            "name": "Range Sum Query - Immutable",
-            "link": "https://leetcode.com/problems/range-sum-query-immutable/",
-            "difficulty": "Medium",
-            "id": "q_id_14_0"
+            topic: "Segment Trees",
+            name: "Range Sum Query - Immutable",
+            link: "https://leetcode.com/problems/range-sum-query-immutable/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_14_0",
         },
         {
-            "topic": "Segment Trees",
-            "name": "Range Minimum Query",
-            "link": "https://cp-algorithms.com/sequences/rmq.html",
-            "difficulty": "Medium",
-            "id": "q_id_14_1"
+            topic: "Segment Trees",
+            name: "Range Minimum Query",
+            link: "https://cp-algorithms.com/sequences/rmq.html",
+            difficulty: "Medium",
+            q_id: "q_id_ac_14_1",
         },
         {
-            "topic": "Segment Trees",
-            "name": "Range Sum Query - Mutable",
-            "link": "https://leetcode.com/problems/range-sum-query-mutable/",
-            "difficulty": "Medium",
-            "id": "q_id_14_2"
+            topic: "Segment Trees",
+            name: "Range Sum Query - Mutable",
+            link: "https://leetcode.com/problems/range-sum-query-mutable/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_14_2",
         },
         {
-            "topic": "Segment Trees",
-            "name": "Create Sorted Array through Instructions",
-            "link": "https://leetcode.com/problems/create-sorted-array-through-instructions/",
-            "difficulty": "Hard",
-            "id": "q_id_14_3"
+            topic: "Segment Trees",
+            name: "Create Sorted Array through Instructions",
+            link: "https://leetcode.com/problems/create-sorted-array-through-instructions/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_14_3",
         },
         {
-            "topic": "Segment Trees",
-            "name": "Count of Range Sum",
-            "link": "https://leetcode.com/problems/count-of-range-sum/",
-            "difficulty": "Hard",
-            "id": "q_id_14_4"
+            topic: "Segment Trees",
+            name: "Count of Range Sum",
+            link: "https://leetcode.com/problems/count-of-range-sum/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_14_4",
         },
         {
-            "topic": "Segment Trees",
-            "name": "Count of Smaller Numbers After Self",
-            "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
-            "difficulty": "Hard",
-            "id": "q_id_14_5"
-        }
+            topic: "Segment Trees",
+            name: "Count of Smaller Numbers After Self",
+            link: "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_14_5",
+        },
     ],
-    "DP": [
+    DP: [
         {
-            "topic": "DP",
-            "name": "Knapsack with Duplicate Items",
-            "link": "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
-            "difficulty": "Easy",
-            "id": "q_id_15_0"
+            topic: "DP",
+            name: "Knapsack with Duplicate Items",
+            link: "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_15_0",
         },
         {
-            "topic": "DP",
-            "name": "BBT counter",
-            "link": "https://practice.geeksforgeeks.org/problems/bbt-counter4914/1",
-            "difficulty": "Easy",
-            "id": "q_id_15_1"
+            topic: "DP",
+            name: "BBT counter",
+            link: "https://practice.geeksforgeeks.org/problems/bbt-counter4914/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_15_1",
         },
         {
-            "topic": "DP",
-            "name": "Reach a given score",
-            "link": "https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1",
-            "difficulty": "Easy",
-            "id": "q_id_15_2"
+            topic: "DP",
+            name: "Reach a given score",
+            link: "https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_15_2",
         },
         {
-            "topic": "DP",
-            "name": "Maximum difference of zeros and ones in binary string",
-            "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1",
-            "difficulty": "Easy",
-            "id": "q_id_15_3"
+            topic: "DP",
+            name: "Maximum difference of zeros and ones in binary string",
+            link: "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_15_3",
         },
         {
-            "topic": "DP",
-            "name": "Climbing Stairs",
-            "link": "https://leetcode.com/problems/climbing-stairs/",
-            "difficulty": "Easy",
-            "id": "q_id_15_4"
+            topic: "DP",
+            name: "Climbing Stairs",
+            link: "https://leetcode.com/problems/climbing-stairs/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_15_4",
         },
         {
-            "topic": "DP",
-            "name": "Permutation Coefficient",
-            "link": "https://www.geeksforgeeks.org/permutation-coefficient/",
-            "difficulty": "Easy",
-            "id": "q_id_15_5"
+            topic: "DP",
+            name: "Permutation Coefficient",
+            link: "https://www.geeksforgeeks.org/permutation-coefficient/",
+            difficulty: "Easy",
+            q_id: "q_id_ac_15_5",
         },
         {
-            "topic": "DP",
-            "name": "Longest Repeating Subsequence",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1",
-            "difficulty": "Easy",
-            "id": "q_id_15_6"
+            topic: "DP",
+            name: "Longest Repeating Subsequence",
+            link: "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_15_6",
         },
         {
-            "topic": "DP",
-            "name": "Pairs with specific difference",
-            "link": "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference1533/1",
-            "difficulty": "Easy",
-            "id": "q_id_15_7"
+            topic: "DP",
+            name: "Pairs with specific difference",
+            link: "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference1533/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_15_7",
         },
         {
-            "topic": "DP",
-            "name": "Longest subsequence-1",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1",
-            "difficulty": "Easy",
-            "id": "q_id_15_8"
+            topic: "DP",
+            name: "Longest subsequence-1",
+            link: "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1",
+            difficulty: "Easy",
+            q_id: "q_id_ac_15_8",
         },
         {
-            "topic": "DP",
-            "name": "Coin Change",
-            "link": "https://leetcode.com/problems/coin-change/",
-            "difficulty": "Medium",
-            "id": "q_id_15_9"
+            topic: "DP",
+            name: "Coin Change",
+            link: "https://leetcode.com/problems/coin-change/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_9",
         },
         {
-            "topic": "DP",
-            "name": "LIS",
-            "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
-            "difficulty": "Medium",
-            "id": "q_id_15_10"
+            topic: "DP",
+            name: "LIS",
+            link: "https://leetcode.com/problems/longest-increasing-subsequence/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_10",
         },
         {
-            "topic": "DP",
-            "name": "Longest Common Subsequence",
-            "link": "https://leetcode.com/problems/longest-common-subsequence/",
-            "difficulty": "Medium",
-            "id": "q_id_15_11"
+            topic: "DP",
+            name: "Longest Common Subsequence",
+            link: "https://leetcode.com/problems/longest-common-subsequence/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_11",
         },
         {
-            "topic": "DP",
-            "name": "Word Break",
-            "link": "https://leetcode.com/problems/word-break/",
-            "difficulty": "Medium",
-            "id": "q_id_15_12"
+            topic: "DP",
+            name: "Word Break",
+            link: "https://leetcode.com/problems/word-break/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_12",
         },
         {
-            "topic": "DP",
-            "name": "Combination Sum IV",
-            "link": "https://leetcode.com/problems/combination-sum-iv/",
-            "difficulty": "Medium",
-            "id": "q_id_15_13"
+            topic: "DP",
+            name: "Combination Sum IV",
+            link: "https://leetcode.com/problems/combination-sum-iv/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_13",
         },
         {
-            "topic": "DP",
-            "name": "House Robber",
-            "link": "https://leetcode.com/problems/house-robber/",
-            "difficulty": "Medium",
-            "id": "q_id_15_14"
+            topic: "DP",
+            name: "House Robber",
+            link: "https://leetcode.com/problems/house-robber/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_14",
         },
         {
-            "topic": "DP",
-            "name": "Houe Robber 2",
-            "link": "https://leetcode.com/problems/house-robber-ii/",
-            "difficulty": "Medium",
-            "id": "q_id_15_15"
+            topic: "DP",
+            name: "Houe Robber 2",
+            link: "https://leetcode.com/problems/house-robber-ii/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_15",
         },
         {
-            "topic": "DP",
-            "name": "Decode Ways",
-            "link": "https://leetcode.com/problems/decode-ways/",
-            "difficulty": "Medium",
-            "id": "q_id_15_16"
+            topic: "DP",
+            name: "Decode Ways",
+            link: "https://leetcode.com/problems/decode-ways/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_16",
         },
         {
-            "topic": "DP",
-            "name": "Unique Paths",
-            "link": "https://leetcode.com/problems/unique-paths/",
-            "difficulty": "Medium",
-            "id": "q_id_15_17"
+            topic: "DP",
+            name: "Unique Paths",
+            link: "https://leetcode.com/problems/unique-paths/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_17",
         },
         {
-            "topic": "DP",
-            "name": "Jumps Game",
-            "link": "https://leetcode.com/problems/jump-game/",
-            "difficulty": "Medium",
-            "id": "q_id_15_18"
+            topic: "DP",
+            name: "Jumps Game",
+            link: "https://leetcode.com/problems/jump-game/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_18",
         },
         {
-            "topic": "DP",
-            "name": "Knapsack Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_19"
+            topic: "DP",
+            name: "Knapsack Problem",
+            link: "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_19",
         },
         {
-            "topic": "DP",
-            "name": "nCr",
-            "link": "https://practice.geeksforgeeks.org/problems/ncr1019/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_20"
+            topic: "DP",
+            name: "nCr",
+            link: "https://practice.geeksforgeeks.org/problems/ncr1019/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_20",
         },
         {
-            "topic": "DP",
-            "name": "Catalan Number",
-            "link": "https://www.geeksforgeeks.org/program-nth-catalan-number/",
-            "difficulty": "Medium",
-            "id": "q_id_15_21"
+            topic: "DP",
+            name: "Catalan Number",
+            link: "https://www.geeksforgeeks.org/program-nth-catalan-number/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_21",
         },
         {
-            "topic": "DP",
-            "name": "Edit Distance",
-            "link": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_22"
+            topic: "DP",
+            name: "Edit Distance",
+            link: "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_22",
         },
         {
-            "topic": "DP",
-            "name": "Subset Sum",
-            "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_23"
+            topic: "DP",
+            name: "Subset Sum",
+            link: "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_23",
         },
         {
-            "topic": "DP",
-            "name": "Gold mine",
-            "link": "https://www.geeksforgeeks.org/gold-mine-problem/",
-            "difficulty": "Medium",
-            "id": "q_id_15_24"
+            topic: "DP",
+            name: "Gold mine",
+            link: "https://www.geeksforgeeks.org/gold-mine-problem/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_24",
         },
         {
-            "topic": "DP",
-            "name": "Assembly Line Scheduling",
-            "link": "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/",
-            "difficulty": "Medium",
-            "id": "q_id_15_25"
+            topic: "DP",
+            name: "Assembly Line Scheduling",
+            link: "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_25",
         },
         {
-            "topic": "DP",
-            "name": "Maximize The Cut Segments",
-            "link": "https://practice.geeksforgeeks.org/problems/cutted-segments1642/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_26"
+            topic: "DP",
+            name: "Maximize The Cut Segments",
+            link: "https://practice.geeksforgeeks.org/problems/cutted-segments1642/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_26",
         },
         {
-            "topic": "DP",
-            "name": "Maximum sum increasing subsequence",
-            "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_27"
+            topic: "DP",
+            name: "Maximum sum increasing subsequence",
+            link: "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_27",
         },
         {
-            "topic": "DP",
-            "name": "Count all subsequences having product less than K",
-            "link": "https://www.geeksforgeeks.org/count-subsequences-product-less-k/",
-            "difficulty": "Medium",
-            "id": "q_id_15_28"
+            topic: "DP",
+            name: "Count all subsequences having product less than K",
+            link: "https://www.geeksforgeeks.org/count-subsequences-product-less-k/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_28",
         },
         {
-            "topic": "DP",
-            "name": "Maximum sum increasing subsequence",
-            "link": "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/",
-            "difficulty": "Medium",
-            "id": "q_id_15_29"
+            topic: "DP",
+            name: "Maximum sum increasing subsequence",
+            link: "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_29",
         },
         {
-            "topic": "DP",
-            "name": "Egg dropping puzzle",
-            "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_30"
+            topic: "DP",
+            name: "Egg dropping puzzle",
+            link: "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_30",
         },
         {
-            "topic": "DP",
-            "name": "Max length chain",
-            "link": "https://practice.geeksforgeeks.org/problems/max-length-chain/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_31"
+            topic: "DP",
+            name: "Max length chain",
+            link: "https://practice.geeksforgeeks.org/problems/max-length-chain/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_31",
         },
         {
-            "topic": "DP",
-            "name": "Largest Square in Matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_32"
+            topic: "DP",
+            name: "Largest Square in Matrix",
+            link: "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_32",
         },
         {
-            "topic": "DP",
-            "name": "Maximum Path Sum",
-            "link": "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_33"
+            topic: "DP",
+            name: "Maximum Path Sum",
+            link: "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_33",
         },
         {
-            "topic": "DP",
-            "name": "Minimum Number of Jumps",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_34"
+            topic: "DP",
+            name: "Minimum Number of Jumps",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_34",
         },
         {
-            "topic": "DP",
-            "name": "Minimum removals from array to make max – min <= K",
-            "link": "http://geeksforgeeks.org/minimum-removals-array-make-max-min-k/",
-            "difficulty": "Medium",
-            "id": "q_id_15_35"
+            topic: "DP",
+            name: "Minimum removals from array to make max – min <= K",
+            link: "http://geeksforgeeks.org/minimum-removals-array-make-max-min-k/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_35",
         },
         {
-            "topic": "DP",
-            "name": "Longest Common Substring",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_36"
+            topic: "DP",
+            name: "Longest Common Substring",
+            link: "https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_36",
         },
         {
-            "topic": "DP",
-            "name": "Partition Equal Subset Sum",
-            "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_37"
+            topic: "DP",
+            name: "Partition Equal Subset Sum",
+            link: "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_37",
         },
         {
-            "topic": "DP",
-            "name": "Longest Palindromic Subsequnce",
-            "link": "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/",
-            "difficulty": "Medium",
-            "id": "q_id_15_38"
+            topic: "DP",
+            name: "Longest Palindromic Subsequnce",
+            link: "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_38",
         },
         {
-            "topic": "DP",
-            "name": "Count Palindromic Subsequences",
-            "link": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_39"
+            topic: "DP",
+            name: "Count Palindromic Subsequences",
+            link: "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_39",
         },
         {
-            "topic": "DP",
-            "name": "Longest Palindromic Substring",
-            "link": "https://leetcode.com/problems/longest-palindromic-substring/",
-            "difficulty": "Medium",
-            "id": "q_id_15_40"
+            topic: "DP",
+            name: "Longest Palindromic Substring",
+            link: "https://leetcode.com/problems/longest-palindromic-substring/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_40",
         },
         {
-            "topic": "DP",
-            "name": "Longest Alternating Sequence",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_41"
+            topic: "DP",
+            name: "Longest Alternating Sequence",
+            link: "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_41",
         },
         {
-            "topic": "DP",
-            "name": "Weighted Job Scheduling",
-            "link": "https://www.geeksforgeeks.org/weighted-job-scheduling/",
-            "difficulty": "Medium",
-            "id": "q_id_15_42"
+            topic: "DP",
+            name: "Weighted Job Scheduling",
+            link: "https://www.geeksforgeeks.org/weighted-job-scheduling/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_42",
         },
         {
-            "topic": "DP",
-            "name": "Coin Game",
-            "link": "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/",
-            "difficulty": "Medium",
-            "id": "q_id_15_43"
+            topic: "DP",
+            name: "Coin Game",
+            link: "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_43",
         },
         {
-            "topic": "DP",
-            "name": "Coin Game Winner",
-            "link": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/",
-            "difficulty": "Medium",
-            "id": "q_id_15_44"
+            topic: "DP",
+            name: "Coin Game Winner",
+            link: "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_44",
         },
         {
-            "topic": "DP",
-            "name": "Optimal Strategy for a game",
-            "link": "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_45"
+            topic: "DP",
+            name: "Optimal Strategy for a game",
+            link: "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_45",
         },
         {
-            "topic": "DP",
-            "name": "Word Wrap",
-            "link": "https://practice.geeksforgeeks.org/problems/word-wrap1646/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_46"
+            topic: "DP",
+            name: "Word Wrap",
+            link: "https://practice.geeksforgeeks.org/problems/word-wrap1646/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_46",
         },
         {
-            "topic": "DP",
-            "name": "Mobile numeric keypad",
-            "link": "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
-            "difficulty": "Medium",
-            "id": "q_id_15_47"
+            topic: "DP",
+            name: "Mobile numeric keypad",
+            link: "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_47",
         },
         {
-            "topic": "DP",
-            "name": "Maximum Length of Pair Chain",
-            "link": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
-            "difficulty": "Medium",
-            "id": "q_id_15_48"
+            topic: "DP",
+            name: "Maximum Length of Pair Chain",
+            link: "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+            difficulty: "Medium",
+            q_id: "q_id_ac_15_48",
         },
         {
-            "topic": "DP",
-            "name": "Matrix Chain Multiplication",
-            "link": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
-            "difficulty": "Hard",
-            "id": "q_id_15_49"
+            topic: "DP",
+            name: "Matrix Chain Multiplication",
+            link: "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_15_49",
         },
         {
-            "topic": "DP",
-            "name": "Maximum profit by buying and selling a share at most twice",
-            "link": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
-            "difficulty": "Hard",
-            "id": "q_id_15_50"
+            topic: "DP",
+            name: "Maximum profit by buying and selling a share at most twice",
+            link: "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_15_50",
         },
         {
-            "topic": "DP",
-            "name": "Optimal BST",
-            "link": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
-            "difficulty": "Hard",
-            "id": "q_id_15_51"
+            topic: "DP",
+            name: "Optimal BST",
+            link: "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_15_51",
         },
         {
-            "topic": "DP",
-            "name": "Largest Submatrix with sum 0",
-            "link": "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/",
-            "difficulty": "Hard",
-            "id": "q_id_15_52"
+            topic: "DP",
+            name: "Largest Submatrix with sum 0",
+            link: "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_15_52",
         },
         {
-            "topic": "DP",
-            "name": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s",
-            "link": "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
-            "difficulty": "Hard",
-            "id": "q_id_15_53"
-        }
-    ]
-}
+            topic: "DP",
+            name: "Largest area rectangular sub-matrix with equal number of 1’s and 0’s",
+            link: "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
+            difficulty: "Hard",
+            q_id: "q_id_ac_15_53",
+        },
+    ],
+};
 
 export const ArshGoyal = {
-    "Arrays": [
+    Arrays: [
         {
-            "topic": "Arrays",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/set-matrix-zeroes/",
-            "id": "q_id_0_0"
+            topic: "Arrays",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/set-matrix-zeroes/",
+            q_id: "q_id_ag_0_0",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/move-zeroes/",
-            "id": "q_id_0_1"
+            topic: "Arrays",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/move-zeroes/",
+            q_id: "q_id_ag_0_1",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-            "id": "q_id_0_2"
+            topic: "Arrays",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+            q_id: "q_id_ag_0_2",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/chocolate-distribution-problem/",
-            "id": "q_id_0_3"
+            topic: "Arrays",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/chocolate-distribution-problem/",
+            q_id: "q_id_ag_0_3",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/find-the-duplicate-number/",
-            "id": "q_id_0_4"
+            topic: "Arrays",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/find-the-duplicate-number/",
+            q_id: "q_id_ag_0_4",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/sort-colors/",
-            "id": "q_id_0_5"
+            topic: "Arrays",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/sort-colors/",
+            q_id: "q_id_ag_0_5",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-            "id": "q_id_0_6"
+            topic: "Arrays",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+            q_id: "q_id_ag_0_6",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/two-sum/",
-            "id": "q_id_0_7"
+            topic: "Arrays",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/two-sum/",
+            q_id: "q_id_ag_0_7",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
-            "id": "q_id_0_8"
+            topic: "Arrays",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+            q_id: "q_id_ag_0_8",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
-            "id": "q_id_0_9"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+            q_id: "q_id_ag_0_9",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
-            "id": "q_id_0_10"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+            q_id: "q_id_ag_0_10",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/container-with-most-water/",
-            "id": "q_id_0_11"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/container-with-most-water/",
+            q_id: "q_id_ag_0_11",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/3sum/",
-            "id": "q_id_0_12"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/3sum/",
+            q_id: "q_id_ag_0_12",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/4sum/",
-            "id": "q_id_0_13"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/4sum/",
+            q_id: "q_id_ag_0_13",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
-            "id": "q_id_0_14"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+            q_id: "q_id_ag_0_14",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/subarray-sum-equals-k/",
-            "id": "q_id_0_15"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/subarray-sum-equals-k/",
+            q_id: "q_id_ag_0_15",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/spiral-matrix/",
-            "id": "q_id_0_16"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/spiral-matrix/",
+            q_id: "q_id_ag_0_16",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/word-search/",
-            "id": "q_id_0_17"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/word-search/",
+            q_id: "q_id_ag_0_17",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/jump-game/",
-            "id": "q_id_0_18"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/jump-game/",
+            q_id: "q_id_ag_0_18",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/merge-sorted-array/",
-            "id": "q_id_0_19"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/merge-sorted-array/",
+            q_id: "q_id_ag_0_19",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/majority-element/",
-            "id": "q_id_0_20"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/majority-element/",
+            q_id: "q_id_ag_0_20",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/reverse-pairs/",
-            "id": "q_id_0_21"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/reverse-pairs/",
+            q_id: "q_id_ag_0_21",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/",
-            "id": "q_id_0_22"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/",
+            q_id: "q_id_ag_0_22",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/game-of-life/",
-            "id": "q_id_0_23"
+            topic: "Arrays",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/game-of-life/",
+            q_id: "q_id_ag_0_23",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/max-value-of-equation/",
-            "id": "q_id_0_24"
+            topic: "Arrays",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/max-value-of-equation/",
+            q_id: "q_id_ag_0_24",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
-            "id": "q_id_0_25"
+            topic: "Arrays",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+            q_id: "q_id_ag_0_25",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
-            "id": "q_id_0_26"
+            topic: "Arrays",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+            q_id: "q_id_ag_0_26",
         },
         {
-            "topic": "Arrays",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/max-value-of-equation/",
-            "id": "q_id_0_27"
-        }
+            topic: "Arrays",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/max-value-of-equation/",
+            q_id: "q_id_ag_0_27",
+        },
     ],
-    "Strings": [
+    Strings: [
         {
-            "topic": "Strings",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/valid-parentheses/",
-            "id": "q_id_1_0"
+            topic: "Strings",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/valid-parentheses/",
+            q_id: "q_id_ag_1_0",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
-            "id": "q_id_1_1"
+            topic: "Strings",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
+            q_id: "q_id_ag_1_1",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/implement-strstr/",
-            "id": "q_id_1_2"
+            topic: "Strings",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/implement-strstr/",
+            q_id: "q_id_ag_1_2",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/longest-common-prefix/",
-            "id": "q_id_1_3"
+            topic: "Strings",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/longest-common-prefix/",
+            q_id: "q_id_ag_1_3",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/valid-palindrome-ii/",
-            "id": "q_id_1_4"
+            topic: "Strings",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/valid-palindrome-ii/",
+            q_id: "q_id_ag_1_4",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/integer-to-roman/",
-            "id": "q_id_1_5"
+            topic: "Strings",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/integer-to-roman/",
+            q_id: "q_id_ag_1_5",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/generate-parentheses/",
-            "id": "q_id_1_6"
+            topic: "Strings",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/generate-parentheses/",
+            q_id: "q_id_ag_1_6",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/simplify-path/",
-            "id": "q_id_1_7"
+            topic: "Strings",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/simplify-path/",
+            q_id: "q_id_ag_1_7",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1",
-            "id": "q_id_1_8"
+            topic: "Strings",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1",
+            q_id: "q_id_ag_1_8",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/reverse-words-in-a-string/",
-            "id": "q_id_1_9"
+            topic: "Strings",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/reverse-words-in-a-string/",
+            q_id: "q_id_ag_1_9",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
-            "id": "q_id_1_10"
+            topic: "Strings",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
+            q_id: "q_id_ag_1_10",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/group-anagrams/",
-            "id": "q_id_1_11"
+            topic: "Strings",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/group-anagrams/",
+            q_id: "q_id_ag_1_11",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/word-wrap1646/1",
-            "id": "q_id_1_12"
+            topic: "Strings",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/word-wrap1646/1",
+            q_id: "q_id_ag_1_12",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/basic-calculator-ii/",
-            "id": "q_id_1_13"
+            topic: "Strings",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/basic-calculator-ii/",
+            q_id: "q_id_ag_1_13",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/valid-number/",
-            "id": "q_id_1_14"
+            topic: "Strings",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/valid-number/",
+            q_id: "q_id_ag_1_14",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/integer-to-english-words/",
-            "id": "q_id_1_15"
+            topic: "Strings",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/integer-to-english-words/",
+            q_id: "q_id_ag_1_15",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/minimum-window-substring/",
-            "id": "q_id_1_16"
+            topic: "Strings",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/minimum-window-substring/",
+            q_id: "q_id_ag_1_16",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/text-justification/",
-            "id": "q_id_1_17"
+            topic: "Strings",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/text-justification/",
+            q_id: "q_id_ag_1_17",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
-            "id": "q_id_1_18"
+            topic: "Strings",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
+            q_id: "q_id_ag_1_18",
         },
         {
-            "topic": "Strings",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/distinct-subsequences/",
-            "id": "q_id_1_19"
-        }
+            topic: "Strings",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/distinct-subsequences/",
+            q_id: "q_id_ag_1_19",
+        },
     ],
     "Matrix Problems": [
         {
-            "topic": "Matrix Problems",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/",
-            "id": "q_id_2_0"
+            topic: "Matrix Problems",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/",
+            q_id: "q_id_ag_2_0",
         },
         {
-            "topic": "Matrix Problems",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/find-number-of-islands/",
-            "id": "q_id_2_1"
+            topic: "Matrix Problems",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/find-number-of-islands/",
+            q_id: "q_id_ag_2_1",
         },
         {
-            "topic": "Matrix Problems",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/",
-            "id": "q_id_2_2"
+            topic: "Matrix Problems",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/",
+            q_id: "q_id_ag_2_2",
         },
         {
-            "topic": "Matrix Problems",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/spiral-matrix/",
-            "id": "q_id_2_3"
+            topic: "Matrix Problems",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/spiral-matrix/",
+            q_id: "q_id_ag_2_3",
         },
         {
-            "topic": "Matrix Problems",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/rotate-image/",
-            "id": "q_id_2_4"
-        }
+            topic: "Matrix Problems",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/rotate-image/",
+            q_id: "q_id_ag_2_4",
+        },
     ],
     "Mathematical Problems": [
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
-            "id": "q_id_3_0"
+            topic: "Mathematical Problems",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+            q_id: "q_id_ag_3_0",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/add-binary/",
-            "id": "q_id_3_1"
+            topic: "Mathematical Problems",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/add-binary/",
+            q_id: "q_id_ag_3_1",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
-            "id": "q_id_3_2"
+            topic: "Mathematical Problems",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+            q_id: "q_id_ag_3_2",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/excel-sheet-column-title/",
-            "id": "q_id_3_3"
+            topic: "Mathematical Problems",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/excel-sheet-column-title/",
+            q_id: "q_id_ag_3_3",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/happy-number/",
-            "id": "q_id_3_4"
+            topic: "Mathematical Problems",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/happy-number/",
+            q_id: "q_id_ag_3_4",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/palindrome-number/",
-            "id": "q_id_3_5"
+            topic: "Mathematical Problems",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/palindrome-number/",
+            q_id: "q_id_ag_3_5",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/missing-number/",
-            "id": "q_id_3_6"
+            topic: "Mathematical Problems",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/missing-number/",
+            q_id: "q_id_ag_3_6",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/reverse-integer/",
-            "id": "q_id_3_7"
+            topic: "Mathematical Problems",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/reverse-integer/",
+            q_id: "q_id_ag_3_7",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/power-of-two/",
-            "id": "q_id_3_8"
+            topic: "Mathematical Problems",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/power-of-two/",
+            q_id: "q_id_ag_3_8",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/max-points-on-a-line/",
-            "id": "q_id_3_9"
+            topic: "Mathematical Problems",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/max-points-on-a-line/",
+            q_id: "q_id_ag_3_9",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/valid-square/",
-            "id": "q_id_3_10"
+            topic: "Mathematical Problems",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/valid-square/",
+            q_id: "q_id_ag_3_10",
         },
         {
-            "topic": "Mathematical Problems",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/the-kth-factor-of-n/",
-            "id": "q_id_3_11"
-        }
+            topic: "Mathematical Problems",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/the-kth-factor-of-n/",
+            q_id: "q_id_ag_3_11",
+        },
     ],
     "Sorting and Searching": [
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/",
-            "id": "q_id_4_0"
+            topic: "Sorting and Searching",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/",
+            q_id: "q_id_ag_4_0",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/",
-            "id": "q_id_4_1"
+            topic: "Sorting and Searching",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/",
+            q_id: "q_id_ag_4_1",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/",
-            "id": "q_id_4_2"
+            topic: "Sorting and Searching",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/",
+            q_id: "q_id_ag_4_2",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/",
-            "id": "q_id_4_3"
+            topic: "Sorting and Searching",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/",
+            q_id: "q_id_ag_4_3",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/",
-            "id": "q_id_4_4"
+            topic: "Sorting and Searching",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/",
+            q_id: "q_id_ag_4_4",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/radix-sort/",
-            "id": "q_id_4_5"
+            topic: "Sorting and Searching",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/radix-sort/",
+            q_id: "q_id_ag_4_5",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/a-product-array-puzzle/",
-            "id": "q_id_4_6"
+            topic: "Sorting and Searching",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/a-product-array-puzzle/",
+            q_id: "q_id_ag_4_6",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/",
-            "id": "q_id_4_7"
+            topic: "Sorting and Searching",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/",
+            q_id: "q_id_ag_4_7",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/find-peak-element/",
-            "id": "q_id_4_8"
+            topic: "Sorting and Searching",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/find-peak-element/",
+            q_id: "q_id_ag_4_8",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Hard",
-            "link": "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
-            "id": "q_id_4_9"
+            topic: "Sorting and Searching",
+            difficulty: "Hard",
+            link: "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
+            q_id: "q_id_ag_4_9",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/",
-            "id": "q_id_4_10"
+            topic: "Sorting and Searching",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/",
+            q_id: "q_id_ag_4_10",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Hard",
-            "link": "https://www.spoj.com/problems/AGGRCOW/",
-            "id": "q_id_4_11"
+            topic: "Sorting and Searching",
+            difficulty: "Hard",
+            link: "https://www.spoj.com/problems/AGGRCOW/",
+            q_id: "q_id_ag_4_11",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-            "id": "q_id_4_12"
+            topic: "Sorting and Searching",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+            q_id: "q_id_ag_4_12",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
-            "id": "q_id_4_13"
+            topic: "Sorting and Searching",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+            q_id: "q_id_ag_4_13",
         },
         {
-            "topic": "Sorting and Searching",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/split-array-largest-sum/",
-            "id": "q_id_4_14"
-        }
+            topic: "Sorting and Searching",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/split-array-largest-sum/",
+            q_id: "q_id_ag_4_14",
+        },
     ],
     "Linked List": [
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/middle-of-the-linked-list/",
-            "id": "q_id_5_0"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/middle-of-the-linked-list/",
+            q_id: "q_id_ag_5_0",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/linked-list-cycle/",
-            "id": "q_id_5_1"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/linked-list-cycle/",
+            q_id: "q_id_ag_5_1",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
-            "id": "q_id_5_2"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+            q_id: "q_id_ag_5_2",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
-            "id": "q_id_5_3"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+            q_id: "q_id_ag_5_3",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/",
-            "id": "q_id_5_4"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/",
+            q_id: "q_id_ag_5_4",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/reverse-linked-list/",
-            "id": "q_id_5_5"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/reverse-linked-list/",
+            q_id: "q_id_ag_5_5",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
-            "id": "q_id_5_6"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/merge-two-sorted-lists/",
+            q_id: "q_id_ag_5_6",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/",
-            "id": "q_id_5_7"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/",
+            q_id: "q_id_ag_5_7",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
-            "id": "q_id_5_8"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+            q_id: "q_id_ag_5_8",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/",
-            "id": "q_id_5_9"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/",
+            q_id: "q_id_ag_5_9",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/palindrome-linked-list/",
-            "id": "q_id_5_10"
+            topic: "Linked List",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/palindrome-linked-list/",
+            q_id: "q_id_ag_5_10",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
-            "id": "q_id_5_11"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/copy-list-with-random-pointer/",
+            q_id: "q_id_ag_5_11",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/add-two-numbers-ii/",
-            "id": "q_id_5_12"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/add-two-numbers-ii/",
+            q_id: "q_id_ag_5_12",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/reverse-linked-list-ii/",
-            "id": "q_id_5_13"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/reverse-linked-list-ii/",
+            q_id: "q_id_ag_5_13",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-            "id": "q_id_5_14"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+            q_id: "q_id_ag_5_14",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
-            "id": "q_id_5_15"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+            q_id: "q_id_ag_5_15",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/partition-list/",
-            "id": "q_id_5_16"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/partition-list/",
+            q_id: "q_id_ag_5_16",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
-            "id": "q_id_5_17"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+            q_id: "q_id_ag_5_17",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/",
-            "id": "q_id_5_18"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/",
+            q_id: "q_id_ag_5_18",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/",
-            "id": "q_id_5_19"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/",
+            q_id: "q_id_ag_5_19",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/",
-            "id": "q_id_5_20"
+            topic: "Linked List",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/",
+            q_id: "q_id_ag_5_20",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
-            "id": "q_id_5_21"
+            topic: "Linked List",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/merge-k-sorted-lists/",
+            q_id: "q_id_ag_5_21",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
-            "id": "q_id_5_22"
+            topic: "Linked List",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+            q_id: "q_id_ag_5_22",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/",
-            "id": "q_id_5_23"
+            topic: "Linked List",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/merge-sort-for-linked-list/",
+            q_id: "q_id_ag_5_23",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/flattening-a-linked-list/",
-            "id": "q_id_5_24"
+            topic: "Linked List",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/flattening-a-linked-list/",
+            q_id: "q_id_ag_5_24",
         },
         {
-            "topic": "Linked List",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/",
-            "id": "q_id_5_25"
-        }
+            topic: "Linked List",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/",
+            q_id: "q_id_ag_5_25",
+        },
     ],
     "Stacks and Queues": [
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/implement-queue-using-stacks/",
-            "id": "q_id_6_0"
+            topic: "Stacks and Queues",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/implement-queue-using-stacks/",
+            q_id: "q_id_ag_6_0",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/implement-stack-using-queues/",
-            "id": "q_id_6_1"
+            topic: "Stacks and Queues",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/implement-stack-using-queues/",
+            q_id: "q_id_ag_6_1",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
-            "id": "q_id_6_2"
+            topic: "Stacks and Queues",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
+            q_id: "q_id_ag_6_2",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/next-greater-element-i/",
-            "id": "q_id_6_3"
+            topic: "Stacks and Queues",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/next-greater-element-i/",
+            q_id: "q_id_ag_6_3",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/",
-            "id": "q_id_6_4"
+            topic: "Stacks and Queues",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/",
+            q_id: "q_id_ag_6_4",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/",
-            "id": "q_id_6_5"
+            topic: "Stacks and Queues",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/",
+            q_id: "q_id_ag_6_5",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/",
-            "id": "q_id_6_6"
+            topic: "Stacks and Queues",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/",
+            q_id: "q_id_ag_6_6",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1",
-            "id": "q_id_6_7"
+            topic: "Stacks and Queues",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1",
+            q_id: "q_id_ag_6_7",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/online-stock-span/",
-            "id": "q_id_6_8"
+            topic: "Stacks and Queues",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/online-stock-span/",
+            q_id: "q_id_ag_6_8",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1",
-            "id": "q_id_6_9"
+            topic: "Stacks and Queues",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1",
+            q_id: "q_id_ag_6_9",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/sum-of-subarray-minimums/",
-            "id": "q_id_6_10"
+            topic: "Stacks and Queues",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/sum-of-subarray-minimums/",
+            q_id: "q_id_ag_6_10",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/circular-tour/1",
-            "id": "q_id_6_11"
+            topic: "Stacks and Queues",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/circular-tour/1",
+            q_id: "q_id_ag_6_11",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
-            "id": "q_id_6_12"
+            topic: "Stacks and Queues",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
+            q_id: "q_id_ag_6_12",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/flatten-nested-list-iterator/",
-            "id": "q_id_6_13"
+            topic: "Stacks and Queues",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/flatten-nested-list-iterator/",
+            q_id: "q_id_ag_6_13",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/",
-            "id": "q_id_6_14"
+            topic: "Stacks and Queues",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/",
+            q_id: "q_id_ag_6_14",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/lru-cache-implementation/",
-            "id": "q_id_6_15"
+            topic: "Stacks and Queues",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/lru-cache-implementation/",
+            q_id: "q_id_ag_6_15",
         },
         {
-            "topic": "Stacks and Queues",
-            "difficulty": "Hard",
-            "link": "http://geeksforgeeks.org/the-celebrity-problem/",
-            "id": "q_id_6_16"
-        }
+            topic: "Stacks and Queues",
+            difficulty: "Hard",
+            link: "http://geeksforgeeks.org/the-celebrity-problem/",
+            q_id: "q_id_ag_6_16",
+        },
     ],
-    "Trees": [
+    Trees: [
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/diameter-of-binary-tree/",
-            "id": "q_id_7_0"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/diameter-of-binary-tree/",
+            q_id: "q_id_ag_7_0",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/invert-binary-tree/",
-            "id": "q_id_7_1"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/invert-binary-tree/",
+            q_id: "q_id_ag_7_1",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/subtree-of-another-tree/",
-            "id": "q_id_7_2"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/subtree-of-another-tree/",
+            q_id: "q_id_ag_7_2",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/range-sum-of-bst/",
-            "id": "q_id_7_3"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/range-sum-of-bst/",
+            q_id: "q_id_ag_7_3",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/symmetric-tree/",
-            "id": "q_id_7_4"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/symmetric-tree/",
+            q_id: "q_id_ag_7_4",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
-            "id": "q_id_7_5"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+            q_id: "q_id_ag_7_5",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/merge-two-binary-trees/",
-            "id": "q_id_7_6"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/merge-two-binary-trees/",
+            q_id: "q_id_ag_7_6",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-            "id": "q_id_7_7"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+            q_id: "q_id_ag_7_7",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/binary-tree-paths/",
-            "id": "q_id_7_8"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/binary-tree-paths/",
+            q_id: "q_id_ag_7_8",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/same-tree/",
-            "id": "q_id_7_9"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/same-tree/",
+            q_id: "q_id_ag_7_9",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-            "id": "q_id_7_10"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+            q_id: "q_id_ag_7_10",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/path-sum/",
-            "id": "q_id_7_11"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/path-sum/",
+            q_id: "q_id_ag_7_11",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
-            "id": "q_id_7_12"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+            q_id: "q_id_ag_7_12",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/sum-of-left-leaves/",
-            "id": "q_id_7_13"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/sum-of-left-leaves/",
+            q_id: "q_id_ag_7_13",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/balanced-binary-tree/",
-            "id": "q_id_7_14"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/balanced-binary-tree/",
+            q_id: "q_id_ag_7_14",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
-            "id": "q_id_7_15"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+            q_id: "q_id_ag_7_15",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
-            "id": "q_id_7_16"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+            q_id: "q_id_ag_7_16",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Easy",
-            "link": "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
-            "id": "q_id_7_17"
+            topic: "Trees",
+            difficulty: "Easy",
+            link: "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
+            q_id: "q_id_ag_7_17",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/binary-search-tree-iterator/",
-            "id": "q_id_7_18"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/binary-search-tree-iterator/",
+            q_id: "q_id_ag_7_18",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
-            "id": "q_id_7_19"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+            q_id: "q_id_ag_7_19",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
-            "id": "q_id_7_20"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+            q_id: "q_id_ag_7_20",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
-            "id": "q_id_7_21"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+            q_id: "q_id_ag_7_21",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/validate-binary-search-tree/",
-            "id": "q_id_7_22"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/validate-binary-search-tree/",
+            q_id: "q_id_ag_7_22",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/binary-tree-right-side-view/",
-            "id": "q_id_7_23"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/binary-tree-right-side-view/",
+            q_id: "q_id_ag_7_23",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/redundant-connection/",
-            "id": "q_id_7_24"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/redundant-connection/",
+            q_id: "q_id_ag_7_24",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
-            "id": "q_id_7_25"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+            q_id: "q_id_ag_7_25",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/path-sum-iii/",
-            "id": "q_id_7_26"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/path-sum-iii/",
+            q_id: "q_id_ag_7_26",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
-            "id": "q_id_7_27"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
+            q_id: "q_id_ag_7_27",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/unique-binary-search-trees/",
-            "id": "q_id_7_28"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/unique-binary-search-trees/",
+            q_id: "q_id_ag_7_28",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/recover-binary-search-tree/",
-            "id": "q_id_7_29"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/recover-binary-search-tree/",
+            q_id: "q_id_ag_7_29",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
-            "id": "q_id_7_30"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+            q_id: "q_id_ag_7_30",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
-            "id": "q_id_7_31"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+            q_id: "q_id_ag_7_31",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
-            "id": "q_id_7_32"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+            q_id: "q_id_ag_7_32",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
-            "id": "q_id_7_33"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
+            q_id: "q_id_ag_7_33",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
-            "id": "q_id_7_34"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+            q_id: "q_id_ag_7_34",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
-            "id": "q_id_7_35"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+            q_id: "q_id_ag_7_35",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
-            "id": "q_id_7_36"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+            q_id: "q_id_ag_7_36",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1",
-            "id": "q_id_7_37"
+            topic: "Trees",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1",
+            q_id: "q_id_ag_7_37",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
-            "id": "q_id_7_38"
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+            q_id: "q_id_ag_7_38",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
-            "id": "q_id_7_39"
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+            q_id: "q_id_ag_7_39",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/sum-of-distances-in-tree/",
-            "id": "q_id_7_40"
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/sum-of-distances-in-tree/",
+            q_id: "q_id_ag_7_40",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/binary-tree-cameras/",
-            "id": "q_id_7_41"
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/binary-tree-cameras/",
+            q_id: "q_id_ag_7_41",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
-            "id": "q_id_7_42"
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+            q_id: "q_id_ag_7_42",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/",
-            "id": "q_id_7_43"
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/",
+            q_id: "q_id_ag_7_43",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
-            "id": "q_id_7_44"
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+            q_id: "q_id_ag_7_44",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
-            "id": "q_id_7_45"
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
+            q_id: "q_id_ag_7_45",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/",
-            "id": "q_id_7_46"
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/",
+            q_id: "q_id_ag_7_46",
         },
         {
-            "topic": "Trees",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/",
-            "id": "q_id_7_47"
-        }
+            topic: "Trees",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/",
+            q_id: "q_id_ag_7_47",
+        },
     ],
-    "GRAPHS": [
+    GRAPHS: [
         {
-            "topic": "GRAPHS",
-            "difficulty": "Easy",
-            "link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
-            "id": "q_id_8_0"
+            topic: "GRAPHS",
+            difficulty: "Easy",
+            link: "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+            q_id: "q_id_ag_8_0",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/",
-            "id": "q_id_8_1"
+            topic: "GRAPHS",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/",
+            q_id: "q_id_ag_8_1",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/number-of-islands/",
-            "id": "q_id_8_2"
+            topic: "GRAPHS",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/number-of-islands/",
+            q_id: "q_id_ag_8_2",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/flood-fill/",
-            "id": "q_id_8_3"
+            topic: "GRAPHS",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/flood-fill/",
+            q_id: "q_id_ag_8_3",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Easy",
-            "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
-            "id": "q_id_8_4"
+            topic: "GRAPHS",
+            difficulty: "Easy",
+            link: "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+            q_id: "q_id_ag_8_4",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Easy",
-            "link": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
-            "id": "q_id_8_5"
+            topic: "GRAPHS",
+            difficulty: "Easy",
+            link: "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+            q_id: "q_id_ag_8_5",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Easy",
-            "link": "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/",
-            "id": "q_id_8_6"
+            topic: "GRAPHS",
+            difficulty: "Easy",
+            link: "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/",
+            q_id: "q_id_ag_8_6",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1",
-            "id": "q_id_8_7"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1",
+            q_id: "q_id_ag_8_7",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/decode-string/",
-            "id": "q_id_8_8"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/decode-string/",
+            q_id: "q_id_ag_8_8",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/shortest-bridge/",
-            "id": "q_id_8_9"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/shortest-bridge/",
+            q_id: "q_id_ag_8_9",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
-            "id": "q_id_8_10"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+            q_id: "q_id_ag_8_10",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/find-eventual-safe-states/",
-            "id": "q_id_8_11"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/find-eventual-safe-states/",
+            q_id: "q_id_ag_8_11",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
-            "id": "q_id_8_12"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+            q_id: "q_id_ag_8_12",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/time-needed-to-inform-all-employees/",
-            "id": "q_id_8_13"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/time-needed-to-inform-all-employees/",
+            q_id: "q_id_ag_8_13",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/graph-coloring-applications/#:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color",
-            "id": "q_id_8_14"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/graph-coloring-applications/#:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color",
+            q_id: "q_id_ag_8_14",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
-            "id": "q_id_8_15"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+            q_id: "q_id_ag_8_15",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/as-far-from-land-as-possible/",
-            "id": "q_id_8_16"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/as-far-from-land-as-possible/",
+            q_id: "q_id_ag_8_16",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
-            "id": "q_id_8_17"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+            q_id: "q_id_ag_8_17",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
-            "id": "q_id_8_18"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
+            q_id: "q_id_ag_8_18",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
-            "id": "q_id_8_19"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
+            q_id: "q_id_ag_8_19",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
-            "id": "q_id_8_20"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+            q_id: "q_id_ag_8_20",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/evaluate-division/",
-            "id": "q_id_8_21"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/evaluate-division/",
+            q_id: "q_id_ag_8_21",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/snakes-and-ladders/",
-            "id": "q_id_8_22"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/snakes-and-ladders/",
+            q_id: "q_id_ag_8_22",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
-            "id": "q_id_8_23"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+            q_id: "q_id_ag_8_23",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
-            "id": "q_id_8_24"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+            q_id: "q_id_ag_8_24",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
-            "id": "q_id_8_25"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
+            q_id: "q_id_ag_8_25",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/bipartite-graph/",
-            "id": "q_id_8_26"
+            topic: "GRAPHS",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/bipartite-graph/",
+            q_id: "q_id_ag_8_26",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
-            "id": "q_id_8_27"
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+            q_id: "q_id_ag_8_27",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/making-a-large-island/",
-            "id": "q_id_8_28"
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/making-a-large-island/",
+            q_id: "q_id_ag_8_28",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/remove-boxes/",
-            "id": "q_id_8_29"
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/remove-boxes/",
+            q_id: "q_id_ag_8_29",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/critical-connections-in-a-network/",
-            "id": "q_id_8_30"
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/critical-connections-in-a-network/",
+            q_id: "q_id_ag_8_30",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
-            "id": "q_id_8_31"
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+            q_id: "q_id_ag_8_31",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
-            "id": "q_id_8_32"
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+            q_id: "q_id_ag_8_32",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
-            "id": "q_id_8_33"
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
+            q_id: "q_id_ag_8_33",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
-            "id": "q_id_8_34"
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
+            q_id: "q_id_ag_8_34",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/word-ladder/",
-            "id": "q_id_8_35"
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/word-ladder/",
+            q_id: "q_id_ag_8_35",
         },
         {
-            "topic": "GRAPHS",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
-            "id": "q_id_8_36"
-        }
+            topic: "GRAPHS",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+            q_id: "q_id_ag_8_36",
+        },
     ],
-    "Tries": [
+    Tries: [
         {
-            "topic": "Tries",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
-            "id": "q_id_9_0"
+            topic: "Tries",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+            q_id: "q_id_ag_9_0",
         },
         {
-            "topic": "Tries",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
-            "id": "q_id_9_1"
+            topic: "Tries",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
+            q_id: "q_id_ag_9_1",
         },
         {
-            "topic": "Tries",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/trie-insert-and-search/",
-            "id": "q_id_9_2"
+            topic: "Tries",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/trie-insert-and-search/",
+            q_id: "q_id_ag_9_2",
         },
         {
-            "topic": "Tries",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
-            "id": "q_id_9_3"
+            topic: "Tries",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+            q_id: "q_id_ag_9_3",
         },
         {
-            "topic": "Tries",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/palindrome-pairs/",
-            "id": "q_id_9_4"
+            topic: "Tries",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/palindrome-pairs/",
+            q_id: "q_id_ag_9_4",
         },
         {
-            "topic": "Tries",
-            "difficulty": "Hard",
-            "link": "https://practice.geeksforgeeks.org/problems/phone-directory/0",
-            "id": "q_id_9_5"
-        }
+            topic: "Tries",
+            difficulty: "Hard",
+            link: "https://practice.geeksforgeeks.org/problems/phone-directory/0",
+            q_id: "q_id_ag_9_5",
+        },
     ],
     "Heaps / PQs": [
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/top-k-frequent-elements/",
-            "id": "q_id_10_0"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/top-k-frequent-elements/",
+            q_id: "q_id_ag_10_0",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
-            "id": "q_id_10_1"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+            q_id: "q_id_ag_10_1",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/ugly-number-ii/",
-            "id": "q_id_10_2"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/ugly-number-ii/",
+            q_id: "q_id_ag_10_2",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/furthest-building-you-can-reach/",
-            "id": "q_id_10_3"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/furthest-building-you-can-reach/",
+            q_id: "q_id_ag_10_3",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
-            "id": "q_id_10_4"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+            q_id: "q_id_ag_10_4",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/reorganize-string/",
-            "id": "q_id_10_5"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/reorganize-string/",
+            q_id: "q_id_ag_10_5",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/find-the-most-competitive-subsequence/",
-            "id": "q_id_10_6"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/find-the-most-competitive-subsequence/",
+            q_id: "q_id_ag_10_6",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/",
-            "id": "q_id_10_7"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/",
+            q_id: "q_id_ag_10_7",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/",
-            "id": "q_id_10_8"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/",
+            q_id: "q_id_ag_10_8",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/k-closest-points-to-origin/",
-            "id": "q_id_10_9"
+            topic: "Heaps / PQs",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/k-closest-points-to-origin/",
+            q_id: "q_id_ag_10_9",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
-            "id": "q_id_10_10"
+            topic: "Heaps / PQs",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+            q_id: "q_id_ag_10_10",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
-            "id": "q_id_10_11"
+            topic: "Heaps / PQs",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+            q_id: "q_id_ag_10_11",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/swim-in-rising-water/",
-            "id": "q_id_10_12"
+            topic: "Heaps / PQs",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/swim-in-rising-water/",
+            q_id: "q_id_ag_10_12",
         },
         {
-            "topic": "Heaps / PQs",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/sliding-window-maximum/",
-            "id": "q_id_10_13"
-        }
+            topic: "Heaps / PQs",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/sliding-window-maximum/",
+            q_id: "q_id_ag_10_13",
+        },
     ],
     "Dynamic Programming": [
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/climbing-stairs",
-            "id": "q_id_11_0"
+            topic: "Dynamic Programming",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/climbing-stairs",
+            q_id: "q_id_ag_11_0",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/maximum-product-subarray/",
-            "id": "q_id_11_1"
+            topic: "Dynamic Programming",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/maximum-product-subarray/",
+            q_id: "q_id_ag_11_1",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/ones-and-zeroes/",
-            "id": "q_id_11_2"
+            topic: "Dynamic Programming",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/ones-and-zeroes/",
+            q_id: "q_id_ag_11_2",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Easy",
-            "link": "https://leetcode.com/problems/counting-bits/",
-            "id": "q_id_11_3"
+            topic: "Dynamic Programming",
+            difficulty: "Easy",
+            link: "https://leetcode.com/problems/counting-bits/",
+            q_id: "q_id_ag_11_3",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/knight-dialer/",
-            "id": "q_id_11_4"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/knight-dialer/",
+            q_id: "q_id_ag_11_4",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/cutted-segments1642/1",
-            "id": "q_id_11_5"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/cutted-segments1642/1",
+            q_id: "q_id_ag_11_5",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/unique-paths/",
-            "id": "q_id_11_6"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/unique-paths/",
+            q_id: "q_id_ag_11_6",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/minimum-path-sum/",
-            "id": "q_id_11_7"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/minimum-path-sum/",
+            q_id: "q_id_ag_11_7",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/coin-change/",
-            "id": "q_id_11_8"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/coin-change/",
+            q_id: "q_id_ag_11_8",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/decode-ways/",
-            "id": "q_id_11_9"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/decode-ways/",
+            q_id: "q_id_ag_11_9",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
-            "id": "q_id_11_10"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+            q_id: "q_id_ag_11_10",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
-            "id": "q_id_11_11"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/longest-increasing-subsequence/",
+            q_id: "q_id_ag_11_11",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1",
-            "id": "q_id_11_12"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1",
+            q_id: "q_id_ag_11_12",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
-            "id": "q_id_11_13"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+            q_id: "q_id_ag_11_13",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/maximal-square/",
-            "id": "q_id_11_14"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/maximal-square/",
+            q_id: "q_id_ag_11_14",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
-            "id": "q_id_11_15"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
+            q_id: "q_id_ag_11_15",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://www.geeksforgeeks.org/weighted-job-scheduling/",
-            "id": "q_id_11_16"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://www.geeksforgeeks.org/weighted-job-scheduling/",
+            q_id: "q_id_ag_11_16",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/delete-and-earn/",
-            "id": "q_id_11_17"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/delete-and-earn/",
+            q_id: "q_id_ag_11_17",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
-            "id": "q_id_11_18"
+            topic: "Dynamic Programming",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+            q_id: "q_id_ag_11_18",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
-            "id": "q_id_11_19"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
+            q_id: "q_id_ag_11_19",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/frog-jump/",
-            "id": "q_id_11_20"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/frog-jump/",
+            q_id: "q_id_ag_11_20",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
-            "id": "q_id_11_21"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+            q_id: "q_id_ag_11_21",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
-            "id": "q_id_11_22"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+            q_id: "q_id_ag_11_22",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
-            "id": "q_id_11_23"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
+            q_id: "q_id_ag_11_23",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/trapping-rain-water/",
-            "id": "q_id_11_24"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/trapping-rain-water/",
+            q_id: "q_id_ag_11_24",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/minimum-cost-to-merge-stones/",
-            "id": "q_id_11_25"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/minimum-cost-to-merge-stones/",
+            q_id: "q_id_ag_11_25",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/count-different-palindromic-subsequences/",
-            "id": "q_id_11_26"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/count-different-palindromic-subsequences/",
+            q_id: "q_id_ag_11_26",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/maximal-rectangle/",
-            "id": "q_id_11_27"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/maximal-rectangle/",
+            q_id: "q_id_ag_11_27",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/burst-balloons/",
-            "id": "q_id_11_28"
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/burst-balloons/",
+            q_id: "q_id_ag_11_28",
         },
         {
-            "topic": "Dynamic Programming",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/super-egg-drop/",
-            "id": "q_id_11_29"
-        }
+            topic: "Dynamic Programming",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/super-egg-drop/",
+            q_id: "q_id_ag_11_29",
+        },
     ],
     "Two Pointer Approach": [
         {
-            "topic": "Two Pointer Approach",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/sort-colors/",
-            "id": "q_id_12_0"
+            topic: "Two Pointer Approach",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/sort-colors/",
+            q_id: "q_id_ag_12_0",
         },
         {
-            "topic": "Two Pointer Approach",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/longest-repeating-character-replacement/",
-            "id": "q_id_12_1"
+            topic: "Two Pointer Approach",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/longest-repeating-character-replacement/",
+            q_id: "q_id_ag_12_1",
         },
         {
-            "topic": "Two Pointer Approach",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/maximum-number-of-visible-points/",
-            "id": "q_id_12_2"
-        }
+            topic: "Two Pointer Approach",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/maximum-number-of-visible-points/",
+            q_id: "q_id_ag_12_2",
+        },
     ],
     "Greedy Algorithms": [
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/gas-station/",
-            "id": "q_id_13_0"
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/gas-station/",
+            q_id: "q_id_ag_13_0",
         },
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/",
-            "id": "q_id_13_1"
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/",
+            q_id: "q_id_ag_13_1",
         },
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/",
-            "id": "q_id_13_2"
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/",
+            q_id: "q_id_ag_13_2",
         },
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/task-scheduler/",
-            "id": "q_id_13_3"
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/task-scheduler/",
+            q_id: "q_id_ag_13_3",
         },
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
-            "id": "q_id_13_4"
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
+            q_id: "q_id_ag_13_4",
         },
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/remove-k-digits/",
-            "id": "q_id_13_5"
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/remove-k-digits/",
+            q_id: "q_id_ag_13_5",
         },
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://www.spoj.com/problems/CHOCOLA/",
-            "id": "q_id_13_6"
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://www.spoj.com/problems/CHOCOLA/",
+            q_id: "q_id_ag_13_6",
         },
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/non-overlapping-intervals/",
-            "id": "q_id_13_7"
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/non-overlapping-intervals/",
+            q_id: "q_id_ag_13_7",
         },
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/",
-            "id": "q_id_13_8"
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/",
+            q_id: "q_id_ag_13_8",
         },
         {
-            "topic": "Greedy Algorithms",
-            "difficulty": "Easy / Medium",
-            "link": "https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array-2/",
-            "id": "q_id_13_9"
-        }
+            topic: "Greedy Algorithms",
+            difficulty: "Easy / Medium",
+            link: "https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array-2/",
+            q_id: "q_id_ag_13_9",
+        },
     ],
-    "Backtracking": [
+    Backtracking: [
         {
-            "topic": "Backtracking",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/combination-sum-ii/",
-            "id": "q_id_14_0"
+            topic: "Backtracking",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/combination-sum-ii/",
+            q_id: "q_id_ag_14_0",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
-            "id": "q_id_14_1"
+            topic: "Backtracking",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            q_id: "q_id_ag_14_1",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/combinations/",
-            "id": "q_id_14_2"
+            topic: "Backtracking",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/combinations/",
+            q_id: "q_id_ag_14_2",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/subsets-ii/",
-            "id": "q_id_14_3"
+            topic: "Backtracking",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/subsets-ii/",
+            q_id: "q_id_ag_14_3",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Medium",
-            "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
-            "id": "q_id_14_4"
+            topic: "Backtracking",
+            difficulty: "Medium",
+            link: "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+            q_id: "q_id_ag_14_4",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/beautiful-arrangement/",
-            "id": "q_id_14_5"
+            topic: "Backtracking",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/beautiful-arrangement/",
+            q_id: "q_id_ag_14_5",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/palindrome-partitioning/",
-            "id": "q_id_14_6"
+            topic: "Backtracking",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/palindrome-partitioning/",
+            q_id: "q_id_ag_14_6",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Medium",
-            "link": "https://leetcode.com/problems/permutations-ii/",
-            "id": "q_id_14_7"
+            topic: "Backtracking",
+            difficulty: "Medium",
+            link: "https://leetcode.com/problems/permutations-ii/",
+            q_id: "q_id_ag_14_7",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/word-search-ii/",
-            "id": "q_id_14_8"
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/word-search-ii/",
+            q_id: "q_id_ag_14_8",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/sudoku-solver/",
-            "id": "q_id_14_9"
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/sudoku-solver/",
+            q_id: "q_id_ag_14_9",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/n-queens/",
-            "id": "q_id_14_10"
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/n-queens/",
+            q_id: "q_id_ag_14_10",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://leetcode.com/problems/unique-paths-iii/",
-            "id": "q_id_14_11"
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://leetcode.com/problems/unique-paths-iii/",
+            q_id: "q_id_ag_14_11",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/",
-            "id": "q_id_14_12"
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/",
+            q_id: "q_id_ag_14_12",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/",
-            "id": "q_id_14_13"
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/",
+            q_id: "q_id_ag_14_13",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/tug-of-war/",
-            "id": "q_id_14_14"
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/tug-of-war/",
+            q_id: "q_id_ag_14_14",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/",
-            "id": "q_id_14_15"
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/",
+            q_id: "q_id_ag_14_15",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/solving-cryptarithmetic-puzzles-backtracking-8/",
-            "id": "q_id_14_16"
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/solving-cryptarithmetic-puzzles-backtracking-8/",
+            q_id: "q_id_ag_14_16",
         },
         {
-            "topic": "Backtracking",
-            "difficulty": "Hard",
-            "link": "https://www.geeksforgeeks.org/print-palindromic-partitions-string/",
-            "id": "q_id_14_17"
-        }
+            topic: "Backtracking",
+            difficulty: "Hard",
+            link: "https://www.geeksforgeeks.org/print-palindromic-partitions-string/",
+            q_id: "q_id_ag_14_17",
+        },
     ],
     "Segment Tree": [
         {
-            "topic": "Segment Tree",
-            "difficulty": "Medium / Hard",
-            "link": "https://leetcode.com/problems/range-sum-query-immutable/",
-            "id": "q_id_15_0"
+            topic: "Segment Tree",
+            difficulty: "Medium / Hard",
+            link: "https://leetcode.com/problems/range-sum-query-immutable/",
+            q_id: "q_id_ag_15_0",
         },
         {
-            "topic": "Segment Tree",
-            "difficulty": "Medium / Hard",
-            "link": "https://leetcode.com/problems/range-sum-query-mutable/",
-            "id": "q_id_15_1"
+            topic: "Segment Tree",
+            difficulty: "Medium / Hard",
+            link: "https://leetcode.com/problems/range-sum-query-mutable/",
+            q_id: "q_id_ag_15_1",
         },
         {
-            "topic": "Segment Tree",
-            "difficulty": "Medium / Hard",
-            "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
-            "id": "q_id_15_2"
+            topic: "Segment Tree",
+            difficulty: "Medium / Hard",
+            link: "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+            q_id: "q_id_ag_15_2",
         },
         {
-            "topic": "Segment Tree",
-            "difficulty": "Medium / Hard",
-            "link": "https://leetcode.com/problems/count-of-range-sum/",
-            "id": "q_id_15_3"
-        }
-    ]
-}
+            topic: "Segment Tree",
+            difficulty: "Medium / Hard",
+            link: "https://leetcode.com/problems/count-of-range-sum/",
+            q_id: "q_id_ag_15_3",
+        },
+    ],
+};
 
 export const LoveBabbar = {
-    "Arrays": [
+    Arrays: [
         {
-            "topic": "Arrays",
-            "name": "Reverse the array",
-            "link": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/",
-            "id": "q_id_0_0"
+            topic: "Arrays",
+            name: "Reverse the array",
+            link: "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/",
+            q_id: "q_id_lb_0_0",
         },
         {
-            "topic": "Arrays",
-            "name": "Find the maximum and minimum element in an array",
-            "link": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/",
-            "id": "q_id_0_1"
+            topic: "Arrays",
+            name: "Find the maximum and minimum element in an array",
+            link: "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/",
+            q_id: "q_id_lb_0_1",
         },
         {
-            "topic": "Arrays",
-            "name": "Find the Kth max and min element of an array",
-            "link": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
-            "id": "q_id_0_2"
+            topic: "Arrays",
+            name: "Find the Kth max and min element of an array",
+            link: "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
+            q_id: "q_id_lb_0_2",
         },
         {
-            "topic": "Arrays",
-            "name": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo\t",
-            "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
-            "id": "q_id_0_3"
+            topic: "Arrays",
+            name: "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo\t",
+            link: "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+            q_id: "q_id_lb_0_3",
         },
         {
-            "topic": "Arrays",
-            "name": "Move all the negative elements to one side of the array \t",
-            "link": "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/",
-            "id": "q_id_0_4"
+            topic: "Arrays",
+            name: "Move all the negative elements to one side of the array \t",
+            link: "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/",
+            q_id: "q_id_lb_0_4",
         },
         {
-            "topic": "Arrays",
-            "name": "Find the Union and Intersection of the two sorted arrays.\t",
-            "link": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0",
-            "id": "q_id_0_5"
+            topic: "Arrays",
+            name: "Find the Union and Intersection of the two sorted arrays.\t",
+            link: "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0",
+            q_id: "q_id_lb_0_5",
         },
         {
-            "topic": "Arrays",
-            "name": "Write a program to cyclically rotate an array by one.\t",
-            "link": "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0",
-            "id": "q_id_0_6"
+            topic: "Arrays",
+            name: "Write a program to cyclically rotate an array by one.\t",
+            link: "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0",
+            q_id: "q_id_lb_0_6",
         },
         {
-            "topic": "Arrays",
-            "name": "find Largest sum contiguous Subarray [V. IMP]\t",
-            "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
-            "id": "q_id_0_7"
+            topic: "Arrays",
+            name: "find Largest sum contiguous Subarray [V. IMP]\t",
+            link: "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            q_id: "q_id_lb_0_7",
         },
         {
-            "topic": "Arrays",
-            "name": "Minimise the maximum difference between heights [V.IMP]\t",
-            "link": "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1",
-            "id": "q_id_0_8"
+            topic: "Arrays",
+            name: "Minimise the maximum difference between heights [V.IMP]\t",
+            link: "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1",
+            q_id: "q_id_lb_0_8",
         },
         {
-            "topic": "Arrays",
-            "name": "Minimum no. of Jumps to reach end of an array\t",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
-            "id": "q_id_0_9"
+            topic: "Arrays",
+            name: "Minimum no. of Jumps to reach end of an array\t",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+            q_id: "q_id_lb_0_9",
         },
         {
-            "topic": "Arrays",
-            "name": "find duplicate in an array of N+1 Integers\t",
-            "link": "https://leetcode.com/problems/find-the-duplicate-number/",
-            "id": "q_id_0_10"
+            topic: "Arrays",
+            name: "find duplicate in an array of N+1 Integers\t",
+            link: "https://leetcode.com/problems/find-the-duplicate-number/",
+            q_id: "q_id_lb_0_10",
         },
         {
-            "topic": "Arrays",
-            "name": "Merge 2 sorted arrays without using Extra space.\t",
-            "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
-            "id": "q_id_0_11"
+            topic: "Arrays",
+            name: "Merge 2 sorted arrays without using Extra space.\t",
+            link: "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
+            q_id: "q_id_lb_0_11",
         },
         {
-            "topic": "Arrays",
-            "name": "Kadane's Algo [V.V.V.V.V IMP]\t",
-            "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
-            "id": "q_id_0_12"
+            topic: "Arrays",
+            name: "Kadane's Algo [V.V.V.V.V IMP]\t",
+            link: "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            q_id: "q_id_lb_0_12",
         },
         {
-            "topic": "Arrays",
-            "name": "Merge Intervals\t",
-            "link": "https://leetcode.com/problems/merge-intervals/",
-            "id": "q_id_0_13"
+            topic: "Arrays",
+            name: "Merge Intervals\t",
+            link: "https://leetcode.com/problems/merge-intervals/",
+            q_id: "q_id_lb_0_13",
         },
         {
-            "topic": "Arrays",
-            "name": "Next Permutation\t",
-            "link": "https://leetcode.com/problems/next-permutation/",
-            "id": "q_id_0_14"
+            topic: "Arrays",
+            name: "Next Permutation\t",
+            link: "https://leetcode.com/problems/next-permutation/",
+            q_id: "q_id_lb_0_14",
         },
         {
-            "topic": "Arrays",
-            "name": "Count Inversion\t",
-            "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
-            "id": "q_id_0_15"
+            topic: "Arrays",
+            name: "Count Inversion\t",
+            link: "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+            q_id: "q_id_lb_0_15",
         },
         {
-            "topic": "Arrays",
-            "name": "Best time to buy and Sell stock\t",
-            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-            "id": "q_id_0_16"
+            topic: "Arrays",
+            name: "Best time to buy and Sell stock\t",
+            link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+            q_id: "q_id_lb_0_16",
         },
         {
-            "topic": "Arrays",
-            "name": "find all pairs on integer array whose sum is equal to given number\t",
-            "link": "https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
-            "id": "q_id_0_17"
+            topic: "Arrays",
+            name: "find all pairs on integer array whose sum is equal to given number\t",
+            link: "https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
+            q_id: "q_id_lb_0_17",
         },
         {
-            "topic": "Arrays",
-            "name": "find common elements In 3 sorted arrays\t",
-            "link": "https://practice.geeksforgeeks.org/problems/common-elements1132/1",
-            "id": "q_id_0_18"
+            topic: "Arrays",
+            name: "find common elements In 3 sorted arrays\t",
+            link: "https://practice.geeksforgeeks.org/problems/common-elements1132/1",
+            q_id: "q_id_lb_0_18",
         },
         {
-            "topic": "Arrays",
-            "name": "Rearrange the array in alternating positive and negative items with O(1) extra space\t",
-            "link": "https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/",
-            "id": "q_id_0_19"
+            topic: "Arrays",
+            name: "Rearrange the array in alternating positive and negative items with O(1) extra space\t",
+            link: "https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/",
+            q_id: "q_id_lb_0_19",
         },
         {
-            "topic": "Arrays",
-            "name": "Find if there is any subarray with sum equal to 0\t",
-            "link": "https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0",
-            "id": "q_id_0_20"
+            topic: "Arrays",
+            name: "Find if there is any subarray with sum equal to 0\t",
+            link: "https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0",
+            q_id: "q_id_lb_0_20",
         },
         {
-            "topic": "Arrays",
-            "name": "Find factorial of a large number\t",
-            "link": "https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0",
-            "id": "q_id_0_21"
+            topic: "Arrays",
+            name: "Find factorial of a large number\t",
+            link: "https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0",
+            q_id: "q_id_lb_0_21",
         },
         {
-            "topic": "Arrays",
-            "name": "find maximum product subarray \t",
-            "link": "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
-            "id": "q_id_0_22"
+            topic: "Arrays",
+            name: "find maximum product subarray \t",
+            link: "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
+            q_id: "q_id_lb_0_22",
         },
         {
-            "topic": "Arrays",
-            "name": "Find longest coinsecutive subsequence\t",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
-            "id": "q_id_0_23"
+            topic: "Arrays",
+            name: "Find longest coinsecutive subsequence\t",
+            link: "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
+            q_id: "q_id_lb_0_23",
         },
         {
-            "topic": "Arrays",
-            "name": "Given an array of size n and a number k, fin all elements that appear more than n/k times.\t",
-            "link": "https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/",
-            "id": "q_id_0_24"
+            topic: "Arrays",
+            name: "Given an array of size n and a number k, fin all elements that appear more than n/k times.\t",
+            link: "https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/",
+            q_id: "q_id_lb_0_24",
         },
         {
-            "topic": "Arrays",
-            "name": "Maximum profit by buying and selling a share atmost twice",
-            "link": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
-            "id": "q_id_0_25"
+            topic: "Arrays",
+            name: "Maximum profit by buying and selling a share atmost twice",
+            link: "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
+            q_id: "q_id_lb_0_25",
         },
         {
-            "topic": "Arrays",
-            "name": "Find whether an array is a subset of another array\t",
-            "link": "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0",
-            "id": "q_id_0_26"
+            topic: "Arrays",
+            name: "Find whether an array is a subset of another array\t",
+            link: "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0",
+            q_id: "q_id_lb_0_26",
         },
         {
-            "topic": "Arrays",
-            "name": "Find the triplet that sum to a given value\t",
-            "link": "https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0",
-            "id": "q_id_0_27"
+            topic: "Arrays",
+            name: "Find the triplet that sum to a given value\t",
+            link: "https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0",
+            q_id: "q_id_lb_0_27",
         },
         {
-            "topic": "Arrays",
-            "name": "Trapping Rain water problem\t",
-            "link": "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0",
-            "id": "q_id_0_28"
+            topic: "Arrays",
+            name: "Trapping Rain water problem\t",
+            link: "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0",
+            q_id: "q_id_lb_0_28",
         },
         {
-            "topic": "Arrays",
-            "name": "Chocolate Distribution problem\t",
-            "link": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
-            "id": "q_id_0_29"
+            topic: "Arrays",
+            name: "Chocolate Distribution problem\t",
+            link: "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+            q_id: "q_id_lb_0_29",
         },
         {
-            "topic": "Arrays",
-            "name": "Smallest Subarray with sum greater than a given value\t",
-            "link": "https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0",
-            "id": "q_id_0_30"
+            topic: "Arrays",
+            name: "Smallest Subarray with sum greater than a given value\t",
+            link: "https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0",
+            q_id: "q_id_lb_0_30",
         },
         {
-            "topic": "Arrays",
-            "name": "Three way partitioning of an array around a given value\t",
-            "link": "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
-            "id": "q_id_0_31"
+            topic: "Arrays",
+            name: "Three way partitioning of an array around a given value\t",
+            link: "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
+            q_id: "q_id_lb_0_31",
         },
         {
-            "topic": "Arrays",
-            "name": "Minimum swaps required bring elements less equal K together\t",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0",
-            "id": "q_id_0_32"
+            topic: "Arrays",
+            name: "Minimum swaps required bring elements less equal K together\t",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0",
+            q_id: "q_id_lb_0_32",
         },
         {
-            "topic": "Arrays",
-            "name": "Minimum no. of operations required to make an array palindrome\t",
-            "link": "https://practice.geeksforgeeks.org/problems/palindromic-array/0",
-            "id": "q_id_0_33"
+            topic: "Arrays",
+            name: "Minimum no. of operations required to make an array palindrome\t",
+            link: "https://practice.geeksforgeeks.org/problems/palindromic-array/0",
+            q_id: "q_id_lb_0_33",
         },
         {
-            "topic": "Arrays",
-            "name": "Median of 2 sorted arrays of equal size\t",
-            "link": "https://practice.geeksforgeeks.org/problems/find-the-median0527/1",
-            "id": "q_id_0_34"
+            topic: "Arrays",
+            name: "Median of 2 sorted arrays of equal size\t",
+            link: "https://practice.geeksforgeeks.org/problems/find-the-median0527/1",
+            q_id: "q_id_lb_0_34",
         },
         {
-            "topic": "Arrays",
-            "name": "Median of 2 sorted arrays of different size\t",
-            "link": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/",
-            "id": "q_id_0_35"
-        }
+            topic: "Arrays",
+            name: "Median of 2 sorted arrays of different size\t",
+            link: "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/",
+            q_id: "q_id_lb_0_35",
+        },
     ],
-    "Matrix": [
+    Matrix: [
         {
-            "name": "Spiral traversal on a Matrix",
-            "topic": "Matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0",
-            "id": "q_id_1_0"
+            name: "Spiral traversal on a Matrix",
+            topic: "Matrix",
+            link: "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0",
+            q_id: "q_id_lb_1_0",
         },
         {
-            "name": "Search an element in a matrix",
-            "topic": "Matrix",
-            "link": "https://leetcode.com/problems/search-a-2d-matrix/",
-            "id": "q_id_1_1"
+            name: "Search an element in a matrix",
+            topic: "Matrix",
+            link: "https://leetcode.com/problems/search-a-2d-matrix/",
+            q_id: "q_id_lb_1_1",
         },
         {
-            "name": "Find median in a row wise sorted matrix",
-            "topic": "Matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
-            "id": "q_id_1_2"
+            name: "Find median in a row wise sorted matrix",
+            topic: "Matrix",
+            link: "https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+            q_id: "q_id_lb_1_2",
         },
         {
-            "name": "Find row with maximum no. of 1's",
-            "topic": "Matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1",
-            "id": "q_id_1_3"
+            name: "Find row with maximum no. of 1's",
+            topic: "Matrix",
+            link: "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1",
+            q_id: "q_id_lb_1_3",
         },
         {
-            "name": "Print elements in sorted order using row-column wise sorted matrix",
-            "topic": "Matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/sorted-matrix/0",
-            "id": "q_id_1_4"
+            name: "Print elements in sorted order using row-column wise sorted matrix",
+            topic: "Matrix",
+            link: "https://practice.geeksforgeeks.org/problems/sorted-matrix/0",
+            q_id: "q_id_lb_1_4",
         },
         {
-            "name": "Maximum size rectangle",
-            "topic": "Matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/max-rectangle/1",
-            "id": "q_id_1_5"
+            name: "Maximum size rectangle",
+            topic: "Matrix",
+            link: "https://practice.geeksforgeeks.org/problems/max-rectangle/1",
+            q_id: "q_id_lb_1_5",
         },
         {
-            "name": "Find a specific pair in matrix",
-            "topic": "Matrix",
-            "link": "https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/",
-            "id": "q_id_1_6"
+            name: "Find a specific pair in matrix",
+            topic: "Matrix",
+            link: "https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/",
+            q_id: "q_id_lb_1_6",
         },
         {
-            "name": "Rotate matrix by 90 degrees",
-            "topic": "Matrix",
-            "link": "https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/",
-            "id": "q_id_1_7"
+            name: "Rotate matrix by 90 degrees",
+            topic: "Matrix",
+            link: "https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/",
+            q_id: "q_id_lb_1_7",
         },
         {
-            "name": "Kth smallest element in a row-cpumn wise sorted matrix",
-            "topic": "Matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1",
-            "id": "q_id_1_8"
+            name: "Kth smallest element in a row-cpumn wise sorted matrix",
+            topic: "Matrix",
+            link: "https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1",
+            q_id: "q_id_lb_1_8",
         },
         {
-            "name": "Common elements in all rows of a given matrix",
-            "topic": "Matrix",
-            "link": "https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/",
-            "id": "q_id_1_9"
-        }
+            name: "Common elements in all rows of a given matrix",
+            topic: "Matrix",
+            link: "https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/",
+            q_id: "q_id_lb_1_9",
+        },
     ],
-    "String": [
+    String: [
         {
-            "topic": "String",
-            "name": "Reverse a String",
-            "link": "https://leetcode.com/problems/reverse-string/",
-            "id": "q_id_2_0"
+            topic: "String",
+            name: "Reverse a String",
+            link: "https://leetcode.com/problems/reverse-string/",
+            q_id: "q_id_lb_2_0",
         },
         {
-            "topic": "String",
-            "name": "Check whether a String is Palindrome or not",
-            "link": "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1",
-            "id": "q_id_2_1"
+            topic: "String",
+            name: "Check whether a String is Palindrome or not",
+            link: "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1",
+            q_id: "q_id_lb_2_1",
         },
         {
-            "topic": "String",
-            "name": "Find Duplicate characters in a string",
-            "link": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
-            "id": "q_id_2_2"
+            topic: "String",
+            name: "Find Duplicate characters in a string",
+            link: "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
+            q_id: "q_id_lb_2_2",
         },
         {
-            "topic": "String",
-            "name": "Write a Code to check whether one string is a rotation of another",
-            "link": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/",
-            "id": "q_id_2_3"
+            topic: "String",
+            name: "Write a Code to check whether one string is a rotation of another",
+            link: "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/",
+            q_id: "q_id_lb_2_3",
         },
         {
-            "topic": "String",
-            "name": "Write a Program to check whether a string is a valid shuffle of two strings or not",
-            "link": "https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings",
-            "id": "q_id_2_4"
+            topic: "String",
+            name: "Write a Program to check whether a string is a valid shuffle of two strings or not",
+            link: "https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings",
+            q_id: "q_id_lb_2_4",
         },
         {
-            "topic": "String",
-            "name": "Count and Say problem",
-            "link": "https://leetcode.com/problems/count-and-say/",
-            "id": "q_id_2_5"
+            topic: "String",
+            name: "Count and Say problem",
+            link: "https://leetcode.com/problems/count-and-say/",
+            q_id: "q_id_lb_2_5",
         },
         {
-            "topic": "String",
-            "name": "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0",
-            "id": "q_id_2_6"
+            topic: "String",
+            name: "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+            link: "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0",
+            q_id: "q_id_lb_2_6",
         },
         {
-            "topic": "String",
-            "name": "Find Longest Recurring Subsequence in String",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
-            "id": "q_id_2_7"
+            topic: "String",
+            name: "Find Longest Recurring Subsequence in String",
+            link: "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
+            q_id: "q_id_lb_2_7",
         },
         {
-            "topic": "String",
-            "name": "Print all Subsequences of a string.",
-            "link": "https://www.geeksforgeeks.org/print-subsequences-string/",
-            "id": "q_id_2_8"
+            topic: "String",
+            name: "Print all Subsequences of a string.",
+            link: "https://www.geeksforgeeks.org/print-subsequences-string/",
+            q_id: "q_id_lb_2_8",
         },
         {
-            "topic": "String",
-            "name": "Print all the permutations of the given string",
-            "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
-            "id": "q_id_2_9"
+            topic: "String",
+            name: "Print all the permutations of the given string",
+            link: "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+            q_id: "q_id_lb_2_9",
         },
         {
-            "topic": "String",
-            "name": "Split the Binary string into two substring with equal 0’s and 1’s",
-            "link": "https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/",
-            "id": "q_id_2_10"
+            topic: "String",
+            name: "Split the Binary string into two substring with equal 0’s and 1’s",
+            link: "https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/",
+            q_id: "q_id_lb_2_10",
         },
         {
-            "topic": "String",
-            "name": "Word Wrap Problem [VERY IMP].",
-            "link": "https://practice.geeksforgeeks.org/problems/word-wrap/0",
-            "id": "q_id_2_11"
+            topic: "String",
+            name: "Word Wrap Problem [VERY IMP].",
+            link: "https://practice.geeksforgeeks.org/problems/word-wrap/0",
+            q_id: "q_id_lb_2_11",
         },
         {
-            "topic": "String",
-            "name": "EDIT Distance [Very Imp]",
-            "link": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
-            "id": "q_id_2_12"
+            topic: "String",
+            name: "EDIT Distance [Very Imp]",
+            link: "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+            q_id: "q_id_lb_2_12",
         },
         {
-            "topic": "String",
-            "name": "Find next greater number with same set of digits. [Very Very IMP]",
-            "link": "https://practice.geeksforgeeks.org/problems/next-permutation/0",
-            "id": "q_id_2_13"
+            topic: "String",
+            name: "Find next greater number with same set of digits. [Very Very IMP]",
+            link: "https://practice.geeksforgeeks.org/problems/next-permutation/0",
+            q_id: "q_id_lb_2_13",
         },
         {
-            "topic": "String",
-            "name": "Balanced Parenthesis problem.[Imp]",
-            "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
-            "id": "q_id_2_14"
+            topic: "String",
+            name: "Balanced Parenthesis problem.[Imp]",
+            link: "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+            q_id: "q_id_lb_2_14",
         },
         {
-            "topic": "String",
-            "name": "Word break Problem[ Very Imp]",
-            "link": "https://practice.geeksforgeeks.org/problems/word-break/0",
-            "id": "q_id_2_15"
+            topic: "String",
+            name: "Word break Problem[ Very Imp]",
+            link: "https://practice.geeksforgeeks.org/problems/word-break/0",
+            q_id: "q_id_lb_2_15",
         },
         {
-            "topic": "String",
-            "name": "Rabin Karp Algo",
-            "link": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
-            "id": "q_id_2_16"
+            topic: "String",
+            name: "Rabin Karp Algo",
+            link: "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
+            q_id: "q_id_lb_2_16",
         },
         {
-            "topic": "String",
-            "name": "KMP Algo",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
-            "id": "q_id_2_17"
+            topic: "String",
+            name: "KMP Algo",
+            link: "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
+            q_id: "q_id_lb_2_17",
         },
         {
-            "topic": "String",
-            "name": "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
-            "link": "https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/",
-            "id": "q_id_2_18"
+            topic: "String",
+            name: "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+            link: "https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/",
+            q_id: "q_id_lb_2_18",
         },
         {
-            "topic": "String",
-            "name": "Minimum number of bracket reversals needed to make an expression balanced.",
-            "link": "https://practice.geeksforgeeks.org/problems/count-the-reversals/0",
-            "id": "q_id_2_19"
+            topic: "String",
+            name: "Minimum number of bracket reversals needed to make an expression balanced.",
+            link: "https://practice.geeksforgeeks.org/problems/count-the-reversals/0",
+            q_id: "q_id_lb_2_19",
         },
         {
-            "topic": "String",
-            "name": "Count All Palindromic Subsequence in a given String.",
-            "link": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
-            "id": "q_id_2_20"
+            topic: "String",
+            name: "Count All Palindromic Subsequence in a given String.",
+            link: "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+            q_id: "q_id_lb_2_20",
         },
         {
-            "topic": "String",
-            "name": "Count of number of given string in 2D character array",
-            "link": "https://www.geeksforgeeks.org/find-count-number-given-string-present-2d-character-array/",
-            "id": "q_id_2_21"
+            topic: "String",
+            name: "Count of number of given string in 2D character array",
+            link: "https://www.geeksforgeeks.org/find-count-number-given-string-present-2d-character-array/",
+            q_id: "q_id_lb_2_21",
         },
         {
-            "topic": "String",
-            "name": "Search a Word in a 2D Grid of characters.",
-            "link": "https://practice.geeksforgeeks.org/problems/find-the-string-in-grid/0",
-            "id": "q_id_2_22"
+            topic: "String",
+            name: "Search a Word in a 2D Grid of characters.",
+            link: "https://practice.geeksforgeeks.org/problems/find-the-string-in-grid/0",
+            q_id: "q_id_lb_2_22",
         },
         {
-            "topic": "String",
-            "name": "Boyer Moore Algorithm for Pattern Searching.",
-            "link": "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
-            "id": "q_id_2_23"
+            topic: "String",
+            name: "Boyer Moore Algorithm for Pattern Searching.",
+            link: "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
+            q_id: "q_id_lb_2_23",
         },
         {
-            "topic": "String",
-            "name": "Converting Roman Numerals to Decimal",
-            "link": "https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0",
-            "id": "q_id_2_24"
+            topic: "String",
+            name: "Converting Roman Numerals to Decimal",
+            link: "https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0",
+            q_id: "q_id_lb_2_24",
         },
         {
-            "topic": "String",
-            "name": "Longest Common Prefix",
-            "link": "https://leetcode.com/problems/longest-common-prefix/",
-            "id": "q_id_2_25"
+            topic: "String",
+            name: "Longest Common Prefix",
+            link: "https://leetcode.com/problems/longest-common-prefix/",
+            q_id: "q_id_lb_2_25",
         },
         {
-            "topic": "String",
-            "name": "Number of flips to make binary string alternate",
-            "link": "https://practice.geeksforgeeks.org/problems/min-number-of-flips/0",
-            "id": "q_id_2_26"
+            topic: "String",
+            name: "Number of flips to make binary string alternate",
+            link: "https://practice.geeksforgeeks.org/problems/min-number-of-flips/0",
+            q_id: "q_id_lb_2_26",
         },
         {
-            "topic": "String",
-            "name": "Find the first repeated word in string.",
-            "link": "https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence/0",
-            "id": "q_id_2_27"
+            topic: "String",
+            name: "Find the first repeated word in string.",
+            link: "https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence/0",
+            q_id: "q_id_lb_2_27",
         },
         {
-            "topic": "String",
-            "name": "Minimum number of swaps for bracket balancing.",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0",
-            "id": "q_id_2_28"
+            topic: "String",
+            name: "Minimum number of swaps for bracket balancing.",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0",
+            q_id: "q_id_lb_2_28",
         },
         {
-            "topic": "String",
-            "name": "Find the longest common subsequence between two strings.",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
-            "id": "q_id_2_29"
+            topic: "String",
+            name: "Find the longest common subsequence between two strings.",
+            link: "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+            q_id: "q_id_lb_2_29",
         },
         {
-            "topic": "String",
-            "name": "Program to generate all possible valid IP addresses from given  string.",
-            "link": "https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/",
-            "id": "q_id_2_30"
+            topic: "String",
+            name: "Program to generate all possible valid IP addresses from given  string.",
+            link: "https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/",
+            q_id: "q_id_lb_2_30",
         },
         {
-            "topic": "String",
-            "name": "Write a program tofind the smallest window that contains all characters of string itself.",
-            "link": "https://practice.geeksforgeeks.org/problems/smallest-distant-window/0",
-            "id": "q_id_2_31"
+            topic: "String",
+            name: "Write a program tofind the smallest window that contains all characters of string itself.",
+            link: "https://practice.geeksforgeeks.org/problems/smallest-distant-window/0",
+            q_id: "q_id_lb_2_31",
         },
         {
-            "topic": "String",
-            "name": "Rearrange characters in a string such that no two adjacent are same",
-            "link": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
-            "id": "q_id_2_32"
+            topic: "String",
+            name: "Rearrange characters in a string such that no two adjacent are same",
+            link: "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+            q_id: "q_id_lb_2_32",
         },
         {
-            "topic": "String",
-            "name": "Minimum characters to be added at front to make string palindrome",
-            "link": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/",
-            "id": "q_id_2_33"
+            topic: "String",
+            name: "Minimum characters to be added at front to make string palindrome",
+            link: "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/",
+            q_id: "q_id_lb_2_33",
         },
         {
-            "topic": "String",
-            "name": "Given a sequence of words, print all anagrams together",
-            "link": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
-            "id": "q_id_2_34"
+            topic: "String",
+            name: "Given a sequence of words, print all anagrams together",
+            link: "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+            q_id: "q_id_lb_2_34",
         },
         {
-            "topic": "String",
-            "name": "Find the smallest window in a string containing all characters of another string",
-            "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
-            "id": "q_id_2_35"
+            topic: "String",
+            name: "Find the smallest window in a string containing all characters of another string",
+            link: "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
+            q_id: "q_id_lb_2_35",
         },
         {
-            "topic": "String",
-            "name": "Recursively remove all adjacent duplicates",
-            "link": "https://practice.geeksforgeeks.org/problems/consecutive-elements/0",
-            "id": "q_id_2_36"
+            topic: "String",
+            name: "Recursively remove all adjacent duplicates",
+            link: "https://practice.geeksforgeeks.org/problems/consecutive-elements/0",
+            q_id: "q_id_lb_2_36",
         },
         {
-            "topic": "String",
-            "name": "String matching where one string contains wildcard characters",
-            "link": "https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0",
-            "id": "q_id_2_37"
+            topic: "String",
+            name: "String matching where one string contains wildcard characters",
+            link: "https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0",
+            q_id: "q_id_lb_2_37",
         },
         {
-            "topic": "String",
-            "name": "Function to find Number of customers who could not get a computer",
-            "link": "https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/",
-            "id": "q_id_2_38"
+            topic: "String",
+            name: "Function to find Number of customers who could not get a computer",
+            link: "https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/",
+            q_id: "q_id_lb_2_38",
         },
         {
-            "topic": "String",
-            "name": "Transform One String to Another using Minimum Number of Given Operation",
-            "link": "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/",
-            "id": "q_id_2_39"
+            topic: "String",
+            name: "Transform One String to Another using Minimum Number of Given Operation",
+            link: "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/",
+            q_id: "q_id_lb_2_39",
         },
         {
-            "topic": "String",
-            "name": "Check if two given strings are isomorphic to each other",
-            "link": "https://practice.geeksforgeeks.org/problems/isomorphic-strings/0",
-            "id": "q_id_2_40"
+            topic: "String",
+            name: "Check if two given strings are isomorphic to each other",
+            link: "https://practice.geeksforgeeks.org/problems/isomorphic-strings/0",
+            q_id: "q_id_lb_2_40",
         },
         {
-            "topic": "String",
-            "name": "Recursively print all sentences that can be formed from list of word lists",
-            "link": "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/",
-            "id": "q_id_2_41"
-        }
+            topic: "String",
+            name: "Recursively print all sentences that can be formed from list of word lists",
+            link: "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/",
+            q_id: "q_id_lb_2_41",
+        },
     ],
     "Searching & Sorting": [
         {
-            "topic": "Searching & Sorting",
-            "name": "Find first and last positions of an element in a sorted array",
-            "link": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0",
-            "id": "q_id_3_0"
+            topic: "Searching & Sorting",
+            name: "Find first and last positions of an element in a sorted array",
+            link: "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0",
+            q_id: "q_id_lb_3_0",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Find a Fixed Point (Value equal to index) in a given array",
-            "link": "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1",
-            "id": "q_id_3_1"
+            topic: "Searching & Sorting",
+            name: "Find a Fixed Point (Value equal to index) in a given array",
+            link: "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1",
+            q_id: "q_id_lb_3_1",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Search in a rotated sorted array",
-            "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-            "id": "q_id_3_2"
+            topic: "Searching & Sorting",
+            name: "Search in a rotated sorted array",
+            link: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+            q_id: "q_id_lb_3_2",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "square root of an integer",
-            "link": "https://practice.geeksforgeeks.org/problems/count-squares3649/1",
-            "id": "q_id_3_3"
+            topic: "Searching & Sorting",
+            name: "square root of an integer",
+            link: "https://practice.geeksforgeeks.org/problems/count-squares3649/1",
+            q_id: "q_id_lb_3_3",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Maximum and minimum of an array using minimum number of comparisons",
-            "link": "https://practice.geeksforgeeks.org/problems/middle-of-three2926/1",
-            "id": "q_id_3_4"
+            topic: "Searching & Sorting",
+            name: "Maximum and minimum of an array using minimum number of comparisons",
+            link: "https://practice.geeksforgeeks.org/problems/middle-of-three2926/1",
+            q_id: "q_id_lb_3_4",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Optimum location of point to minimize total distance",
-            "link": "https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/",
-            "id": "q_id_3_5"
+            topic: "Searching & Sorting",
+            name: "Optimum location of point to minimize total distance",
+            link: "https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/",
+            q_id: "q_id_lb_3_5",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Find the repeating and the missing",
-            "link": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
-            "id": "q_id_3_6"
+            topic: "Searching & Sorting",
+            name: "Find the repeating and the missing",
+            link: "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+            q_id: "q_id_lb_3_6",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "find majority element",
-            "link": "https://practice.geeksforgeeks.org/problems/majority-element/0",
-            "id": "q_id_3_7"
+            topic: "Searching & Sorting",
+            name: "find majority element",
+            link: "https://practice.geeksforgeeks.org/problems/majority-element/0",
+            q_id: "q_id_lb_3_7",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Searching in an array where adjacent differ by at most k",
-            "link": "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/",
-            "id": "q_id_3_8"
+            topic: "Searching & Sorting",
+            name: "Searching in an array where adjacent differ by at most k",
+            link: "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/",
+            q_id: "q_id_lb_3_8",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "find a pair with a given difference",
-            "link": "https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0",
-            "id": "q_id_3_9"
+            topic: "Searching & Sorting",
+            name: "find a pair with a given difference",
+            link: "https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0",
+            q_id: "q_id_lb_3_9",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "find four elements that sum to a given value",
-            "link": "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0",
-            "id": "q_id_3_10"
+            topic: "Searching & Sorting",
+            name: "find four elements that sum to a given value",
+            link: "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0",
+            q_id: "q_id_lb_3_10",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "maximum sum such that no 2 elements are adjacent",
-            "link": "https://practice.geeksforgeeks.org/problems/stickler-theif/0",
-            "id": "q_id_3_11"
+            topic: "Searching & Sorting",
+            name: "maximum sum such that no 2 elements are adjacent",
+            link: "https://practice.geeksforgeeks.org/problems/stickler-theif/0",
+            q_id: "q_id_lb_3_11",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Count triplet with sum smaller than a given value",
-            "link": "https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1",
-            "id": "q_id_3_12"
+            topic: "Searching & Sorting",
+            name: "Count triplet with sum smaller than a given value",
+            link: "https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1",
+            q_id: "q_id_lb_3_12",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "merge 2 sorted arrays",
-            "link": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
-            "id": "q_id_3_13"
+            topic: "Searching & Sorting",
+            name: "merge 2 sorted arrays",
+            link: "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
+            q_id: "q_id_lb_3_13",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "print all subarrays with 0 sum",
-            "link": "https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0",
-            "id": "q_id_3_14"
+            topic: "Searching & Sorting",
+            name: "print all subarrays with 0 sum",
+            link: "https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0",
+            q_id: "q_id_lb_3_14",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Product array Puzzle",
-            "link": "https://practice.geeksforgeeks.org/problems/product-array-puzzle/0",
-            "id": "q_id_3_15"
+            topic: "Searching & Sorting",
+            name: "Product array Puzzle",
+            link: "https://practice.geeksforgeeks.org/problems/product-array-puzzle/0",
+            q_id: "q_id_lb_3_15",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Sort array according to count of set bits",
-            "link": "https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0",
-            "id": "q_id_3_16"
+            topic: "Searching & Sorting",
+            name: "Sort array according to count of set bits",
+            link: "https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0",
+            q_id: "q_id_lb_3_16",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "minimum no. of swaps required to sort the array",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-swaps/1",
-            "id": "q_id_3_17"
+            topic: "Searching & Sorting",
+            name: "minimum no. of swaps required to sort the array",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-swaps/1",
+            q_id: "q_id_lb_3_17",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Bishu and Soldiers",
-            "link": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/",
-            "id": "q_id_3_18"
+            topic: "Searching & Sorting",
+            name: "Bishu and Soldiers",
+            link: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/",
+            q_id: "q_id_lb_3_18",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Rasta and Kheshtak",
-            "link": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/",
-            "id": "q_id_3_19"
+            topic: "Searching & Sorting",
+            name: "Rasta and Kheshtak",
+            link: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/",
+            q_id: "q_id_lb_3_19",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Kth smallest number again",
-            "link": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/",
-            "id": "q_id_3_20"
+            topic: "Searching & Sorting",
+            name: "Kth smallest number again",
+            link: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/",
+            q_id: "q_id_lb_3_20",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Find pivot element in a sorted array",
-            "link": "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/",
-            "id": "q_id_3_21"
+            topic: "Searching & Sorting",
+            name: "Find pivot element in a sorted array",
+            link: "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/",
+            q_id: "q_id_lb_3_21",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "K-th Element of Two Sorted Arrays",
-            "link": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0",
-            "id": "q_id_3_22"
+            topic: "Searching & Sorting",
+            name: "K-th Element of Two Sorted Arrays",
+            link: "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0",
+            q_id: "q_id_lb_3_22",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Aggressive cows",
-            "link": "https://www.spoj.com/problems/AGGRCOW/",
-            "id": "q_id_3_23"
+            topic: "Searching & Sorting",
+            name: "Aggressive cows",
+            link: "https://www.spoj.com/problems/AGGRCOW/",
+            q_id: "q_id_lb_3_23",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Book Allocation Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
-            "id": "q_id_3_24"
+            topic: "Searching & Sorting",
+            name: "Book Allocation Problem",
+            link: "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
+            q_id: "q_id_lb_3_24",
         },
         {
-            "topic": "Searchig & Sorting",
-            "name": "EKOSPOJ:",
-            "link": "https://www.spoj.com/problems/EKO/",
-            "id": "q_id_3_25"
+            topic: "Searchig & Sorting",
+            name: "EKOSPOJ:",
+            link: "https://www.spoj.com/problems/EKO/",
+            q_id: "q_id_lb_3_25",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Job Scheduling Algo",
-            "link": "https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/",
-            "id": "q_id_3_26"
+            topic: "Searching & Sorting",
+            name: "Job Scheduling Algo",
+            link: "https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/",
+            q_id: "q_id_lb_3_26",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Missing Number in AP",
-            "link": "https://practice.geeksforgeeks.org/problems/arithmetic-number/0",
-            "id": "q_id_3_27"
+            topic: "Searching & Sorting",
+            name: "Missing Number in AP",
+            link: "https://practice.geeksforgeeks.org/problems/arithmetic-number/0",
+            q_id: "q_id_lb_3_27",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Smallest number with atleastn trailing zeroes infactorial",
-            "link": "https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1",
-            "id": "q_id_3_28"
+            topic: "Searching & Sorting",
+            name: "Smallest number with atleastn trailing zeroes infactorial",
+            link: "https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1",
+            q_id: "q_id_lb_3_28",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Painters Partition Problem:",
-            "link": "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
-            "id": "q_id_3_29"
+            topic: "Searching & Sorting",
+            name: "Painters Partition Problem:",
+            link: "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
+            q_id: "q_id_lb_3_29",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "ROTI-Prata SPOJ",
-            "link": "https://www.spoj.com/problems/PRATA/",
-            "id": "q_id_3_30"
+            topic: "Searching & Sorting",
+            name: "ROTI-Prata SPOJ",
+            link: "https://www.spoj.com/problems/PRATA/",
+            q_id: "q_id_lb_3_30",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "DoubleHelix SPOJ",
-            "link": "https://www.spoj.com/problems/ANARC05B/",
-            "id": "q_id_3_31"
+            topic: "Searching & Sorting",
+            name: "DoubleHelix SPOJ",
+            link: "https://www.spoj.com/problems/ANARC05B/",
+            q_id: "q_id_lb_3_31",
         },
         {
-            "topic": "Searching Sorting",
-            "name": "Subset Sums",
-            "link": "https://www.spoj.com/problems/SUBSUMS/",
-            "id": "q_id_3_32"
+            topic: "Searching Sorting",
+            name: "Subset Sums",
+            link: "https://www.spoj.com/problems/SUBSUMS/",
+            q_id: "q_id_lb_3_32",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Findthe inversion count",
-            "link": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
-            "id": "q_id_3_33"
+            topic: "Searching & Sorting",
+            name: "Findthe inversion count",
+            link: "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+            q_id: "q_id_lb_3_33",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Implement Merge-sort in-place",
-            "link": "https://www.geeksforgeeks.org/in-place-merge-sort/",
-            "id": "q_id_3_34"
+            topic: "Searching & Sorting",
+            name: "Implement Merge-sort in-place",
+            link: "https://www.geeksforgeeks.org/in-place-merge-sort/",
+            q_id: "q_id_lb_3_34",
         },
         {
-            "topic": "Searching & Sorting",
-            "name": "Partitioning and Sorting Arrays with Many Repeated Entries",
-            "link": "https://www.baeldung.com/java-sorting-arrays-with-repeated-entries",
-            "id": "q_id_3_35"
-        }
+            topic: "Searching & Sorting",
+            name: "Partitioning and Sorting Arrays with Many Repeated Entries",
+            link: "https://www.baeldung.com/java-sorting-arrays-with-repeated-entries",
+            q_id: "q_id_lb_3_35",
+        },
     ],
-    "LinkedList": [
+    LinkedList: [
         {
-            "topic": "LinkedList",
-            "name": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
-            "link": "https://www.geeksforgeeks.org/reverse-a-linked-list/",
-            "id": "q_id_4_0"
+            topic: "LinkedList",
+            name: "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+            link: "https://www.geeksforgeeks.org/reverse-a-linked-list/",
+            q_id: "q_id_lb_4_0",
         },
         {
-            "topic": "LinkedList",
-            "name": "Reverse a Linked List in group of Given Size. [Very Imp]",
-            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
-            "id": "q_id_4_1"
+            topic: "LinkedList",
+            name: "Reverse a Linked List in group of Given Size. [Very Imp]",
+            link: "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
+            q_id: "q_id_lb_4_1",
         },
         {
-            "topic": "LinkedList",
-            "name": "Write a program to Detect loop in a linked list.",
-            "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
-            "id": "q_id_4_2"
+            topic: "LinkedList",
+            name: "Write a program to Detect loop in a linked list.",
+            link: "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+            q_id: "q_id_lb_4_2",
         },
         {
-            "topic": "LinkedList",
-            "name": "Write a program to Delete loop in a linked list.",
-            "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
-            "id": "q_id_4_3"
+            topic: "LinkedList",
+            name: "Write a program to Delete loop in a linked list.",
+            link: "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
+            q_id: "q_id_lb_4_3",
         },
         {
-            "topic": "LinkedList",
-            "name": "Find the starting point of the loop. ",
-            "link": "https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/",
-            "id": "q_id_4_4"
+            topic: "LinkedList",
+            name: "Find the starting point of the loop. ",
+            link: "https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/",
+            q_id: "q_id_lb_4_4",
         },
         {
-            "topic": "LinkedList",
-            "name": "Remove Duplicates in a sorted Linked List.",
-            "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
-            "id": "q_id_4_5"
+            topic: "LinkedList",
+            name: "Remove Duplicates in a sorted Linked List.",
+            link: "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
+            q_id: "q_id_lb_4_5",
         },
         {
-            "topic": "LinkedList",
-            "name": "Remove Duplicates in a Un-sorted Linked List.",
-            "link": "https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1",
-            "id": "q_id_4_6"
+            topic: "LinkedList",
+            name: "Remove Duplicates in a Un-sorted Linked List.",
+            link: "https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1",
+            q_id: "q_id_lb_4_6",
         },
         {
-            "topic": "LinkedList",
-            "name": "Write a Program to Move the last element to Front in a Linked List.",
-            "link": "https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/",
-            "id": "q_id_4_7"
+            topic: "LinkedList",
+            name: "Write a Program to Move the last element to Front in a Linked List.",
+            link: "https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/",
+            q_id: "q_id_lb_4_7",
         },
         {
-            "topic": "LinkedList",
-            "name": "Add “1” to a number represented as a Linked List.",
-            "link": "https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
-            "id": "q_id_4_8"
+            topic: "LinkedList",
+            name: "Add “1” to a number represented as a Linked List.",
+            link: "https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
+            q_id: "q_id_lb_4_8",
         },
         {
-            "topic": "LinkedList",
-            "name": "Add two numbers represented by linked lists.",
-            "link": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
-            "id": "q_id_4_9"
+            topic: "LinkedList",
+            name: "Add two numbers represented by linked lists.",
+            link: "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
+            q_id: "q_id_lb_4_9",
         },
         {
-            "topic": "LinkedList",
-            "name": "Intersection of two Sorted Linked List.",
-            "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
-            "id": "q_id_4_10"
+            topic: "LinkedList",
+            name: "Intersection of two Sorted Linked List.",
+            link: "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
+            q_id: "q_id_lb_4_10",
         },
         {
-            "topic": "LinkedList",
-            "name": "Intersection Point of two Linked Lists.",
-            "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
-            "id": "q_id_4_11"
+            topic: "LinkedList",
+            name: "Intersection Point of two Linked Lists.",
+            link: "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+            q_id: "q_id_lb_4_11",
         },
         {
-            "topic": "LinkedList",
-            "name": "Merge Sort For Linked lists.[Very Important]",
-            "link": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1",
-            "id": "q_id_4_12"
+            topic: "LinkedList",
+            name: "Merge Sort For Linked lists.[Very Important]",
+            link: "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1",
+            q_id: "q_id_lb_4_12",
         },
         {
-            "topic": "LinkedList",
-            "name": "Quicksort for Linked Lists.[Very Important]",
-            "link": "https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1",
-            "id": "q_id_4_13"
+            topic: "LinkedList",
+            name: "Quicksort for Linked Lists.[Very Important]",
+            link: "https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1",
+            q_id: "q_id_lb_4_13",
         },
         {
-            "topic": "LinkedList",
-            "name": "Find the middle Element of a linked list.",
-            "link": "https://leetcode.com/problems/middle-of-the-linked-list/",
-            "id": "q_id_4_14"
+            topic: "LinkedList",
+            name: "Find the middle Element of a linked list.",
+            link: "https://leetcode.com/problems/middle-of-the-linked-list/",
+            q_id: "q_id_lb_4_14",
         },
         {
-            "topic": "LinkedList",
-            "name": "Check if a linked list is a circular linked list.",
-            "link": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1",
-            "id": "q_id_4_15"
+            topic: "LinkedList",
+            name: "Check if a linked list is a circular linked list.",
+            link: "https://practice.geeksforgeeks.org/problems/circular-linked-list/1",
+            q_id: "q_id_lb_4_15",
         },
         {
-            "topic": "LinkedList",
-            "name": "Split a Circular linked list into two halves.",
-            "link": "https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1",
-            "id": "q_id_4_16"
+            topic: "LinkedList",
+            name: "Split a Circular linked list into two halves.",
+            link: "https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1",
+            q_id: "q_id_lb_4_16",
         },
         {
-            "topic": "LinkedList",
-            "name": "Write a Program to check whether the Singly Linked list is a palindrome or not.",
-            "link": "https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
-            "id": "q_id_4_17"
+            topic: "LinkedList",
+            name: "Write a Program to check whether the Singly Linked list is a palindrome or not.",
+            link: "https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
+            q_id: "q_id_lb_4_17",
         },
         {
-            "topic": "LinkedList",
-            "name": "Deletion from a Circular Linked List.",
-            "link": "https://www.geeksforgeeks.org/deletion-circular-linked-list/",
-            "id": "q_id_4_18"
+            topic: "LinkedList",
+            name: "Deletion from a Circular Linked List.",
+            link: "https://www.geeksforgeeks.org/deletion-circular-linked-list/",
+            q_id: "q_id_lb_4_18",
         },
         {
-            "topic": "LinkedList",
-            "name": "Reverse a Doubly Linked list.",
-            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
-            "id": "q_id_4_19"
+            topic: "LinkedList",
+            name: "Reverse a Doubly Linked list.",
+            link: "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
+            q_id: "q_id_lb_4_19",
         },
         {
-            "topic": "LinkedList",
-            "name": "Find pairs with a given sum in a DLL.",
-            "link": "https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/",
-            "id": "q_id_4_20"
+            topic: "LinkedList",
+            name: "Find pairs with a given sum in a DLL.",
+            link: "https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/",
+            q_id: "q_id_lb_4_20",
         },
         {
-            "topic": "LinkedList",
-            "name": "Count triplets in a sorted DLL whose sum is equal to given value “X”.",
-            "link": "https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/",
-            "id": "q_id_4_21"
+            topic: "LinkedList",
+            name: "Count triplets in a sorted DLL whose sum is equal to given value “X”.",
+            link: "https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/",
+            q_id: "q_id_lb_4_21",
         },
         {
-            "topic": "LinkedList",
-            "name": "Sort a “k”sorted Doubly Linked list.[Very IMP]",
-            "link": "https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/",
-            "id": "q_id_4_22"
+            topic: "LinkedList",
+            name: "Sort a “k”sorted Doubly Linked list.[Very IMP]",
+            link: "https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/",
+            q_id: "q_id_lb_4_22",
         },
         {
-            "topic": "LinkedList",
-            "name": "Rotate DoublyLinked list by N nodes.",
-            "link": "https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/",
-            "id": "q_id_4_23"
+            topic: "LinkedList",
+            name: "Rotate DoublyLinked list by N nodes.",
+            link: "https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/",
+            q_id: "q_id_lb_4_23",
         },
         {
-            "topic": "LinkedList",
-            "name": "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
-            "link": "https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/",
-            "id": "q_id_4_24"
+            topic: "LinkedList",
+            name: "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+            link: "https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/",
+            q_id: "q_id_lb_4_24",
         },
         {
-            "topic": "LinkedList",
-            "name": "Flatten a Linked List",
-            "link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
-            "id": "q_id_4_25"
+            topic: "LinkedList",
+            name: "Flatten a Linked List",
+            link: "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+            q_id: "q_id_lb_4_25",
         },
         {
-            "topic": "LinkedList",
-            "name": "Sort a LL of 0's, 1's and 2's",
-            "link": "https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
-            "id": "q_id_4_26"
+            topic: "LinkedList",
+            name: "Sort a LL of 0's, 1's and 2's",
+            link: "https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+            q_id: "q_id_lb_4_26",
         },
         {
-            "topic": "LinkedList",
-            "name": "Clone a linked list with next and random pointer",
-            "link": "https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1",
-            "id": "q_id_4_27"
+            topic: "LinkedList",
+            name: "Clone a linked list with next and random pointer",
+            link: "https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1",
+            q_id: "q_id_lb_4_27",
         },
         {
-            "topic": "LinkedList",
-            "name": "Merge K sorted Linked list",
-            "link": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
-            "id": "q_id_4_28"
+            topic: "LinkedList",
+            name: "Merge K sorted Linked list",
+            link: "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+            q_id: "q_id_lb_4_28",
         },
         {
-            "topic": "LinkedList",
-            "name": "Multiply 2 no. represented by LL",
-            "link": "https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1",
-            "id": "q_id_4_29"
+            topic: "LinkedList",
+            name: "Multiply 2 no. represented by LL",
+            link: "https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1",
+            q_id: "q_id_lb_4_29",
         },
         {
-            "topic": "LinkedList",
-            "name": "Delete nodes which have a greater value on right side",
-            "link": "https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1",
-            "id": "q_id_4_30"
+            topic: "LinkedList",
+            name: "Delete nodes which have a greater value on right side",
+            link: "https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1",
+            q_id: "q_id_lb_4_30",
         },
         {
-            "topic": "LinkedList",
-            "name": "Segregate even and odd nodes in a Linked List",
-            "link": "https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0",
-            "id": "q_id_4_31"
+            topic: "LinkedList",
+            name: "Segregate even and odd nodes in a Linked List",
+            link: "https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0",
+            q_id: "q_id_lb_4_31",
         },
         {
-            "topic": "LinkedList",
-            "name": "Program for n’th node from the end of a Linked List",
-            "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
-            "id": "q_id_4_32"
+            topic: "LinkedList",
+            name: "Program for n’th node from the end of a Linked List",
+            link: "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
+            q_id: "q_id_lb_4_32",
         },
         {
-            "topic": "LinkedList",
-            "name": "Find the first non-repeating character from a stream of characters",
-            "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
-            "id": "q_id_4_33"
-        }
+            topic: "LinkedList",
+            name: "Find the first non-repeating character from a stream of characters",
+            link: "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+            q_id: "q_id_lb_4_33",
+        },
     ],
     "Binary Trees": [
         {
-            "topic": "Binary Trees",
-            "name": "level order traversal",
-            "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1",
-            "id": "q_id_5_0"
+            topic: "Binary Trees",
+            name: "level order traversal",
+            link: "https://practice.geeksforgeeks.org/problems/level-order-traversal/1",
+            q_id: "q_id_lb_5_0",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Reverse Level Order traversal",
-            "link": "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1",
-            "id": "q_id_5_1"
+            topic: "Binary Trees",
+            name: "Reverse Level Order traversal",
+            link: "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1",
+            q_id: "q_id_lb_5_1",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Height of a tree",
-            "link": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
-            "id": "q_id_5_2"
+            topic: "Binary Trees",
+            name: "Height of a tree",
+            link: "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
+            q_id: "q_id_lb_5_2",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Diameter of a tree",
-            "link": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
-            "id": "q_id_5_3"
+            topic: "Binary Trees",
+            name: "Diameter of a tree",
+            link: "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+            q_id: "q_id_lb_5_3",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Mirror of a tree",
-            "link": "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/",
-            "id": "q_id_5_4"
+            topic: "Binary Trees",
+            name: "Mirror of a tree",
+            link: "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/",
+            q_id: "q_id_lb_5_4",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Inorder Traversal of a tree both using recursion and Iteration",
-            "link": "https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/",
-            "id": "q_id_5_5"
+            topic: "Binary Trees",
+            name: "Inorder Traversal of a tree both using recursion and Iteration",
+            link: "https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/",
+            q_id: "q_id_lb_5_5",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Preorder Traversal of a tree both using recursion and Iteration",
-            "link": "https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/",
-            "id": "q_id_5_6"
+            topic: "Binary Trees",
+            name: "Preorder Traversal of a tree both using recursion and Iteration",
+            link: "https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/",
+            q_id: "q_id_lb_5_6",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Postorder Traversal of a tree both using recursion and Iteration",
-            "link": "https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/",
-            "id": "q_id_5_7"
+            topic: "Binary Trees",
+            name: "Postorder Traversal of a tree both using recursion and Iteration",
+            link: "https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/",
+            q_id: "q_id_lb_5_7",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Left View of a tree",
-            "link": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
-            "id": "q_id_5_8"
+            topic: "Binary Trees",
+            name: "Left View of a tree",
+            link: "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+            q_id: "q_id_lb_5_8",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Right View of Tree",
-            "link": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
-            "id": "q_id_5_9"
+            topic: "Binary Trees",
+            name: "Right View of Tree",
+            link: "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
+            q_id: "q_id_lb_5_9",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Top View of a tree",
-            "link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
-            "id": "q_id_5_10"
+            topic: "Binary Trees",
+            name: "Top View of a tree",
+            link: "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+            q_id: "q_id_lb_5_10",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Bottom View of a tree",
-            "link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
-            "id": "q_id_5_11"
+            topic: "Binary Trees",
+            name: "Bottom View of a tree",
+            link: "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+            q_id: "q_id_lb_5_11",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Zig-Zag traversal of a binary tree",
-            "link": "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
-            "id": "q_id_5_12"
+            topic: "Binary Trees",
+            name: "Zig-Zag traversal of a binary tree",
+            link: "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
+            q_id: "q_id_lb_5_12",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Check if a tree is balanced or not",
-            "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
-            "id": "q_id_5_13"
+            topic: "Binary Trees",
+            name: "Check if a tree is balanced or not",
+            link: "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+            q_id: "q_id_lb_5_13",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Diagnol Traversal of a Binary tree",
-            "link": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/",
-            "id": "q_id_5_14"
+            topic: "Binary Trees",
+            name: "Diagnol Traversal of a Binary tree",
+            link: "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/",
+            q_id: "q_id_lb_5_14",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Boundary traversal of a Binary tree",
-            "link": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
-            "id": "q_id_5_15"
+            topic: "Binary Trees",
+            name: "Boundary traversal of a Binary tree",
+            link: "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+            q_id: "q_id_lb_5_15",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Construct Binary Tree from String with Bracket Representation",
-            "link": "https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/",
-            "id": "q_id_5_16"
+            topic: "Binary Trees",
+            name: "Construct Binary Tree from String with Bracket Representation",
+            link: "https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/",
+            q_id: "q_id_lb_5_16",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Convert Binary tree into Doubly Linked List",
-            "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
-            "id": "q_id_5_17"
+            topic: "Binary Trees",
+            name: "Convert Binary tree into Doubly Linked List",
+            link: "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+            q_id: "q_id_lb_5_17",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Convert Binary tree into Sum tree",
-            "link": "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1",
-            "id": "q_id_5_18"
+            topic: "Binary Trees",
+            name: "Convert Binary tree into Sum tree",
+            link: "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1",
+            q_id: "q_id_lb_5_18",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Construct Binary tree from Inorder and preorder traversal",
-            "link": "https://practice.geeksforgeeks.org/problems/construct-tree-1/1",
-            "id": "q_id_5_19"
+            topic: "Binary Trees",
+            name: "Construct Binary tree from Inorder and preorder traversal",
+            link: "https://practice.geeksforgeeks.org/problems/construct-tree-1/1",
+            q_id: "q_id_lb_5_19",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Find minimum swaps required to convert a Binary tree into BST",
-            "link": "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/",
-            "id": "q_id_5_20"
+            topic: "Binary Trees",
+            name: "Find minimum swaps required to convert a Binary tree into BST",
+            link: "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/",
+            q_id: "q_id_lb_5_20",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Check if Binary tree is Sum tree or not",
-            "link": "https://practice.geeksforgeeks.org/problems/sum-tree/1",
-            "id": "q_id_5_21"
+            topic: "Binary Trees",
+            name: "Check if Binary tree is Sum tree or not",
+            link: "https://practice.geeksforgeeks.org/problems/sum-tree/1",
+            q_id: "q_id_lb_5_21",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Check if all leaf nodes are at same level or not",
-            "link": "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1",
-            "id": "q_id_5_22"
+            topic: "Binary Trees",
+            name: "Check if all leaf nodes are at same level or not",
+            link: "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1",
+            q_id: "q_id_lb_5_22",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
-            "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
-            "id": "q_id_5_23"
+            topic: "Binary Trees",
+            name: "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+            link: "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
+            q_id: "q_id_lb_5_23",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Check if 2 trees are mirror or not",
-            "link": "https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0",
-            "id": "q_id_5_24"
+            topic: "Binary Trees",
+            name: "Check if 2 trees are mirror or not",
+            link: "https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0",
+            q_id: "q_id_lb_5_24",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Sum of Nodes on the Longest path from root to leaf node ",
-            "link": "https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1",
-            "id": "q_id_5_25"
+            topic: "Binary Trees",
+            name: "Sum of Nodes on the Longest path from root to leaf node ",
+            link: "https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1",
+            q_id: "q_id_lb_5_25",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Check if given graph is tree or not.  [ IMP ]",
-            "link": "https://www.geeksforgeeks.org/check-given-graph-tree/",
-            "id": "q_id_5_26"
+            topic: "Binary Trees",
+            name: "Check if given graph is tree or not.  [ IMP ]",
+            link: "https://www.geeksforgeeks.org/check-given-graph-tree/",
+            q_id: "q_id_lb_5_26",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Find Largest subtree sum in a tree",
-            "link": "https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/",
-            "id": "q_id_5_27"
+            topic: "Binary Trees",
+            name: "Find Largest subtree sum in a tree",
+            link: "https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/",
+            q_id: "q_id_lb_5_27",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Maximum Sum of nodes in Binary tree such that no two are adjacent ",
-            "link": "https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/",
-            "id": "q_id_5_28"
+            topic: "Binary Trees",
+            name: "Maximum Sum of nodes in Binary tree such that no two are adjacent ",
+            link: "https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/",
+            q_id: "q_id_lb_5_28",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Print all K Sum paths in a Binary tree",
-            "link": "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/",
-            "id": "q_id_5_29"
+            topic: "Binary Trees",
+            name: "Print all K Sum paths in a Binary tree",
+            link: "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/",
+            q_id: "q_id_lb_5_29",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Find LCA in a Binary tree",
-            "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
-            "id": "q_id_5_30"
+            topic: "Binary Trees",
+            name: "Find LCA in a Binary tree",
+            link: "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+            q_id: "q_id_lb_5_30",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Find distance between 2 nodes in a Binary tree",
-            "link": "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
-            "id": "q_id_5_31"
+            topic: "Binary Trees",
+            name: "Find distance between 2 nodes in a Binary tree",
+            link: "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
+            q_id: "q_id_lb_5_31",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Kth Ancestor of node in a Binary tree",
-            "link": "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/",
-            "id": "q_id_5_32"
+            topic: "Binary Trees",
+            name: "Kth Ancestor of node in a Binary tree",
+            link: "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/",
+            q_id: "q_id_lb_5_32",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Find all Duplicate subtrees in a Binary tree [ IMP ]",
-            "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1",
-            "id": "q_id_5_33"
+            topic: "Binary Trees",
+            name: "Find all Duplicate subtrees in a Binary tree [ IMP ]",
+            link: "https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1",
+            q_id: "q_id_lb_5_33",
         },
         {
-            "topic": "Binary Trees",
-            "name": "Tree Isomorphism Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1",
-            "id": "q_id_5_34"
-        }
+            topic: "Binary Trees",
+            name: "Tree Isomorphism Problem",
+            link: "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1",
+            q_id: "q_id_lb_5_34",
+        },
     ],
     "Binary Search Trees": [
         {
-            "topic": "Binary Search Trees",
-            "name": "Fina a value in a BST",
-            "link": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/",
-            "id": "q_id_6_0"
+            topic: "Binary Search Trees",
+            name: "Fina a value in a BST",
+            link: "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/",
+            q_id: "q_id_lb_6_0",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Deletion of a node in a BST",
-            "link": "https://leetcode.com/problems/delete-node-in-a-bst/",
-            "id": "q_id_6_1"
+            topic: "Binary Search Trees",
+            name: "Deletion of a node in a BST",
+            link: "https://leetcode.com/problems/delete-node-in-a-bst/",
+            q_id: "q_id_lb_6_1",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Find min and max value in a BST",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1",
-            "id": "q_id_6_2"
+            topic: "Binary Search Trees",
+            name: "Find min and max value in a BST",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1",
+            q_id: "q_id_lb_6_2",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Find inorder successor and inorder predecessor in a BST",
-            "link": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
-            "id": "q_id_6_3"
+            topic: "Binary Search Trees",
+            name: "Find inorder successor and inorder predecessor in a BST",
+            link: "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+            q_id: "q_id_lb_6_3",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Check if a tree is a BST or not ",
-            "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
-            "id": "q_id_6_4"
+            topic: "Binary Search Trees",
+            name: "Check if a tree is a BST or not ",
+            link: "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+            q_id: "q_id_lb_6_4",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Populate Inorder successor of all nodes",
-            "link": "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1",
-            "id": "q_id_6_5"
+            topic: "Binary Search Trees",
+            name: "Populate Inorder successor of all nodes",
+            link: "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1",
+            q_id: "q_id_lb_6_5",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Find LCA  of 2 nodes in a BST",
-            "link": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1",
-            "id": "q_id_6_6"
+            topic: "Binary Search Trees",
+            name: "Find LCA  of 2 nodes in a BST",
+            link: "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1",
+            q_id: "q_id_lb_6_6",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Construct BST from preorder traversal",
-            "link": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/",
-            "id": "q_id_6_7"
+            topic: "Binary Search Trees",
+            name: "Construct BST from preorder traversal",
+            link: "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/",
+            q_id: "q_id_lb_6_7",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Convert Binary tree into BST",
-            "link": "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1",
-            "id": "q_id_6_8"
+            topic: "Binary Search Trees",
+            name: "Convert Binary tree into BST",
+            link: "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1",
+            q_id: "q_id_lb_6_8",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Convert a normal BST into a Balanced BST",
-            "link": "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/",
-            "id": "q_id_6_9"
+            topic: "Binary Search Trees",
+            name: "Convert a normal BST into a Balanced BST",
+            link: "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/",
+            q_id: "q_id_lb_6_9",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Merge two BST [ V.V.V>IMP ]",
-            "link": "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/",
-            "id": "q_id_6_10"
+            topic: "Binary Search Trees",
+            name: "Merge two BST [ V.V.V>IMP ]",
+            link: "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/",
+            q_id: "q_id_lb_6_10",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Find Kth largest element in a BST",
-            "link": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
-            "id": "q_id_6_11"
+            topic: "Binary Search Trees",
+            name: "Find Kth largest element in a BST",
+            link: "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+            q_id: "q_id_lb_6_11",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Find Kth smallest element in a BST",
-            "link": "https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1",
-            "id": "q_id_6_12"
+            topic: "Binary Search Trees",
+            name: "Find Kth smallest element in a BST",
+            link: "https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1",
+            q_id: "q_id_lb_6_12",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Count pairs from 2 BST whose sum is equal to given value X",
-            "link": "https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1",
-            "id": "q_id_6_13"
+            topic: "Binary Search Trees",
+            name: "Count pairs from 2 BST whose sum is equal to given value X",
+            link: "https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1",
+            q_id: "q_id_lb_6_13",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Find the median of BST in O(n) time and O(1) space",
-            "link": "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
-            "id": "q_id_6_14"
+            topic: "Binary Search Trees",
+            name: "Find the median of BST in O(n) time and O(1) space",
+            link: "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
+            q_id: "q_id_lb_6_14",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Count BST ndoes that lie in a given range",
-            "link": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
-            "id": "q_id_6_15"
+            topic: "Binary Search Trees",
+            name: "Count BST ndoes that lie in a given range",
+            link: "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+            q_id: "q_id_lb_6_15",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Replace every element with the least greater element on its right",
-            "link": "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/",
-            "id": "q_id_6_16"
+            topic: "Binary Search Trees",
+            name: "Replace every element with the least greater element on its right",
+            link: "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/",
+            q_id: "q_id_lb_6_16",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Given n appointments, find the conflicting appointments",
-            "link": "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/",
-            "id": "q_id_6_17"
+            topic: "Binary Search Trees",
+            name: "Given n appointments, find the conflicting appointments",
+            link: "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/",
+            q_id: "q_id_lb_6_17",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Check preorder is valid or not",
-            "link": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0",
-            "id": "q_id_6_18"
+            topic: "Binary Search Trees",
+            name: "Check preorder is valid or not",
+            link: "https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0",
+            q_id: "q_id_lb_6_18",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Check whether BST contains Dead end",
-            "link": "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
-            "id": "q_id_6_19"
+            topic: "Binary Search Trees",
+            name: "Check whether BST contains Dead end",
+            link: "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
+            q_id: "q_id_lb_6_19",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
-            "link": "https://practice.geeksforgeeks.org/problems/largest-bst/1",
-            "id": "q_id_6_20"
+            topic: "Binary Search Trees",
+            name: "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+            link: "https://practice.geeksforgeeks.org/problems/largest-bst/1",
+            q_id: "q_id_lb_6_20",
         },
         {
-            "topic": "Binary Search Trees",
-            "name": "Flatten BST to sorted list",
-            "link": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/",
-            "id": "q_id_6_21"
-        }
+            topic: "Binary Search Trees",
+            name: "Flatten BST to sorted list",
+            link: "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/",
+            q_id: "q_id_lb_6_21",
+        },
     ],
-    "Greedy": [
+    Greedy: [
         {
-            "topic": "Greedy",
-            "name": "Activity Selection Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0",
-            "id": "q_id_7_0"
+            topic: "Greedy",
+            name: "Activity Selection Problem",
+            link: "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0",
+            q_id: "q_id_lb_7_0",
         },
         {
-            "topic": "Greedy",
-            "name": "Job SequencingProblem",
-            "link": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0",
-            "id": "q_id_7_1"
+            topic: "Greedy",
+            name: "Job SequencingProblem",
+            link: "https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0",
+            q_id: "q_id_lb_7_1",
         },
         {
-            "topic": "Greedy",
-            "name": "Huffman Coding",
-            "link": "https://practice.geeksforgeeks.org/problems/huffman-encoding/0",
-            "id": "q_id_7_2"
+            topic: "Greedy",
+            name: "Huffman Coding",
+            link: "https://practice.geeksforgeeks.org/problems/huffman-encoding/0",
+            q_id: "q_id_lb_7_2",
         },
         {
-            "topic": "Greedy",
-            "name": "Water Connection Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/water-connection-problem/0",
-            "id": "q_id_7_3"
+            topic: "Greedy",
+            name: "Water Connection Problem",
+            link: "https://practice.geeksforgeeks.org/problems/water-connection-problem/0",
+            q_id: "q_id_lb_7_3",
         },
         {
-            "topic": "Greedy",
-            "name": "Fractional Knapsack Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/fractional-knapsack/0",
-            "id": "q_id_7_4"
+            topic: "Greedy",
+            name: "Fractional Knapsack Problem",
+            link: "https://practice.geeksforgeeks.org/problems/fractional-knapsack/0",
+            q_id: "q_id_lb_7_4",
         },
         {
-            "topic": "Greedy",
-            "name": "Greedy Algorithm to find Minimum number of Coins",
-            "link": "https://practice.geeksforgeeks.org/problems/coin-piles/0",
-            "id": "q_id_7_5"
+            topic: "Greedy",
+            name: "Greedy Algorithm to find Minimum number of Coins",
+            link: "https://practice.geeksforgeeks.org/problems/coin-piles/0",
+            q_id: "q_id_lb_7_5",
         },
         {
-            "topic": "Greedy",
-            "name": "Maximum trains for which stoppage can be provided",
-            "link": "https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/",
-            "id": "q_id_7_6"
+            topic: "Greedy",
+            name: "Maximum trains for which stoppage can be provided",
+            link: "https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/",
+            q_id: "q_id_lb_7_6",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimum Platforms Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
-            "id": "q_id_7_7"
+            topic: "Greedy",
+            name: "Minimum Platforms Problem",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
+            q_id: "q_id_lb_7_7",
         },
         {
-            "topic": "Greedy",
-            "name": "Buy Maximum Stocks if i stocks can be bought on i-th day",
-            "link": "https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/",
-            "id": "q_id_7_8"
+            topic: "Greedy",
+            name: "Buy Maximum Stocks if i stocks can be bought on i-th day",
+            link: "https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/",
+            q_id: "q_id_lb_7_8",
         },
         {
-            "topic": "Greedy",
-            "name": "Find the minimum and maximum amount to buy all N candies",
-            "link": "https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0",
-            "id": "q_id_7_9"
+            topic: "Greedy",
+            name: "Find the minimum and maximum amount to buy all N candies",
+            link: "https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0",
+            q_id: "q_id_lb_7_9",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
-            "link": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
-            "id": "q_id_7_10"
+            topic: "Greedy",
+            name: "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+            link: "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+            q_id: "q_id_lb_7_10",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimum Cost to cut a board into squares",
-            "link": "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/",
-            "id": "q_id_7_11"
+            topic: "Greedy",
+            name: "Minimum Cost to cut a board into squares",
+            link: "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/",
+            q_id: "q_id_lb_7_11",
         },
         {
-            "topic": "Greedy",
-            "name": "Check if it is possible to survive on Island",
-            "link": "https://www.geeksforgeeks.org/survival/",
-            "id": "q_id_7_12"
+            topic: "Greedy",
+            name: "Check if it is possible to survive on Island",
+            link: "https://www.geeksforgeeks.org/survival/",
+            q_id: "q_id_lb_7_12",
         },
         {
-            "topic": "Greedy",
-            "name": "Find maximum meetings in one room",
-            "link": "https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/",
-            "id": "q_id_7_13"
+            topic: "Greedy",
+            name: "Find maximum meetings in one room",
+            link: "https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/",
+            q_id: "q_id_lb_7_13",
         },
         {
-            "topic": "Greedy",
-            "name": "Maximum product subset of an array",
-            "link": "https://www.geeksforgeeks.org/maximum-product-subset-array/",
-            "id": "q_id_7_14"
+            topic: "Greedy",
+            name: "Maximum product subset of an array",
+            link: "https://www.geeksforgeeks.org/maximum-product-subset-array/",
+            q_id: "q_id_lb_7_14",
         },
         {
-            "topic": "Greedy",
-            "name": "Maximize array sum after K negations",
-            "link": "https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations/0",
-            "id": "q_id_7_15"
+            topic: "Greedy",
+            name: "Maximize array sum after K negations",
+            link: "https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations/0",
+            q_id: "q_id_lb_7_15",
         },
         {
-            "topic": "Greedy",
-            "name": "Maximize the sum of arr[i]*i",
-            "link": "https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0",
-            "id": "q_id_7_16"
+            topic: "Greedy",
+            name: "Maximize the sum of arr[i]*i",
+            link: "https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0",
+            q_id: "q_id_lb_7_16",
         },
         {
-            "topic": "Greedy",
-            "name": "Maximum sum of absolute difference of an array",
-            "link": "https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/",
-            "id": "q_id_7_17"
+            topic: "Greedy",
+            name: "Maximum sum of absolute difference of an array",
+            link: "https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/",
+            q_id: "q_id_lb_7_17",
         },
         {
-            "topic": "Greedy",
-            "name": "Maximize sum of consecutive differences in a circular array",
-            "link": "https://practice.geeksforgeeks.org/problems/swap-and-maximize/0",
-            "id": "q_id_7_18"
+            topic: "Greedy",
+            name: "Maximize sum of consecutive differences in a circular array",
+            link: "https://practice.geeksforgeeks.org/problems/swap-and-maximize/0",
+            q_id: "q_id_lb_7_18",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimum sum of absolute difference of pairs of two arrays",
-            "link": "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/",
-            "id": "q_id_7_19"
+            topic: "Greedy",
+            name: "Minimum sum of absolute difference of pairs of two arrays",
+            link: "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/",
+            q_id: "q_id_lb_7_19",
         },
         {
-            "topic": "Greedy",
-            "name": "Program for Shortest Job First (or SJF) CPU Scheduling",
-            "link": "https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/",
-            "id": "q_id_7_20"
+            topic: "Greedy",
+            name: "Program for Shortest Job First (or SJF) CPU Scheduling",
+            link: "https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/",
+            q_id: "q_id_lb_7_20",
         },
         {
-            "topic": "Greedy",
-            "name": "Program for Least Recently Used (LRU) Page Replacement algorithm",
-            "link": "https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0",
-            "id": "q_id_7_21"
+            topic: "Greedy",
+            name: "Program for Least Recently Used (LRU) Page Replacement algorithm",
+            link: "https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0",
+            q_id: "q_id_lb_7_21",
         },
         {
-            "topic": "Greedy",
-            "name": "Smallest subset with sum greater than all other elements",
-            "link": "https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/",
-            "id": "q_id_7_22"
+            topic: "Greedy",
+            name: "Smallest subset with sum greater than all other elements",
+            link: "https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/",
+            q_id: "q_id_lb_7_22",
         },
         {
-            "topic": "Greedy",
-            "name": "Chocolate Distribution Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
-            "id": "q_id_7_23"
+            topic: "Greedy",
+            name: "Chocolate Distribution Problem",
+            link: "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+            q_id: "q_id_lb_7_23",
         },
         {
-            "topic": "Greedy",
-            "name": "DEFKIN -Defense of a Kingdom",
-            "link": "https://www.spoj.com/problems/DEFKIN/",
-            "id": "q_id_7_24"
+            topic: "Greedy",
+            name: "DEFKIN -Defense of a Kingdom",
+            link: "https://www.spoj.com/problems/DEFKIN/",
+            q_id: "q_id_lb_7_24",
         },
         {
-            "topic": "Greedy",
-            "name": "DIEHARD -DIE HARD",
-            "link": "https://www.spoj.com/problems/DIEHARD/",
-            "id": "q_id_7_25"
+            topic: "Greedy",
+            name: "DIEHARD -DIE HARD",
+            link: "https://www.spoj.com/problems/DIEHARD/",
+            q_id: "q_id_lb_7_25",
         },
         {
-            "topic": "Greedy",
-            "name": "GERGOVIA -Wine trading in Gergovia",
-            "link": "https://www.spoj.com/problems/GERGOVIA/",
-            "id": "q_id_7_26"
+            topic: "Greedy",
+            name: "GERGOVIA -Wine trading in Gergovia",
+            link: "https://www.spoj.com/problems/GERGOVIA/",
+            q_id: "q_id_lb_7_26",
         },
         {
-            "topic": "Greedy",
-            "name": "Picking Up Chicks",
-            "link": "https://www.spoj.com/problems/GCJ101BB/",
-            "id": "q_id_7_27"
+            topic: "Greedy",
+            name: "Picking Up Chicks",
+            link: "https://www.spoj.com/problems/GCJ101BB/",
+            q_id: "q_id_lb_7_27",
         },
         {
-            "topic": "Greedy",
-            "name": "CHOCOLA –Chocolate",
-            "link": "https://www.spoj.com/problems/CHOCOLA/",
-            "id": "q_id_7_28"
+            topic: "Greedy",
+            name: "CHOCOLA –Chocolate",
+            link: "https://www.spoj.com/problems/CHOCOLA/",
+            q_id: "q_id_lb_7_28",
         },
         {
-            "topic": "Greedy",
-            "name": "ARRANGE -Arranging Amplifiers",
-            "link": "https://www.spoj.com/problems/ARRANGE/",
-            "id": "q_id_7_29"
+            topic: "Greedy",
+            name: "ARRANGE -Arranging Amplifiers",
+            link: "https://www.spoj.com/problems/ARRANGE/",
+            q_id: "q_id_lb_7_29",
         },
         {
-            "topic": "Greedy",
-            "name": "K Centers Problem",
-            "link": "https://www.geeksforgeeks.org/k-centers-problem-set-1-greedy-approximate-algorithm/",
-            "id": "q_id_7_30"
+            topic: "Greedy",
+            name: "K Centers Problem",
+            link: "https://www.geeksforgeeks.org/k-centers-problem-set-1-greedy-approximate-algorithm/",
+            q_id: "q_id_lb_7_30",
         },
         {
-            "topic": "Greedy",
-            "name": "Minimum Cost of ropes",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
-            "id": "q_id_7_31"
+            topic: "Greedy",
+            name: "Minimum Cost of ropes",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+            q_id: "q_id_lb_7_31",
         },
         {
-            "topic": "Greedy",
-            "name": "Find smallest number with given number of digits and sum of digits",
-            "link": "https://practice.geeksforgeeks.org/problems/smallest-number5829/1",
-            "id": "q_id_7_32"
+            topic: "Greedy",
+            name: "Find smallest number with given number of digits and sum of digits",
+            link: "https://practice.geeksforgeeks.org/problems/smallest-number5829/1",
+            q_id: "q_id_lb_7_32",
         },
         {
-            "topic": "Greedy",
-            "name": "Rearrange characters in a string such that no two adjacent are same",
-            "link": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
-            "id": "q_id_7_33"
+            topic: "Greedy",
+            name: "Rearrange characters in a string such that no two adjacent are same",
+            link: "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+            q_id: "q_id_lb_7_33",
         },
         {
-            "topic": "Greedy",
-            "name": "Find maximum sum possible equal sum of three stacks",
-            "link": "https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/",
-            "id": "q_id_7_34"
-        }
+            topic: "Greedy",
+            name: "Find maximum sum possible equal sum of three stacks",
+            link: "https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/",
+            q_id: "q_id_lb_7_34",
+        },
     ],
-    "BackTracking": [
+    BackTracking: [
         {
-            "topic": "BackTracking",
-            "name": "Rat in a maze Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
-            "id": "q_id_8_0"
+            topic: "BackTracking",
+            name: "Rat in a maze Problem",
+            link: "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+            q_id: "q_id_lb_8_0",
         },
         {
-            "topic": "BackTracking",
-            "name": "Printing all solutions in N-Queen Problem",
-            "link": "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/",
-            "id": "q_id_8_1"
+            topic: "BackTracking",
+            name: "Printing all solutions in N-Queen Problem",
+            link: "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/",
+            q_id: "q_id_lb_8_1",
         },
         {
-            "topic": "BackTracking",
-            "name": "Word Break Problem using Backtracking",
-            "link": "https://practice.geeksforgeeks.org/problems/word-break-part-2/0",
-            "id": "q_id_8_2"
+            topic: "BackTracking",
+            name: "Word Break Problem using Backtracking",
+            link: "https://practice.geeksforgeeks.org/problems/word-break-part-2/0",
+            q_id: "q_id_lb_8_2",
         },
         {
-            "topic": "BackTracking",
-            "name": "Remove Invalid Parentheses",
-            "link": "https://leetcode.com/problems/remove-invalid-parentheses/",
-            "id": "q_id_8_3"
+            topic: "BackTracking",
+            name: "Remove Invalid Parentheses",
+            link: "https://leetcode.com/problems/remove-invalid-parentheses/",
+            q_id: "q_id_lb_8_3",
         },
         {
-            "topic": "BackTracking",
-            "name": "Sudoku Solver",
-            "link": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0",
-            "id": "q_id_8_4"
+            topic: "BackTracking",
+            name: "Sudoku Solver",
+            link: "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0",
+            q_id: "q_id_lb_8_4",
         },
         {
-            "topic": "BackTracking",
-            "name": "m Coloring Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
-            "id": "q_id_8_5"
+            topic: "BackTracking",
+            name: "m Coloring Problem",
+            link: "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+            q_id: "q_id_lb_8_5",
         },
         {
-            "topic": "BackTracking",
-            "name": "Print all palindromic partitions of a string",
-            "link": "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/",
-            "id": "q_id_8_6"
+            topic: "BackTracking",
+            name: "Print all palindromic partitions of a string",
+            link: "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/",
+            q_id: "q_id_lb_8_6",
         },
         {
-            "topic": "BackTracking",
-            "name": "Subset Sum Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
-            "id": "q_id_8_7"
+            topic: "BackTracking",
+            name: "Subset Sum Problem",
+            link: "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            q_id: "q_id_lb_8_7",
         },
         {
-            "topic": "BackTracking",
-            "name": "The Knight’s tour problem",
-            "link": "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/",
-            "id": "q_id_8_8"
+            topic: "BackTracking",
+            name: "The Knight’s tour problem",
+            link: "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/",
+            q_id: "q_id_lb_8_8",
         },
         {
-            "topic": "BackTracking",
-            "name": "Tug of War",
-            "link": "https://www.geeksforgeeks.org/tug-of-war/",
-            "id": "q_id_8_9"
+            topic: "BackTracking",
+            name: "Tug of War",
+            link: "https://www.geeksforgeeks.org/tug-of-war/",
+            q_id: "q_id_lb_8_9",
         },
         {
-            "topic": "BackTracking",
-            "name": "Find shortest safe route in a path with landmines",
-            "link": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
-            "id": "q_id_8_10"
+            topic: "BackTracking",
+            name: "Find shortest safe route in a path with landmines",
+            link: "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
+            q_id: "q_id_lb_8_10",
         },
         {
-            "topic": "BackTracking",
-            "name": "Combinational Sum",
-            "link": "https://practice.geeksforgeeks.org/problems/combination-sum/0",
-            "id": "q_id_8_11"
+            topic: "BackTracking",
+            name: "Combinational Sum",
+            link: "https://practice.geeksforgeeks.org/problems/combination-sum/0",
+            q_id: "q_id_lb_8_11",
         },
         {
-            "topic": "BackTracking",
-            "name": "Find Maximum number possible by doing at-most K swaps",
-            "link": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0",
-            "id": "q_id_8_12"
+            topic: "BackTracking",
+            name: "Find Maximum number possible by doing at-most K swaps",
+            link: "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0",
+            q_id: "q_id_lb_8_12",
         },
         {
-            "topic": "BackTracking",
-            "name": "Print all permutations of a string ",
-            "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
-            "id": "q_id_8_13"
+            topic: "BackTracking",
+            name: "Print all permutations of a string ",
+            link: "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+            q_id: "q_id_lb_8_13",
         },
         {
-            "topic": "BackTracking",
-            "name": "Find if there is a path of more than k length from a source",
-            "link": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
-            "id": "q_id_8_14"
+            topic: "BackTracking",
+            name: "Find if there is a path of more than k length from a source",
+            link: "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+            q_id: "q_id_lb_8_14",
         },
         {
-            "topic": "BackTracking",
-            "name": "Longest Possible Route in a Matrix with Hurdles",
-            "link": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
-            "id": "q_id_8_15"
+            topic: "BackTracking",
+            name: "Longest Possible Route in a Matrix with Hurdles",
+            link: "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
+            q_id: "q_id_lb_8_15",
         },
         {
-            "topic": "BackTracking",
-            "name": "Print all possible paths from top left to bottom right of a mXn matrix",
-            "link": "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/",
-            "id": "q_id_8_16"
+            topic: "BackTracking",
+            name: "Print all possible paths from top left to bottom right of a mXn matrix",
+            link: "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/",
+            q_id: "q_id_lb_8_16",
         },
         {
-            "topic": "BackTracking",
-            "name": "Partition of a set intoK subsets with equal sum",
-            "link": "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
-            "id": "q_id_8_17"
+            topic: "BackTracking",
+            name: "Partition of a set intoK subsets with equal sum",
+            link: "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
+            q_id: "q_id_lb_8_17",
         },
         {
-            "topic": "BackTracking",
-            "name": "Find the K-th Permutation Sequence of first N natural numbers",
-            "link": "https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/",
-            "id": "q_id_8_18"
-        }
+            topic: "BackTracking",
+            name: "Find the K-th Permutation Sequence of first N natural numbers",
+            link: "https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/",
+            q_id: "q_id_lb_8_18",
+        },
     ],
     "Stacks & Queues": [
         {
-            "topic": "Stacks & Queues",
-            "name": " Implement Stack from Scratch",
-            "link": "https://www.tutorialspoint.com/javaexamples/data_stack.htm",
-            "id": "q_id_9_0"
+            topic: "Stacks & Queues",
+            name: " Implement Stack from Scratch",
+            link: "https://www.tutorialspoint.com/javaexamples/data_stack.htm",
+            q_id: "q_id_lb_9_0",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": " Implement Queue from Scratch",
-            "link": "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/",
-            "id": "q_id_9_1"
+            topic: "Stacks & Queues",
+            name: " Implement Queue from Scratch",
+            link: "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/",
+            q_id: "q_id_lb_9_1",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement 2 stack in an array",
-            "link": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
-            "id": "q_id_9_2"
+            topic: "Stacks & Queues",
+            name: "Implement 2 stack in an array",
+            link: "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+            q_id: "q_id_lb_9_2",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "find the middle element of a stack",
-            "link": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/",
-            "id": "q_id_9_3"
+            topic: "Stacks & Queues",
+            name: "find the middle element of a stack",
+            link: "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/",
+            q_id: "q_id_lb_9_3",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement N stacks in an Array",
-            "link": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/",
-            "id": "q_id_9_4"
+            topic: "Stacks & Queues",
+            name: "Implement N stacks in an Array",
+            link: "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/",
+            q_id: "q_id_lb_9_4",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Check the expression has valid or Balanced parenthesis or not.",
-            "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
-            "id": "q_id_9_5"
+            topic: "Stacks & Queues",
+            name: "Check the expression has valid or Balanced parenthesis or not.",
+            link: "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+            q_id: "q_id_lb_9_5",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Reverse a String using Stack",
-            "link": "https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1",
-            "id": "q_id_9_6"
+            topic: "Stacks & Queues",
+            name: "Reverse a String using Stack",
+            link: "https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1",
+            q_id: "q_id_lb_9_6",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
-            "link": "https://practice.geeksforgeeks.org/problems/special-stack/1",
-            "id": "q_id_9_7"
+            topic: "Stacks & Queues",
+            name: "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+            link: "https://practice.geeksforgeeks.org/problems/special-stack/1",
+            q_id: "q_id_lb_9_7",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Find the next Greater element",
-            "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
-            "id": "q_id_9_8"
+            topic: "Stacks & Queues",
+            name: "Find the next Greater element",
+            link: "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
+            q_id: "q_id_lb_9_8",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "The celebrity Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
-            "id": "q_id_9_9"
+            topic: "Stacks & Queues",
+            name: "The celebrity Problem",
+            link: "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
+            q_id: "q_id_lb_9_9",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Arithmetic Expression evaluation",
-            "link": "https://www.geeksforgeeks.org/arithmetic-expression-evalution/",
-            "id": "q_id_9_10"
+            topic: "Stacks & Queues",
+            name: "Arithmetic Expression evaluation",
+            link: "https://www.geeksforgeeks.org/arithmetic-expression-evalution/",
+            q_id: "q_id_lb_9_10",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Evaluation of Postfix expression",
-            "link": "https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0",
-            "id": "q_id_9_11"
+            topic: "Stacks & Queues",
+            name: "Evaluation of Postfix expression",
+            link: "https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0",
+            q_id: "q_id_lb_9_11",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement a method to insert an element at its bottom without using any other data structure.",
-            "link": "https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack",
-            "id": "q_id_9_12"
+            topic: "Stacks & Queues",
+            name: "Implement a method to insert an element at its bottom without using any other data structure.",
+            link: "https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack",
+            q_id: "q_id_lb_9_12",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Reverse a stack using recursion",
-            "link": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/",
-            "id": "q_id_9_13"
+            topic: "Stacks & Queues",
+            name: "Reverse a stack using recursion",
+            link: "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/",
+            q_id: "q_id_lb_9_13",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Sort a Stack using recursion",
-            "link": "https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
-            "id": "q_id_9_14"
+            topic: "Stacks & Queues",
+            name: "Sort a Stack using recursion",
+            link: "https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
+            q_id: "q_id_lb_9_14",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Merge Overlapping Intervals",
-            "link": "https://practice.geeksforgeeks.org/problems/overlapping-intervals/0",
-            "id": "q_id_9_15"
+            topic: "Stacks & Queues",
+            name: "Merge Overlapping Intervals",
+            link: "https://practice.geeksforgeeks.org/problems/overlapping-intervals/0",
+            q_id: "q_id_lb_9_15",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Largest rectangular Area in Histogram",
-            "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
-            "id": "q_id_9_16"
+            topic: "Stacks & Queues",
+            name: "Largest rectangular Area in Histogram",
+            link: "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
+            q_id: "q_id_lb_9_16",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Length of the Longest Valid Substring",
-            "link": "https://practice.geeksforgeeks.org/problems/valid-substring0624/1",
-            "id": "q_id_9_17"
+            topic: "Stacks & Queues",
+            name: "Length of the Longest Valid Substring",
+            link: "https://practice.geeksforgeeks.org/problems/valid-substring0624/1",
+            q_id: "q_id_lb_9_17",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Expression contains redundant bracket or not",
-            "link": "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/",
-            "id": "q_id_9_18"
+            topic: "Stacks & Queues",
+            name: "Expression contains redundant bracket or not",
+            link: "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/",
+            q_id: "q_id_lb_9_18",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement Stack using Queue",
-            "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
-            "id": "q_id_9_19"
+            topic: "Stacks & Queues",
+            name: "Implement Stack using Queue",
+            link: "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+            q_id: "q_id_lb_9_19",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement Stack using Deque",
-            "link": "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
-            "id": "q_id_9_20"
+            topic: "Stacks & Queues",
+            name: "Implement Stack using Deque",
+            link: "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
+            q_id: "q_id_lb_9_20",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Stack Permutations (Check if an array is stack permutation of other)",
-            "link": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/",
-            "id": "q_id_9_21"
+            topic: "Stacks & Queues",
+            name: "Stack Permutations (Check if an array is stack permutation of other)",
+            link: "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/",
+            q_id: "q_id_lb_9_21",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement Queue using Stack  ",
-            "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
-            "id": "q_id_9_22"
+            topic: "Stacks & Queues",
+            name: "Implement Queue using Stack  ",
+            link: "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+            q_id: "q_id_lb_9_22",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement n queue in an array",
-            "link": "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/",
-            "id": "q_id_9_23"
+            topic: "Stacks & Queues",
+            name: "Implement n queue in an array",
+            link: "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/",
+            q_id: "q_id_lb_9_23",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Implement a Circular queue",
-            "link": "https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/",
-            "id": "q_id_9_24"
+            topic: "Stacks & Queues",
+            name: "Implement a Circular queue",
+            link: "https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/",
+            q_id: "q_id_lb_9_24",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "LRU Cache Implementationa",
-            "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
-            "id": "q_id_9_25"
+            topic: "Stacks & Queues",
+            name: "LRU Cache Implementationa",
+            link: "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+            q_id: "q_id_lb_9_25",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Reverse a Queue using recursion",
-            "link": "https://practice.geeksforgeeks.org/problems/queue-reversal/1",
-            "id": "q_id_9_26"
+            topic: "Stacks & Queues",
+            name: "Reverse a Queue using recursion",
+            link: "https://practice.geeksforgeeks.org/problems/queue-reversal/1",
+            q_id: "q_id_lb_9_26",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Reverse the first “K” elements of a queue",
-            "link": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1",
-            "id": "q_id_9_27"
+            topic: "Stacks & Queues",
+            name: "Reverse the first “K” elements of a queue",
+            link: "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1",
+            q_id: "q_id_lb_9_27",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Interleave the first half of the queue with second half",
-            "link": "https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/",
-            "id": "q_id_9_28"
+            topic: "Stacks & Queues",
+            name: "Interleave the first half of the queue with second half",
+            link: "https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/",
+            q_id: "q_id_lb_9_28",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Find the first circular tour that visits all Petrol Pumps",
-            "link": "https://practice.geeksforgeeks.org/problems/circular-tour/1",
-            "id": "q_id_9_29"
+            topic: "Stacks & Queues",
+            name: "Find the first circular tour that visits all Petrol Pumps",
+            link: "https://practice.geeksforgeeks.org/problems/circular-tour/1",
+            q_id: "q_id_lb_9_29",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Minimum time required to rot all oranges",
-            "link": "https://practice.geeksforgeeks.org/problems/rotten-oranges/0",
-            "id": "q_id_9_30"
+            topic: "Stacks & Queues",
+            name: "Minimum time required to rot all oranges",
+            link: "https://practice.geeksforgeeks.org/problems/rotten-oranges/0",
+            q_id: "q_id_lb_9_30",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Distance of nearest cell having 1 in a binary matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0",
-            "id": "q_id_9_31"
+            topic: "Stacks & Queues",
+            name: "Distance of nearest cell having 1 in a binary matrix",
+            link: "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0",
+            q_id: "q_id_lb_9_31",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "First negative integer in every window of size “k”",
-            "link": "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0",
-            "id": "q_id_9_32"
+            topic: "Stacks & Queues",
+            name: "First negative integer in every window of size “k”",
+            link: "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0",
+            q_id: "q_id_lb_9_32",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Check if all levels of two trees are anagrams or not.",
-            "link": "https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/",
-            "id": "q_id_9_33"
+            topic: "Stacks & Queues",
+            name: "Check if all levels of two trees are anagrams or not.",
+            link: "https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/",
+            q_id: "q_id_lb_9_33",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Sum of minimum and maximum elements of all subarrays of size “k”.",
-            "link": "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/",
-            "id": "q_id_9_34"
+            topic: "Stacks & Queues",
+            name: "Sum of minimum and maximum elements of all subarrays of size “k”.",
+            link: "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/",
+            q_id: "q_id_lb_9_34",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Minimum sum of squares of character counts in a given string after removing “k” characters.",
-            "link": "https://practice.geeksforgeeks.org/problems/game-with-string/0",
-            "id": "q_id_9_35"
+            topic: "Stacks & Queues",
+            name: "Minimum sum of squares of character counts in a given string after removing “k” characters.",
+            link: "https://practice.geeksforgeeks.org/problems/game-with-string/0",
+            q_id: "q_id_lb_9_35",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Queue based approach or first non-repeating character in a stream.",
-            "link": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
-            "id": "q_id_9_36"
+            topic: "Stacks & Queues",
+            name: "Queue based approach or first non-repeating character in a stream.",
+            link: "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+            q_id: "q_id_lb_9_36",
         },
         {
-            "topic": "Stacks & Queues",
-            "name": "Next Smaller Element",
-            "link": "https://www.geeksforgeeks.org/next-smaller-element/",
-            "id": "q_id_9_37"
-        }
+            topic: "Stacks & Queues",
+            name: "Next Smaller Element",
+            link: "https://www.geeksforgeeks.org/next-smaller-element/",
+            q_id: "q_id_lb_9_37",
+        },
     ],
-    "Heap": [
+    Heap: [
         {
-            "topic": "Heap",
-            "name": "Implement a Maxheap/MinHeap using arrays and recursion.",
-            "link": "https://www.geeksforgeeks.org/building-heap-from-array/",
-            "id": "q_id_10_0"
+            topic: "Heap",
+            name: "Implement a Maxheap/MinHeap using arrays and recursion.",
+            link: "https://www.geeksforgeeks.org/building-heap-from-array/",
+            q_id: "q_id_lb_10_0",
         },
         {
-            "topic": "Heap",
-            "name": "Sort an Array using heap. (HeapSort)",
-            "link": "https://www.geeksforgeeks.org/heap-sort/",
-            "id": "q_id_10_1"
+            topic: "Heap",
+            name: "Sort an Array using heap. (HeapSort)",
+            link: "https://www.geeksforgeeks.org/heap-sort/",
+            q_id: "q_id_lb_10_1",
         },
         {
-            "topic": "Heap",
-            "name": "Maximum of all subarrays of size k.",
-            "link": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/",
-            "id": "q_id_10_2"
+            topic: "Heap",
+            name: "Maximum of all subarrays of size k.",
+            link: "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/",
+            q_id: "q_id_lb_10_2",
         },
         {
-            "topic": "Heap",
-            "name": "“k” largest element in an array",
-            "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1",
-            "id": "q_id_10_3"
+            topic: "Heap",
+            name: "“k” largest element in an array",
+            link: "https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1",
+            q_id: "q_id_lb_10_3",
         },
         {
-            "topic": "Heap",
-            "name": "Kth smallest and largest element in an unsorted array",
-            "link": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/",
-            "id": "q_id_10_4"
+            topic: "Heap",
+            name: "Kth smallest and largest element in an unsorted array",
+            link: "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/",
+            q_id: "q_id_lb_10_4",
         },
         {
-            "topic": "Heap",
-            "name": "Merge “K” sorted arrays. [ IMP ]",
-            "link": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
-            "id": "q_id_10_5"
+            topic: "Heap",
+            name: "Merge “K” sorted arrays. [ IMP ]",
+            link: "https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
+            q_id: "q_id_lb_10_5",
         },
         {
-            "topic": "Heap",
-            "name": "Merge 2 Binary Max Heaps",
-            "link": "https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0",
-            "id": "q_id_10_6"
+            topic: "Heap",
+            name: "Merge 2 Binary Max Heaps",
+            link: "https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0",
+            q_id: "q_id_lb_10_6",
         },
         {
-            "topic": "Heap",
-            "name": "Kth largest sum continuous subarrays",
-            "link": "https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/",
-            "id": "q_id_10_7"
+            topic: "Heap",
+            name: "Kth largest sum continuous subarrays",
+            link: "https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/",
+            q_id: "q_id_lb_10_7",
         },
         {
-            "topic": "Heap",
-            "name": "Leetcode- reorganize strings",
-            "link": "https://leetcode.com/problems/reorganize-string/",
-            "id": "q_id_10_8"
+            topic: "Heap",
+            name: "Leetcode- reorganize strings",
+            link: "https://leetcode.com/problems/reorganize-string/",
+            q_id: "q_id_lb_10_8",
         },
         {
-            "topic": "Heap",
-            "name": "Merge “K” Sorted Linked Lists [V.IMP]",
-            "link": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
-            "id": "q_id_10_9"
+            topic: "Heap",
+            name: "Merge “K” Sorted Linked Lists [V.IMP]",
+            link: "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+            q_id: "q_id_lb_10_9",
         },
         {
-            "topic": "Heap",
-            "name": "Smallest range in “K” Lists",
-            "link": "https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1",
-            "id": "q_id_10_10"
+            topic: "Heap",
+            name: "Smallest range in “K” Lists",
+            link: "https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1",
+            q_id: "q_id_lb_10_10",
         },
         {
-            "topic": "Heap",
-            "name": "Median in a stream of Integers",
-            "link": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
-            "id": "q_id_10_11"
+            topic: "Heap",
+            name: "Median in a stream of Integers",
+            link: "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
+            q_id: "q_id_lb_10_11",
         },
         {
-            "topic": "Heap",
-            "name": "Check if a Binary Tree is Heap",
-            "link": "https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1",
-            "id": "q_id_10_12"
+            topic: "Heap",
+            name: "Check if a Binary Tree is Heap",
+            link: "https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1",
+            q_id: "q_id_lb_10_12",
         },
         {
-            "topic": "Heap",
-            "name": "Connect “n” ropes with minimum cost",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
-            "id": "q_id_10_13"
+            topic: "Heap",
+            name: "Connect “n” ropes with minimum cost",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+            q_id: "q_id_lb_10_13",
         },
         {
-            "topic": "Heap",
-            "name": "Convert BST to Min Heap",
-            "link": "https://www.geeksforgeeks.org/convert-bst-min-heap/",
-            "id": "q_id_10_14"
+            topic: "Heap",
+            name: "Convert BST to Min Heap",
+            link: "https://www.geeksforgeeks.org/convert-bst-min-heap/",
+            q_id: "q_id_lb_10_14",
         },
         {
-            "topic": "Heap",
-            "name": "Convert min heap to max heap",
-            "link": "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/",
-            "id": "q_id_10_15"
+            topic: "Heap",
+            name: "Convert min heap to max heap",
+            link: "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/",
+            q_id: "q_id_lb_10_15",
         },
         {
-            "topic": "Heap",
-            "name": "Rearrange characters in a string such that no two adjacent are same.",
-            "link": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
-            "id": "q_id_10_16"
+            topic: "Heap",
+            name: "Rearrange characters in a string such that no two adjacent are same.",
+            link: "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+            q_id: "q_id_lb_10_16",
         },
         {
-            "topic": "Heap",
-            "name": "Minimum sum of two numbers formed from digits of an array",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-sum4058/1",
-            "id": "q_id_10_17"
-        }
+            topic: "Heap",
+            name: "Minimum sum of two numbers formed from digits of an array",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-sum4058/1",
+            q_id: "q_id_lb_10_17",
+        },
     ],
-    "Graph": [
+    Graph: [
         {
-            "topic": "Graph",
-            "name": "Create a Graph, print it",
-            "link": "https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5",
-            "id": "q_id_11_0"
+            topic: "Graph",
+            name: "Create a Graph, print it",
+            link: "https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5",
+            q_id: "q_id_lb_11_0",
         },
         {
-            "topic": "Graph",
-            "name": "Implement BFS algorithm ",
-            "link": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
-            "id": "q_id_11_1"
+            topic: "Graph",
+            name: "Implement BFS algorithm ",
+            link: "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+            q_id: "q_id_lb_11_1",
         },
         {
-            "topic": "Graph",
-            "name": "Implement DFS Algo ",
-            "link": "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/",
-            "id": "q_id_11_2"
+            topic: "Graph",
+            name: "Implement DFS Algo ",
+            link: "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/",
+            q_id: "q_id_lb_11_2",
         },
         {
-            "topic": "Graph",
-            "name": "Detect Cycle in Directed Graph using BFS/DFS Algo ",
-            "link": "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/",
-            "id": "q_id_11_3"
+            topic: "Graph",
+            name: "Detect Cycle in Directed Graph using BFS/DFS Algo ",
+            link: "https://www.geeksforgeeks.org/detect-cycle-in-a-graph/",
+            q_id: "q_id_lb_11_3",
         },
         {
-            "topic": "Graph",
-            "name": "Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
-            "link": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
-            "id": "q_id_11_4"
+            topic: "Graph",
+            name: "Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
+            link: "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+            q_id: "q_id_lb_11_4",
         },
         {
-            "topic": "Graph",
-            "name": "Search in a Maze",
-            "link": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
-            "id": "q_id_11_5"
+            topic: "Graph",
+            name: "Search in a Maze",
+            link: "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+            q_id: "q_id_lb_11_5",
         },
         {
-            "topic": "Graph",
-            "name": "Minimum Step by Knight",
-            "link": "https://practice.geeksforgeeks.org/problems/steps-by-knight/0",
-            "id": "q_id_11_6"
+            topic: "Graph",
+            name: "Minimum Step by Knight",
+            link: "https://practice.geeksforgeeks.org/problems/steps-by-knight/0",
+            q_id: "q_id_lb_11_6",
         },
         {
-            "topic": "Graph",
-            "name": "flood fill algo",
-            "link": "https://leetcode.com/problems/flood-fill/",
-            "id": "q_id_11_7"
+            topic: "Graph",
+            name: "flood fill algo",
+            link: "https://leetcode.com/problems/flood-fill/",
+            q_id: "q_id_lb_11_7",
         },
         {
-            "topic": "Graph",
-            "name": "Clone a graph",
-            "link": "https://leetcode.com/problems/clone-graph/",
-            "id": "q_id_11_8"
+            topic: "Graph",
+            name: "Clone a graph",
+            link: "https://leetcode.com/problems/clone-graph/",
+            q_id: "q_id_lb_11_8",
         },
         {
-            "topic": "Graph",
-            "name": "Making wired Connections",
-            "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
-            "id": "q_id_11_9"
+            topic: "Graph",
+            name: "Making wired Connections",
+            link: "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+            q_id: "q_id_lb_11_9",
         },
         {
-            "topic": "Graph",
-            "name": "word Ladder ",
-            "link": "https://leetcode.com/problems/word-ladder/",
-            "id": "q_id_11_10"
+            topic: "Graph",
+            name: "word Ladder ",
+            link: "https://leetcode.com/problems/word-ladder/",
+            q_id: "q_id_lb_11_10",
         },
         {
-            "topic": "Graph",
-            "name": "Dijkstra algo",
-            "link": "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/",
-            "id": "q_id_11_11"
+            topic: "Graph",
+            name: "Dijkstra algo",
+            link: "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/",
+            q_id: "q_id_lb_11_11",
         },
         {
-            "topic": "Graph",
-            "name": "Implement Topological Sort ",
-            "link": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
-            "id": "q_id_11_12"
+            topic: "Graph",
+            name: "Implement Topological Sort ",
+            link: "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+            q_id: "q_id_lb_11_12",
         },
         {
-            "topic": "Graph",
-            "name": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
-            "link": "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/",
-            "id": "q_id_11_13"
+            topic: "Graph",
+            name: "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+            link: "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/",
+            q_id: "q_id_lb_11_13",
         },
         {
-            "topic": "Graph",
-            "name": "Find whether it is possible to finish all tasks or not from given dependencies",
-            "link": "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
-            "id": "q_id_11_14"
+            topic: "Graph",
+            name: "Find whether it is possible to finish all tasks or not from given dependencies",
+            link: "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
+            q_id: "q_id_lb_11_14",
         },
         {
-            "topic": "Graph",
-            "name": "Find the no. of Isalnds",
-            "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
-            "id": "q_id_11_15"
+            topic: "Graph",
+            name: "Find the no. of Isalnds",
+            link: "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+            q_id: "q_id_lb_11_15",
         },
         {
-            "topic": "Graph",
-            "name": "Given a sorted Dictionary of an Alien Language, find order of characters",
-            "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
-            "id": "q_id_11_16"
+            topic: "Graph",
+            name: "Given a sorted Dictionary of an Alien Language, find order of characters",
+            link: "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+            q_id: "q_id_lb_11_16",
         },
         {
-            "topic": "Graph",
-            "name": "Implement Kruksal’sAlgorithm",
-            "link": "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/",
-            "id": "q_id_11_17"
+            topic: "Graph",
+            name: "Implement Kruksal’sAlgorithm",
+            link: "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/",
+            q_id: "q_id_lb_11_17",
         },
         {
-            "topic": "Graph",
-            "name": "Implement Prim’s Algorithm",
-            "link": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
-            "id": "q_id_11_18"
+            topic: "Graph",
+            name: "Implement Prim’s Algorithm",
+            link: "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
+            q_id: "q_id_lb_11_18",
         },
         {
-            "topic": "Graph",
-            "name": "Total no. of Spanning tree in a graph",
-            "link": "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
-            "id": "q_id_11_19"
+            topic: "Graph",
+            name: "Total no. of Spanning tree in a graph",
+            link: "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
+            q_id: "q_id_lb_11_19",
         },
         {
-            "topic": "Graph",
-            "name": "Implement Bellman Ford Algorithm",
-            "link": "https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0",
-            "id": "q_id_11_20"
+            topic: "Graph",
+            name: "Implement Bellman Ford Algorithm",
+            link: "https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0",
+            q_id: "q_id_lb_11_20",
         },
         {
-            "topic": "Graph",
-            "name": "Implement Floyd warshallAlgorithm",
-            "link": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0",
-            "id": "q_id_11_21"
+            topic: "Graph",
+            name: "Implement Floyd warshallAlgorithm",
+            link: "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0",
+            q_id: "q_id_lb_11_21",
         },
         {
-            "topic": "Graph",
-            "name": "Travelling Salesman Problem",
-            "link": "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
-            "id": "q_id_11_22"
+            topic: "Graph",
+            name: "Travelling Salesman Problem",
+            link: "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
+            q_id: "q_id_lb_11_22",
         },
         {
-            "topic": "Graph",
-            "name": "Graph ColouringProblem",
-            "link": "https://www.geeksforgeeks.org/graph-coloring-applications/",
-            "id": "q_id_11_23"
+            topic: "Graph",
+            name: "Graph ColouringProblem",
+            link: "https://www.geeksforgeeks.org/graph-coloring-applications/",
+            q_id: "q_id_lb_11_23",
         },
         {
-            "topic": "Graph",
-            "name": "Snake and Ladders Problem",
-            "link": "https://leetcode.com/problems/snakes-and-ladders/",
-            "id": "q_id_11_24"
+            topic: "Graph",
+            name: "Snake and Ladders Problem",
+            link: "https://leetcode.com/problems/snakes-and-ladders/",
+            q_id: "q_id_lb_11_24",
         },
         {
-            "topic": "Graph",
-            "name": "Find bridge in a graph",
-            "link": "https://www.geeksforgeeks.org/bridge-in-a-graph/",
-            "id": "q_id_11_25"
+            topic: "Graph",
+            name: "Find bridge in a graph",
+            link: "https://www.geeksforgeeks.org/bridge-in-a-graph/",
+            q_id: "q_id_lb_11_25",
         },
         {
-            "topic": "Graph",
-            "name": "Count Strongly connected Components(Kosaraju Algo)",
-            "link": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
-            "id": "q_id_11_26"
+            topic: "Graph",
+            name: "Count Strongly connected Components(Kosaraju Algo)",
+            link: "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+            q_id: "q_id_lb_11_26",
         },
         {
-            "topic": "Graph",
-            "name": "Check whether a graph is Bipartite or Not",
-            "link": "https://www.geeksforgeeks.org/bipartite-graph/",
-            "id": "q_id_11_27"
+            topic: "Graph",
+            name: "Check whether a graph is Bipartite or Not",
+            link: "https://www.geeksforgeeks.org/bipartite-graph/",
+            q_id: "q_id_lb_11_27",
         },
         {
-            "topic": "Graph",
-            "name": "Detect Negative cycle in a graph",
-            "link": "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
-            "id": "q_id_11_28"
+            topic: "Graph",
+            name: "Detect Negative cycle in a graph",
+            link: "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
+            q_id: "q_id_lb_11_28",
         },
         {
-            "topic": "Graph",
-            "name": "Longest path in a Directed Acyclic Graph",
-            "link": "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/",
-            "id": "q_id_11_29"
+            topic: "Graph",
+            name: "Longest path in a Directed Acyclic Graph",
+            link: "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/",
+            q_id: "q_id_lb_11_29",
         },
         {
-            "topic": "Graph",
-            "name": "Journey to the Moon",
-            "link": "https://www.hackerrank.com/challenges/journey-to-the-moon/problem",
-            "id": "q_id_11_30"
+            topic: "Graph",
+            name: "Journey to the Moon",
+            link: "https://www.hackerrank.com/challenges/journey-to-the-moon/problem",
+            q_id: "q_id_lb_11_30",
         },
         {
-            "topic": "Graph",
-            "name": "Cheapest Flights Within K Stops",
-            "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
-            "id": "q_id_11_31"
+            topic: "Graph",
+            name: "Cheapest Flights Within K Stops",
+            link: "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+            q_id: "q_id_lb_11_31",
         },
         {
-            "topic": "Graph",
-            "name": "Oliver and the Game",
-            "link": "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/",
-            "id": "q_id_11_32"
+            topic: "Graph",
+            name: "Oliver and the Game",
+            link: "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/",
+            q_id: "q_id_lb_11_32",
         },
         {
-            "topic": "Graph",
-            "name": "Water Jug problem using BFS",
-            "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
-            "id": "q_id_11_33"
+            topic: "Graph",
+            name: "Water Jug problem using BFS",
+            link: "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+            q_id: "q_id_lb_11_33",
         },
         {
-            "topic": "Graph",
-            "name": "Water Jug problem using BFS",
-            "link": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
-            "id": "q_id_11_34"
+            topic: "Graph",
+            name: "Water Jug problem using BFS",
+            link: "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+            q_id: "q_id_lb_11_34",
         },
         {
-            "topic": "Graph",
-            "name": "Find if there is a path of more thank length from a source",
-            "link": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
-            "id": "q_id_11_35"
+            topic: "Graph",
+            name: "Find if there is a path of more thank length from a source",
+            link: "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+            q_id: "q_id_lb_11_35",
         },
         {
-            "topic": "Graph",
-            "name": "M-ColouringProblem",
-            "link": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
-            "id": "q_id_11_36"
+            topic: "Graph",
+            name: "M-ColouringProblem",
+            link: "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+            q_id: "q_id_lb_11_36",
         },
         {
-            "topic": "Graph",
-            "name": "Minimum edges to reverse o make path from source to destination",
-            "link": "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/",
-            "id": "q_id_11_37"
+            topic: "Graph",
+            name: "Minimum edges to reverse o make path from source to destination",
+            link: "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/",
+            q_id: "q_id_lb_11_37",
         },
         {
-            "topic": "Graph",
-            "name": "Paths to travel each nodes using each edge(Seven Bridges)",
-            "link": "https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/",
-            "id": "q_id_11_38"
+            topic: "Graph",
+            name: "Paths to travel each nodes using each edge(Seven Bridges)",
+            link: "https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/",
+            q_id: "q_id_lb_11_38",
         },
         {
-            "topic": "Graph",
-            "name": "Vertex Cover Problem",
-            "link": "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/",
-            "id": "q_id_11_39"
+            topic: "Graph",
+            name: "Vertex Cover Problem",
+            link: "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/",
+            q_id: "q_id_lb_11_39",
         },
         {
-            "topic": "Graph",
-            "name": "Chinese Postman or Route Inspection",
-            "link": "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/",
-            "id": "q_id_11_40"
+            topic: "Graph",
+            name: "Chinese Postman or Route Inspection",
+            link: "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/",
+            q_id: "q_id_lb_11_40",
         },
         {
-            "topic": "Graph",
-            "name": "Number of Triangles in a Directed and Undirected Graph",
-            "link": "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/",
-            "id": "q_id_11_41"
+            topic: "Graph",
+            name: "Number of Triangles in a Directed and Undirected Graph",
+            link: "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/",
+            q_id: "q_id_lb_11_41",
         },
         {
-            "topic": "Graph",
-            "name": "Minimise the cashflow among a given set of friends who have borrowed money from each other",
-            "link": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
-            "id": "q_id_11_42"
+            topic: "Graph",
+            name: "Minimise the cashflow among a given set of friends who have borrowed money from each other",
+            link: "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+            q_id: "q_id_lb_11_42",
         },
         {
-            "topic": "Graph",
-            "name": "Two Clique Problem",
-            "link": "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/",
-            "id": "q_id_11_43"
-        }
+            topic: "Graph",
+            name: "Two Clique Problem",
+            link: "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/",
+            q_id: "q_id_lb_11_43",
+        },
     ],
-    "Trie": [
+    Trie: [
         {
-            "topic": "Trie",
-            "name": "Construct a trie from scratch",
-            "link": "https://www.geeksforgeeks.org/trie-insert-and-search/",
-            "id": "q_id_12_0"
+            topic: "Trie",
+            name: "Construct a trie from scratch",
+            link: "https://www.geeksforgeeks.org/trie-insert-and-search/",
+            q_id: "q_id_lb_12_0",
         },
         {
-            "topic": "Trie",
-            "name": "Find shortest unique prefix for every word in a given list",
-            "link": "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/",
-            "id": "q_id_12_1"
+            topic: "Trie",
+            name: "Find shortest unique prefix for every word in a given list",
+            link: "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/",
+            q_id: "q_id_lb_12_1",
         },
         {
-            "topic": "Trie",
-            "name": "Word Break Problem | (Trie solution)",
-            "link": "https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
-            "id": "q_id_12_2"
+            topic: "Trie",
+            name: "Word Break Problem | (Trie solution)",
+            link: "https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
+            q_id: "q_id_lb_12_2",
         },
         {
-            "topic": "Trie",
-            "name": "Given a sequence of words, print all anagrams together",
-            "link": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
-            "id": "q_id_12_3"
+            topic: "Trie",
+            name: "Given a sequence of words, print all anagrams together",
+            link: "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+            q_id: "q_id_lb_12_3",
         },
         {
-            "topic": "Trie",
-            "name": "Implement a Phone Directory",
-            "link": "https://practice.geeksforgeeks.org/problems/phone-directory/0",
-            "id": "q_id_12_4"
+            topic: "Trie",
+            name: "Implement a Phone Directory",
+            link: "https://practice.geeksforgeeks.org/problems/phone-directory/0",
+            q_id: "q_id_lb_12_4",
         },
         {
-            "topic": "Trie",
-            "name": "Print unique rows in a given boolean matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1",
-            "id": "q_id_12_5"
-        }
+            topic: "Trie",
+            name: "Print unique rows in a given boolean matrix",
+            link: "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1",
+            q_id: "q_id_lb_12_5",
+        },
     ],
     "Dynamic Programming": [
         {
-            "topic": "Dynamic Programming",
-            "name": "Coin ChangeProblem",
-            "link": "https://practice.geeksforgeeks.org/problems/coin-change2448/1",
-            "id": "q_id_13_0"
+            topic: "Dynamic Programming",
+            name: "Coin ChangeProblem",
+            link: "https://practice.geeksforgeeks.org/problems/coin-change2448/1",
+            q_id: "q_id_lb_13_0",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Knapsack Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
-            "id": "q_id_13_1"
+            topic: "Dynamic Programming",
+            name: "Knapsack Problem",
+            link: "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+            q_id: "q_id_lb_13_1",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Binomial CoefficientProblem",
-            "link": "https://practice.geeksforgeeks.org/problems/ncr1019/1",
-            "id": "q_id_13_2"
+            topic: "Dynamic Programming",
+            name: "Binomial CoefficientProblem",
+            link: "https://practice.geeksforgeeks.org/problems/ncr1019/1",
+            q_id: "q_id_lb_13_2",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Permutation CoefficientProblem",
-            "link": "https://www.geeksforgeeks.org/permutation-coefficient/",
-            "id": "q_id_13_3"
+            topic: "Dynamic Programming",
+            name: "Permutation CoefficientProblem",
+            link: "https://www.geeksforgeeks.org/permutation-coefficient/",
+            q_id: "q_id_lb_13_3",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Program for nth Catalan Number",
-            "link": "https://www.geeksforgeeks.org/program-nth-catalan-number/",
-            "id": "q_id_13_4"
+            topic: "Dynamic Programming",
+            name: "Program for nth Catalan Number",
+            link: "https://www.geeksforgeeks.org/program-nth-catalan-number/",
+            q_id: "q_id_lb_13_4",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Matrix Chain Multiplication ",
-            "link": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
-            "id": "q_id_13_5"
+            topic: "Dynamic Programming",
+            name: "Matrix Chain Multiplication ",
+            link: "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
+            q_id: "q_id_lb_13_5",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Edit Distance",
-            "link": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
-            "id": "q_id_13_6"
+            topic: "Dynamic Programming",
+            name: "Edit Distance",
+            link: "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+            q_id: "q_id_lb_13_6",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Subset Sum Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
-            "id": "q_id_13_7"
+            topic: "Dynamic Programming",
+            name: "Subset Sum Problem",
+            link: "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            q_id: "q_id_lb_13_7",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Friends Pairing Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1",
-            "id": "q_id_13_8"
+            topic: "Dynamic Programming",
+            name: "Friends Pairing Problem",
+            link: "https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1",
+            q_id: "q_id_lb_13_8",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Gold Mine Problem",
-            "link": "https://www.geeksforgeeks.org/gold-mine-problem/",
-            "id": "q_id_13_9"
+            topic: "Dynamic Programming",
+            name: "Gold Mine Problem",
+            link: "https://www.geeksforgeeks.org/gold-mine-problem/",
+            q_id: "q_id_lb_13_9",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Assembly Line SchedulingProblem",
-            "link": "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/",
-            "id": "q_id_13_10"
+            topic: "Dynamic Programming",
+            name: "Assembly Line SchedulingProblem",
+            link: "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/",
+            q_id: "q_id_lb_13_10",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Painting the Fenceproblem",
-            "link": "https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1",
-            "id": "q_id_13_11"
+            topic: "Dynamic Programming",
+            name: "Painting the Fenceproblem",
+            link: "https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1",
+            q_id: "q_id_lb_13_11",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximize The Cut Segments",
-            "link": "https://practice.geeksforgeeks.org/problems/cutted-segments/0",
-            "id": "q_id_13_12"
+            topic: "Dynamic Programming",
+            name: "Maximize The Cut Segments",
+            link: "https://practice.geeksforgeeks.org/problems/cutted-segments/0",
+            q_id: "q_id_lb_13_12",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Longest Common Subsequence",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
-            "id": "q_id_13_13"
+            topic: "Dynamic Programming",
+            name: "Longest Common Subsequence",
+            link: "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+            q_id: "q_id_lb_13_13",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Longest Repeated Subsequence",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
-            "id": "q_id_13_14"
+            topic: "Dynamic Programming",
+            name: "Longest Repeated Subsequence",
+            link: "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
+            q_id: "q_id_lb_13_14",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Longest Increasing Subsequence",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0",
-            "id": "q_id_13_15"
+            topic: "Dynamic Programming",
+            name: "Longest Increasing Subsequence",
+            link: "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0",
+            q_id: "q_id_lb_13_15",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Space Optimized Solution of LCS",
-            "link": "https://www.geeksforgeeks.org/space-optimized-solution-lcs/",
-            "id": "q_id_13_16"
+            topic: "Dynamic Programming",
+            name: "Space Optimized Solution of LCS",
+            link: "https://www.geeksforgeeks.org/space-optimized-solution-lcs/",
+            q_id: "q_id_lb_13_16",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "LCS (Longest Common Subsequence) of three strings",
-            "link": "https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0",
-            "id": "q_id_13_17"
+            topic: "Dynamic Programming",
+            name: "LCS (Longest Common Subsequence) of three strings",
+            link: "https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0",
+            q_id: "q_id_lb_13_17",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum Sum Increasing Subsequence",
-            "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
-            "id": "q_id_13_18"
+            topic: "Dynamic Programming",
+            name: "Maximum Sum Increasing Subsequence",
+            link: "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+            q_id: "q_id_lb_13_18",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Count all subsequences having product less than K",
-            "link": "https://www.geeksforgeeks.org/count-subsequences-product-less-k/",
-            "id": "q_id_13_19"
+            topic: "Dynamic Programming",
+            name: "Count all subsequences having product less than K",
+            link: "https://www.geeksforgeeks.org/count-subsequences-product-less-k/",
+            q_id: "q_id_lb_13_19",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Longest subsequence such that difference between adjacent is one",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1",
-            "id": "q_id_13_20"
+            topic: "Dynamic Programming",
+            name: "Longest subsequence such that difference between adjacent is one",
+            link: "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1",
+            q_id: "q_id_lb_13_20",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum subsequence sum such that no three are consecutive",
-            "link": "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/",
-            "id": "q_id_13_21"
+            topic: "Dynamic Programming",
+            name: "Maximum subsequence sum such that no three are consecutive",
+            link: "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/",
+            q_id: "q_id_lb_13_21",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Egg Dropping Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
-            "id": "q_id_13_22"
+            topic: "Dynamic Programming",
+            name: "Egg Dropping Problem",
+            link: "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+            q_id: "q_id_lb_13_22",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum Length Chain of Pairs",
-            "link": "https://practice.geeksforgeeks.org/problems/max-length-chain/1",
-            "id": "q_id_13_23"
+            topic: "Dynamic Programming",
+            name: "Maximum Length Chain of Pairs",
+            link: "https://practice.geeksforgeeks.org/problems/max-length-chain/1",
+            q_id: "q_id_lb_13_23",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum size square sub-matrix with all 1s",
-            "link": "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0",
-            "id": "q_id_13_24"
+            topic: "Dynamic Programming",
+            name: "Maximum size square sub-matrix with all 1s",
+            link: "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0",
+            q_id: "q_id_lb_13_24",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum sum of pairs with specific difference",
-            "link": "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0",
-            "id": "q_id_13_25"
+            topic: "Dynamic Programming",
+            name: "Maximum sum of pairs with specific difference",
+            link: "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0",
+            q_id: "q_id_lb_13_25",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Min Cost PathProblem",
-            "link": "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
-            "id": "q_id_13_26"
+            topic: "Dynamic Programming",
+            name: "Min Cost PathProblem",
+            link: "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
+            q_id: "q_id_lb_13_26",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum difference of zeros and ones in binary string",
-            "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1",
-            "id": "q_id_13_27"
+            topic: "Dynamic Programming",
+            name: "Maximum difference of zeros and ones in binary string",
+            link: "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1",
+            q_id: "q_id_lb_13_27",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Minimum number of jumps to reach end",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
-            "id": "q_id_13_28"
+            topic: "Dynamic Programming",
+            name: "Minimum number of jumps to reach end",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+            q_id: "q_id_lb_13_28",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Minimum cost to fill given weight in a bag",
-            "link": "https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1",
-            "id": "q_id_13_29"
+            topic: "Dynamic Programming",
+            name: "Minimum cost to fill given weight in a bag",
+            link: "https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1",
+            q_id: "q_id_lb_13_29",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Minimum removals from array to make max –min <= K",
-            "link": "https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/",
-            "id": "q_id_13_30"
+            topic: "Dynamic Programming",
+            name: "Minimum removals from array to make max –min <= K",
+            link: "https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/",
+            q_id: "q_id_lb_13_30",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Longest Common Substring",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-common-substring/0",
-            "id": "q_id_13_31"
+            topic: "Dynamic Programming",
+            name: "Longest Common Substring",
+            link: "https://practice.geeksforgeeks.org/problems/longest-common-substring/0",
+            q_id: "q_id_lb_13_31",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Count number of ways to reacha given score in a game",
-            "link": "https://practice.geeksforgeeks.org/problems/reach-a-given-score/0",
-            "id": "q_id_13_32"
+            topic: "Dynamic Programming",
+            name: "Count number of ways to reacha given score in a game",
+            link: "https://practice.geeksforgeeks.org/problems/reach-a-given-score/0",
+            q_id: "q_id_lb_13_32",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Count Balanced Binary Trees of Height h",
-            "link": "https://practice.geeksforgeeks.org/problems/bbt-counter/0",
-            "id": "q_id_13_33"
+            topic: "Dynamic Programming",
+            name: "Count Balanced Binary Trees of Height h",
+            link: "https://practice.geeksforgeeks.org/problems/bbt-counter/0",
+            q_id: "q_id_lb_13_33",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
-            "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
-            "id": "q_id_13_34"
+            topic: "Dynamic Programming",
+            name: "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+            link: "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            q_id: "q_id_lb_13_34",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Smallest sum contiguous subarray",
-            "link": "https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/",
-            "id": "q_id_13_35"
+            topic: "Dynamic Programming",
+            name: "Smallest sum contiguous subarray",
+            link: "https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/",
+            q_id: "q_id_lb_13_35",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Unbounded Knapsack (Repetition of items allowed)",
-            "link": "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
-            "id": "q_id_13_36"
+            topic: "Dynamic Programming",
+            name: "Unbounded Knapsack (Repetition of items allowed)",
+            link: "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
+            q_id: "q_id_lb_13_36",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Word Break Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/word-break/0",
-            "id": "q_id_13_37"
+            topic: "Dynamic Programming",
+            name: "Word Break Problem",
+            link: "https://practice.geeksforgeeks.org/problems/word-break/0",
+            q_id: "q_id_lb_13_37",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Largest Independent Set Problem",
-            "link": "https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/",
-            "id": "q_id_13_38"
+            topic: "Dynamic Programming",
+            name: "Largest Independent Set Problem",
+            link: "https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/",
+            q_id: "q_id_lb_13_38",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Partition problem",
-            "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
-            "id": "q_id_13_39"
+            topic: "Dynamic Programming",
+            name: "Partition problem",
+            link: "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            q_id: "q_id_lb_13_39",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Longest Palindromic Subsequence",
-            "link": "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/",
-            "id": "q_id_13_40"
+            topic: "Dynamic Programming",
+            name: "Longest Palindromic Subsequence",
+            link: "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/",
+            q_id: "q_id_lb_13_40",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Count All Palindromic Subsequence in a given String",
-            "link": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
-            "id": "q_id_13_41"
+            topic: "Dynamic Programming",
+            name: "Count All Palindromic Subsequence in a given String",
+            link: "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+            q_id: "q_id_lb_13_41",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Longest Palindromic Substring",
-            "link": "https://leetcode.com/problems/longest-palindromic-substring/",
-            "id": "q_id_13_42"
+            topic: "Dynamic Programming",
+            name: "Longest Palindromic Substring",
+            link: "https://leetcode.com/problems/longest-palindromic-substring/",
+            q_id: "q_id_lb_13_42",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Longest alternating subsequence",
-            "link": "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0",
-            "id": "q_id_13_43"
+            topic: "Dynamic Programming",
+            name: "Longest alternating subsequence",
+            link: "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0",
+            q_id: "q_id_lb_13_43",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Weighted Job Scheduling",
-            "link": "https://www.geeksforgeeks.org/weighted-job-scheduling/",
-            "id": "q_id_13_44"
+            topic: "Dynamic Programming",
+            name: "Weighted Job Scheduling",
+            link: "https://www.geeksforgeeks.org/weighted-job-scheduling/",
+            q_id: "q_id_lb_13_44",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Coin game winner where every player has three choices",
-            "link": "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/",
-            "id": "q_id_13_45"
+            topic: "Dynamic Programming",
+            name: "Coin game winner where every player has three choices",
+            link: "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/",
+            q_id: "q_id_lb_13_45",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
-            "link": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/",
-            "id": "q_id_13_46"
+            topic: "Dynamic Programming",
+            name: "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+            link: "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/",
+            q_id: "q_id_lb_13_46",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum profit by buying and selling a share at most twice [ IMP ]",
-            "link": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
-            "id": "q_id_13_47"
+            topic: "Dynamic Programming",
+            name: "Maximum profit by buying and selling a share at most twice [ IMP ]",
+            link: "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
+            q_id: "q_id_lb_13_47",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Optimal Strategy for a Game",
-            "link": "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0",
-            "id": "q_id_13_48"
+            topic: "Dynamic Programming",
+            name: "Optimal Strategy for a Game",
+            link: "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0",
+            q_id: "q_id_lb_13_48",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Optimal Binary Search Tree",
-            "link": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
-            "id": "q_id_13_49"
+            topic: "Dynamic Programming",
+            name: "Optimal Binary Search Tree",
+            link: "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
+            q_id: "q_id_lb_13_49",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Palindrome PartitioningProblem",
-            "link": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
-            "id": "q_id_13_50"
+            topic: "Dynamic Programming",
+            name: "Palindrome PartitioningProblem",
+            link: "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+            q_id: "q_id_lb_13_50",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Word Wrap Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/word-wrap/0",
-            "id": "q_id_13_51"
+            topic: "Dynamic Programming",
+            name: "Word Wrap Problem",
+            link: "https://practice.geeksforgeeks.org/problems/word-wrap/0",
+            q_id: "q_id_lb_13_51",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Mobile Numeric Keypad Problem [ IMP ]",
-            "link": "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
-            "id": "q_id_13_52"
+            topic: "Dynamic Programming",
+            name: "Mobile Numeric Keypad Problem [ IMP ]",
+            link: "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
+            q_id: "q_id_lb_13_52",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Boolean Parenthesization Problem",
-            "link": "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0",
-            "id": "q_id_13_53"
+            topic: "Dynamic Programming",
+            name: "Boolean Parenthesization Problem",
+            link: "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0",
+            q_id: "q_id_lb_13_53",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Largest rectangular sub-matrix whose sum is 0",
-            "link": "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/",
-            "id": "q_id_13_54"
+            topic: "Dynamic Programming",
+            name: "Largest rectangular sub-matrix whose sum is 0",
+            link: "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/",
+            q_id: "q_id_lb_13_54",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
-            "link": "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
-            "id": "q_id_13_55"
+            topic: "Dynamic Programming",
+            name: "Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
+            link: "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
+            q_id: "q_id_lb_13_55",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum sum rectangle in a 2D matrix",
-            "link": "https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0",
-            "id": "q_id_13_56"
+            topic: "Dynamic Programming",
+            name: "Maximum sum rectangle in a 2D matrix",
+            link: "https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0",
+            q_id: "q_id_lb_13_56",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum profit by buying and selling a share at most k times",
-            "link": "https://practice.geeksforgeeks.org/problems/maximum-profit4657/1",
-            "id": "q_id_13_57"
+            topic: "Dynamic Programming",
+            name: "Maximum profit by buying and selling a share at most k times",
+            link: "https://practice.geeksforgeeks.org/problems/maximum-profit4657/1",
+            q_id: "q_id_lb_13_57",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Find if a string is interleaved of two other strings",
-            "link": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
-            "id": "q_id_13_58"
+            topic: "Dynamic Programming",
+            name: "Find if a string is interleaved of two other strings",
+            link: "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
+            q_id: "q_id_lb_13_58",
         },
         {
-            "topic": "Dynamic Programming",
-            "name": "Maximum Length of Pair Chain",
-            "link": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
-            "id": "q_id_13_59"
-        }
+            topic: "Dynamic Programming",
+            name: "Maximum Length of Pair Chain",
+            link: "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+            q_id: "q_id_lb_13_59",
+        },
     ],
     "Bit Manipulation": [
         {
-            "topic": "Bit Manipulation",
-            "name": "Count set bits in an integer",
-            "link": "https://practice.geeksforgeeks.org/problems/set-bits0143/1",
-            "id": "q_id_14_0"
+            topic: "Bit Manipulation",
+            name: "Count set bits in an integer",
+            link: "https://practice.geeksforgeeks.org/problems/set-bits0143/1",
+            q_id: "q_id_lb_14_0",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Find the two non-repeating elements in an array of repeating elements",
-            "link": "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
-            "id": "q_id_14_1"
+            topic: "Bit Manipulation",
+            name: "Find the two non-repeating elements in an array of repeating elements",
+            link: "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
+            q_id: "q_id_lb_14_1",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Count number of bits to be flipped to convert A to B",
-            "link": "https://practice.geeksforgeeks.org/problems/bit-difference/0",
-            "id": "q_id_14_2"
+            topic: "Bit Manipulation",
+            name: "Count number of bits to be flipped to convert A to B",
+            link: "https://practice.geeksforgeeks.org/problems/bit-difference/0",
+            q_id: "q_id_lb_14_2",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Count total set bits in all numbers from 1 to n",
-            "link": "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0",
-            "id": "q_id_14_3"
+            topic: "Bit Manipulation",
+            name: "Count total set bits in all numbers from 1 to n",
+            link: "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0",
+            q_id: "q_id_lb_14_3",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Program to find whether a no is power of two",
-            "link": "https://practice.geeksforgeeks.org/problems/power-of-2/0",
-            "id": "q_id_14_4"
+            topic: "Bit Manipulation",
+            name: "Program to find whether a no is power of two",
+            link: "https://practice.geeksforgeeks.org/problems/power-of-2/0",
+            q_id: "q_id_lb_14_4",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Find position of the only set bit",
-            "link": "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
-            "id": "q_id_14_5"
+            topic: "Bit Manipulation",
+            name: "Find position of the only set bit",
+            link: "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
+            q_id: "q_id_lb_14_5",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Copy set bits in a range",
-            "link": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/",
-            "id": "q_id_14_6"
+            topic: "Bit Manipulation",
+            name: "Copy set bits in a range",
+            link: "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/",
+            q_id: "q_id_lb_14_6",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Divide two integers without using multiplication, division and mod operator",
-            "link": "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/",
-            "id": "q_id_14_7"
+            topic: "Bit Manipulation",
+            name: "Divide two integers without using multiplication, division and mod operator",
+            link: "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/",
+            q_id: "q_id_lb_14_7",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Calculate square of a number without using *, / and pow()",
-            "link": "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/",
-            "id": "q_id_14_8"
+            topic: "Bit Manipulation",
+            name: "Calculate square of a number without using *, / and pow()",
+            link: "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/",
+            q_id: "q_id_lb_14_8",
         },
         {
-            "topic": "Bit Manipulation",
-            "name": "Power Set",
-            "link": "https://practice.geeksforgeeks.org/problems/power-set4302/1",
-            "id": "q_id_14_9"
-        }
-    ]
-}
+            topic: "Bit Manipulation",
+            name: "Power Set",
+            link: "https://practice.geeksforgeeks.org/problems/power-set4302/1",
+            q_id: "q_id_lb_14_9",
+        },
+    ],
+};
 
 export const StriverSheetA2Z = [
     {
@@ -7164,7 +7164,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Things to Know in C++/Java/Python or any language",
                 topics: [
                     {
-                        id: "srinpttpt",
+                        q_id: "srinpttpt",
                         step_no: 1,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -7183,7 +7183,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"basics","label":"Introduction to DSA"}]',
                     },
                     {
-                        id: "dttyps",
+                        q_id: "dttyps",
                         step_no: 1,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -7201,7 +7201,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"basics","label":"Introduction to DSA"}]',
                     },
                     {
-                        id: "iflssttmnts",
+                        q_id: "iflssttmnts",
                         step_no: 1,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -7220,7 +7220,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"basics","label":"Introduction to DSA"}]',
                     },
                     {
-                        id: "switchsttmnt",
+                        q_id: "switchsttmnt",
                         step_no: 1,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -7240,7 +7240,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"basics","label":"Introduction to DSA"}]',
                     },
                     {
-                        id: "whtrrrysstrings",
+                        q_id: "whtrrrysstrings",
                         step_no: 1,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -7257,7 +7257,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"basics","label":"Introduction to DSA"}]',
                     },
                     {
-                        id: "frlps",
+                        q_id: "frlps",
                         step_no: 1,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -7276,7 +7276,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"basics","label":"Introduction to DSA"}]',
                     },
                     {
-                        id: "whillps",
+                        q_id: "whillps",
                         step_no: 1,
                         sub_step_no: 1,
                         sl_no: 7,
@@ -7296,7 +7296,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"basics","label":"Introduction to DSA"}]',
                     },
                     {
-                        id: "fnctinspssbyrfrncndvl",
+                        q_id: "fnctinspssbyrfrncndvl",
                         step_no: 1,
                         sub_step_no: 1,
                         sl_no: 8,
@@ -7314,7 +7314,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"basics","label":"Introduction to DSA"}]',
                     },
                     {
-                        id: "timcmplxitylrnbsicsndthnnlysinnxtstps",
+                        q_id: "timcmplxitylrnbsicsndthnnlysinnxtstps",
                         step_no: 1,
                         sub_step_no: 1,
                         sl_no: 9,
@@ -7339,7 +7339,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Build-up Logical Thinking",
                 topics: [
                     {
-                        id: "pttrns",
+                        q_id: "pttrns",
                         step_no: 1,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -7366,7 +7366,7 @@ export const StriverSheetA2Z = [
                     "Learn STL/Java-Collections or similar thing in your\n            language",
                 topics: [
                     {
-                        id: "cstl",
+                        q_id: "cstl",
                         step_no: 1,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -7386,7 +7386,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"c","label":"C++"},{"value":"basics","label":"Introduction to DSA"}]',
                     },
                     {
-                        id: "jvcllctins",
+                        q_id: "jvcllctins",
                         step_no: 1,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -7411,7 +7411,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Know Basic Maths",
                 topics: [
                     {
-                        id: "cntdigits",
+                        q_id: "cntdigits",
                         step_no: 1,
                         sub_step_no: 4,
                         sl_no: 1,
@@ -7432,7 +7432,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rvrsnmbr",
+                        q_id: "rvrsnmbr",
                         step_no: 1,
                         sub_step_no: 4,
                         sl_no: 2,
@@ -7453,7 +7453,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckplindrm",
+                        q_id: "chckplindrm",
                         step_no: 1,
                         sub_step_no: 4,
                         sl_no: 3,
@@ -7474,7 +7474,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "gcdrhcf",
+                        q_id: "gcdrhcf",
                         step_no: 1,
                         sub_step_no: 4,
                         sl_no: 4,
@@ -7495,7 +7495,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rmstrngnmbrs",
+                        q_id: "rmstrngnmbrs",
                         step_no: 1,
                         sub_step_no: 4,
                         sl_no: 5,
@@ -7516,7 +7516,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "printlldivisrs",
+                        q_id: "printlldivisrs",
                         step_no: 1,
                         sub_step_no: 4,
                         sl_no: 6,
@@ -7537,7 +7537,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckfrprim",
+                        q_id: "chckfrprim",
                         step_no: 1,
                         sub_step_no: 4,
                         sl_no: 7,
@@ -7564,7 +7564,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Learn Basic Recursion",
                 topics: [
                     {
-                        id: "ndrstndrcrsinbyprintsmthingntims",
+                        q_id: "ndrstndrcrsinbyprintsmthingntims",
                         step_no: 1,
                         sub_step_no: 5,
                         sl_no: 1,
@@ -7585,7 +7585,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "printnmntimssingrcrsin",
+                        q_id: "printnmntimssingrcrsin",
                         step_no: 1,
                         sub_step_no: 5,
                         sl_no: 2,
@@ -7606,7 +7606,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "print1tnsingrcrsin",
+                        q_id: "print1tnsingrcrsin",
                         step_no: 1,
                         sub_step_no: 5,
                         sl_no: 3,
@@ -7628,7 +7628,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "printnt1singrcrsin",
+                        q_id: "printnt1singrcrsin",
                         step_no: 1,
                         sub_step_no: 5,
                         sl_no: 4,
@@ -7649,7 +7649,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "smffirstnnmbrs",
+                        q_id: "smffirstnnmbrs",
                         step_no: 1,
                         sub_step_no: 5,
                         sl_no: 5,
@@ -7671,7 +7671,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "fctrilfnnmbrs",
+                        q_id: "fctrilfnnmbrs",
                         step_no: 1,
                         sub_step_no: 5,
                         sl_no: 6,
@@ -7693,7 +7693,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rvrsnrry",
+                        q_id: "rvrsnrry",
                         step_no: 1,
                         sub_step_no: 5,
                         sl_no: 7,
@@ -7715,7 +7715,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckifstringisplindrmrnt",
+                        q_id: "chckifstringisplindrmrnt",
                         step_no: 1,
                         sub_step_no: 5,
                         sl_no: 8,
@@ -7737,7 +7737,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "fibnccinmbr",
+                        q_id: "fibnccinmbr",
                         step_no: 1,
                         sub_step_no: 5,
                         sl_no: 9,
@@ -7764,7 +7764,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Learn Basic Hashing",
                 topics: [
                     {
-                        id: "hshingthry",
+                        q_id: "hshingthry",
                         step_no: 1,
                         sub_step_no: 6,
                         sl_no: 1,
@@ -7783,7 +7783,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cntingfrqncisfrrylmnts",
+                        q_id: "cntingfrqncisfrrylmnts",
                         step_no: 1,
                         sub_step_no: 6,
                         sl_no: 2,
@@ -7804,7 +7804,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthhighstlwstfrqncylmnt",
+                        q_id: "findthhighstlwstfrqncylmnt",
                         step_no: 1,
                         sub_step_no: 6,
                         sl_no: 3,
@@ -7837,7 +7837,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Sorting-I",
                 topics: [
                     {
-                        id: "slctinsrt",
+                        q_id: "slctinsrt",
                         step_no: 2,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -7857,7 +7857,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"sorting","label":"Sorting"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "bbblsrt",
+                        q_id: "bbblsrt",
                         step_no: 2,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -7877,7 +7877,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"sorting","label":"Sorting"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "insrtinsrt",
+                        q_id: "insrtinsrt",
                         step_no: 2,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -7903,7 +7903,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Sorting-II",
                 topics: [
                     {
-                        id: "mrgsrt",
+                        q_id: "mrgsrt",
                         step_no: 2,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -7923,7 +7923,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rcrsivbbblsrt",
+                        q_id: "rcrsivbbblsrt",
                         step_no: 2,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -7943,7 +7943,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rcrsivinsrtinsrt",
+                        q_id: "rcrsivinsrtinsrt",
                         step_no: 2,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -7963,7 +7963,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "qicksrt",
+                        q_id: "qicksrt",
                         step_no: 2,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -7995,7 +7995,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Easy",
                 topics: [
                     {
-                        id: "lrgstlmntinnrry",
+                        q_id: "lrgstlmntinnrry",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -8015,7 +8015,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "scndlrgstlmntinnrrywithtsrting",
+                        q_id: "scndlrgstlmntinnrrywithtsrting",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -8036,7 +8036,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckifthrryissrtd",
+                        q_id: "chckifthrryissrtd",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -8057,7 +8057,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rmvdplictsfrmsrtdrry",
+                        q_id: "rmvdplictsfrmsrtdrry",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -8078,7 +8078,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lftrttnrrybynplc",
+                        q_id: "lftrttnrrybynplc",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -8098,7 +8098,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lftrttnrrybydplcs",
+                        q_id: "lftrttnrrybydplcs",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -8118,7 +8118,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mvzrstnd",
+                        q_id: "mvzrstnd",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 7,
@@ -8138,7 +8138,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"two-pointers","label":"Two Pointer"}]',
                     },
                     {
-                        id: "linrsrch",
+                        q_id: "linrsrch",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 8,
@@ -8158,7 +8158,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthnin",
+                        q_id: "findthnin",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 9,
@@ -8178,7 +8178,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findmissingnmbrinnrry",
+                        q_id: "findmissingnmbrinnrry",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 10,
@@ -8197,7 +8197,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"binary-search","label":"Binary Search"},{"value":"hashing","label":"Hashing"}]',
                     },
                     {
-                        id: "mximmcnsctivns",
+                        q_id: "mximmcnsctivns",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 11,
@@ -8217,7 +8217,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthnmbrthtpprsncndthrnmbrstwic",
+                        q_id: "findthnmbrthtpprsncndthrnmbrstwic",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 12,
@@ -8238,7 +8238,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "longestsubarraywithsumpositives",
+                        q_id: "longestsubarraywithsumpositives",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 13,
@@ -8260,7 +8260,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"hashing","label":"Hashing"}]',
                     },
                     {
-                        id: "longestsubarraywithsumkposneg",
+                        q_id: "longestsubarraywithsumkposneg",
                         step_no: 3,
                         sub_step_no: 1,
                         sl_no: 14,
@@ -8288,7 +8288,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Medium",
                 topics: [
                     {
-                        id: "2smprblm",
+                        q_id: "2smprblm",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -8308,7 +8308,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"},{"value":"two-pointers","label":"Two Pointer"}]',
                     },
                     {
-                        id: "srtnrryf0s1snd2s",
+                        q_id: "srtnrryf0s1snd2s",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -8328,7 +8328,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mjritylmntn2tims",
+                        q_id: "mjritylmntn2tims",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -8348,7 +8348,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "kdnslgrithmmximmsbrrysm",
+                        q_id: "kdnslgrithmmximmsbrrysm",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -8369,7 +8369,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "printsbrrywithmximmsbrrysmxtnddvrsinfbvprblm",
+                        q_id: "printsbrrywithmximmsbrrysmxtnddvrsinfbvprblm",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -8390,7 +8390,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "stckbyndsll",
+                        q_id: "stckbyndsll",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -8411,7 +8411,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rrrngthrryinltrntingpsitivndngtivitms",
+                        q_id: "rrrngthrryinltrntingpsitivndngtivitms",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 7,
@@ -8433,7 +8433,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nxtprmttin",
+                        q_id: "nxtprmttin",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 8,
@@ -8453,7 +8453,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"two-pointers","label":"Two Pointer"}]',
                     },
                     {
-                        id: "ldrsinnrryprblm",
+                        q_id: "ldrsinnrryprblm",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 9,
@@ -8473,7 +8473,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lngstcnsctivsqncinnrry",
+                        q_id: "lngstcnsctivsqncinnrry",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 10,
@@ -8494,7 +8494,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "stmtrixzrs",
+                        q_id: "stmtrixzrs",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 11,
@@ -8514,7 +8514,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rttmtrixby90dgrs",
+                        q_id: "rttmtrixby90dgrs",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 12,
@@ -8534,7 +8534,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "printthmtrixinspirlmnnr",
+                        q_id: "printthmtrixinspirlmnnr",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 13,
@@ -8554,7 +8554,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "sbrrywithgivnsm",
+                        q_id: "sbrrywithgivnsm",
                         step_no: 3,
                         sub_step_no: 2,
                         sl_no: 14,
@@ -8582,7 +8582,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Hard",
                 topics: [
                     {
-                        id: "psclstringl",
+                        q_id: "psclstringl",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -8602,7 +8602,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"maths","label":"Maths"}]',
                     },
                     {
-                        id: "mjritylmntn3tims",
+                        q_id: "mjritylmntn3tims",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -8622,7 +8622,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "3smprblm",
+                        q_id: "3smprblm",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -8642,7 +8642,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"},{"value":"hashing","label":"Hashing"}]',
                     },
                     {
-                        id: "4smprblm",
+                        q_id: "4smprblm",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -8662,7 +8662,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"},{"value":"two-pointers","label":"Two Pointer"},{"value":"hashing","label":"Hashing"}]',
                     },
                     {
-                        id: "lrgstsbrrywith0sm",
+                        q_id: "lrgstsbrrywith0sm",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -8683,7 +8683,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cntnmbrfsbrryswithgivnxrk",
+                        q_id: "cntnmbrfsbrryswithgivnxrk",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 6,
@@ -8704,7 +8704,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mrgvrlppingsbintrvls",
+                        q_id: "mrgvrlppingsbintrvls",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 7,
@@ -8724,7 +8724,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"sorting","label":"Sorting"}]',
                     },
                     {
-                        id: "mrgtwsrtdrryswithtxtrspc",
+                        q_id: "mrgtwsrtdrryswithtxtrspc",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 8,
@@ -8744,7 +8744,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthrptingndmissingnmbr-i",
+                        q_id: "findthrptingndmissingnmbr-i",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 9,
@@ -8764,7 +8764,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"maths","label":"Maths"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cntinvrsins",
+                        q_id: "cntinvrsins",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 10,
@@ -8784,7 +8784,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"sorting","label":"Sorting"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rvrspirs",
+                        q_id: "rvrspirs",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 11,
@@ -8804,7 +8804,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mximmprdctsbrry",
+                        q_id: "mximmprdctsbrry",
                         step_no: 3,
                         sub_step_no: 3,
                         sl_no: 12,
@@ -8836,7 +8836,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "BS on 1D Arrays",
                 topics: [
                     {
-                        id: "binrysrchtfindxinsrtdrry",
+                        q_id: "binrysrchtfindxinsrtdrry",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -8856,7 +8856,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "implmntlwrbnd",
+                        q_id: "implmntlwrbnd",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -8876,7 +8876,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search","label":"Binary Search"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "implmntpprbnd",
+                        q_id: "implmntpprbnd",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -8895,7 +8895,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "srchinsrtpsitin",
+                        q_id: "srchinsrtpsitin",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -8916,7 +8916,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckifinptrryissrtd",
+                        q_id: "chckifinptrryissrtd",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -8938,7 +8938,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthfirstrlstccrrncfgivnnmbrinsrtdrry",
+                        q_id: "findthfirstrlstccrrncfgivnnmbrinsrtdrry",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -8960,7 +8960,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search","label":"Binary Search"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cntccrrncsfnmbrinsrtdrrywithdplicts",
+                        q_id: "cntccrrncsfnmbrinsrtdrrywithdplicts",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 7,
@@ -8981,7 +8981,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "srchinrttdsrtdrryi",
+                        q_id: "srchinrttdsrtdrryi",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 8,
@@ -9002,7 +9002,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"}]',
                     },
                     {
-                        id: "srchinrttdsrtdrryii",
+                        q_id: "srchinrttdsrtdrryii",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 9,
@@ -9023,7 +9023,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"}]',
                     },
                     {
-                        id: "findminimminrttdsrtdrry",
+                        q_id: "findminimminrttdsrtdrry",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 10,
@@ -9044,7 +9044,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthwmnytimshsnrrybnrttd",
+                        q_id: "findthwmnytimshsnrrybnrttd",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 11,
@@ -9064,7 +9064,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "singllmntinsrtdrry",
+                        q_id: "singllmntinsrtdrry",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 12,
@@ -9085,7 +9085,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findpklmnt",
+                        q_id: "findpklmnt",
                         step_no: 4,
                         sub_step_no: 1,
                         sl_no: 13,
@@ -9112,7 +9112,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "BS on Answers",
                 topics: [
                     {
-                        id: "findsqrrtfnmbrinlgn",
+                        q_id: "findsqrrtfnmbrinlgn",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -9132,7 +9132,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthnthrtfnmbrsingbinrysrch",
+                        q_id: "findthnthrtfnmbrsingbinrysrch",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -9152,7 +9152,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "kktingbnns",
+                        q_id: "kktingbnns",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -9172,7 +9172,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmdystmkmbqts",
+                        q_id: "minimmdystmkmbqts",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -9193,7 +9193,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthsmllstdivisr",
+                        q_id: "findthsmllstdivisr",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -9214,7 +9214,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cpcitytshippckgswithinddys",
+                        q_id: "cpcitytshippckgswithinddys",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -9235,7 +9235,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "kthmissingpsitivnmbr",
+                        q_id: "kthmissingpsitivnmbr",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 7,
@@ -9256,7 +9256,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "ggrssivcws",
+                        q_id: "ggrssivcws",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 8,
@@ -9276,7 +9276,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "bkllctinprblm",
+                        q_id: "bkllctinprblm",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 9,
@@ -9296,7 +9296,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"binary-search","label":"Binary Search"}]',
                     },
                     {
-                        id: "splitrrylrgstsm",
+                        q_id: "splitrrylrgstsm",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 10,
@@ -9317,7 +9317,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "painterspartition",
+                        q_id: "painterspartition",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 11,
@@ -9338,7 +9338,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimizmxdistnctgssttin",
+                        q_id: "minimizmxdistnctgssttin",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 12,
@@ -9360,7 +9360,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mdinf2srtdrrys",
+                        q_id: "mdinf2srtdrrys",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 13,
@@ -9381,7 +9381,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "kthlmntf2srtdrrys",
+                        q_id: "kthlmntf2srtdrrys",
                         step_no: 4,
                         sub_step_no: 2,
                         sl_no: 14,
@@ -9407,7 +9407,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "BS on 2D Arrays",
                 topics: [
                     {
-                        id: "findthrwwithmximmnmbrf1s",
+                        q_id: "findthrwwithmximmnmbrf1s",
                         step_no: 4,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -9427,7 +9427,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "srchin2dmtrix",
+                        q_id: "srchin2dmtrix",
                         step_no: 4,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -9447,7 +9447,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search","label":"Binary Search"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "SearchRowColumnWiseSortedMatrix",
+                        q_id: "SearchRowColumnWiseSortedMatrix",
                         step_no: 4,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -9468,7 +9468,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findpklmnt-i",
+                        q_id: "findpklmnt-i",
                         step_no: 4,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -9487,7 +9487,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"}]',
                     },
                     {
-                        id: "mtrixmdin",
+                        q_id: "mtrixmdin",
                         step_no: 4,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -9519,7 +9519,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Basic and Easy String Problems",
                 topics: [
                     {
-                        id: "rmvtrmstprnthsis",
+                        q_id: "rmvtrmstprnthsis",
                         step_no: 5,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -9539,7 +9539,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"stack","label":"Stack"}]',
                     },
                     {
-                        id: "rvrswrdsingivnstringplindrmchck",
+                        q_id: "rvrswrdsingivnstringplindrmchck",
                         step_no: 5,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -9560,7 +9560,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"two-pointers","label":"Two Pointer"},{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lrgstddnmbrinstring",
+                        q_id: "lrgstddnmbrinstring",
                         step_no: 5,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -9579,7 +9579,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lngstcmmnprfix",
+                        q_id: "lngstcmmnprfix",
                         step_no: 5,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -9598,7 +9598,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "ismrphicstring",
+                        q_id: "ismrphicstring",
                         step_no: 5,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -9617,7 +9617,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckwhthrnstringisrttinfnthr",
+                        q_id: "chckwhthrnstringisrttinfnthr",
                         step_no: 5,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -9636,7 +9636,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckiftwstringsrngrmfchthr",
+                        q_id: "chckiftwstringsrngrmfchthr",
                         step_no: 5,
                         sub_step_no: 1,
                         sl_no: 7,
@@ -9663,7 +9663,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Medium String Problems",
                 topics: [
                     {
-                        id: "srtchrctrsbyfrqncy",
+                        q_id: "srtchrctrsbyfrqncy",
                         step_no: 5,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -9683,7 +9683,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mximmnstingdpthfprnthsis",
+                        q_id: "mximmnstingdpthfprnthsis",
                         step_no: 5,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -9702,7 +9702,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"stack","label":"Stack"}]',
                     },
                     {
-                        id: "rmnnmbrtintgrndvicvrs",
+                        q_id: "rmnnmbrtintgrndvicvrs",
                         step_no: 5,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -9721,7 +9721,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"maths","label":"Maths"},{"value":"string","label":"String"}]',
                     },
                     {
-                        id: "implmntti",
+                        q_id: "implmntti",
                         step_no: 5,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -9740,7 +9740,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cntnmbrfsbstrings",
+                        q_id: "cntnmbrfsbstrings",
                         step_no: 5,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -9759,7 +9759,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lngstplindrmicsbstringditwithtdp",
+                        q_id: "lngstplindrmicsbstringditwithtdp",
                         step_no: 5,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -9778,7 +9778,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "smfbtyfllsbstring",
+                        q_id: "smfbtyfllsbstring",
                         step_no: 5,
                         sub_step_no: 2,
                         sl_no: 7,
@@ -9798,7 +9798,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"},{"value":"string","label":"String"}]',
                     },
                     {
-                        id: "rvrsvrywrdinstring",
+                        q_id: "rvrsvrywrdinstring",
                         step_no: 5,
                         sub_step_no: 2,
                         sl_no: 8,
@@ -9831,7 +9831,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Learn 1D LinkedList",
                 topics: [
                     {
-                        id: "intrdctintlinkdlistlrnbtstrctndhwisndrprsntd",
+                        q_id: "intrdctintlinkdlistlrnbtstrctndhwisndrprsntd",
                         step_no: 6,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -9853,7 +9853,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "insrtingndinlinkdlist",
+                        q_id: "insrtingndinlinkdlist",
                         step_no: 6,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -9874,7 +9874,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dltingndinlinkdlist",
+                        q_id: "dltingndinlinkdlist",
                         step_no: 6,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -9896,7 +9896,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthlngthfthlinkdlistlrntrvrsl",
+                        q_id: "findthlngthfthlinkdlistlrntrvrsl",
                         step_no: 6,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -9918,7 +9918,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "srchnlmntinthll",
+                        q_id: "srchnlmntinthll",
                         step_no: 6,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -9945,7 +9945,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Learn Doubly LinkedList",
                 topics: [
                     {
-                        id: "intrdctintdlllrnbtstrctndhwisndrprsntd",
+                        q_id: "intrdctintdlllrnbtstrctndhwisndrprsntd",
                         step_no: 6,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -9967,7 +9967,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "insrtndindll",
+                        q_id: "insrtndindll",
                         step_no: 6,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -9988,7 +9988,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dltndindll",
+                        q_id: "dltndindll",
                         step_no: 6,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -10009,7 +10009,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rvrsdll",
+                        q_id: "rvrsdll",
                         step_no: 6,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -10036,7 +10036,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Medium Problems of LL",
                 topics: [
                     {
-                        id: "middlflinkdlisttrtishrmthd",
+                        q_id: "middlflinkdlisttrtishrmthd",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -10057,7 +10057,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rvrslinkdlistitrtiv",
+                        q_id: "rvrslinkdlistitrtiv",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -10078,7 +10078,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rvrsllrcrsiv",
+                        q_id: "rvrsllrcrsiv",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -10099,7 +10099,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dtctlpinll",
+                        q_id: "dtctlpinll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -10120,7 +10120,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthstrtingpintinll",
+                        q_id: "findthstrtingpintinll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -10141,7 +10141,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"hashing","label":"Hashing"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lngthflpinll",
+                        q_id: "lngthflpinll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 6,
@@ -10162,7 +10162,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckifllisplindrmrnt",
+                        q_id: "chckifllisplindrmrnt",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 7,
@@ -10183,7 +10183,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "sgrrgtddndvnndsinll",
+                        q_id: "sgrrgtddndvnndsinll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 8,
@@ -10204,7 +10204,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rmvnthndfrmthbckfthll",
+                        q_id: "rmvnthndfrmthbckfthll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 9,
@@ -10226,7 +10226,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dltthmiddlndfll",
+                        q_id: "dltthmiddlndfll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 10,
@@ -10248,7 +10248,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "srtll",
+                        q_id: "srtll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 11,
@@ -10269,7 +10269,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "srtllf0s1snd2sbychnginglinks",
+                        q_id: "srtllf0s1snd2sbychnginglinks",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 12,
@@ -10289,7 +10289,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthintrsctinpintfyll",
+                        q_id: "findthintrsctinpintfyll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 13,
@@ -10311,7 +10311,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dd1tnmbrrprsntdbyll",
+                        q_id: "dd1tnmbrrprsntdbyll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 14,
@@ -10331,7 +10331,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dd2nmbrsinll",
+                        q_id: "dd2nmbrsinll",
                         step_no: 6,
                         sub_step_no: 3,
                         sl_no: 15,
@@ -10358,7 +10358,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Medium Problems of DLL",
                 topics: [
                     {
-                        id: "dltllccrrncsfkyindll",
+                        q_id: "dltllccrrncsfkyindll",
                         step_no: 6,
                         sub_step_no: 4,
                         sl_no: 1,
@@ -10378,7 +10378,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findpirswithgivnsmindll",
+                        q_id: "findpirswithgivnsmindll",
                         step_no: 6,
                         sub_step_no: 4,
                         sl_no: 2,
@@ -10398,7 +10398,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rmvdplictsfrmsrtddll",
+                        q_id: "rmvdplictsfrmsrtddll",
                         step_no: 6,
                         sub_step_no: 4,
                         sl_no: 3,
@@ -10424,7 +10424,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Hard Problems of LL",
                 topics: [
                     {
-                        id: "rvrsllingrpfgivnsizk",
+                        q_id: "rvrsllingrpfgivnsizk",
                         step_no: 6,
                         sub_step_no: 5,
                         sl_no: 1,
@@ -10445,7 +10445,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rttll",
+                        q_id: "rttll",
                         step_no: 6,
                         sub_step_no: 5,
                         sl_no: 2,
@@ -10466,7 +10466,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "flttningfll",
+                        q_id: "flttningfll",
                         step_no: 6,
                         sub_step_no: 5,
                         sl_no: 3,
@@ -10487,7 +10487,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "clnlinkdlistwithrndmndnxtpintr",
+                        q_id: "clnlinkdlistwithrndmndnxtpintr",
                         step_no: 6,
                         sub_step_no: 5,
                         sl_no: 4,
@@ -10521,7 +10521,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Get a Strong Hold",
                 topics: [
                     {
-                        id: "rcrsivimplmnttinfti",
+                        q_id: "rcrsivimplmnttinfti",
                         step_no: 7,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -10540,7 +10540,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "pwxn",
+                        q_id: "pwxn",
                         step_no: 7,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -10560,7 +10560,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "cntgdnmbrs",
+                        q_id: "cntgdnmbrs",
                         step_no: 7,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -10579,7 +10579,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "srtstcksingrcrsin",
+                        q_id: "srtstcksingrcrsin",
                         step_no: 7,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -10598,7 +10598,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rvrsstcksingrcrsin",
+                        q_id: "rvrsstcksingrcrsin",
                         step_no: 7,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -10623,7 +10623,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Subsequences Pattern",
                 topics: [
                     {
-                        id: "gnrtllbinrystrings",
+                        q_id: "gnrtllbinrystrings",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -10642,7 +10642,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "gnrtprnthsis",
+                        q_id: "gnrtprnthsis",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -10661,7 +10661,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "printllsbsqncspwrst",
+                        q_id: "printllsbsqncspwrst",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -10681,7 +10681,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lrnllpttrnsfsbsqncsthry",
+                        q_id: "lrnllpttrnsfsbsqncsthry",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -10701,7 +10701,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cntllsbsqncswithsmk",
+                        q_id: "cntllsbsqncswithsmk",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -10720,7 +10720,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckifthrxistssbsqncwithsmk",
+                        q_id: "chckifthrxistssbsqncwithsmk",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -10739,7 +10739,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cmbintinsm",
+                        q_id: "cmbintinsm",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 7,
@@ -10760,7 +10760,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"}]',
                     },
                     {
-                        id: "cmbintinsmii",
+                        q_id: "cmbintinsmii",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 8,
@@ -10781,7 +10781,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"}]',
                     },
                     {
-                        id: "sbstsmi",
+                        q_id: "sbstsmi",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 9,
@@ -10802,7 +10802,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "sbstsmii",
+                        q_id: "sbstsmii",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 10,
@@ -10823,7 +10823,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cmbintinsmiii",
+                        q_id: "cmbintinsmiii",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 11,
@@ -10842,7 +10842,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"}]',
                     },
                     {
-                        id: "lttrcmbintinsfphnnmbr",
+                        q_id: "lttrcmbintinsfphnnmbr",
                         step_no: 7,
                         sub_step_no: 2,
                         sl_no: 12,
@@ -10868,7 +10868,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Trying out all Combos / Hard",
                 topics: [
                     {
-                        id: "plindrmprtitining",
+                        q_id: "plindrmprtitining",
                         step_no: 7,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -10889,7 +10889,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "wrdsrch",
+                        q_id: "wrdsrch",
                         step_no: 7,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -10909,7 +10909,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"string","label":"String"}]',
                     },
                     {
-                        id: "nqn",
+                        q_id: "nqn",
                         step_no: 7,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -10930,7 +10930,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "rtinmz",
+                        q_id: "rtinmz",
                         step_no: 7,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -10951,7 +10951,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "wrdbrk",
+                        q_id: "wrdbrk",
                         step_no: 7,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -10969,7 +10969,7 @@ export const StriverSheetA2Z = [
                         ques_topic: null,
                     },
                     {
-                        id: "mclringprblm",
+                        q_id: "mclringprblm",
                         step_no: 7,
                         sub_step_no: 3,
                         sl_no: 6,
@@ -10991,7 +10991,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "sdkslvr",
+                        q_id: "sdkslvr",
                         step_no: 7,
                         sub_step_no: 3,
                         sl_no: 7,
@@ -11011,7 +11011,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "xprssinddprtrs",
+                        q_id: "xprssinddprtrs",
                         step_no: 7,
                         sub_step_no: 3,
                         sl_no: 8,
@@ -11042,7 +11042,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Learn Bit Manipulation",
                 topics: [
                     {
-                        id: "intrdctintbitmnipltinthry",
+                        q_id: "intrdctintbitmnipltinthry",
                         step_no: 8,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -11061,7 +11061,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"bit-manipulation","label":"Bit Manipulation"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckifthithbitisstrnt",
+                        q_id: "chckifthithbitisstrnt",
                         step_no: 8,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -11081,7 +11081,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"bit-manipulation","label":"Bit Manipulation"}]',
                     },
                     {
-                        id: "chckifnmbrisddrnt",
+                        q_id: "chckifnmbrisddrnt",
                         step_no: 8,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -11100,7 +11100,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"maths","label":"Maths"}]',
                     },
                     {
-                        id: "chckifnmbrispwrf2rnt",
+                        q_id: "chckifnmbrispwrf2rnt",
                         step_no: 8,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -11119,7 +11119,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"maths","label":"Maths"}]',
                     },
                     {
-                        id: "cntthnmbrfstbits",
+                        q_id: "cntthnmbrfstbits",
                         step_no: 8,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -11139,7 +11139,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"bit-manipulation","label":"Bit Manipulation"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "stnstthrightmstnstbit",
+                        q_id: "stnstthrightmstnstbit",
                         step_no: 8,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -11159,7 +11159,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"bit-manipulation","label":"Bit Manipulation"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "swptwnmbrs",
+                        q_id: "swptwnmbrs",
                         step_no: 8,
                         sub_step_no: 1,
                         sl_no: 7,
@@ -11179,7 +11179,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dividtwintgrswithtsingmltiplictindivisinndmdprtr",
+                        q_id: "dividtwintgrswithtsingmltiplictindivisinndmdprtr",
                         step_no: 8,
                         sub_step_no: 1,
                         sl_no: 8,
@@ -11206,7 +11206,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Interview Problems",
                 topics: [
                     {
-                        id: "cntnmbrfbitstbflippdtcnvrttb",
+                        q_id: "cntnmbrfbitstbflippdtcnvrttb",
                         step_no: 8,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -11228,7 +11228,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"bit-manipulation","label":"Bit Manipulation"}]',
                     },
                     {
-                        id: "findthnmbrthtpprsddnmbrftims",
+                        q_id: "findthnmbrthtpprsddnmbrftims",
                         step_no: 8,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -11248,7 +11248,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "pwrst",
+                        q_id: "pwrst",
                         step_no: 8,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -11268,7 +11268,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "fndxrfnmbrsfrmltr",
+                        q_id: "fndxrfnmbrsfrmltr",
                         step_no: 8,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -11287,7 +11287,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthtwnmbrsppringddnmbrftims",
+                        q_id: "findthtwnmbrsppringddnmbrftims",
                         step_no: 8,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -11314,7 +11314,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Advanced Maths",
                 topics: [
                     {
-                        id: "printprimfctrsfnmbr",
+                        q_id: "printprimfctrsfnmbr",
                         step_no: 8,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -11333,7 +11333,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lldivisrsfnmbr",
+                        q_id: "lldivisrsfnmbr",
                         step_no: 8,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -11353,7 +11353,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "sivfrtsthns",
+                        q_id: "sivfrtsthns",
                         step_no: 8,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -11372,7 +11372,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findprimfctristinfnmbrsingsiv",
+                        q_id: "findprimfctristinfnmbrsingsiv",
                         step_no: 8,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -11391,7 +11391,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "pwrnx",
+                        q_id: "pwrnx",
                         step_no: 8,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -11424,7 +11424,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Learning",
                 topics: [
                     {
-                        id: "implmntstcksingrrys",
+                        q_id: "implmntstcksingrrys",
                         step_no: 9,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -11445,7 +11445,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "implmntqsingrrys",
+                        q_id: "implmntqsingrrys",
                         step_no: 9,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -11466,7 +11466,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"queue","label":"Queue"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "implmntstcksingq",
+                        q_id: "implmntstcksingq",
                         step_no: 9,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -11488,7 +11488,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"queue","label":"Queue"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "implmntqsingstck",
+                        q_id: "implmntqsingstck",
                         step_no: 9,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -11510,7 +11510,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"queue","label":"Queue"},{"value":"data-structure","label":"Data Structures"},{"value":"stack","label":"Stack"}]',
                     },
                     {
-                        id: "implmntstcksinglinkdlist",
+                        q_id: "implmntstcksinglinkdlist",
                         step_no: 9,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -11530,7 +11530,7 @@ export const StriverSheetA2Z = [
                         ques_topic: '[{"value":"stack","label":"Stack"}]',
                     },
                     {
-                        id: "implmntqsinglinkdlist",
+                        q_id: "implmntqsinglinkdlist",
                         step_no: 9,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -11551,7 +11551,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"queue","label":"Queue"},{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckfrblncdprnthsis",
+                        q_id: "chckfrblncdprnthsis",
                         step_no: 9,
                         sub_step_no: 1,
                         sl_no: 7,
@@ -11572,7 +11572,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "implmntminstck",
+                        q_id: "implmntminstck",
                         step_no: 9,
                         sub_step_no: 1,
                         sl_no: 8,
@@ -11599,7 +11599,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Prefix, Infix, PostFix Conversion Problems",
                 topics: [
                     {
-                        id: "infixtpstfixcnvrsinsingstck",
+                        q_id: "infixtpstfixcnvrsinsingstck",
                         step_no: 9,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -11620,7 +11620,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "prfixtinfixcnvrsin",
+                        q_id: "prfixtinfixcnvrsin",
                         step_no: 9,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -11640,7 +11640,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "prfixtpstfixcnvrsin",
+                        q_id: "prfixtpstfixcnvrsin",
                         step_no: 9,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -11660,7 +11660,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "pstfixtprfixcnvrsin",
+                        q_id: "pstfixtprfixcnvrsin",
                         step_no: 9,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -11680,7 +11680,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "pstfixtinfix",
+                        q_id: "pstfixtinfix",
                         step_no: 9,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -11700,7 +11700,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cnvrtinfixtprfixnttin",
+                        q_id: "cnvrtinfixtprfixnttin",
                         step_no: 9,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -11727,7 +11727,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Monotonic Stack/Queue Problems [VVV. Imp]",
                 topics: [
                     {
-                        id: "nxtgrtrlmnt",
+                        q_id: "nxtgrtrlmnt",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -11748,7 +11748,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nxtgrtrlmnt2",
+                        q_id: "nxtgrtrlmnt2",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -11768,7 +11768,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nxtsmllrlmnt",
+                        q_id: "nxtsmllrlmnt",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -11789,7 +11789,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nmbrfngstthright",
+                        q_id: "nmbrfngstthright",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -11809,7 +11809,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "trppingrinwtr",
+                        q_id: "trppingrinwtr",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -11830,7 +11830,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "smfsbrryminimm",
+                        q_id: "smfsbrryminimm",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 6,
@@ -11850,7 +11850,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "stridcllisin",
+                        q_id: "stridcllisin",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 8,
@@ -11870,7 +11870,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "smfsbrryrngs",
+                        q_id: "smfsbrryrngs",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 9,
@@ -11890,7 +11890,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rmvkdigits",
+                        q_id: "rmvkdigits",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 10,
@@ -11910,7 +11910,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"stack","label":"Stack"},{"value":"greedy","label":"Greedy"}]',
                     },
                     {
-                        id: "lrgstrctnglinhistgrm",
+                        q_id: "lrgstrctnglinhistgrm",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 11,
@@ -11932,7 +11932,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mximlrctngls",
+                        q_id: "mximlrctngls",
                         step_no: 9,
                         sub_step_no: 3,
                         sl_no: 12,
@@ -11958,7 +11958,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Implementation Problems",
                 topics: [
                     {
-                        id: "slidingwindwmximm",
+                        q_id: "slidingwindwmximm",
                         step_no: 9,
                         sub_step_no: 4,
                         sl_no: 1,
@@ -11979,7 +11979,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"queue","label":"Queue"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "stckspnprblm",
+                        q_id: "stckspnprblm",
                         step_no: 9,
                         sub_step_no: 4,
                         sl_no: 2,
@@ -11999,7 +11999,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "thclbrityprblm",
+                        q_id: "thclbrityprblm",
                         step_no: 9,
                         sub_step_no: 4,
                         sl_no: 3,
@@ -12020,7 +12020,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"queue","label":"Queue"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lrcchimprtnt",
+                        q_id: "lrcchimprtnt",
                         step_no: 9,
                         sub_step_no: 4,
                         sl_no: 5,
@@ -12041,7 +12041,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lfcch",
+                        q_id: "lfcch",
                         step_no: 9,
                         sub_step_no: 4,
                         sl_no: 6,
@@ -12074,7 +12074,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Medium Problems",
                 topics: [
                     {
-                        id: "lngstsbstringwithtrptingchrctrs",
+                        q_id: "lngstsbstringwithtrptingchrctrs",
                         step_no: 10,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -12095,7 +12095,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mxcnsctivnsiii",
+                        q_id: "mxcnsctivnsiii",
                         step_no: 10,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -12114,7 +12114,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "fritintbskts",
+                        q_id: "fritintbskts",
                         step_no: 10,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -12133,7 +12133,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lngstrptingchrctrrplcmnt",
+                        q_id: "lngstrptingchrctrrplcmnt",
                         step_no: 10,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -12153,7 +12153,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"hashing","label":"Hashing"}]',
                     },
                     {
-                        id: "binrysbrrywithsm",
+                        q_id: "binrysbrrywithsm",
                         step_no: 10,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -12172,7 +12172,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"hashing","label":"Hashing"}]',
                     },
                     {
-                        id: "cntnmbrfnicsbrrys",
+                        q_id: "cntnmbrfnicsbrrys",
                         step_no: 10,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -12192,7 +12192,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"maths","label":"Maths"}]',
                     },
                     {
-                        id: "nmbrfsbstringcntiningllthrchrctrs",
+                        q_id: "nmbrfsbstringcntiningllthrchrctrs",
                         step_no: 10,
                         sub_step_no: 1,
                         sl_no: 7,
@@ -12213,7 +12213,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mximmpintycnbtinfrmcrds",
+                        q_id: "mximmpintycnbtinfrmcrds",
                         step_no: 10,
                         sub_step_no: 1,
                         sl_no: 8,
@@ -12239,7 +12239,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Hard Problems",
                 topics: [
                     {
-                        id: "lngstsbstringwithtmstkdistinctchrctrs",
+                        q_id: "lngstsbstringwithtmstkdistinctchrctrs",
                         step_no: 10,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -12260,7 +12260,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "sbrrywithkdiffrntintgrs",
+                        q_id: "sbrrywithkdiffrntintgrs",
                         step_no: 10,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -12280,7 +12280,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmwindwsbstring",
+                        q_id: "minimmwindwsbstring",
                         step_no: 10,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -12300,7 +12300,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmwindwsbsqnc",
+                        q_id: "minimmwindwsbsqnc",
                         step_no: 10,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -12332,7 +12332,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Learning",
                 topics: [
                     {
-                        id: "intrdctintprirityqssingbinryhps",
+                        q_id: "intrdctintprirityqssingbinryhps",
                         step_no: 11,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -12352,7 +12352,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"queue","label":"Queue"},{"value":"heap","label":"Heap"}]',
                     },
                     {
-                        id: "minhpndmxhpimplmnttin",
+                        q_id: "minhpndmxhpimplmnttin",
                         step_no: 11,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -12371,7 +12371,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckifnrryrprsntsminhprnt",
+                        q_id: "chckifnrryrprsntsminhprnt",
                         step_no: 11,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -12390,7 +12390,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cnvrtminhptmxhp",
+                        q_id: "cnvrtminhptmxhp",
                         step_no: 11,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -12415,7 +12415,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Medium Problems",
                 topics: [
                     {
-                        id: "kthlrgstlmntinnrrysprirityq",
+                        q_id: "kthlrgstlmntinnrrysprirityq",
                         step_no: 11,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -12437,7 +12437,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"heap","label":"Heap"}]',
                     },
                     {
-                        id: "kthsmllstlmntinnrrysprirityq",
+                        q_id: "kthsmllstlmntinnrrysprirityq",
                         step_no: 11,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -12458,7 +12458,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "srtksrtdrry",
+                        q_id: "srtksrtdrry",
                         step_no: 11,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -12476,7 +12476,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mrgmsrtdlists",
+                        q_id: "mrgmsrtdlists",
                         step_no: 11,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -12495,7 +12495,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"},{"value":"linked-list","label":"Linked List"}]',
                     },
                     {
-                        id: "rplcchrrylmntbyitscrrspndingrnk",
+                        q_id: "rplcchrrylmntbyitscrrspndingrnk",
                         step_no: 11,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -12516,7 +12516,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "tskschdlr",
+                        q_id: "tskschdlr",
                         step_no: 11,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -12535,7 +12535,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"greedy","label":"Greedy"},{"value":"sorting","label":"Sorting"},{"value":"heap","label":"Heap"}]',
                     },
                     {
-                        id: "hndsfstrights",
+                        q_id: "hndsfstrights",
                         step_no: 11,
                         sub_step_no: 2,
                         sl_no: 7,
@@ -12560,7 +12560,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Hard Problems",
                 topics: [
                     {
-                        id: "dsigntwittr",
+                        q_id: "dsigntwittr",
                         step_no: 11,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -12580,7 +12580,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"linked-list","label":"Linked List"},{"value":"heap","label":"Heap"}]',
                     },
                     {
-                        id: "cnnctnrpswithminimlcst",
+                        q_id: "cnnctnrpswithminimlcst",
                         step_no: 11,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -12599,7 +12599,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "kthlrgstlmntinstrmfrnningintgrs",
+                        q_id: "kthlrgstlmntinstrmfrnningintgrs",
                         step_no: 11,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -12620,7 +12620,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mximmsmcmbintin",
+                        q_id: "mximmsmcmbintin",
                         step_no: 11,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -12640,7 +12640,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findmdinfrmdtstrm",
+                        q_id: "findmdinfrmdtstrm",
                         step_no: 11,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -12660,7 +12660,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"two-pointers","label":"Two Pointer"},{"value":"sorting","label":"Sorting"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "kmstfrqntlmnts",
+                        q_id: "kmstfrqntlmnts",
                         step_no: 11,
                         sub_step_no: 3,
                         sl_no: 6,
@@ -12691,7 +12691,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Easy Problems",
                 topics: [
                     {
-                        id: "ssignckis",
+                        q_id: "ssignckis",
                         step_no: 12,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -12710,7 +12710,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"two-pointers","label":"Two Pointer"},{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"},{"value":"sorting","label":"Sorting"}]',
                     },
                     {
-                        id: "frctinlknpsckprblm",
+                        q_id: "frctinlknpsckprblm",
                         step_no: 12,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -12731,7 +12731,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "grdylgrithmtfindminimmnmbrfcins",
+                        q_id: "grdylgrithmtfindminimmnmbrfcins",
                         step_no: 12,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -12753,7 +12753,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"greedy","label":"Greedy"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lmndchng",
+                        q_id: "lmndchng",
                         step_no: 12,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -12772,7 +12772,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "vlidprnthsischckr",
+                        q_id: "vlidprnthsischckr",
                         step_no: 12,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -12797,7 +12797,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Medium/Hard",
                 topics: [
                     {
-                        id: "nmtingsinnrm",
+                        q_id: "nmtingsinnrm",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -12818,7 +12818,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "jmpgm",
+                        q_id: "jmpgm",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -12837,7 +12837,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "jmpgm2",
+                        q_id: "jmpgm2",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -12856,7 +12856,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmnmbrfpltfrmsrqirdfrrilwy",
+                        q_id: "minimmnmbrfpltfrmsrqirdfrrilwy",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -12878,7 +12878,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "jbsqncingprblm",
+                        q_id: "jbsqncingprblm",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -12899,7 +12899,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"}]',
                     },
                     {
-                        id: "cndy",
+                        q_id: "cndy",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -12918,7 +12918,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"greedy","label":"Greedy"}]',
                     },
                     {
-                        id: "prgrmfrshrtstjbfirstrsjfcpschdling",
+                        q_id: "prgrmfrshrtstjbfirstrsjfcpschdling",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 7,
@@ -12939,7 +12939,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "prgrmfrlstrcntlysdlrpgrplcmntlgrithm",
+                        q_id: "prgrmfrlstrcntlysdlrpgrplcmntlgrithm",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 8,
@@ -12958,7 +12958,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "insrtintrvl",
+                        q_id: "insrtintrvl",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 9,
@@ -12977,7 +12977,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mrgintrvls",
+                        q_id: "mrgintrvls",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 10,
@@ -12998,7 +12998,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nnvrlppingintrvls",
+                        q_id: "nnvrlppingintrvls",
                         step_no: 12,
                         sub_step_no: 2,
                         sl_no: 11,
@@ -13029,7 +13029,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Traversals",
                 topics: [
                     {
-                        id: "intrdctinttrs",
+                        q_id: "intrdctinttrs",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -13049,7 +13049,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "binrytrrprsnttininc",
+                        q_id: "binrytrrprsnttininc",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -13069,7 +13069,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "binrytrrprsnttininjv",
+                        q_id: "binrytrrprsnttininjv",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -13089,7 +13089,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "binrytrtrvrslsinbinrytr",
+                        q_id: "binrytrtrvrslsinbinrytr",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -13109,7 +13109,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "prrdrtrvrslfbinrytr",
+                        q_id: "prrdrtrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -13130,7 +13130,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "inrdrtrvrslfbinrytr",
+                        q_id: "inrdrtrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -13151,7 +13151,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "pstrdrtrvrslfbinrytr",
+                        q_id: "pstrdrtrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 7,
@@ -13172,7 +13172,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
+                        q_id: "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 8,
@@ -13194,7 +13194,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "itrtivprrdrtrvrslfbinrytr",
+                        q_id: "itrtivprrdrtrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 9,
@@ -13215,7 +13215,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "itrtivinrdrtrvrslfbinrytr",
+                        q_id: "itrtivinrdrtrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 10,
@@ -13236,7 +13236,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "pstrdrtrvrslfbinrytrsing2stck",
+                        q_id: "pstrdrtrvrslfbinrytrsing2stck",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 11,
@@ -13257,7 +13257,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "pstrdrtrvrslfbinrytrsing1stck",
+                        q_id: "pstrdrtrvrslfbinrytrsing1stck",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 12,
@@ -13278,7 +13278,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "prrdrinrdrndpstrdrtrvrslinntrvrsl",
+                        q_id: "prrdrinrdrndpstrdrtrvrslinntrvrsl",
                         step_no: 13,
                         sub_step_no: 1,
                         sl_no: 13,
@@ -13305,7 +13305,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Medium Problems",
                 topics: [
                     {
-                        id: "hightfbinrytr",
+                        q_id: "hightfbinrytr",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -13326,7 +13326,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckifthbinrytrishightblncdrnt",
+                        q_id: "chckifthbinrytrishightblncdrnt",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -13347,7 +13347,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dimtrfbinrytr",
+                        q_id: "dimtrfbinrytr",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -13367,7 +13367,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mximmpthsm",
+                        q_id: "mximmpthsm",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -13388,7 +13388,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckiftwtrsridnticlrnt",
+                        q_id: "chckiftwtrsridnticlrnt",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -13408,7 +13408,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "zigzgtrvrslfbinrytr",
+                        q_id: "zigzgtrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -13429,7 +13429,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "bndrytrvrslfbinrytr",
+                        q_id: "bndrytrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 7,
@@ -13449,7 +13449,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "vrticlrdrtrvrslfbinrytr",
+                        q_id: "vrticlrdrtrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 8,
@@ -13470,7 +13470,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "tpviwfbinrytr",
+                        q_id: "tpviwfbinrytr",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 9,
@@ -13491,7 +13491,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "bttmviwfbinrytr",
+                        q_id: "bttmviwfbinrytr",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 10,
@@ -13512,7 +13512,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rightlftviwfbinrytr",
+                        q_id: "rightlftviwfbinrytr",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 11,
@@ -13533,7 +13533,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "symmtricbinrytr",
+                        q_id: "symmtricbinrytr",
                         step_no: 13,
                         sub_step_no: 2,
                         sl_no: 12,
@@ -13559,7 +13559,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Hard Problems",
                 topics: [
                     {
-                        id: "rttndpthinbinrytr",
+                        q_id: "rttndpthinbinrytr",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -13579,7 +13579,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lcinbinrytr",
+                        q_id: "lcinbinrytr",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -13600,7 +13600,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mximmwidthfbinrytr",
+                        q_id: "mximmwidthfbinrytr",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -13621,7 +13621,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckfrchildrnsmprprty",
+                        q_id: "chckfrchildrnsmprprty",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -13641,7 +13641,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "printllthndstdistncfkinbinrytr",
+                        q_id: "printllthndstdistncfkinbinrytr",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -13662,7 +13662,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmtimtkntbrnthbinrytrfrmnd",
+                        q_id: "minimmtimtkntbrnthbinrytrfrmnd",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 6,
@@ -13682,7 +13682,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cntttlndsincmpltbinrytr",
+                        q_id: "cntttlndsincmpltbinrytr",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 7,
@@ -13702,7 +13702,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rqirmntsnddtcnstrctniqbinrytrthry",
+                        q_id: "rqirmntsnddtcnstrctniqbinrytrthry",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 8,
@@ -13722,7 +13722,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cnstrctbinrytrfrminrdrndprrdr",
+                        q_id: "cnstrctbinrytrfrminrdrndprrdr",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 9,
@@ -13743,7 +13743,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cnstrctthbinrytrfrmpstrdrndinrdrtrvrsl",
+                        q_id: "cnstrctthbinrytrfrmpstrdrndinrdrtrvrsl",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 10,
@@ -13765,7 +13765,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "sriliznddsrilizbinrytr",
+                        q_id: "sriliznddsrilizbinrytr",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 11,
@@ -13786,7 +13786,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mrrisprrdrtrvrslfbinrytr",
+                        q_id: "mrrisprrdrtrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 12,
@@ -13807,7 +13807,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mrrisinrdrtrvrslfbinrytr",
+                        q_id: "mrrisinrdrtrvrslfbinrytr",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 13,
@@ -13828,7 +13828,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "flttnbinrytrtlinkdlist",
+                        q_id: "flttnbinrytrtlinkdlist",
                         step_no: 13,
                         sub_step_no: 3,
                         sl_no: 14,
@@ -13861,7 +13861,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Concepts",
                 topics: [
                     {
-                        id: "intrdctintbinrysrchtr",
+                        q_id: "intrdctintbinrysrchtr",
                         step_no: 14,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -13881,7 +13881,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"}]',
                     },
                     {
-                        id: "srchinbinrysrchtr",
+                        q_id: "srchinbinrysrchtr",
                         step_no: 14,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -13903,7 +13903,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findminmxinbst",
+                        q_id: "findminmxinbst",
                         step_no: 14,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -13929,7 +13929,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Practice Problems",
                 topics: [
                     {
-                        id: "cilinbinrysrchtr",
+                        q_id: "cilinbinrysrchtr",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -13950,7 +13950,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "flrinbinrysrchtr",
+                        q_id: "flrinbinrysrchtr",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -13970,7 +13970,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "insrtgivnndinbinrysrchtr",
+                        q_id: "insrtgivnndinbinrysrchtr",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -13991,7 +13991,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dltndinbinrysrchtr",
+                        q_id: "dltndinbinrysrchtr",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -14011,7 +14011,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findkthsmllstlrgstlmntinbst",
+                        q_id: "findkthsmllstlrgstlmntinbst",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -14033,7 +14033,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chckiftrisbstrbt",
+                        q_id: "chckiftrisbstrbt",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -14053,7 +14053,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lcinbinrysrchtr",
+                        q_id: "lcinbinrysrchtr",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 7,
@@ -14073,7 +14073,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cnstrctbstfrmprrdrtrvrsl",
+                        q_id: "cnstrctbstfrmprrdrtrvrsl",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 8,
@@ -14094,7 +14094,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "inrdrsccssrprdcssrinbst",
+                        q_id: "inrdrsccssrprdcssrinbst",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 9,
@@ -14114,7 +14114,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mrg2bsts",
+                        q_id: "mrg2bsts",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 10,
@@ -14135,7 +14135,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "twsminbstchckifthrxistspirwithsmk",
+                        q_id: "twsminbstchckifthrxistspirwithsmk",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 11,
@@ -14156,7 +14156,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"two-pointers","label":"Two Pointer"},{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rcvrbstcrrctbstwithtwndsswppd",
+                        q_id: "rcvrbstcrrctbstwithtwndsswppd",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 12,
@@ -14176,7 +14176,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lrgstbstinbinrytr",
+                        q_id: "lrgstbstinbinrytr",
                         step_no: 14,
                         sub_step_no: 2,
                         sl_no: 13,
@@ -14208,7 +14208,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Learning",
                 topics: [
                     {
-                        id: "grphndtyps",
+                        q_id: "grphndtyps",
                         step_no: 15,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -14227,7 +14227,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "grphrprsnttinc",
+                        q_id: "grphrprsnttinc",
                         step_no: 15,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -14247,7 +14247,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "grphrprsnttinjv",
+                        q_id: "grphrprsnttinjv",
                         step_no: 15,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -14266,7 +14266,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cnnctdcmpnntslgicxplntin",
+                        q_id: "cnnctdcmpnntslgicxplntin",
                         step_no: 15,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -14287,7 +14287,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "bfs",
+                        q_id: "bfs",
                         step_no: 15,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -14309,7 +14309,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "dfs",
+                        q_id: "dfs",
                         step_no: 15,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -14337,7 +14337,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Problems on BFS/DFS",
                 topics: [
                     {
-                        id: "nmbrfprvincsltcd",
+                        q_id: "nmbrfprvincsltcd",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -14359,7 +14359,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cnnctdcmpnntsprblminmtrix",
+                        q_id: "cnnctdcmpnntsprblminmtrix",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -14378,7 +14378,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rttnrngs",
+                        q_id: "rttnrngs",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -14398,7 +14398,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"stack","label":"Stack"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "fldfill",
+                        q_id: "fldfill",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -14419,7 +14419,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cycldtctininnirctdgrphbfs",
+                        q_id: "cycldtctininnirctdgrphbfs",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -14440,7 +14440,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cycldtctininndirctdgrphdfs",
+                        q_id: "cycldtctininndirctdgrphdfs",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -14461,7 +14461,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"data-structure","label":"Data Structures"},{"value":"graph","label":"Graph"}]',
                     },
                     {
-                        id: "01mtrixbfsprblm",
+                        q_id: "01mtrixbfsprblm",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 7,
@@ -14482,7 +14482,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "srrnddrginsdfs",
+                        q_id: "srrnddrginsdfs",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 8,
@@ -14502,7 +14502,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nmbrfnclvsfldfillimplmnttinmltisrc",
+                        q_id: "nmbrfnclvsfldfillimplmnttinmltisrc",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 9,
@@ -14523,7 +14523,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "wrdlddr1",
+                        q_id: "wrdlddr1",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 10,
@@ -14543,7 +14543,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"},{"value":"string","label":"String"}]',
                     },
                     {
-                        id: "wrdlddr2",
+                        q_id: "wrdlddr2",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 11,
@@ -14563,7 +14563,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nmbrfdistinctislndsdfsmltisrc",
+                        q_id: "nmbrfdistinctislndsdfsmltisrc",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 12,
@@ -14585,7 +14585,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "biprtitgrphdfs",
+                        q_id: "biprtitgrphdfs",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 13,
@@ -14606,7 +14606,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cycldtctinindirctdgrphdfs",
+                        q_id: "cycldtctinindirctdgrphdfs",
                         step_no: 15,
                         sub_step_no: 2,
                         sl_no: 14,
@@ -14634,7 +14634,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Topo Sort and Problems",
                 topics: [
                     {
-                        id: "tpsrt",
+                        q_id: "tpsrt",
                         step_no: 15,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -14655,7 +14655,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "khnslgrithm",
+                        q_id: "khnslgrithm",
                         step_no: 15,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -14675,7 +14675,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "cycldtctinindirctdgrphbfs",
+                        q_id: "cycldtctinindirctdgrphbfs",
                         step_no: 15,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -14695,7 +14695,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"data-structure","label":"Data Structures"},{"value":"graph","label":"Graph"}]',
                     },
                     {
-                        id: "crsschdli",
+                        q_id: "crsschdli",
                         step_no: 15,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -14716,7 +14716,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "crsschdlii",
+                        q_id: "crsschdlii",
                         step_no: 15,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -14736,7 +14736,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findvntlsfstts",
+                        q_id: "findvntlsfstts",
                         step_no: 15,
                         sub_step_no: 3,
                         sl_no: 6,
@@ -14757,7 +14757,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lindictinry",
+                        q_id: "lindictinry",
                         step_no: 15,
                         sub_step_no: 3,
                         sl_no: 7,
@@ -14784,7 +14784,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Shortest Path Algorithms and Problems",
                 topics: [
                     {
-                        id: "shrtstpthingwithnitwights",
+                        q_id: "shrtstpthingwithnitwights",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 1,
@@ -14805,7 +14805,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "shrtstpthindg",
+                        q_id: "shrtstpthindg",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 2,
@@ -14826,7 +14826,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "djisktrslgrithm",
+                        q_id: "djisktrslgrithm",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 3,
@@ -14848,7 +14848,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "whyprirityqissdindjisktrslgrithm",
+                        q_id: "whyprirityqissdindjisktrslgrithm",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 4,
@@ -14870,7 +14870,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "shrtstpthinbinrymz",
+                        q_id: "shrtstpthinbinrymz",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 5,
@@ -14892,7 +14892,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "pthwithminimmffrt",
+                        q_id: "pthwithminimmffrt",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 6,
@@ -14912,7 +14912,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"heap","label":"Heap"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "chpstflightswithinkstps",
+                        q_id: "chpstflightswithinkstps",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 7,
@@ -14933,7 +14933,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "ntwrkdlytim",
+                        q_id: "ntwrkdlytim",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 8,
@@ -14952,7 +14952,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nmbrfwystrrivtdstintin",
+                        q_id: "nmbrfwystrrivtdstintin",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 9,
@@ -14974,7 +14974,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmstpstrchndfrmstrtbyprfrmingmltiplictinndmdprtinswithrrylmnts",
+                        q_id: "minimmstpstrchndfrmstrtbyprfrmingmltiplictinndmdprtinswithrrylmnts",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 10,
@@ -14996,7 +14996,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "bllmnfrdlgrithm",
+                        q_id: "bllmnfrdlgrithm",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 11,
@@ -15017,7 +15017,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "flydwrshllgrithm",
+                        q_id: "flydwrshllgrithm",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 12,
@@ -15038,7 +15038,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "findthcitywiththsmllstnmbrfnighbrsinthrshlddistnc",
+                        q_id: "findthcitywiththsmllstnmbrfnighbrsinthrshlddistnc",
                         step_no: 15,
                         sub_step_no: 4,
                         sl_no: 13,
@@ -15067,7 +15067,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "MinimumSpanningTree/Disjoint Set and Problems",
                 topics: [
                     {
-                        id: "minimmspnningtr",
+                        q_id: "minimmspnningtr",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 1,
@@ -15088,7 +15088,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "primslgrithm",
+                        q_id: "primslgrithm",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 2,
@@ -15109,7 +15109,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "disjintstninbyrnk",
+                        q_id: "disjintstninbyrnk",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 3,
@@ -15129,7 +15129,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "disjintstninbysiz",
+                        q_id: "disjintstninbysiz",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 4,
@@ -15149,7 +15149,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "krsklslgrithm",
+                        q_id: "krsklslgrithm",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 5,
@@ -15170,7 +15170,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nmbrfprtinstmkntwrkcnnctd",
+                        q_id: "nmbrfprtinstmkntwrkcnnctd",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 6,
@@ -15191,7 +15191,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mststnsrmvdwithsmrwsrclmns",
+                        q_id: "mststnsrmvdwithsmrwsrclmns",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 7,
@@ -15212,7 +15212,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"graph","label":"Graph"}]',
                     },
                     {
-                        id: "ccntsmrg",
+                        q_id: "ccntsmrg",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 8,
@@ -15233,7 +15233,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nmbrfislndii",
+                        q_id: "nmbrfislndii",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 9,
@@ -15253,7 +15253,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mkinglrgislnd",
+                        q_id: "mkinglrgislnd",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 10,
@@ -15273,7 +15273,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "swiminrisingwtr",
+                        q_id: "swiminrisingwtr",
                         step_no: 15,
                         sub_step_no: 5,
                         sl_no: 11,
@@ -15298,7 +15298,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Other Algorithms",
                 topics: [
                     {
-                        id: "bridgsingrph",
+                        q_id: "bridgsingrph",
                         step_no: 15,
                         sub_step_no: 6,
                         sl_no: 1,
@@ -15319,7 +15319,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rticltinpint",
+                        q_id: "rticltinpint",
                         step_no: 15,
                         sub_step_no: 6,
                         sl_no: 2,
@@ -15339,7 +15339,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "ksrjslgrithm",
+                        q_id: "ksrjslgrithm",
                         step_no: 15,
                         sub_step_no: 6,
                         sl_no: 3,
@@ -15371,7 +15371,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Introduction to DP",
                 topics: [
                     {
-                        id: "dynmicprgrmmingintrdctin",
+                        q_id: "dynmicprgrmmingintrdctin",
                         step_no: 16,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -15397,7 +15397,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "1D DP",
                 topics: [
                     {
-                        id: "climbingstrs",
+                        q_id: "climbingstrs",
                         step_no: 16,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -15418,7 +15418,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "frgjmpdp3",
+                        q_id: "frgjmpdp3",
                         step_no: 16,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -15438,7 +15438,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "frgjmpwithkdistncsdp4",
+                        q_id: "frgjmpwithkdistncsdp4",
                         step_no: 16,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -15458,7 +15458,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mximmsmfnndjcntlmntsdp5",
+                        q_id: "mximmsmfnndjcntlmntsdp5",
                         step_no: 16,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -15478,7 +15478,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "hsrbbrdp6",
+                        q_id: "hsrbbrdp6",
                         step_no: 16,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -15504,7 +15504,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "2D/3D DP and DP on Grids",
                 topics: [
                     {
-                        id: "ninjstriningdp7",
+                        q_id: "ninjstriningdp7",
                         step_no: 16,
                         sub_step_no: 3,
                         sl_no: 1,
@@ -15524,7 +15524,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "gridniqpthsdpngridsdp8",
+                        q_id: "gridniqpthsdpngridsdp8",
                         step_no: 16,
                         sub_step_no: 3,
                         sl_no: 2,
@@ -15545,7 +15545,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "gridniqpths2dp9",
+                        q_id: "gridniqpths2dp9",
                         step_no: 16,
                         sub_step_no: 3,
                         sl_no: 3,
@@ -15565,7 +15565,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmpthsmingriddp10",
+                        q_id: "minimmpthsmingriddp10",
                         step_no: 16,
                         sub_step_no: 3,
                         sl_no: 4,
@@ -15585,7 +15585,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmpthsmintringlrgriddp11",
+                        q_id: "minimmpthsmintringlrgriddp11",
                         step_no: 16,
                         sub_step_no: 3,
                         sl_no: 5,
@@ -15605,7 +15605,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "minimmmximmfllingpthsmdp12",
+                        q_id: "minimmmximmfllingpthsmdp12",
                         step_no: 16,
                         sub_step_no: 3,
                         sl_no: 6,
@@ -15625,7 +15625,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "3ddpninjndhisfrindsdp13",
+                        q_id: "3ddpninjndhisfrindsdp13",
                         step_no: 16,
                         sub_step_no: 3,
                         sl_no: 7,
@@ -15651,7 +15651,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "DP on Subsequences",
                 topics: [
                     {
-                        id: "sbstsmqlttrgtdp14",
+                        q_id: "sbstsmqlttrgtdp14",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 1,
@@ -15672,7 +15672,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "prtitinqlsbstsmdp15",
+                        q_id: "prtitinqlsbstsmdp15",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 2,
@@ -15694,7 +15694,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "prtitinstint2sbstswithminbsltsmdiffdp16",
+                        q_id: "prtitinstint2sbstswithminbsltsmdiffdp16",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 3,
@@ -15717,7 +15717,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "cntsbstswithsmkdp17",
+                        q_id: "cntsbstswithsmkdp17",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 4,
@@ -15737,7 +15737,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "cntprtitinswithgivndiffrncdp18",
+                        q_id: "cntprtitinswithgivndiffrncdp18",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 5,
@@ -15757,7 +15757,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "01knpsckdp19",
+                        q_id: "01knpsckdp19",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 6,
@@ -15777,7 +15777,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmcinsdp20",
+                        q_id: "minimmcinsdp20",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 7,
@@ -15798,7 +15798,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"recursion","label":"Recursion"},{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "trgtsmdp21",
+                        q_id: "trgtsmdp21",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 8,
@@ -15819,7 +15819,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "cinchng2dp22",
+                        q_id: "cinchng2dp22",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 9,
@@ -15839,7 +15839,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "nbnddknpsckdp23",
+                        q_id: "nbnddknpsckdp23",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 10,
@@ -15859,7 +15859,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "rdcttingprblmdp24",
+                        q_id: "rdcttingprblmdp24",
                         step_no: 16,
                         sub_step_no: 4,
                         sl_no: 11,
@@ -15886,7 +15886,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "DP on Strings",
                 topics: [
                     {
-                        id: "lngstcmmnsbsqncdp25",
+                        q_id: "lngstcmmnsbsqncdp25",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 1,
@@ -15908,7 +15908,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "printlngstcmmnsbsqncdp26",
+                        q_id: "printlngstcmmnsbsqncdp26",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 2,
@@ -15928,7 +15928,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "lngstcmmnsbstringdp27",
+                        q_id: "lngstcmmnsbstringdp27",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 3,
@@ -15949,7 +15949,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lngstplindrmicsbsqncdp28",
+                        q_id: "lngstplindrmicsbsqncdp28",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 4,
@@ -15971,7 +15971,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimminsrtinstmkstringplindrmdp29",
+                        q_id: "minimminsrtinstmkstringplindrmdp29",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 5,
@@ -15994,7 +15994,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimminsrtinsdltinstcnvrtstringdp30",
+                        q_id: "minimminsrtinsdltinstcnvrtstringdp30",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 6,
@@ -16017,7 +16017,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "shrtstcmmnsprsqncdp31",
+                        q_id: "shrtstcmmnsprsqncdp31",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 7,
@@ -16039,7 +16039,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "distinctsbsqncsdp32",
+                        q_id: "distinctsbsqncsdp32",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 8,
@@ -16060,7 +16060,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "ditdistncdp33",
+                        q_id: "ditdistncdp33",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 9,
@@ -16081,7 +16081,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "wildcrdmtchingdp34",
+                        q_id: "wildcrdmtchingdp34",
                         step_no: 16,
                         sub_step_no: 5,
                         sl_no: 10,
@@ -16108,7 +16108,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "DP on Stocks",
                 topics: [
                     {
-                        id: "bsttimtbyndsllstckdp35",
+                        q_id: "bsttimtbyndsllstckdp35",
                         step_no: 16,
                         sub_step_no: 6,
                         sl_no: 1,
@@ -16130,7 +16130,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "byndsllstckiidp36",
+                        q_id: "byndsllstckiidp36",
                         step_no: 16,
                         sub_step_no: 6,
                         sl_no: 2,
@@ -16151,7 +16151,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "byndsllstcksiiidp37",
+                        q_id: "byndsllstcksiiidp37",
                         step_no: 16,
                         sub_step_no: 6,
                         sl_no: 3,
@@ -16173,7 +16173,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "byndstcksllivdp38",
+                        q_id: "byndstcksllivdp38",
                         step_no: 16,
                         sub_step_no: 6,
                         sl_no: 4,
@@ -16195,7 +16195,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "byndsllstckswithcldwndp39",
+                        q_id: "byndsllstckswithcldwndp39",
                         step_no: 16,
                         sub_step_no: 6,
                         sl_no: 5,
@@ -16216,7 +16216,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "byndsllstckswithtrnsctinfdp40",
+                        q_id: "byndsllstckswithtrnsctinfdp40",
                         step_no: 16,
                         sub_step_no: 6,
                         sl_no: 6,
@@ -16243,7 +16243,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "DP on LIS",
                 topics: [
                     {
-                        id: "lngstincrsingsbsqncdp41",
+                        q_id: "lngstincrsingsbsqncdp41",
                         step_no: 16,
                         sub_step_no: 7,
                         sl_no: 1,
@@ -16265,7 +16265,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "printinglngstincrsingsbsqncdp42",
+                        q_id: "printinglngstincrsingsbsqncdp42",
                         step_no: 16,
                         sub_step_no: 7,
                         sl_no: 2,
@@ -16285,7 +16285,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "lngstincrsingsbsqncdp43",
+                        q_id: "lngstincrsingsbsqncdp43",
                         step_no: 16,
                         sub_step_no: 7,
                         sl_no: 3,
@@ -16305,7 +16305,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lrgstdivisiblsbstdp44",
+                        q_id: "lrgstdivisiblsbstdp44",
                         step_no: 16,
                         sub_step_no: 7,
                         sl_no: 4,
@@ -16325,7 +16325,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "lngststringchindp45",
+                        q_id: "lngststringchindp45",
                         step_no: 16,
                         sub_step_no: 7,
                         sl_no: 5,
@@ -16345,7 +16345,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "lngstbitnicsbsqncdp46",
+                        q_id: "lngstbitnicsbsqncdp46",
                         step_no: 16,
                         sub_step_no: 7,
                         sl_no: 6,
@@ -16366,7 +16366,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "nmbrflngstincrsingsbsqncsdp47",
+                        q_id: "nmbrflngstincrsingsbsqncsdp47",
                         step_no: 16,
                         sub_step_no: 7,
                         sl_no: 7,
@@ -16393,7 +16393,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "MCM DP | Partition DP",
                 topics: [
                     {
-                        id: "mtrixchinmltiplictindp48",
+                        q_id: "mtrixchinmltiplictindp48",
                         step_no: 16,
                         sub_step_no: 8,
                         sl_no: 1,
@@ -16413,7 +16413,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "mtrixchinmltiplictinbttmpdp49",
+                        q_id: "mtrixchinmltiplictinbttmpdp49",
                         step_no: 16,
                         sub_step_no: 8,
                         sl_no: 2,
@@ -16433,7 +16433,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "minimmcsttctthstickdp50",
+                        q_id: "minimmcsttctthstickdp50",
                         step_no: 16,
                         sub_step_no: 8,
                         sl_no: 3,
@@ -16454,7 +16454,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "brstbllnsdp51",
+                        q_id: "brstbllnsdp51",
                         step_no: 16,
                         sub_step_no: 8,
                         sl_no: 4,
@@ -16474,7 +16474,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "vltblnxprssinttrdp52",
+                        q_id: "vltblnxprssinttrdp52",
                         step_no: 16,
                         sub_step_no: 8,
                         sl_no: 5,
@@ -16495,7 +16495,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "plindrmprtitiningiidp53",
+                        q_id: "plindrmprtitiningiidp53",
                         step_no: 16,
                         sub_step_no: 8,
                         sl_no: 6,
@@ -16516,7 +16516,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                     },
                     {
-                        id: "prtitinrryfrmximmsmdp54",
+                        q_id: "prtitinrryfrmximmsmdp54",
                         step_no: 16,
                         sub_step_no: 8,
                         sl_no: 7,
@@ -16543,7 +16543,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "DP on Squares",
                 topics: [
                     {
-                        id: "mximmrctnglrwithll1sdp55",
+                        q_id: "mximmrctnglrwithll1sdp55",
                         step_no: 16,
                         sub_step_no: 9,
                         sl_no: 1,
@@ -16563,7 +16563,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                     },
                     {
-                        id: "cntsqrsbmtricswithllnsdp56",
+                        q_id: "cntsqrsbmtricswithllnsdp56",
                         step_no: 16,
                         sub_step_no: 9,
                         sl_no: 2,
@@ -16595,7 +16595,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Theory",
                 topics: [
                     {
-                        id: "implmnttriinsrtsrchstrtswith",
+                        q_id: "implmnttriinsrtsrchstrtswith",
                         step_no: 17,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -16623,7 +16623,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Problems",
                 topics: [
                     {
-                        id: "implmnttri2prfixtr",
+                        q_id: "implmnttri2prfixtr",
                         step_no: 17,
                         sub_step_no: 2,
                         sl_no: 1,
@@ -16643,7 +16643,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"trie","label":"Trie"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lngststringwithllprfixs",
+                        q_id: "lngststringwithllprfixs",
                         step_no: 17,
                         sub_step_no: 2,
                         sl_no: 2,
@@ -16663,7 +16663,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "nmbrfdistinctsbstringsinstring",
+                        q_id: "nmbrfdistinctsbstringsinstring",
                         step_no: 17,
                         sub_step_no: 2,
                         sl_no: 3,
@@ -16685,7 +16685,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"trie","label":"Trie"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "bitprrqisitsfrtriprblms",
+                        q_id: "bitprrqisitsfrtriprblms",
                         step_no: 17,
                         sub_step_no: 2,
                         sl_no: 4,
@@ -16704,7 +16704,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"trie","label":"Trie"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "mximmxrftwnmbrsinnrry",
+                        q_id: "mximmxrftwnmbrsinnrry",
                         step_no: 17,
                         sub_step_no: 2,
                         sl_no: 5,
@@ -16727,7 +16727,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"bit-manipulation","label":"Bit Manipulation"},{"value":"data-structure","label":"Data Structures"},{"value":"trie","label":"Trie"}]',
                     },
                     {
-                        id: "mximmxrwithnlmntfrmrry",
+                        q_id: "mximmxrwithnlmntfrmrry",
                         step_no: 17,
                         sub_step_no: 2,
                         sl_no: 6,
@@ -16761,7 +16761,7 @@ export const StriverSheetA2Z = [
                 sub_step_title: "Hard Problems",
                 topics: [
                     {
-                        id: "minimmnmbrfbrcktrvrslsnddtmknxprssinblncd",
+                        q_id: "minimmnmbrfbrcktrvrslsnddtmknxprssinblncd",
                         step_no: 18,
                         sub_step_no: 1,
                         sl_no: 1,
@@ -16783,7 +16783,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"stack","label":"Stack"},{"value":"two-pointers","label":"Two Pointer"},{"value":"greedy","label":"Greedy"}]',
                     },
                     {
-                        id: "cntndsy",
+                        q_id: "cntndsy",
                         step_no: 18,
                         sub_step_no: 1,
                         sl_no: 2,
@@ -16802,7 +16802,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "hshinginstringsthry",
+                        q_id: "hshinginstringsthry",
                         step_no: 18,
                         sub_step_no: 1,
                         sl_no: 3,
@@ -16821,7 +16821,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "rbinkrp",
+                        q_id: "rbinkrp",
                         step_no: 18,
                         sub_step_no: 1,
                         sl_no: 4,
@@ -16842,7 +16842,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "zfnctin",
+                        q_id: "zfnctin",
                         step_no: 18,
                         sub_step_no: 1,
                         sl_no: 5,
@@ -16862,7 +16862,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "kmplglpspirry",
+                        q_id: "kmplglpspirry",
                         step_no: 18,
                         sub_step_no: 1,
                         sl_no: 6,
@@ -16882,7 +16882,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "shrtstplindrm",
+                        q_id: "shrtstplindrm",
                         step_no: 18,
                         sub_step_no: 1,
                         sl_no: 7,
@@ -16901,7 +16901,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                     },
                     {
-                        id: "lngsthppyprfix",
+                        q_id: "lngsthppyprfix",
                         step_no: 18,
                         sub_step_no: 1,
                         sl_no: 8,
@@ -16920,7 +16920,7 @@ export const StriverSheetA2Z = [
                             '[{"value":"string","label":"String"},{"value":"hashing","label":"Hashing"}]',
                     },
                     {
-                        id: "cntplindrmicsbsqncingivnstring",
+                        q_id: "cntplindrmicsbsqncingivnstring",
                         step_no: 18,
                         sub_step_no: 1,
                         sl_no: 9,
@@ -16952,7 +16952,7 @@ export const StriverSDE = {
             head_step_no: "Arrays",
             topics: [
                 {
-                    id: "stmtrixzrs",
+                    q_id: "stmtrixzrs",
                     step_no: 1,
                     sl_no_in_step: 1,
                     head_step_no: "Arrays",
@@ -16969,7 +16969,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "psclstringl",
+                    q_id: "psclstringl",
                     step_no: 1,
                     sl_no_in_step: 2,
                     head_step_no: "Arrays",
@@ -16987,7 +16987,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"maths","label":"Maths"}]',
                 },
                 {
-                    id: "nxtprmttin",
+                    q_id: "nxtprmttin",
                     step_no: 1,
                     sl_no_in_step: 3,
                     head_step_no: "Arrays",
@@ -17005,7 +17005,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"two-pointers","label":"Two Pointer"}]',
                 },
                 {
-                    id: "kdnslgrithm",
+                    q_id: "kdnslgrithm",
                     step_no: 1,
                     sl_no_in_step: 4,
                     head_step_no: "Arrays",
@@ -17022,7 +17022,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "srtnrryf0s1s2s",
+                    q_id: "srtnrryf0s1s2s",
                     step_no: 1,
                     sl_no_in_step: 5,
                     head_step_no: "Arrays",
@@ -17040,7 +17040,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "stckbyndsll",
+                    q_id: "stckbyndsll",
                     step_no: 1,
                     sl_no_in_step: 6,
                     head_step_no: "Arrays",
@@ -17065,7 +17065,7 @@ export const StriverSDE = {
             head_step_no: "Arrays Part-II",
             topics: [
                 {
-                    id: "rttmtrix",
+                    q_id: "rttmtrix",
                     step_no: 2,
                     sl_no_in_step: 1,
                     head_step_no: "Arrays Part-II",
@@ -17082,7 +17082,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mrgvrlppingsbintrvls",
+                    q_id: "mrgvrlppingsbintrvls",
                     step_no: 2,
                     sl_no_in_step: 2,
                     head_step_no: "Arrays Part-II",
@@ -17100,7 +17100,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"sorting","label":"Sorting"}]',
                 },
                 {
-                    id: "mrgtwsrtdrryswithtxtrspc",
+                    q_id: "mrgtwsrtdrryswithtxtrspc",
                     step_no: 2,
                     sl_no_in_step: 3,
                     head_step_no: "Arrays Part-II",
@@ -17118,7 +17118,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findthdplictinnrryfn1intgrs",
+                    q_id: "findthdplictinnrryfn1intgrs",
                     step_no: 2,
                     sl_no_in_step: 4,
                     head_step_no: "Arrays Part-II",
@@ -17136,7 +17136,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"hashing","label":"Hashing"}]',
                 },
                 {
-                    id: "rptndmissingnmbr",
+                    q_id: "rptndmissingnmbr",
                     step_no: 2,
                     sl_no_in_step: 5,
                     head_step_no: "Arrays Part-II",
@@ -17154,7 +17154,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "invrsinfrryprrqmrgsrt",
+                    q_id: "invrsinfrryprrqmrgsrt",
                     step_no: 2,
                     sl_no_in_step: 6,
                     head_step_no: "Arrays Part-II",
@@ -17179,7 +17179,7 @@ export const StriverSDE = {
             head_step_no: "Arrays Part-III",
             topics: [
                 {
-                    id: "srchin2dmtrix",
+                    q_id: "srchin2dmtrix",
                     step_no: 3,
                     sl_no_in_step: 1,
                     head_step_no: "Arrays Part-III",
@@ -17197,7 +17197,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search","label":"Binary Search"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "pwxn",
+                    q_id: "pwxn",
                     step_no: 3,
                     sl_no_in_step: 2,
                     head_step_no: "Arrays Part-III",
@@ -17215,7 +17215,7 @@ export const StriverSDE = {
                         '[{"value":"maths","label":"Maths"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "mjritylmntn2tims",
+                    q_id: "mjritylmntn2tims",
                     step_no: 3,
                     sl_no_in_step: 3,
                     head_step_no: "Arrays Part-III",
@@ -17233,7 +17233,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mjritylmntn3tims",
+                    q_id: "mjritylmntn3tims",
                     step_no: 3,
                     sl_no_in_step: 4,
                     head_step_no: "Arrays Part-III",
@@ -17251,7 +17251,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "gridniqpths",
+                    q_id: "gridniqpths",
                     step_no: 3,
                     sl_no_in_step: 5,
                     head_step_no: "Arrays Part-III",
@@ -17268,7 +17268,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rvrspirsltcd",
+                    q_id: "rvrspirsltcd",
                     step_no: 3,
                     sl_no_in_step: 6,
                     head_step_no: "Arrays Part-III",
@@ -17291,7 +17291,7 @@ export const StriverSDE = {
             head_step_no: "Arrays Part-IV",
             topics: [
                 {
-                    id: "2smprblm",
+                    q_id: "2smprblm",
                     step_no: 4,
                     sl_no_in_step: 1,
                     head_step_no: "Arrays Part-IV",
@@ -17309,7 +17309,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"},{"value":"two-pointers","label":"Two Pointer"}]',
                 },
                 {
-                    id: "4smprblm",
+                    q_id: "4smprblm",
                     step_no: 4,
                     sl_no_in_step: 2,
                     head_step_no: "Arrays Part-IV",
@@ -17327,7 +17327,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"},{"value":"two-pointers","label":"Two Pointer"},{"value":"hashing","label":"Hashing"}]',
                 },
                 {
-                    id: "lngstcnsctivsqnc",
+                    q_id: "lngstcnsctivsqnc",
                     step_no: 4,
                     sl_no_in_step: 3,
                     head_step_no: "Arrays Part-IV",
@@ -17346,7 +17346,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lrgstsbrrywithksm",
+                    q_id: "lrgstsbrrywithksm",
                     step_no: 4,
                     sl_no_in_step: 4,
                     head_step_no: "Arrays Part-IV",
@@ -17365,7 +17365,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cntnmbrfsbrryswithgivnxrk",
+                    q_id: "cntnmbrfsbrryswithgivnxrk",
                     step_no: 4,
                     sl_no_in_step: 5,
                     head_step_no: "Arrays Part-IV",
@@ -17384,7 +17384,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstsbstringwithtrpt",
+                    q_id: "lngstsbstringwithtrpt",
                     step_no: 4,
                     sl_no_in_step: 6,
                     head_step_no: "Arrays Part-IV",
@@ -17409,7 +17409,7 @@ export const StriverSDE = {
             head_step_no: "Linked List",
             topics: [
                 {
-                    id: "rvrslinkdlist",
+                    q_id: "rvrslinkdlist",
                     step_no: 5,
                     sl_no_in_step: 1,
                     head_step_no: "Linked List",
@@ -17427,7 +17427,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findthmiddlflinkdlist",
+                    q_id: "findthmiddlflinkdlist",
                     step_no: 5,
                     sl_no_in_step: 2,
                     head_step_no: "Linked List",
@@ -17445,7 +17445,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mrgtwsrtdlinkdlistsmthdsdinmrgsrt",
+                    q_id: "mrgtwsrtdlinkdlistsmthdsdinmrgsrt",
                     step_no: 5,
                     sl_no_in_step: 3,
                     head_step_no: "Linked List",
@@ -17462,7 +17462,7 @@ export const StriverSDE = {
                     ques_topic: null,
                 },
                 {
-                    id: "rmvnthndfrmbckflinkdlist",
+                    q_id: "rmvnthndfrmbckflinkdlist",
                     step_no: 5,
                     sl_no_in_step: 4,
                     head_step_no: "Linked List",
@@ -17481,7 +17481,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "ddtwnmbrsslinkdlist",
+                    q_id: "ddtwnmbrsslinkdlist",
                     step_no: 5,
                     sl_no_in_step: 5,
                     head_step_no: "Linked List",
@@ -17499,7 +17499,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dltgivnndwhnndisgivn01sltin",
+                    q_id: "dltgivnndwhnndisgivn01sltin",
                     step_no: 5,
                     sl_no_in_step: 6,
                     head_step_no: "Linked List",
@@ -17524,7 +17524,7 @@ export const StriverSDE = {
             head_step_no: "Linked List Part-II",
             topics: [
                 {
-                    id: "findintrsctinpintfylinkdlist",
+                    q_id: "findintrsctinpintfylinkdlist",
                     step_no: 6,
                     sl_no_in_step: 1,
                     head_step_no: "Linked List Part-II",
@@ -17543,7 +17543,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dtctcyclinlinkdlist",
+                    q_id: "dtctcyclinlinkdlist",
                     step_no: 6,
                     sl_no_in_step: 2,
                     head_step_no: "Linked List Part-II",
@@ -17561,7 +17561,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rvrslinkdlistingrpsfsizk",
+                    q_id: "rvrslinkdlistingrpsfsizk",
                     step_no: 6,
                     sl_no_in_step: 3,
                     head_step_no: "Linked List Part-II",
@@ -17579,7 +17579,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckiflinkdlistisplindrmrnt",
+                    q_id: "chckiflinkdlistisplindrmrnt",
                     step_no: 6,
                     sl_no_in_step: 4,
                     head_step_no: "Linked List Part-II",
@@ -17597,7 +17597,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findthstrtingpintfthlpflinkdlist",
+                    q_id: "findthstrtingpintfthlpflinkdlist",
                     step_no: 6,
                     sl_no_in_step: 5,
                     head_step_no: "Linked List Part-II",
@@ -17615,7 +17615,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"hashing","label":"Hashing"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "flttningflinkdlist",
+                    q_id: "flttningflinkdlist",
                     step_no: 6,
                     sl_no_in_step: 6,
                     head_step_no: "Linked List Part-II",
@@ -17641,7 +17641,7 @@ export const StriverSDE = {
             head_step_no: "Linked List and Arrays",
             topics: [
                 {
-                    id: "rttlinkdlist",
+                    q_id: "rttlinkdlist",
                     step_no: 7,
                     sl_no_in_step: 1,
                     head_step_no: "Linked List and Arrays",
@@ -17659,7 +17659,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "clnlinkdlistwithrndmndnxtpintr",
+                    q_id: "clnlinkdlistwithrndmndnxtpintr",
                     step_no: 7,
                     sl_no_in_step: 2,
                     head_step_no: "Linked List and Arrays",
@@ -17678,7 +17678,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "3sm",
+                    q_id: "3sm",
                     step_no: 7,
                     sl_no_in_step: 3,
                     head_step_no: "Linked List and Arrays",
@@ -17695,7 +17695,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"},{"value":"hashing","label":"Hashing"}]',
                 },
                 {
-                    id: "trppingrinwtr",
+                    q_id: "trppingrinwtr",
                     step_no: 7,
                     sl_no_in_step: 4,
                     head_step_no: "Linked List and Arrays",
@@ -17713,7 +17713,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rmvdplictfrmsrtdrry",
+                    q_id: "rmvdplictfrmsrtdrry",
                     step_no: 7,
                     sl_no_in_step: 5,
                     head_step_no: "Linked List and Arrays",
@@ -17731,7 +17731,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mxcnsctivns",
+                    q_id: "mxcnsctivns",
                     step_no: 7,
                     sl_no_in_step: 6,
                     head_step_no: "Linked List and Arrays",
@@ -17755,7 +17755,7 @@ export const StriverSDE = {
             head_step_no: "Greedy Algorithm",
             topics: [
                 {
-                    id: "nmtingsinnrm",
+                    q_id: "nmtingsinnrm",
                     step_no: 8,
                     sl_no_in_step: 1,
                     head_step_no: "Greedy Algorithm",
@@ -17774,7 +17774,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "minimmnmbrfpltfrmsrqirdfrrilwy",
+                    q_id: "minimmnmbrfpltfrmsrqirdfrrilwy",
                     step_no: 8,
                     sl_no_in_step: 2,
                     head_step_no: "Greedy Algorithm",
@@ -17793,7 +17793,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "jbsqncingprblm",
+                    q_id: "jbsqncingprblm",
                     step_no: 8,
                     sl_no_in_step: 3,
                     head_step_no: "Greedy Algorithm",
@@ -17812,7 +17812,7 @@ export const StriverSDE = {
                         '[{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"}]',
                 },
                 {
-                    id: "frctinlknpsckprblm",
+                    q_id: "frctinlknpsckprblm",
                     step_no: 8,
                     sl_no_in_step: 4,
                     head_step_no: "Greedy Algorithm",
@@ -17831,7 +17831,7 @@ export const StriverSDE = {
                         '[{"value":"greedy","label":"Greedy"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "grdylgrithmtfindminimmnmbrfcins",
+                    q_id: "grdylgrithmtfindminimmnmbrfcins",
                     step_no: 8,
                     sl_no_in_step: 5,
                     head_step_no: "Greedy Algorithm",
@@ -17851,7 +17851,7 @@ export const StriverSDE = {
                         '[{"value":"greedy","label":"Greedy"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "ctivityslctinitisthsmsnmtinginnrm",
+                    q_id: "ctivityslctinitisthsmsnmtinginnrm",
                     step_no: 8,
                     sl_no_in_step: 6,
                     head_step_no: "Greedy Algorithm",
@@ -17875,7 +17875,7 @@ export const StriverSDE = {
             head_step_no: "Recursion",
             topics: [
                 {
-                    id: "sbstsms",
+                    q_id: "sbstsms",
                     step_no: 9,
                     sl_no_in_step: 1,
                     head_step_no: "Recursion",
@@ -17896,7 +17896,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "sbstii",
+                    q_id: "sbstii",
                     step_no: 9,
                     sl_no_in_step: 2,
                     head_step_no: "Recursion",
@@ -17914,7 +17914,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cmbintinsm1",
+                    q_id: "cmbintinsm1",
                     step_no: 9,
                     sl_no_in_step: 3,
                     head_step_no: "Recursion",
@@ -17932,7 +17932,7 @@ export const StriverSDE = {
                         '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"}]',
                 },
                 {
-                    id: "cmbintinsm2",
+                    q_id: "cmbintinsm2",
                     step_no: 9,
                     sl_no_in_step: 4,
                     head_step_no: "Recursion",
@@ -17950,7 +17950,7 @@ export const StriverSDE = {
                         '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"}]',
                 },
                 {
-                    id: "plindrmprtitining",
+                    q_id: "plindrmprtitining",
                     step_no: 9,
                     sl_no_in_step: 5,
                     head_step_no: "Recursion",
@@ -17969,7 +17969,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                 },
                 {
-                    id: "kthprmttinsqnc",
+                    q_id: "kthprmttinsqnc",
                     step_no: 9,
                     sl_no_in_step: 6,
                     head_step_no: "Recursion",
@@ -17993,7 +17993,7 @@ export const StriverSDE = {
             head_step_no: "Recursion and Backtracking",
             topics: [
                 {
-                    id: "printllprmttinsfstringrry",
+                    q_id: "printllprmttinsfstringrry",
                     step_no: 10,
                     sl_no_in_step: 1,
                     head_step_no: "Recursion and Backtracking",
@@ -18011,7 +18011,7 @@ export const StriverSDE = {
                         '[{"value":"recursion","label":"Recursion"},{"value":"arrays","label":"Arrays"},{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "nqnsprblm",
+                    q_id: "nqnsprblm",
                     step_no: 10,
                     sl_no_in_step: 2,
                     head_step_no: "Recursion and Backtracking",
@@ -18029,7 +18029,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "sdkslvr",
+                    q_id: "sdkslvr",
                     step_no: 10,
                     sl_no_in_step: 3,
                     head_step_no: "Recursion and Backtracking",
@@ -18047,7 +18047,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mclringprblm",
+                    q_id: "mclringprblm",
                     step_no: 10,
                     sl_no_in_step: 4,
                     head_step_no: "Recursion and Backtracking",
@@ -18067,7 +18067,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rtinmz",
+                    q_id: "rtinmz",
                     step_no: 10,
                     sl_no_in_step: 5,
                     head_step_no: "Recursion and Backtracking",
@@ -18086,7 +18086,7 @@ export const StriverSDE = {
                         '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "wrdbrkprintllwys",
+                    q_id: "wrdbrkprintllwys",
                     step_no: 10,
                     sl_no_in_step: 6,
                     head_step_no: "Recursion and Backtracking",
@@ -18108,7 +18108,7 @@ export const StriverSDE = {
             head_step_no: "Binary Search",
             topics: [
                 {
-                    id: "thnthrtfnintgr",
+                    q_id: "thnthrtfnintgr",
                     step_no: 11,
                     sl_no_in_step: 1,
                     head_step_no: "Binary Search",
@@ -18126,7 +18126,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mtrixmdin",
+                    q_id: "mtrixmdin",
                     step_no: 11,
                     sl_no_in_step: 2,
                     head_step_no: "Binary Search",
@@ -18144,7 +18144,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search","label":"Binary Search"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findthlmntthtpprsncinsrtdrryndthrstlmntpprstwicbinrysrch",
+                    q_id: "findthlmntthtpprsncinsrtdrryndthrstlmntpprstwicbinrysrch",
                     step_no: 11,
                     sl_no_in_step: 3,
                     head_step_no: "Binary Search",
@@ -18164,7 +18164,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "srchlmntinsrtdndrttdrryfindpivtwhritisrttd",
+                    q_id: "srchlmntinsrtdndrttdrryfindpivtwhritisrttd",
                     step_no: 11,
                     sl_no_in_step: 4,
                     head_step_no: "Binary Search",
@@ -18184,7 +18184,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mdinf2srtdrrys",
+                    q_id: "mdinf2srtdrrys",
                     step_no: 11,
                     sl_no_in_step: 5,
                     head_step_no: "Binary Search",
@@ -18202,7 +18202,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "kthlmntftwsrtdrrys",
+                    q_id: "kthlmntftwsrtdrrys",
                     step_no: 11,
                     sl_no_in_step: 6,
                     head_step_no: "Binary Search",
@@ -18222,7 +18222,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "llctminimmnmbrfpgs",
+                    q_id: "llctminimmnmbrfpgs",
                     step_no: 11,
                     sl_no_in_step: 7,
                     head_step_no: "Binary Search",
@@ -18240,7 +18240,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search","label":"Binary Search"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "ggrssivcws",
+                    q_id: "ggrssivcws",
                     step_no: 11,
                     sl_no_in_step: 8,
                     head_step_no: "Binary Search",
@@ -18264,7 +18264,7 @@ export const StriverSDE = {
             head_step_no: "Heaps",
             topics: [
                 {
-                    id: "mxhpminhpimplmnttinnlyfrintrviws",
+                    q_id: "mxhpminhpimplmnttinnlyfrintrviws",
                     step_no: 12,
                     sl_no_in_step: 1,
                     head_step_no: "Heaps",
@@ -18281,7 +18281,7 @@ export const StriverSDE = {
                         '[{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "kthlrgstlmnt",
+                    q_id: "kthlrgstlmnt",
                     step_no: 12,
                     sl_no_in_step: 2,
                     head_step_no: "Heaps",
@@ -18300,7 +18300,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"heap","label":"Heap"}]',
                 },
                 {
-                    id: "mximmsmcmbintin",
+                    q_id: "mximmsmcmbintin",
                     step_no: 12,
                     sl_no_in_step: 3,
                     head_step_no: "Heaps",
@@ -18318,7 +18318,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findmdinfrmdtstrm",
+                    q_id: "findmdinfrmdtstrm",
                     step_no: 12,
                     sl_no_in_step: 4,
                     head_step_no: "Heaps",
@@ -18336,7 +18336,7 @@ export const StriverSDE = {
                         '[{"value":"two-pointers","label":"Two Pointer"},{"value":"sorting","label":"Sorting"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mrgksrtdrrys",
+                    q_id: "mrgksrtdrrys",
                     step_no: 12,
                     sl_no_in_step: 5,
                     head_step_no: "Heaps",
@@ -18354,7 +18354,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "kmstfrqntlmnts",
+                    q_id: "kmstfrqntlmnts",
                     step_no: 12,
                     sl_no_in_step: 6,
                     head_step_no: "Heaps",
@@ -18377,7 +18377,7 @@ export const StriverSDE = {
             head_step_no: "Stack and Queue",
             topics: [
                 {
-                    id: "implmntstcksingrrys",
+                    q_id: "implmntstcksingrrys",
                     step_no: 13,
                     sl_no_in_step: 1,
                     head_step_no: "Stack and Queue",
@@ -18395,7 +18395,7 @@ export const StriverSDE = {
                         '[{"value":"stack","label":"Stack"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "implmntqsingrrys",
+                    q_id: "implmntqsingrrys",
                     step_no: 13,
                     sl_no_in_step: 2,
                     head_step_no: "Stack and Queue",
@@ -18413,7 +18413,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"queue","label":"Queue"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "implmntstcksingqsingsinglq",
+                    q_id: "implmntstcksingqsingsinglq",
                     step_no: 13,
                     sl_no_in_step: 3,
                     head_step_no: "Stack and Queue",
@@ -18431,7 +18431,7 @@ export const StriverSDE = {
                         '[{"value":"stack","label":"Stack"},{"value":"queue","label":"Queue"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "implmntqsingstck01mrtizdmthd",
+                    q_id: "implmntqsingstck01mrtizdmthd",
                     step_no: 13,
                     sl_no_in_step: 4,
                     head_step_no: "Stack and Queue",
@@ -18449,7 +18449,7 @@ export const StriverSDE = {
                         '[{"value":"queue","label":"Queue"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckfrblncdprnthss",
+                    q_id: "chckfrblncdprnthss",
                     step_no: 13,
                     sl_no_in_step: 5,
                     head_step_no: "Stack and Queue",
@@ -18466,7 +18466,7 @@ export const StriverSDE = {
                         '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "nxtgrtrlmnt",
+                    q_id: "nxtgrtrlmnt",
                     step_no: 13,
                     sl_no_in_step: 6,
                     head_step_no: "Stack and Queue",
@@ -18484,7 +18484,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "srtstck",
+                    q_id: "srtstck",
                     step_no: 13,
                     sl_no_in_step: 7,
                     head_step_no: "Stack and Queue",
@@ -18506,7 +18506,7 @@ export const StriverSDE = {
             head_step_no: "Stack and Queue Part-II",
             topics: [
                 {
-                    id: "nxtsmllrlmnt",
+                    q_id: "nxtsmllrlmnt",
                     step_no: 14,
                     sl_no_in_step: 1,
                     head_step_no: "Stack and Queue Part-II",
@@ -18524,7 +18524,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lrcchimprtnt",
+                    q_id: "lrcchimprtnt",
                     step_no: 14,
                     sl_no_in_step: 2,
                     head_step_no: "Stack and Queue Part-II",
@@ -18542,7 +18542,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lfcch",
+                    q_id: "lfcch",
                     step_no: 14,
                     sl_no_in_step: 3,
                     head_step_no: "Stack and Queue Part-II",
@@ -18560,7 +18560,7 @@ export const StriverSDE = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lrgstrctnglinhistgrm",
+                    q_id: "lrgstrctnglinhistgrm",
                     step_no: 14,
                     sl_no_in_step: 4,
                     head_step_no: "Stack and Queue Part-II",
@@ -18579,7 +18579,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "slidingwindwmximm",
+                    q_id: "slidingwindwmximm",
                     step_no: 14,
                     sl_no_in_step: 5,
                     head_step_no: "Stack and Queue Part-II",
@@ -18597,7 +18597,7 @@ export const StriverSDE = {
                         '[{"value":"queue","label":"Queue"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "implmntminstck",
+                    q_id: "implmntminstck",
                     step_no: 14,
                     sl_no_in_step: 6,
                     head_step_no: "Stack and Queue Part-II",
@@ -18615,7 +18615,7 @@ export const StriverSDE = {
                         '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rttnrngsingbfs",
+                    q_id: "rttnrngsingbfs",
                     step_no: 14,
                     sl_no_in_step: 7,
                     head_step_no: "Stack and Queue Part-II",
@@ -18632,7 +18632,7 @@ export const StriverSDE = {
                         '[{"value":"stack","label":"Stack"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "stckspnprblm",
+                    q_id: "stckspnprblm",
                     step_no: 14,
                     sl_no_in_step: 8,
                     head_step_no: "Stack and Queue Part-II",
@@ -18649,7 +18649,7 @@ export const StriverSDE = {
                         '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findthmximmfminimmsfvrywindwsiz",
+                    q_id: "findthmximmfminimmsfvrywindwsiz",
                     step_no: 14,
                     sl_no_in_step: 9,
                     head_step_no: "Stack and Queue Part-II",
@@ -18665,7 +18665,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "thclbrityprblm",
+                    q_id: "thclbrityprblm",
                     step_no: 14,
                     sl_no_in_step: 10,
                     head_step_no: "Stack and Queue Part-II",
@@ -18689,7 +18689,7 @@ export const StriverSDE = {
             head_step_no: "String",
             topics: [
                 {
-                    id: "rvrswrdsinstring",
+                    q_id: "rvrswrdsinstring",
                     step_no: 15,
                     sl_no_in_step: 1,
                     head_step_no: "String",
@@ -18706,7 +18706,7 @@ export const StriverSDE = {
                         '[{"value":"two-pointers","label":"Two Pointer"},{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstplindrminstring",
+                    q_id: "lngstplindrminstring",
                     step_no: 15,
                     sl_no_in_step: 2,
                     head_step_no: "String",
@@ -18724,7 +18724,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rmnnmbrtintgrndvicvrs",
+                    q_id: "rmnnmbrtintgrndvicvrs",
                     step_no: 15,
                     sl_no_in_step: 3,
                     head_step_no: "String",
@@ -18741,7 +18741,7 @@ export const StriverSDE = {
                         '[{"value":"hashing","label":"Hashing"},{"value":"maths","label":"Maths"},{"value":"string","label":"String"}]',
                 },
                 {
-                    id: "implmnttistrstr",
+                    q_id: "implmnttistrstr",
                     step_no: 15,
                     sl_no_in_step: 4,
                     head_step_no: "String",
@@ -18757,7 +18757,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstcmmnprfix",
+                    q_id: "lngstcmmnprfix",
                     step_no: 15,
                     sl_no_in_step: 5,
                     head_step_no: "String",
@@ -18774,7 +18774,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rbinkrp",
+                    q_id: "rbinkrp",
                     step_no: 15,
                     sl_no_in_step: 6,
                     head_step_no: "String",
@@ -18799,7 +18799,7 @@ export const StriverSDE = {
             head_step_no: "String Part-II",
             topics: [
                 {
-                    id: "zfnctin",
+                    q_id: "zfnctin",
                     step_no: 16,
                     sl_no_in_step: 1,
                     head_step_no: "String Part-II",
@@ -18817,7 +18817,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "kmplglpspirry",
+                    q_id: "kmplglpspirry",
                     step_no: 16,
                     sl_no_in_step: 2,
                     head_step_no: "String Part-II",
@@ -18835,7 +18835,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "minimmchrctrsnddtbinsrtdinthbginningtmkitplindrmic",
+                    q_id: "minimmchrctrsnddtbinsrtdinthbginningtmkitplindrmic",
                     step_no: 16,
                     sl_no_in_step: 3,
                     head_step_no: "String Part-II",
@@ -18853,7 +18853,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckfrngrms",
+                    q_id: "chckfrngrms",
                     step_no: 16,
                     sl_no_in_step: 4,
                     head_step_no: "String Part-II",
@@ -18869,7 +18869,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cntndsy",
+                    q_id: "cntndsy",
                     step_no: 16,
                     sl_no_in_step: 5,
                     head_step_no: "String Part-II",
@@ -18886,7 +18886,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cmprvrsinnmbrs",
+                    q_id: "cmprvrsinnmbrs",
                     step_no: 16,
                     sl_no_in_step: 6,
                     head_step_no: "String Part-II",
@@ -18908,7 +18908,7 @@ export const StriverSDE = {
             head_step_no: "Binary Tree",
             topics: [
                 {
-                    id: "inrdrtrvrsl",
+                    q_id: "inrdrtrvrsl",
                     step_no: 17,
                     sl_no_in_step: 1,
                     head_step_no: "Binary Tree",
@@ -18928,7 +18928,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "prrdrtrvrsl",
+                    q_id: "prrdrtrvrsl",
                     step_no: 17,
                     sl_no_in_step: 2,
                     head_step_no: "Binary Tree",
@@ -18947,7 +18947,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "pstrdrtrvrsl",
+                    q_id: "pstrdrtrvrsl",
                     step_no: 17,
                     sl_no_in_step: 3,
                     head_step_no: "Binary Tree",
@@ -18966,7 +18966,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mrrisinrdrtrvrsl",
+                    q_id: "mrrisinrdrtrvrsl",
                     step_no: 17,
                     sl_no_in_step: 4,
                     head_step_no: "Binary Tree",
@@ -18986,7 +18986,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mrrisprrdrtrvrsl",
+                    q_id: "mrrisprrdrtrvrsl",
                     step_no: 17,
                     sl_no_in_step: 5,
                     head_step_no: "Binary Tree",
@@ -19004,7 +19004,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lftviwfbinrytr",
+                    q_id: "lftviwfbinrytr",
                     step_no: 17,
                     sl_no_in_step: 6,
                     head_step_no: "Binary Tree",
@@ -19024,7 +19024,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "bttmviwfbinrytr",
+                    q_id: "bttmviwfbinrytr",
                     step_no: 17,
                     sl_no_in_step: 7,
                     head_step_no: "Binary Tree",
@@ -19043,7 +19043,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "tpviwfbinrytr",
+                    q_id: "tpviwfbinrytr",
                     step_no: 17,
                     sl_no_in_step: 8,
                     head_step_no: "Binary Tree",
@@ -19062,7 +19062,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "prrdrinrdrpstrdrinsingltrvrsl",
+                    q_id: "prrdrinrdrpstrdrinsingltrvrsl",
                     step_no: 17,
                     sl_no_in_step: 9,
                     head_step_no: "Binary Tree",
@@ -19079,7 +19079,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "vrticlrdrtrvrsl",
+                    q_id: "vrticlrdrtrvrsl",
                     step_no: 17,
                     sl_no_in_step: 10,
                     head_step_no: "Binary Tree",
@@ -19097,7 +19097,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rttndpthinbinrytr",
+                    q_id: "rttndpthinbinrytr",
                     step_no: 17,
                     sl_no_in_step: 11,
                     head_step_no: "Binary Tree",
@@ -19115,7 +19115,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mxwidthfbinrytr",
+                    q_id: "mxwidthfbinrytr",
                     step_no: 17,
                     sl_no_in_step: 12,
                     head_step_no: "Binary Tree",
@@ -19139,7 +19139,7 @@ export const StriverSDE = {
             head_step_no: "Binary Tree part-II",
             topics: [
                 {
-                    id: "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
+                    q_id: "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
                     step_no: 18,
                     sl_no_in_step: 1,
                     head_step_no: "Binary Tree part-II",
@@ -19158,7 +19158,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "hightfbinrytr",
+                    q_id: "hightfbinrytr",
                     step_no: 18,
                     sl_no_in_step: 2,
                     head_step_no: "Binary Tree part-II",
@@ -19177,7 +19177,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dimtrfbinrytr",
+                    q_id: "dimtrfbinrytr",
                     step_no: 18,
                     sl_no_in_step: 3,
                     head_step_no: "Binary Tree part-II",
@@ -19195,7 +19195,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckifthbinrytrishightblncdrnt",
+                    q_id: "chckifthbinrytrishightblncdrnt",
                     step_no: 18,
                     sl_no_in_step: 4,
                     head_step_no: "Binary Tree part-II",
@@ -19213,7 +19213,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lcinbinrytr",
+                    q_id: "lcinbinrytr",
                     step_no: 18,
                     sl_no_in_step: 5,
                     head_step_no: "Binary Tree part-II",
@@ -19232,7 +19232,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckiftwtrsridnticlrnt",
+                    q_id: "chckiftwtrsridnticlrnt",
                     step_no: 18,
                     sl_no_in_step: 6,
                     head_step_no: "Binary Tree part-II",
@@ -19250,7 +19250,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "zigzgtrvrslfbinrytr",
+                    q_id: "zigzgtrvrslfbinrytr",
                     step_no: 18,
                     sl_no_in_step: 7,
                     head_step_no: "Binary Tree part-II",
@@ -19269,7 +19269,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "bndrytrvrslfbinrytr",
+                    q_id: "bndrytrvrslfbinrytr",
                     step_no: 18,
                     sl_no_in_step: 8,
                     head_step_no: "Binary Tree part-II",
@@ -19293,7 +19293,7 @@ export const StriverSDE = {
             head_step_no: "Binary Tree part-III",
             topics: [
                 {
-                    id: "mximmpthsm",
+                    q_id: "mximmpthsm",
                     step_no: 19,
                     sl_no_in_step: 1,
                     head_step_no: "Binary Tree part-III",
@@ -19312,7 +19312,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cnstrctbinrytrfrminrdrndprrdr",
+                    q_id: "cnstrctbinrytrfrminrdrndprrdr",
                     step_no: 19,
                     sl_no_in_step: 2,
                     head_step_no: "Binary Tree part-III",
@@ -19331,7 +19331,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cnstrctbinrytrfrminrdrndpstrdr",
+                    q_id: "cnstrctbinrytrfrminrdrndpstrdr",
                     step_no: 19,
                     sl_no_in_step: 3,
                     head_step_no: "Binary Tree part-III",
@@ -19348,7 +19348,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "symmtricbinrytr",
+                    q_id: "symmtricbinrytr",
                     step_no: 19,
                     sl_no_in_step: 4,
                     head_step_no: "Binary Tree part-III",
@@ -19366,7 +19366,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "flttnbinrytrtlinkdlist",
+                    q_id: "flttnbinrytrtlinkdlist",
                     step_no: 19,
                     sl_no_in_step: 5,
                     head_step_no: "Binary Tree part-III",
@@ -19385,7 +19385,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckifbinrytristhmirrrfitslfrnt",
+                    q_id: "chckifbinrytristhmirrrfitslfrnt",
                     step_no: 19,
                     sl_no_in_step: 6,
                     head_step_no: "Binary Tree part-III",
@@ -19401,7 +19401,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckfrchildrnsmprprty",
+                    q_id: "chckfrchildrnsmprprty",
                     step_no: 19,
                     sl_no_in_step: 7,
                     head_step_no: "Binary Tree part-III",
@@ -19425,7 +19425,7 @@ export const StriverSDE = {
             head_step_no: "Binary Search Tree",
             topics: [
                 {
-                    id: "ppltnxtrightpintrsftr",
+                    q_id: "ppltnxtrightpintrsftr",
                     step_no: 20,
                     sl_no_in_step: 1,
                     head_step_no: "Binary Search Tree",
@@ -19442,7 +19442,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "srchgivnkyinbst",
+                    q_id: "srchgivnkyinbst",
                     step_no: 20,
                     sl_no_in_step: 2,
                     head_step_no: "Binary Search Tree",
@@ -19459,7 +19459,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cnstrctbstfrmgivnkys",
+                    q_id: "cnstrctbstfrmgivnkys",
                     step_no: 20,
                     sl_no_in_step: 3,
                     head_step_no: "Binary Search Tree",
@@ -19476,7 +19476,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cnstrctbstfrmprrdrtrvrsl",
+                    q_id: "cnstrctbstfrmprrdrtrvrsl",
                     step_no: 20,
                     sl_no_in_step: 4,
                     head_step_no: "Binary Search Tree",
@@ -19495,7 +19495,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckisbtisbstrnt",
+                    q_id: "chckisbtisbstrnt",
                     step_no: 20,
                     sl_no_in_step: 5,
                     head_step_no: "Binary Search Tree",
@@ -19511,7 +19511,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findlcftwndsinbst",
+                    q_id: "findlcftwndsinbst",
                     step_no: 20,
                     sl_no_in_step: 6,
                     head_step_no: "Binary Search Tree",
@@ -19528,7 +19528,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findthinrdrprdcssrsccssrfgivnkyinbst",
+                    q_id: "findthinrdrprdcssrsccssrfgivnkyinbst",
                     step_no: 20,
                     sl_no_in_step: 7,
                     head_step_no: "Binary Search Tree",
@@ -19553,7 +19553,7 @@ export const StriverSDE = {
             head_step_no: "Binary Search Tree Part-II",
             topics: [
                 {
-                    id: "flrinbst",
+                    q_id: "flrinbst",
                     step_no: 21,
                     sl_no_in_step: 1,
                     head_step_no: "Binary Search Tree Part-II",
@@ -19572,7 +19572,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cilinbst",
+                    q_id: "cilinbst",
                     step_no: 21,
                     sl_no_in_step: 2,
                     head_step_no: "Binary Search Tree Part-II",
@@ -19591,7 +19591,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findkthsmllstlmntinbst",
+                    q_id: "findkthsmllstlmntinbst",
                     step_no: 21,
                     sl_no_in_step: 3,
                     head_step_no: "Binary Search Tree Part-II",
@@ -19609,7 +19609,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findkthlrgstlmntinbst",
+                    q_id: "findkthlrgstlmntinbst",
                     step_no: 21,
                     sl_no_in_step: 4,
                     head_step_no: "Binary Search Tree Part-II",
@@ -19628,7 +19628,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findpirwithgivnsminbst",
+                    q_id: "findpirwithgivnsminbst",
                     step_no: 21,
                     sl_no_in_step: 5,
                     head_step_no: "Binary Search Tree Part-II",
@@ -19644,7 +19644,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "bstitrtr",
+                    q_id: "bstitrtr",
                     step_no: 21,
                     sl_no_in_step: 6,
                     head_step_no: "Binary Search Tree Part-II",
@@ -19660,7 +19660,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "sizfthlrgstbstinbinrytr",
+                    q_id: "sizfthlrgstbstinbinrytr",
                     step_no: 21,
                     sl_no_in_step: 7,
                     head_step_no: "Binary Search Tree Part-II",
@@ -19677,7 +19677,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "sriliznddsrilizbinrytr",
+                    q_id: "sriliznddsrilizbinrytr",
                     step_no: 21,
                     sl_no_in_step: 8,
                     head_step_no: "Binary Search Tree Part-II",
@@ -19702,7 +19702,7 @@ export const StriverSDE = {
             head_step_no: "Binary Trees[Miscellaneous]",
             topics: [
                 {
-                    id: "binrytrtdbllinkdlist",
+                    q_id: "binrytrtdbllinkdlist",
                     step_no: 22,
                     sl_no_in_step: 1,
                     head_step_no: "Binary Trees[Miscellaneous]",
@@ -19720,7 +19720,7 @@ export const StriverSDE = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findmdininstrmfrnningintgrs",
+                    q_id: "findmdininstrmfrnningintgrs",
                     step_no: 22,
                     sl_no_in_step: 2,
                     head_step_no: "Binary Trees[Miscellaneous]",
@@ -19737,7 +19737,7 @@ export const StriverSDE = {
                         '[{"value":"two-pointers","label":"Two Pointer"},{"value":"sorting","label":"Sorting"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "kthlrgstlmntinstrm",
+                    q_id: "kthlrgstlmntinstrm",
                     step_no: 22,
                     sl_no_in_step: 3,
                     head_step_no: "Binary Trees[Miscellaneous]",
@@ -19754,7 +19754,7 @@ export const StriverSDE = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"heap","label":"Heap"}]',
                 },
                 {
-                    id: "distinctnmbrsinwindw",
+                    q_id: "distinctnmbrsinwindw",
                     step_no: 22,
                     sl_no_in_step: 4,
                     head_step_no: "Binary Trees[Miscellaneous]",
@@ -19771,7 +19771,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"hashing","label":"Hashing"}]',
                 },
                 {
-                    id: "kthlrgstlmntinnnsrtdrry",
+                    q_id: "kthlrgstlmntinnnsrtdrry",
                     step_no: 22,
                     sl_no_in_step: 5,
                     head_step_no: "Binary Trees[Miscellaneous]",
@@ -19788,7 +19788,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"heap","label":"Heap"}]',
                 },
                 {
-                    id: "fldfilllgrithm",
+                    q_id: "fldfilllgrithm",
                     step_no: 22,
                     sl_no_in_step: 6,
                     head_step_no: "Binary Trees[Miscellaneous]",
@@ -19810,7 +19810,7 @@ export const StriverSDE = {
             head_step_no: "Graph",
             topics: [
                 {
-                    id: "clngrphntthtsysitlks",
+                    q_id: "clngrphntthtsysitlks",
                     step_no: 23,
                     sl_no_in_step: 1,
                     head_step_no: "Graph",
@@ -19826,7 +19826,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dfs",
+                    q_id: "dfs",
                     step_no: 23,
                     sl_no_in_step: 2,
                     head_step_no: "Graph",
@@ -19846,7 +19846,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "bfs",
+                    q_id: "bfs",
                     step_no: 23,
                     sl_no_in_step: 3,
                     head_step_no: "Graph",
@@ -19866,7 +19866,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dtctcyclinndirctdgrphsingbfs",
+                    q_id: "dtctcyclinndirctdgrphsingbfs",
                     step_no: 23,
                     sl_no_in_step: 4,
                     head_step_no: "Graph",
@@ -19883,7 +19883,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dtctcyclinndirctdgrphsingdfs",
+                    q_id: "dtctcyclinndirctdgrphsingdfs",
                     step_no: 23,
                     sl_no_in_step: 5,
                     head_step_no: "Graph",
@@ -19900,7 +19900,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dtctcyclindirctdgrphsingdfs",
+                    q_id: "dtctcyclindirctdgrphsingdfs",
                     step_no: 23,
                     sl_no_in_step: 6,
                     head_step_no: "Graph",
@@ -19918,7 +19918,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dtctcyclindirctdgrphsingbfs",
+                    q_id: "dtctcyclindirctdgrphsingbfs",
                     step_no: 23,
                     sl_no_in_step: 7,
                     head_step_no: "Graph",
@@ -19935,7 +19935,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "tplgiclsrtbfs",
+                    q_id: "tplgiclsrtbfs",
                     step_no: 23,
                     sl_no_in_step: 8,
                     head_step_no: "Graph",
@@ -19955,7 +19955,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "tplgiclsrtdfs",
+                    q_id: "tplgiclsrtdfs",
                     step_no: 23,
                     sl_no_in_step: 9,
                     head_step_no: "Graph",
@@ -19975,7 +19975,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "nmbrfislndsdingridndgrphbth",
+                    q_id: "nmbrfislndsdingridndgrphbth",
                     step_no: 23,
                     sl_no_in_step: 10,
                     head_step_no: "Graph",
@@ -19993,7 +19993,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "biprtitchcksingbfs",
+                    q_id: "biprtitchcksingbfs",
                     step_no: 23,
                     sl_no_in_step: 11,
                     head_step_no: "Graph",
@@ -20010,7 +20010,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "biprtitchcksingdfs",
+                    q_id: "biprtitchcksingdfs",
                     step_no: 23,
                     sl_no_in_step: 12,
                     head_step_no: "Graph",
@@ -20034,7 +20034,7 @@ export const StriverSDE = {
             head_step_no: "Graph Part-II",
             topics: [
                 {
-                    id: "strnglycnnctdcmpnntsingksrjslg",
+                    q_id: "strnglycnnctdcmpnntsingksrjslg",
                     step_no: 24,
                     sl_no_in_step: 1,
                     head_step_no: "Graph Part-II",
@@ -20053,7 +20053,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dijkstrslgrithm",
+                    q_id: "dijkstrslgrithm",
                     step_no: 24,
                     sl_no_in_step: 2,
                     head_step_no: "Graph Part-II",
@@ -20073,7 +20073,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "bllmnfrdlg",
+                    q_id: "bllmnfrdlg",
                     step_no: 24,
                     sl_no_in_step: 3,
                     head_step_no: "Graph Part-II",
@@ -20093,7 +20093,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "flydwrshlllgrithm",
+                    q_id: "flydwrshlllgrithm",
                     step_no: 24,
                     sl_no_in_step: 4,
                     head_step_no: "Graph Part-II",
@@ -20113,7 +20113,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mstsingprimslg",
+                    q_id: "mstsingprimslg",
                     step_no: 24,
                     sl_no_in_step: 5,
                     head_step_no: "Graph Part-II",
@@ -20133,7 +20133,7 @@ export const StriverSDE = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mstsingkrsklslg",
+                    q_id: "mstsingkrsklslg",
                     step_no: 24,
                     sl_no_in_step: 6,
                     head_step_no: "Graph Part-II",
@@ -20159,7 +20159,7 @@ export const StriverSDE = {
             head_step_no: "Dynamic Programming",
             topics: [
                 {
-                    id: "mxprdctsbrry",
+                    q_id: "mxprdctsbrry",
                     step_no: 25,
                     sl_no_in_step: 1,
                     head_step_no: "Dynamic Programming",
@@ -20176,7 +20176,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstincrsingsbsqnc",
+                    q_id: "lngstincrsingsbsqnc",
                     step_no: 25,
                     sl_no_in_step: 2,
                     head_step_no: "Dynamic Programming",
@@ -20194,7 +20194,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstcmmnsbsqnc",
+                    q_id: "lngstcmmnsbsqnc",
                     step_no: 25,
                     sl_no_in_step: 3,
                     head_step_no: "Dynamic Programming",
@@ -20211,7 +20211,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "01knpsck",
+                    q_id: "01knpsck",
                     step_no: 25,
                     sl_no_in_step: 4,
                     head_step_no: "Dynamic Programming",
@@ -20229,7 +20229,7 @@ export const StriverSDE = {
                         '[{"value":"greedy","label":"Greedy"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "ditdistnc",
+                    q_id: "ditdistnc",
                     step_no: 25,
                     sl_no_in_step: 5,
                     head_step_no: "Dynamic Programming",
@@ -20246,7 +20246,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "mximmsmincrsingsbsqnc",
+                    q_id: "mximmsmincrsingsbsqnc",
                     step_no: 25,
                     sl_no_in_step: 6,
                     head_step_no: "Dynamic Programming",
@@ -20264,7 +20264,7 @@ export const StriverSDE = {
                         '[{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mtrixchinmltiplictin",
+                    q_id: "mtrixchinmltiplictin",
                     step_no: 25,
                     sl_no_in_step: 7,
                     head_step_no: "Dynamic Programming",
@@ -20289,7 +20289,7 @@ export const StriverSDE = {
             head_step_no: "Dynamic Programming Part-II",
             topics: [
                 {
-                    id: "minimmsmpthinthmtrixcntpthsndsimilrtypdlsbcktrcktfindthminimmpth",
+                    q_id: "minimmsmpthinthmtrixcntpthsndsimilrtypdlsbcktrcktfindthminimmpth",
                     step_no: 26,
                     sl_no_in_step: 1,
                     head_step_no: "Dynamic Programming Part-II",
@@ -20306,7 +20306,7 @@ export const StriverSDE = {
                     ques_topic: null,
                 },
                 {
-                    id: "cinchng",
+                    q_id: "cinchng",
                     step_no: 26,
                     sl_no_in_step: 2,
                     head_step_no: "Dynamic Programming Part-II",
@@ -20323,7 +20323,7 @@ export const StriverSDE = {
                         '[{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"},{"value":"arrays","label":"Arrays"}]',
                 },
                 {
-                    id: "sbstsm",
+                    q_id: "sbstsm",
                     step_no: 26,
                     sl_no_in_step: 3,
                     head_step_no: "Dynamic Programming Part-II",
@@ -20340,7 +20340,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rdctting",
+                    q_id: "rdctting",
                     step_no: 26,
                     sl_no_in_step: 4,
                     head_step_no: "Dynamic Programming Part-II",
@@ -20357,7 +20357,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "ggdrpping",
+                    q_id: "ggdrpping",
                     step_no: 26,
                     sl_no_in_step: 5,
                     head_step_no: "Dynamic Programming Part-II",
@@ -20375,7 +20375,7 @@ export const StriverSDE = {
                         '[{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"maths","label":"Maths"},{"value":"binary-search","label":"Binary Search"}]',
                 },
                 {
-                    id: "wrdbrk",
+                    q_id: "wrdbrk",
                     step_no: 26,
                     sl_no_in_step: 6,
                     head_step_no: "Dynamic Programming Part-II",
@@ -20391,7 +20391,7 @@ export const StriverSDE = {
                     ques_topic: null,
                 },
                 {
-                    id: "plindrmprtitiningmcmvritin",
+                    q_id: "plindrmprtitiningmcmvritin",
                     step_no: 26,
                     sl_no_in_step: 7,
                     head_step_no: "Dynamic Programming Part-II",
@@ -20409,7 +20409,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                 },
                 {
-                    id: "mximmprfitinjbschdling",
+                    q_id: "mximmprfitinjbschdling",
                     step_no: 26,
                     sl_no_in_step: 8,
                     head_step_no: "Dynamic Programming Part-II",
@@ -20433,7 +20433,7 @@ export const StriverSDE = {
             head_step_no: "Trie",
             topics: [
                 {
-                    id: "implmnttriprfixtr",
+                    q_id: "implmnttriprfixtr",
                     step_no: 27,
                     sl_no_in_step: 1,
                     head_step_no: "Trie",
@@ -20451,7 +20451,7 @@ export const StriverSDE = {
                         '[{"value":"trie","label":"Trie"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "implmnttri2prfixtr",
+                    q_id: "implmnttri2prfixtr",
                     step_no: 27,
                     sl_no_in_step: 2,
                     head_step_no: "Trie",
@@ -20469,7 +20469,7 @@ export const StriverSDE = {
                         '[{"value":"trie","label":"Trie"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngststringwithllprfixs",
+                    q_id: "lngststringwithllprfixs",
                     step_no: 27,
                     sl_no_in_step: 3,
                     head_step_no: "Trie",
@@ -20487,7 +20487,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "nmbrfdistinctsbstringsinstring",
+                    q_id: "nmbrfdistinctsbstringsinstring",
                     step_no: 27,
                     sl_no_in_step: 4,
                     head_step_no: "Trie",
@@ -20507,7 +20507,7 @@ export const StriverSDE = {
                         '[{"value":"string","label":"String"},{"value":"trie","label":"Trie"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "pwrstthisisvryimprtnt",
+                    q_id: "pwrstthisisvryimprtnt",
                     step_no: 27,
                     sl_no_in_step: 5,
                     head_step_no: "Trie",
@@ -20527,7 +20527,7 @@ export const StriverSDE = {
                         '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mximmxrftwnmbrsinnrry",
+                    q_id: "mximmxrftwnmbrsinnrry",
                     step_no: 27,
                     sl_no_in_step: 6,
                     head_step_no: "Trie",
@@ -20548,7 +20548,7 @@ export const StriverSDE = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"bit-manipulation","label":"Bit Manipulation"},{"value":"data-structure","label":"Data Structures"},{"value":"trie","label":"Trie"}]',
                 },
                 {
-                    id: "mximmxrwithnlmntfrmrry",
+                    q_id: "mximmxrwithnlmntfrmrry",
                     step_no: 27,
                     sl_no_in_step: 7,
                     head_step_no: "Trie",
@@ -20578,7 +20578,7 @@ export const Striver79 = {
             head_step_no: "Arrays and Hashing",
             topics: [
                 {
-                    id: "nxtprmttin",
+                    q_id: "nxtprmttin",
                     step_no: 1,
                     sl_no_in_step: 1,
                     head_step_no: "Arrays and Hashing",
@@ -20596,7 +20596,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"two-pointers","label":"Two Pointer"}]',
                 },
                 {
-                    id: "3smprblm",
+                    q_id: "3smprblm",
                     step_no: 1,
                     sl_no_in_step: 2,
                     head_step_no: "Arrays and Hashing",
@@ -20614,7 +20614,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"},{"value":"hashing","label":"Hashing"}]',
                 },
                 {
-                    id: "kdnslgrithm",
+                    q_id: "kdnslgrithm",
                     step_no: 1,
                     sl_no_in_step: 3,
                     head_step_no: "Arrays and Hashing",
@@ -20631,7 +20631,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mjritylmntn3tims",
+                    q_id: "mjritylmntn3tims",
                     step_no: 1,
                     sl_no_in_step: 4,
                     head_step_no: "Arrays and Hashing",
@@ -20649,7 +20649,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cntnmbrfsbrryswithgivnxrk",
+                    q_id: "cntnmbrfsbrryswithgivnxrk",
                     step_no: 1,
                     sl_no_in_step: 5,
                     head_step_no: "Arrays and Hashing",
@@ -20668,7 +20668,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findthrptingndmissingnmbr-i",
+                    q_id: "findthrptingndmissingnmbr-i",
                     step_no: 1,
                     sl_no_in_step: 6,
                     head_step_no: "Arrays and Hashing",
@@ -20686,7 +20686,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"maths","label":"Maths"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cntinvrsins",
+                    q_id: "cntinvrsins",
                     step_no: 1,
                     sl_no_in_step: 7,
                     head_step_no: "Arrays and Hashing",
@@ -20704,7 +20704,7 @@ export const Striver79 = {
                         '[{"value":"sorting","label":"Sorting"},{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mximmprdctsbrry",
+                    q_id: "mximmprdctsbrry",
                     step_no: 1,
                     sl_no_in_step: 8,
                     head_step_no: "Arrays and Hashing",
@@ -20728,7 +20728,7 @@ export const Striver79 = {
             head_step_no: "Binary Search",
             topics: [
                 {
-                    id: "srchinrttdsrtdrryii",
+                    q_id: "srchinrttdsrtdrryii",
                     step_no: 2,
                     sl_no_in_step: 1,
                     head_step_no: "Binary Search",
@@ -20747,7 +20747,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"}]',
                 },
                 {
-                    id: "findminimminrttdsrtdrry",
+                    q_id: "findminimminrttdsrtdrry",
                     step_no: 2,
                     sl_no_in_step: 2,
                     head_step_no: "Binary Search",
@@ -20766,7 +20766,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findpklmnt",
+                    q_id: "findpklmnt",
                     step_no: 2,
                     sl_no_in_step: 3,
                     head_step_no: "Binary Search",
@@ -20785,7 +20785,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"}]',
                 },
                 {
-                    id: "kktingbnns",
+                    q_id: "kktingbnns",
                     step_no: 2,
                     sl_no_in_step: 4,
                     head_step_no: "Binary Search",
@@ -20803,7 +20803,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "ggrssivcws",
+                    q_id: "ggrssivcws",
                     step_no: 2,
                     sl_no_in_step: 5,
                     head_step_no: "Binary Search",
@@ -20821,7 +20821,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "bkllctinprblm",
+                    q_id: "bkllctinprblm",
                     step_no: 2,
                     sl_no_in_step: 6,
                     head_step_no: "Binary Search",
@@ -20839,7 +20839,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"binary-search","label":"Binary Search"}]',
                 },
                 {
-                    id: "mdinf2srtdrrys",
+                    q_id: "mdinf2srtdrrys",
                     step_no: 2,
                     sl_no_in_step: 7,
                     head_step_no: "Binary Search",
@@ -20857,7 +20857,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "minimizmxdistnctgssttin",
+                    q_id: "minimizmxdistnctgssttin",
                     step_no: 2,
                     sl_no_in_step: 8,
                     head_step_no: "Binary Search",
@@ -20883,7 +20883,7 @@ export const Striver79 = {
             head_step_no: "Linked List",
             topics: [
                 {
-                    id: "middlflinkdlisttrtishrmthd",
+                    q_id: "middlflinkdlisttrtishrmthd",
                     step_no: 3,
                     sl_no_in_step: 1,
                     head_step_no: "Linked List",
@@ -20901,7 +20901,7 @@ export const Striver79 = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dtctlpinll",
+                    q_id: "dtctlpinll",
                     step_no: 3,
                     sl_no_in_step: 2,
                     head_step_no: "Linked List",
@@ -20919,7 +20919,7 @@ export const Striver79 = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rmvnthndfrmthbckfthll",
+                    q_id: "rmvnthndfrmthbckfthll",
                     step_no: 3,
                     sl_no_in_step: 3,
                     head_step_no: "Linked List",
@@ -20938,7 +20938,7 @@ export const Striver79 = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findthintrsctinpintfyll",
+                    q_id: "findthintrsctinpintfyll",
                     step_no: 3,
                     sl_no_in_step: 4,
                     head_step_no: "Linked List",
@@ -20957,7 +20957,7 @@ export const Striver79 = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "srtll",
+                    q_id: "srtll",
                     step_no: 3,
                     sl_no_in_step: 5,
                     head_step_no: "Linked List",
@@ -20974,7 +20974,7 @@ export const Striver79 = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "sgrrgtddndvnndsinll",
+                    q_id: "sgrrgtddndvnndsinll",
                     step_no: 3,
                     sl_no_in_step: 6,
                     head_step_no: "Linked List",
@@ -20998,7 +20998,7 @@ export const Striver79 = {
             head_step_no: "Recursion and Backtracking",
             topics: [
                 {
-                    id: "printllsbsqncspwrst",
+                    q_id: "printllsbsqncspwrst",
                     step_no: 4,
                     sl_no_in_step: 1,
                     head_step_no: "Recursion and Backtracking",
@@ -21016,7 +21016,7 @@ export const Striver79 = {
                         '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cmbintinsm",
+                    q_id: "cmbintinsm",
                     step_no: 4,
                     sl_no_in_step: 2,
                     head_step_no: "Recursion and Backtracking",
@@ -21035,7 +21035,7 @@ export const Striver79 = {
                         '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"}]',
                 },
                 {
-                    id: "nqn",
+                    q_id: "nqn",
                     step_no: 4,
                     sl_no_in_step: 3,
                     head_step_no: "Recursion and Backtracking",
@@ -21054,7 +21054,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "sdkslvr",
+                    q_id: "sdkslvr",
                     step_no: 4,
                     sl_no_in_step: 4,
                     head_step_no: "Recursion and Backtracking",
@@ -21072,7 +21072,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mclringprblm",
+                    q_id: "mclringprblm",
                     step_no: 4,
                     sl_no_in_step: 5,
                     head_step_no: "Recursion and Backtracking",
@@ -21092,7 +21092,7 @@ export const Striver79 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "wrdsrch",
+                    q_id: "wrdsrch",
                     step_no: 4,
                     sl_no_in_step: 6,
                     head_step_no: "Recursion and Backtracking",
@@ -21116,7 +21116,7 @@ export const Striver79 = {
             head_step_no: "Stacks/Queues",
             topics: [
                 {
-                    id: "nxtgrtrlmnt",
+                    q_id: "nxtgrtrlmnt",
                     step_no: 5,
                     sl_no_in_step: 1,
                     head_step_no: "Stacks/Queues",
@@ -21134,7 +21134,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "trppingrinwtr",
+                    q_id: "trppingrinwtr",
                     step_no: 5,
                     sl_no_in_step: 2,
                     head_step_no: "Stacks/Queues",
@@ -21152,7 +21152,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lrgstrctnglinhistgrm",
+                    q_id: "lrgstrctnglinhistgrm",
                     step_no: 5,
                     sl_no_in_step: 3,
                     head_step_no: "Stacks/Queues",
@@ -21171,7 +21171,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "stridcllisin",
+                    q_id: "stridcllisin",
                     step_no: 5,
                     sl_no_in_step: 4,
                     head_step_no: "Stacks/Queues",
@@ -21188,7 +21188,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "slidingwindwmximm",
+                    q_id: "slidingwindwmximm",
                     step_no: 5,
                     sl_no_in_step: 5,
                     head_step_no: "Stacks/Queues",
@@ -21206,7 +21206,7 @@ export const Striver79 = {
                         '[{"value":"queue","label":"Queue"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lrcchimprtnt",
+                    q_id: "lrcchimprtnt",
                     step_no: 5,
                     sl_no_in_step: 6,
                     head_step_no: "Stacks/Queues",
@@ -21230,7 +21230,7 @@ export const Striver79 = {
             head_step_no: "Heaps",
             topics: [
                 {
-                    id: "kthlrgstlmntinnrrysprirityq",
+                    q_id: "kthlrgstlmntinnrrysprirityq",
                     step_no: 6,
                     sl_no_in_step: 1,
                     head_step_no: "Heaps",
@@ -21249,7 +21249,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"heap","label":"Heap"}]',
                 },
                 {
-                    id: "tskschdlr",
+                    q_id: "tskschdlr",
                     step_no: 6,
                     sl_no_in_step: 2,
                     head_step_no: "Heaps",
@@ -21266,7 +21266,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"greedy","label":"Greedy"},{"value":"sorting","label":"Sorting"},{"value":"heap","label":"Heap"}]',
                 },
                 {
-                    id: "minhpndmxhpimplmnttin",
+                    q_id: "minhpndmxhpimplmnttin",
                     step_no: 6,
                     sl_no_in_step: 3,
                     head_step_no: "Heaps",
@@ -21289,7 +21289,7 @@ export const Striver79 = {
             head_step_no: "Trees (BT + BST)",
             topics: [
                 {
-                    id: "dimtrfbinrytr",
+                    q_id: "dimtrfbinrytr",
                     step_no: 7,
                     sl_no_in_step: 1,
                     head_step_no: "Trees (BT + BST)",
@@ -21307,7 +21307,7 @@ export const Striver79 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mximmpthsm",
+                    q_id: "mximmpthsm",
                     step_no: 7,
                     sl_no_in_step: 2,
                     head_step_no: "Trees (BT + BST)",
@@ -21326,7 +21326,7 @@ export const Striver79 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "bttmviwfbinrytr",
+                    q_id: "bttmviwfbinrytr",
                     step_no: 7,
                     sl_no_in_step: 3,
                     head_step_no: "Trees (BT + BST)",
@@ -21345,7 +21345,7 @@ export const Striver79 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lcinbinrytr",
+                    q_id: "lcinbinrytr",
                     step_no: 7,
                     sl_no_in_step: 4,
                     head_step_no: "Trees (BT + BST)",
@@ -21364,7 +21364,7 @@ export const Striver79 = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "minimmtimtkntbrnthbinrytrfrmnd",
+                    q_id: "minimmtimtkntbrnthbinrytrfrmnd",
                     step_no: 7,
                     sl_no_in_step: 5,
                     head_step_no: "Trees (BT + BST)",
@@ -21381,7 +21381,7 @@ export const Striver79 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cnstrctbinrytrfrminrdrndprrdr",
+                    q_id: "cnstrctbinrytrfrminrdrndprrdr",
                     step_no: 7,
                     sl_no_in_step: 6,
                     head_step_no: "Trees (BT + BST)",
@@ -21400,7 +21400,7 @@ export const Striver79 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mrrisprrdrtrvrslfbinrytr",
+                    q_id: "mrrisprrdrtrvrslfbinrytr",
                     step_no: 7,
                     sl_no_in_step: 7,
                     head_step_no: "Trees (BT + BST)",
@@ -21419,7 +21419,7 @@ export const Striver79 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dltndinbinrysrchtr",
+                    q_id: "dltndinbinrysrchtr",
                     step_no: 7,
                     sl_no_in_step: 8,
                     head_step_no: null,
@@ -21437,7 +21437,7 @@ export const Striver79 = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lcinbinrysrchtr",
+                    q_id: "lcinbinrysrchtr",
                     step_no: 7,
                     sl_no_in_step: 9,
                     head_step_no: "Trees (BT + BST)",
@@ -21455,7 +21455,7 @@ export const Striver79 = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "twsminbstchckifthrxistspirwithsmk",
+                    q_id: "twsminbstchckifthrxistspirwithsmk",
                     step_no: 7,
                     sl_no_in_step: 10,
                     head_step_no: "Trees (BT + BST)",
@@ -21473,7 +21473,7 @@ export const Striver79 = {
                         '[{"value":"two-pointers","label":"Two Pointer"},{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lrgstbstinbinrytr",
+                    q_id: "lrgstbstinbinrytr",
                     step_no: 7,
                     sl_no_in_step: 11,
                     head_step_no: "Trees (BT + BST)",
@@ -21496,7 +21496,7 @@ export const Striver79 = {
             head_step_no: "Graphs",
             topics: [
                 {
-                    id: "rttnrngs",
+                    q_id: "rttnrngs",
                     step_no: 8,
                     sl_no_in_step: 1,
                     head_step_no: "Graphs",
@@ -21514,7 +21514,7 @@ export const Striver79 = {
                         '[{"value":"stack","label":"Stack"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "wrdlddr1",
+                    q_id: "wrdlddr1",
                     step_no: 8,
                     sl_no_in_step: 2,
                     head_step_no: "Graphs",
@@ -21531,7 +21531,7 @@ export const Striver79 = {
                         '[{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"},{"value":"string","label":"String"}]',
                 },
                 {
-                    id: "nmbrfdistinctislndsdfsmltisrc",
+                    q_id: "nmbrfdistinctislndsdfsmltisrc",
                     step_no: 8,
                     sl_no_in_step: 3,
                     head_step_no: "Graphs",
@@ -21551,7 +21551,7 @@ export const Striver79 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "crsschdlii",
+                    q_id: "crsschdlii",
                     step_no: 8,
                     sl_no_in_step: 4,
                     head_step_no: "Graphs",
@@ -21569,7 +21569,7 @@ export const Striver79 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lindictinry",
+                    q_id: "lindictinry",
                     step_no: 8,
                     sl_no_in_step: 5,
                     head_step_no: "Graphs",
@@ -21588,7 +21588,7 @@ export const Striver79 = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "djisktrslgrithm",
+                    q_id: "djisktrslgrithm",
                     step_no: 8,
                     sl_no_in_step: 6,
                     head_step_no: "Graphs",
@@ -21608,7 +21608,7 @@ export const Striver79 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chpstflightswithinkstps",
+                    q_id: "chpstflightswithinkstps",
                     step_no: 8,
                     sl_no_in_step: 7,
                     head_step_no: "Graphs",
@@ -21627,7 +21627,7 @@ export const Striver79 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "bllmnfrdlgrithm",
+                    q_id: "bllmnfrdlgrithm",
                     step_no: 8,
                     sl_no_in_step: 8,
                     head_step_no: "Graphs",
@@ -21646,7 +21646,7 @@ export const Striver79 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "flydwrshllgrithm",
+                    q_id: "flydwrshllgrithm",
                     step_no: 8,
                     sl_no_in_step: 9,
                     head_step_no: "Graphs",
@@ -21665,7 +21665,7 @@ export const Striver79 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "krsklslgrithm",
+                    q_id: "krsklslgrithm",
                     step_no: 8,
                     sl_no_in_step: 10,
                     head_step_no: "Graphs",
@@ -21684,7 +21684,7 @@ export const Striver79 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "ccntsmrg",
+                    q_id: "ccntsmrg",
                     step_no: 8,
                     sl_no_in_step: 11,
                     head_step_no: "Graphs",
@@ -21703,7 +21703,7 @@ export const Striver79 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "bridgsingrph",
+                    q_id: "bridgsingrph",
                     step_no: 8,
                     sl_no_in_step: 12,
                     head_step_no: "Graphs",
@@ -21728,7 +21728,7 @@ export const Striver79 = {
             head_step_no: "Dynamic Programming",
             topics: [
                 {
-                    id: "mximmsmfnndjcntlmntsdp5",
+                    q_id: "mximmsmfnndjcntlmntsdp5",
                     step_no: 9,
                     sl_no_in_step: 1,
                     head_step_no: "Dynamic Programming",
@@ -21746,7 +21746,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                 },
                 {
-                    id: "ninjstriningdp7",
+                    q_id: "ninjstriningdp7",
                     step_no: 9,
                     sl_no_in_step: 2,
                     head_step_no: "Dynamic Programming",
@@ -21764,7 +21764,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "minimmpthsmingriddp10",
+                    q_id: "minimmpthsmingriddp10",
                     step_no: 9,
                     sl_no_in_step: 3,
                     head_step_no: "Dynamic Programming",
@@ -21782,7 +21782,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "sbstsmqlttrgtdp14",
+                    q_id: "sbstsmqlttrgtdp14",
                     step_no: 9,
                     sl_no_in_step: 4,
                     head_step_no: "Dynamic Programming",
@@ -21801,7 +21801,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "01knpsckdp19",
+                    q_id: "01knpsckdp19",
                     step_no: 9,
                     sl_no_in_step: 5,
                     head_step_no: "Dynamic Programming",
@@ -21819,7 +21819,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rdcttingprblmdp24",
+                    q_id: "rdcttingprblmdp24",
                     step_no: 9,
                     sl_no_in_step: 6,
                     head_step_no: "Dynamic Programming",
@@ -21838,7 +21838,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "lngstcmmnsbsqnc",
+                    q_id: "lngstcmmnsbsqnc",
                     step_no: 9,
                     sl_no_in_step: 7,
                     head_step_no: "Dynamic Programming",
@@ -21855,7 +21855,7 @@ export const Striver79 = {
                         '[{"value":"string","label":"String"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstplindrmicsbsqncdp28",
+                    q_id: "lngstplindrmicsbsqncdp28",
                     step_no: 9,
                     sl_no_in_step: 8,
                     head_step_no: "Dynamic Programming",
@@ -21875,7 +21875,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "ditdistncdp33",
+                    q_id: "ditdistncdp33",
                     step_no: 9,
                     sl_no_in_step: 9,
                     head_step_no: "Dynamic Programming",
@@ -21894,7 +21894,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "byndstcksllivdp38",
+                    q_id: "byndstcksllivdp38",
                     step_no: 9,
                     sl_no_in_step: 10,
                     head_step_no: "Dynamic Programming",
@@ -21914,7 +21914,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "lngstincrsingsbsqnc",
+                    q_id: "lngstincrsingsbsqnc",
                     step_no: 9,
                     sl_no_in_step: 11,
                     head_step_no: "Dynamic Programming",
@@ -21932,7 +21932,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "brstbllnsdp51",
+                    q_id: "brstbllnsdp51",
                     step_no: 9,
                     sl_no_in_step: 12,
                     head_step_no: "Dynamic Programming",
@@ -21956,7 +21956,7 @@ export const Striver79 = {
             head_step_no: "Tries",
             topics: [
                 {
-                    id: "implmnttri2prfixtr",
+                    q_id: "implmnttri2prfixtr",
                     step_no: 10,
                     sl_no_in_step: 1,
                     head_step_no: "Tries",
@@ -21974,7 +21974,7 @@ export const Striver79 = {
                         '[{"value":"trie","label":"Trie"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mximmxrwithnlmntfrmrry",
+                    q_id: "mximmxrwithnlmntfrmrry",
                     step_no: 10,
                     sl_no_in_step: 2,
                     head_step_no: "Tries",
@@ -21993,7 +21993,7 @@ export const Striver79 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"bit-manipulation","label":"Bit Manipulation"},{"value":"trie","label":"Trie"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "nmbrfdistinctsbstringsinstring",
+                    q_id: "nmbrfdistinctsbstringsinstring",
                     step_no: 10,
                     sl_no_in_step: 3,
                     head_step_no: "Tries",
@@ -22019,7 +22019,7 @@ export const Striver79 = {
             head_step_no: "String",
             topics: [
                 {
-                    id: "minimmnmbrfbrcktrvrslsnddtmknxprssinblncd",
+                    q_id: "minimmnmbrfbrcktrvrslsnddtmknxprssinblncd",
                     step_no: 11,
                     sl_no_in_step: 1,
                     head_step_no: "String",
@@ -22039,7 +22039,7 @@ export const Striver79 = {
                         '[{"value":"string","label":"String"},{"value":"stack","label":"Stack"},{"value":"two-pointers","label":"Two Pointer"},{"value":"greedy","label":"Greedy"}]',
                 },
                 {
-                    id: "rbinkrp",
+                    q_id: "rbinkrp",
                     step_no: 11,
                     sl_no_in_step: 2,
                     head_step_no: "String",
@@ -22058,7 +22058,7 @@ export const Striver79 = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "zfnctin",
+                    q_id: "zfnctin",
                     step_no: 11,
                     sl_no_in_step: 3,
                     head_step_no: "String",
@@ -22076,7 +22076,7 @@ export const Striver79 = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "kmplglpspirry",
+                    q_id: "kmplglpspirry",
                     step_no: 11,
                     sl_no_in_step: 4,
                     head_step_no: "String",
@@ -22105,7 +22105,7 @@ export const StriverBlind75 = {
             head_step_no: "Arrays",
             topics: [
                 {
-                    id: "2smprblm",
+                    q_id: "2smprblm",
                     step_no: 1,
                     sl_no_in_step: 1,
                     head_step_no: "Arrays",
@@ -22123,7 +22123,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"},{"value":"two-pointers","label":"Two Pointer"}]',
                 },
                 {
-                    id: "bsttimtbyndsllstckdp35",
+                    q_id: "bsttimtbyndsllstckdp35",
                     step_no: 1,
                     sl_no_in_step: 2,
                     head_step_no: "Arrays",
@@ -22143,7 +22143,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                 },
                 {
-                    id: "cntainsdplicate",
+                    q_id: "cntainsdplicate",
                     step_no: 1,
                     sl_no_in_step: 3,
                     head_step_no: "Arrays",
@@ -22160,7 +22160,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "prdctofarrayexcptslf",
+                    q_id: "prdctofarrayexcptslf",
                     step_no: 1,
                     sl_no_in_step: 4,
                     head_step_no: "Arrays",
@@ -22177,7 +22177,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "kdnslgrithmmximmsbrrysm",
+                    q_id: "kdnslgrithmmximmsbrrysm",
                     step_no: 1,
                     sl_no_in_step: 5,
                     head_step_no: "Arrays",
@@ -22196,7 +22196,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mximmprdctsbrry",
+                    q_id: "mximmprdctsbrry",
                     step_no: 1,
                     sl_no_in_step: 6,
                     head_step_no: "Arrays",
@@ -22214,7 +22214,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findminimminrttdsrtdrry",
+                    q_id: "findminimminrttdsrtdrry",
                     step_no: 1,
                     sl_no_in_step: 7,
                     head_step_no: "Arrays",
@@ -22233,7 +22233,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "srchinrttdsrtdrryi",
+                    q_id: "srchinrttdsrtdrryi",
                     step_no: 1,
                     sl_no_in_step: 8,
                     head_step_no: "Arrays",
@@ -22252,7 +22252,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"}]',
                 },
                 {
-                    id: "3sm",
+                    q_id: "3sm",
                     step_no: 1,
                     sl_no_in_step: 9,
                     head_step_no: "Arrays",
@@ -22269,7 +22269,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"},{"value":"hashing","label":"Hashing"}]',
                 },
                 {
-                    id: "containerwithmostwater",
+                    q_id: "containerwithmostwater",
                     step_no: 1,
                     sl_no_in_step: 10,
                     head_step_no: "Arrays",
@@ -22291,7 +22291,7 @@ export const StriverBlind75 = {
             head_step_no: "Binary",
             topics: [
                 {
-                    id: "sumof2intgrs",
+                    q_id: "sumof2intgrs",
                     step_no: 2,
                     sl_no_in_step: 1,
                     head_step_no: "Binary",
@@ -22308,7 +22308,7 @@ export const StriverBlind75 = {
                         '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "nmbrof1bts",
+                    q_id: "nmbrof1bts",
                     step_no: 2,
                     sl_no_in_step: 2,
                     head_step_no: "Binary",
@@ -22324,7 +22324,7 @@ export const StriverBlind75 = {
                         '[{"value":"bit-manipulation","label":"Bit Manipulation"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cntngbts",
+                    q_id: "cntngbts",
                     step_no: 2,
                     sl_no_in_step: 3,
                     head_step_no: "Binary",
@@ -22340,7 +22340,7 @@ export const StriverBlind75 = {
                         '[{"value":"bit-manipulation","label":"Bit Manipulation"}]',
                 },
                 {
-                    id: "findmissingnmbrinnrry",
+                    q_id: "findmissingnmbrinnrry",
                     step_no: 2,
                     sl_no_in_step: 4,
                     head_step_no: "Binary",
@@ -22357,7 +22357,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"binary-search","label":"Binary Search"},{"value":"hashing","label":"Hashing"}]',
                 },
                 {
-                    id: "reversebits",
+                    q_id: "reversebits",
                     step_no: 2,
                     sl_no_in_step: 5,
                     head_step_no: "Binary",
@@ -22379,7 +22379,7 @@ export const StriverBlind75 = {
             head_step_no: "Dynamic Programming",
             topics: [
                 {
-                    id: "climbingstrs",
+                    q_id: "climbingstrs",
                     step_no: 3,
                     sl_no_in_step: 1,
                     head_step_no: "Dynamic Programming",
@@ -22398,7 +22398,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"}]',
                 },
                 {
-                    id: "cinchng",
+                    q_id: "cinchng",
                     step_no: 3,
                     sl_no_in_step: 2,
                     head_step_no: "Dynamic Programming",
@@ -22415,7 +22415,7 @@ export const StriverBlind75 = {
                         '[{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"recursion","label":"Recursion"},{"value":"arrays","label":"Arrays"}]',
                 },
                 {
-                    id: "lngstincrsingsbsqnc",
+                    q_id: "lngstincrsingsbsqnc",
                     step_no: 3,
                     sl_no_in_step: 3,
                     head_step_no: "Dynamic Programming",
@@ -22433,7 +22433,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"binary-search","label":"Binary Search"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstcmmnsbsqnc",
+                    q_id: "lngstcmmnsbsqnc",
                     step_no: 3,
                     sl_no_in_step: 4,
                     head_step_no: "Dynamic Programming",
@@ -22450,7 +22450,7 @@ export const StriverBlind75 = {
                         '[{"value":"string","label":"String"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "wrdbrk",
+                    q_id: "wrdbrk",
                     step_no: 3,
                     sl_no_in_step: 5,
                     head_step_no: "Dynamic Programming",
@@ -22466,7 +22466,7 @@ export const StriverBlind75 = {
                     ques_topic: null,
                 },
                 {
-                    id: "cmbintinsm",
+                    q_id: "cmbintinsm",
                     step_no: 3,
                     sl_no_in_step: 6,
                     head_step_no: "Dynamic Programming",
@@ -22485,7 +22485,7 @@ export const StriverBlind75 = {
                         '[{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"arrays","label":"Arrays"}]',
                 },
                 {
-                    id: "mximmsmfnndjcntlmntsdp5",
+                    q_id: "mximmsmfnndjcntlmntsdp5",
                     step_no: 3,
                     sl_no_in_step: 7,
                     head_step_no: "Dynamic Programming",
@@ -22503,7 +22503,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"},{"value":"dynamic-programming","label":"Dynamic Programming"}]',
                 },
                 {
-                    id: "hsrbbrdp6",
+                    q_id: "hsrbbrdp6",
                     step_no: 3,
                     sl_no_in_step: 8,
                     head_step_no: "Dynamic Programming",
@@ -22521,7 +22521,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"recursion","label":"Recursion"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dcodewys",
+                    q_id: "dcodewys",
                     step_no: 3,
                     sl_no_in_step: 9,
                     head_step_no: "Dynamic Programming",
@@ -22537,7 +22537,7 @@ export const StriverBlind75 = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "gridniqpths",
+                    q_id: "gridniqpths",
                     step_no: 3,
                     sl_no_in_step: 10,
                     head_step_no: "Dynamic Programming",
@@ -22554,7 +22554,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"recursion","label":"Recursion"},{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "jmpgm",
+                    q_id: "jmpgm",
                     step_no: 3,
                     sl_no_in_step: 11,
                     head_step_no: "Dynamic Programming",
@@ -22577,7 +22577,7 @@ export const StriverBlind75 = {
             head_step_no: "Graph",
             topics: [
                 {
-                    id: "clngrph",
+                    q_id: "clngrph",
                     step_no: 4,
                     sl_no_in_step: 1,
                     head_step_no: "Graph",
@@ -22593,7 +22593,7 @@ export const StriverBlind75 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "crsschdli",
+                    q_id: "crsschdli",
                     step_no: 4,
                     sl_no_in_step: 2,
                     head_step_no: "Graph",
@@ -22612,7 +22612,7 @@ export const StriverBlind75 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "pcficatlntcwtrflow",
+                    q_id: "pcficatlntcwtrflow",
                     step_no: 4,
                     sl_no_in_step: 3,
                     head_step_no: "Graph",
@@ -22628,7 +22628,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "nmbrfislndsdingridndgrphbth",
+                    q_id: "nmbrfislndsdingridndgrphbth",
                     step_no: 4,
                     sl_no_in_step: 4,
                     head_step_no: "Graph",
@@ -22646,7 +22646,7 @@ export const StriverBlind75 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstcnsctivsqnc",
+                    q_id: "lngstcnsctivsqnc",
                     step_no: 4,
                     sl_no_in_step: 5,
                     head_step_no: "Graph",
@@ -22665,7 +22665,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lindictinry",
+                    q_id: "lindictinry",
                     step_no: 4,
                     sl_no_in_step: 6,
                     head_step_no: "Graph",
@@ -22684,7 +22684,7 @@ export const StriverBlind75 = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "grphvldtree",
+                    q_id: "grphvldtree",
                     step_no: 4,
                     sl_no_in_step: 7,
                     head_step_no: "Graph",
@@ -22700,7 +22700,7 @@ export const StriverBlind75 = {
                         '[{"value":"graph","label":"Graph"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cnnctdcmpnntslgicxplntin",
+                    q_id: "cnnctdcmpnntslgicxplntin",
                     step_no: 4,
                     sl_no_in_step: 8,
                     head_step_no: "Graph",
@@ -22725,7 +22725,7 @@ export const StriverBlind75 = {
             head_step_no: "Interval",
             topics: [
                 {
-                    id: "insrtintrvl",
+                    q_id: "insrtintrvl",
                     step_no: 5,
                     sl_no_in_step: 1,
                     head_step_no: "Interval",
@@ -22742,7 +22742,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mrgintrvls",
+                    q_id: "mrgintrvls",
                     step_no: 5,
                     sl_no_in_step: 2,
                     head_step_no: "Interval",
@@ -22761,7 +22761,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "nnvrlppingintrvls",
+                    q_id: "nnvrlppingintrvls",
                     step_no: 5,
                     sl_no_in_step: 3,
                     head_step_no: "Interval",
@@ -22778,7 +22778,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"greedy","label":"Greedy"},{"value":"sorting","label":"Sorting"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rptndmissingnmbr",
+                    q_id: "rptndmissingnmbr",
                     step_no: 5,
                     sl_no_in_step: 4,
                     head_step_no: "Interval",
@@ -22796,7 +22796,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mtngrms",
+                    q_id: "mtngrms",
                     step_no: 5,
                     sl_no_in_step: 5,
                     head_step_no: "Interval",
@@ -22812,7 +22812,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"},{"value":"greedy","label":"Greedy"}]',
                 },
                 {
-                    id: "mtngrms2",
+                    q_id: "mtngrms2",
                     step_no: 5,
                     sl_no_in_step: 6,
                     head_step_no: "Interval",
@@ -22834,7 +22834,7 @@ export const StriverBlind75 = {
             head_step_no: "Linked List",
             topics: [
                 {
-                    id: "rvrslinkdlist",
+                    q_id: "rvrslinkdlist",
                     step_no: 6,
                     sl_no_in_step: 1,
                     head_step_no: "Linked List",
@@ -22852,7 +22852,7 @@ export const StriverBlind75 = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "dtctcyclinlinkdlist",
+                    q_id: "dtctcyclinlinkdlist",
                     step_no: 6,
                     sl_no_in_step: 2,
                     head_step_no: "Linked List",
@@ -22870,7 +22870,7 @@ export const StriverBlind75 = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mrgtwsrtdlinkdlistsmthdsdinmrgsrt",
+                    q_id: "mrgtwsrtdlinkdlistsmthdsdinmrgsrt",
                     step_no: 6,
                     sl_no_in_step: 3,
                     head_step_no: "Linked List",
@@ -22887,7 +22887,7 @@ export const StriverBlind75 = {
                     ques_topic: null,
                 },
                 {
-                    id: "mrgksrtdrrys",
+                    q_id: "mrgksrtdrrys",
                     step_no: 6,
                     sl_no_in_step: 4,
                     head_step_no: "Linked List",
@@ -22905,7 +22905,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rmvnthndfrmbckflinkdlist",
+                    q_id: "rmvnthndfrmbckflinkdlist",
                     step_no: 6,
                     sl_no_in_step: 5,
                     head_step_no: "Linked List",
@@ -22924,7 +22924,7 @@ export const StriverBlind75 = {
                         '[{"value":"linked-list","label":"Linked List"},{"value":"two-pointers","label":"Two Pointer"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rrdrlst",
+                    q_id: "rrdrlst",
                     step_no: 6,
                     sl_no_in_step: 6,
                     head_step_no: "Linked List",
@@ -22946,7 +22946,7 @@ export const StriverBlind75 = {
             head_step_no: "Matrix",
             topics: [
                 {
-                    id: "stmtrixzrs",
+                    q_id: "stmtrixzrs",
                     step_no: 7,
                     sl_no_in_step: 1,
                     head_step_no: "Matrix",
@@ -22963,7 +22963,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "printthmtrixinspirlmnnr",
+                    q_id: "printthmtrixinspirlmnnr",
                     step_no: 7,
                     sl_no_in_step: 2,
                     head_step_no: "Matrix",
@@ -22981,7 +22981,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "rttmtrixby90dgrs",
+                    q_id: "rttmtrixby90dgrs",
                     step_no: 7,
                     sl_no_in_step: 3,
                     head_step_no: "Matrix",
@@ -22999,7 +22999,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "wrdsrch",
+                    q_id: "wrdsrch",
                     step_no: 7,
                     sl_no_in_step: 4,
                     head_step_no: "Matrix",
@@ -23023,7 +23023,7 @@ export const StriverBlind75 = {
             head_step_no: "String",
             topics: [
                 {
-                    id: "lngstsbstringwithtrptingchrctrs",
+                    q_id: "lngstsbstringwithtrptingchrctrs",
                     step_no: 8,
                     sl_no_in_step: 1,
                     head_step_no: "String",
@@ -23042,7 +23042,7 @@ export const StriverBlind75 = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstrptingchrctrrplcmnt",
+                    q_id: "lngstrptingchrctrrplcmnt",
                     step_no: 8,
                     sl_no_in_step: 2,
                     head_step_no: "String",
@@ -23060,7 +23060,7 @@ export const StriverBlind75 = {
                         '[{"value":"string","label":"String"},{"value":"hashing","label":"Hashing"}]',
                 },
                 {
-                    id: "minimmwindwsbstring",
+                    q_id: "minimmwindwsbstring",
                     step_no: 8,
                     sl_no_in_step: 3,
                     head_step_no: "String",
@@ -23078,7 +23078,7 @@ export const StriverBlind75 = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckfrngrms",
+                    q_id: "chckfrngrms",
                     step_no: 8,
                     sl_no_in_step: 4,
                     head_step_no: "String",
@@ -23094,7 +23094,7 @@ export const StriverBlind75 = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "grpangrm",
+                    q_id: "grpangrm",
                     step_no: 8,
                     sl_no_in_step: 5,
                     head_step_no: "String",
@@ -23110,7 +23110,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"string","label":"String"},{"value":"sorting","label":"Sorting"}]',
                 },
                 {
-                    id: "chckfrblncdprnthsis",
+                    q_id: "chckfrblncdprnthsis",
                     step_no: 8,
                     sl_no_in_step: 6,
                     head_step_no: "String",
@@ -23128,7 +23128,7 @@ export const StriverBlind75 = {
                         '[{"value":"stack","label":"Stack"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckplindrm",
+                    q_id: "chckplindrm",
                     step_no: 8,
                     sl_no_in_step: 7,
                     head_step_no: "String",
@@ -23147,7 +23147,7 @@ export const StriverBlind75 = {
                         '[{"value":"maths","label":"Maths"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lngstplindrmicsbstringditwithtdp",
+                    q_id: "lngstplindrmicsbstringditwithtdp",
                     step_no: 8,
                     sl_no_in_step: 8,
                     head_step_no: "String",
@@ -23164,7 +23164,7 @@ export const StriverBlind75 = {
                         '[{"value":"string","label":"String"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "plndrmcsbstrngs",
+                    q_id: "plndrmcsbstrngs",
                     step_no: 8,
                     sl_no_in_step: 9,
                     head_step_no: "String",
@@ -23180,7 +23180,7 @@ export const StriverBlind75 = {
                         '[{"value":"dynamic-programming","label":"Dynamic Programming"},{"value":"data-structure","label":"Data Structures"},{"value":"string","label":"String"}]',
                 },
                 {
-                    id: "encddcdestrngs",
+                    q_id: "encddcdestrngs",
                     step_no: 8,
                     sl_no_in_step: 10,
                     head_step_no: "String",
@@ -23202,7 +23202,7 @@ export const StriverBlind75 = {
             head_step_no: "Tree",
             topics: [
                 {
-                    id: "hightfbinrytr",
+                    q_id: "hightfbinrytr",
                     step_no: 9,
                     sl_no_in_step: 1,
                     head_step_no: "Tree",
@@ -23221,7 +23221,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckiftwtrsridnticlrnt",
+                    q_id: "chckiftwtrsridnticlrnt",
                     step_no: 9,
                     sl_no_in_step: 2,
                     head_step_no: "Tree",
@@ -23239,7 +23239,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "invrtflpbnrytre",
+                    q_id: "invrtflpbnrytre",
                     step_no: 9,
                     sl_no_in_step: 3,
                     head_step_no: "Tree",
@@ -23256,7 +23256,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "mximmpthsm",
+                    q_id: "mximmpthsm",
                     step_no: 9,
                     sl_no_in_step: 4,
                     head_step_no: "Tree",
@@ -23275,7 +23275,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
+                    q_id: "lvlrdrtrvrsllvlrdrtrvrslinspirlfrm",
                     step_no: 9,
                     sl_no_in_step: 5,
                     head_step_no: "Tree",
@@ -23294,7 +23294,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "sriliznddsrilizbinrytr",
+                    q_id: "sriliznddsrilizbinrytr",
                     step_no: 9,
                     sl_no_in_step: 6,
                     head_step_no: "Tree",
@@ -23313,7 +23313,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "sbtreofanthertre",
+                    q_id: "sbtreofanthertre",
                     step_no: 9,
                     sl_no_in_step: 7,
                     head_step_no: "Tree",
@@ -23330,7 +23330,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "cnstrctthbinrytrfrmpstrdrndinrdrtrvrsl",
+                    q_id: "cnstrctthbinrytrfrmpstrdrndinrdrtrvrsl",
                     step_no: 9,
                     sl_no_in_step: 8,
                     head_step_no: "Tree",
@@ -23350,7 +23350,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "chckiftrisbstrbt",
+                    q_id: "chckiftrisbstrbt",
                     step_no: 9,
                     sl_no_in_step: 9,
                     head_step_no: "Tree",
@@ -23367,7 +23367,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-tree","label":"Binary Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findkthsmllstlmntinbst",
+                    q_id: "findkthsmllstlmntinbst",
                     step_no: 9,
                     sl_no_in_step: 10,
                     head_step_no: "Tree",
@@ -23385,7 +23385,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findlcftwndsinbst",
+                    q_id: "findlcftwndsinbst",
                     step_no: 9,
                     sl_no_in_step: 11,
                     head_step_no: "Tree",
@@ -23402,7 +23402,7 @@ export const StriverBlind75 = {
                         '[{"value":"binary-search-tree","label":"Binary Search Tree"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "implmnttriprfixtr",
+                    q_id: "implmnttriprfixtr",
                     step_no: 9,
                     sl_no_in_step: 12,
                     head_step_no: "Tree",
@@ -23420,7 +23420,7 @@ export const StriverBlind75 = {
                         '[{"value":"trie","label":"Trie"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "implmnttri2prfixtr",
+                    q_id: "implmnttri2prfixtr",
                     step_no: 9,
                     sl_no_in_step: 13,
                     head_step_no: "Tree",
@@ -23444,7 +23444,7 @@ export const StriverBlind75 = {
             head_step_no: "Heap",
             topics: [
                 {
-                    id: "kmstfrqntlmnts",
+                    q_id: "kmstfrqntlmnts",
                     step_no: 10,
                     sl_no_in_step: 2,
                     head_step_no: "Heap",
@@ -23461,7 +23461,7 @@ export const StriverBlind75 = {
                         '[{"value":"arrays","label":"Arrays"},{"value":"hashing","label":"Hashing"},{"value":"sorting","label":"Sorting"},{"value":"heap","label":"Heap"},{"value":"data-structure","label":"Data Structures"}]',
                 },
                 {
-                    id: "findmdinfrmdtstrm",
+                    q_id: "findmdinfrmdtstrm",
                     step_no: 10,
                     sl_no_in_step: 3,
                     head_step_no: "Heap",

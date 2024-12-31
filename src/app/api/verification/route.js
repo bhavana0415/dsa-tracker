@@ -33,7 +33,7 @@ export async function POST(req) {
 
         const code = Math.floor(100000 + Math.random() * 900000);
         const mailOptions = {
-            from: `Munus Tag <${process.env.EMAIL_USER}>`,
+            from: `DSAlgoVault <${process.env.EMAIL_USER}>`,
             to: email,
             subject: "Verification Email",
             html: `<p>Your verification code is: <strong>${code}</strong></p>

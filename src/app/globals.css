@@ -13,6 +13,7 @@ body {
     --secondary: #e78895;
     --ternary: #ffe4c9;
     --quaternary: #fff7f1;
+    --error: #890000;
   }
 
   .dark {
@@ -21,6 +22,7 @@ body {
     --secondary: #3b1c32;
     --ternary: #6a1e55;
     --quaternary: #a64d79;
+    --error: #ff7f7f;
   }
 }
 
@@ -40,6 +42,10 @@ body {
 
   .text-foreground {
     color: var(--foreground);
+  }
+
+  .text-error {
+    color: var(--error);
   }
 
   .hover\\:translate-y-1:hover {

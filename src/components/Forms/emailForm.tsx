@@ -12,7 +12,7 @@ import { toast } from "../ui/use-toast";
 
 type FormData = z.infer<typeof userEmailSchema>;
 
-const EmailForm = ({ user, setUser, setPage, setCode }) => {
+const EmailForm = ({ user, isLoading, setIsLoading, sendVerification }) => {
   const {
     register,
     handleSubmit,
@@ -25,46 +25,8 @@ const EmailForm = ({ user, setUser, setPage, setCode }) => {
     },
   });
 
-  const [isLoading, setIsLoading] = React.useState(false);
-
   const onSubmitForm = (data: { email: string }) => {
     checkIfRegistered(data.email);
-  };
-
-  const sendVerification = async (email: string) => {
-    setIsLoading(true);
-    try {
-      const res = await fetch("/api/verification", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ email }),
-      });
-      const data = await res.json();
-
-      if (data.success) {
-        setUser((prevUser: any) => ({
-          ...prevUser,
-          email: email,
-        }));
-        setCode(data.code);
-        setPage(2);
-      } else {
-        toast({
-          title: "Verification failed",
-          description: "Failed to send verification.",
-        });
-      }
-    } catch (error) {
-      toast({
-        title: "Verification failed",
-        description: "Failed to send verification.",
-      });
-      console.log(JSON.stringify(error));
-    } finally {
-      setIsLoading(false);
-    }
   };
 
   const checkIfRegistered = async (email: string) => {
@@ -112,11 +74,7 @@ const EmailForm = ({ user, setUser, setPage, setCode }) => {
               placeholder="name@example.com"
               disabled={isLoading}
               defaultValue={user.email}
-              className={`w-full pr-10 bg-ternary ${
-                errors.email
-                  ? "bg-red-300 focus:ring-red-500"
-                  : "focus:bg-green-300 focus:ring-green-500"
-              }`}
+              className="w-full pr-10 bg-quaternary"
               {...register("email")}
             />
             {errors.email && (
@@ -126,7 +84,7 @@ const EmailForm = ({ user, setUser, setPage, setCode }) => {
                 viewBox="0 0 24 24"
                 strokeWidth="1.5"
                 stroke="currentColor"
-                className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-red-600"
+                className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-error"
               >
                 <path
                   strokeLinecap="round"
@@ -136,7 +94,7 @@ const EmailForm = ({ user, setUser, setPage, setCode }) => {
               </svg>
             )}
             {errors.email && (
-              <p className="text-xs text-red-600">{errors.email.message}</p>
+              <p className="text-xs text-error">{errors.email.message}</p>
             )}
           </div>
         </div>

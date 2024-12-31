@@ -38,12 +38,7 @@ export const authOptions = {
                     // Return additional user details
                     return {
                         id: user._id.toString(),
-                        name: user.firstname + " " + user.lastname,
                         email: user.email,
-                        phone: user.phone,
-                        website: user.website,
-                        role: user.role || "user",
-                        location: user.location,
                     };
                 } catch (error) {
                     console.log("Authorize error:", error);
@@ -57,24 +52,14 @@ export const authOptions = {
         async jwt({ token, user }) {
             if (user) {
                 token.id = user.id;
-                token.name = user.name;
                 token.email = user.email;
-                token.phone = user.phone;
-                token.website = user.website;
-                token.role = user.role;
-                token.location = user.location;
             }
             return token;
         },
         // Pass user details from JWT to session
         async session({ session, token }) {
             session.id = token.id;
-            session.user.name = token.name;
             session.user.email = token.email;
-            session.user.phone = token.phone;
-            session.user.website = token.website;
-            session.user.role = token.role;
-            session.user.location = token.location;
             return session;
         },
     },

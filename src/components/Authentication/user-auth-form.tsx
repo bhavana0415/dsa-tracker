@@ -78,7 +78,7 @@ export function UserAuthForm() {
       if (!data.exists) {
         setError("email", {
           message:
-            "The email you entered isn’t connected to an account. Create a new Munus account.",
+            "The email you entered isn’t connected to an account. Create a new account.",
         });
       } else {
         await checkPassword(email, password);
@@ -112,11 +112,7 @@ export function UserAuthForm() {
                     type="email"
                     placeholder="name@example.com"
                     disabled={isLoading}
-                    className={`w-full pr-10 ${
-                      errors.email
-                        ? "bg-red-300 focus:ring-red-500"
-                        : "focus:bg-green-300 focus:ring-green-500"
-                    }`}
+                    className={`w-full pr-10`}
                     {...register("email")}
                   />
                   {errors.email && (
@@ -126,7 +122,7 @@ export function UserAuthForm() {
                       viewBox="0 0 24 24"
                       strokeWidth="1.5"
                       stroke="currentColor"
-                      className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-red-600"
+                      className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-error"
                     >
                       <path
                         strokeLinecap="round"
@@ -136,9 +132,7 @@ export function UserAuthForm() {
                     </svg>
                   )}
                   {errors.email && (
-                    <p className="text-xs text-red-600">
-                      {errors.email.message}
-                    </p>
+                    <p className="text-xs text-error">{errors.email.message}</p>
                   )}
                 </div>
               </div>
@@ -152,11 +146,7 @@ export function UserAuthForm() {
                     type="password"
                     placeholder="********"
                     disabled={isLoading}
-                    className={`w-full pr-10 ${
-                      errors.password
-                        ? "bg-red-300 focus:ring-red-500"
-                        : "focus:bg-green-300 focus:ring-green-500"
-                    }`}
+                    className={`w-full pr-10`}
                     {...register("password")}
                   />
                   {errors.password && (
@@ -166,7 +156,7 @@ export function UserAuthForm() {
                       viewBox="0 0 24 24"
                       strokeWidth="1.5"
                       stroke="currentColor"
-                      className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-red-600"
+                      className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-error"
                     >
                       <path
                         strokeLinecap="round"
@@ -176,7 +166,7 @@ export function UserAuthForm() {
                     </svg>
                   )}
                   {errors.password && (
-                    <p className="text-xs text-red-600">
+                    <p className="text-xs text-error">
                       {errors.password.message}
                     </p>
                   )}
@@ -186,7 +176,7 @@ export function UserAuthForm() {
                 variant="default"
                 type="submit"
                 disabled={isLoading}
-                className="text-white bg-red-600"
+                className="text-foreground bg-ternary"
               >
                 {isLoading ? "Loading..." : "Login"}
               </Button>
@@ -195,7 +185,7 @@ export function UserAuthForm() {
         </CardContent>
         <CardFooter className="flex flex-col gap-2">
           <Link href="/auth/forgot-password">
-            <p className="text-sm text-gray-600 hover:underline font-bold">
+            <p className="text-sm text-gray-500 hover:underline font-bold">
               Forgot Password
             </p>
           </Link>

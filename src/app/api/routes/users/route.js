@@ -10,7 +10,7 @@ export async function GET() {
 }
 
 export async function POST(request) {
-    const { email, password, questions, score } = await request.json();
+    const { email, password, questions, avatar } = await request.json();
     if (!email || !password) {
         return new NextResponse("Missing required fields", { status: 400 });
     }
@@ -21,7 +21,7 @@ export async function POST(request) {
         const newUser = new User({
             email,
             questions,
-            score,
+            avatar,
             password: hashedPassword
         });
         await newUser.save();

@@ -3,12 +3,10 @@ import React from "react";
 
 const Home = () => {
   return (
-    <main className="bg-blue-50 min-h-screen flex flex-col items-center p-8">
+    <main className="bg-secondary min-h-screen flex flex-col items-center p-8 text-foreground">
       <section className="text-center shadow-xl p-6 mb-6">
-        <h2 className="text-4xl font-bold text-blue-700">
-          Track Your DSA Skills with Ease
-        </h2>
-        <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
+        <h2 className="text-4xl font-bold">Track Your DSA Skills with Ease</h2>
+        <p className="mt-4 max-w-2xl mx-auto">
           The ultimate platform to help you monitor your progress in mastering
           Data Structures and Algorithms. Stay organized, motivated, and
           efficient!

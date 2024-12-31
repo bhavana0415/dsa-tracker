@@ -53,7 +53,7 @@ const Header = () => {
           href="/"
           className="flex items-center whitespace-nowrap text-2xl font-black justify-center m-4"
         >
-          <p className="font-customFont italic text-foreground">AlgoVault</p>
+          <p className="font-customFont italic text-foreground">DSAlgoVault</p>
         </a>
         <input type="checkbox" className="peer hidden" id="navbar-open" />
         <label

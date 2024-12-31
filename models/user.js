@@ -12,17 +12,17 @@ const UserSchema = new Schema(
             required: true,
             default: "",
         },
+        avatar: {
+            type: String,
+            required: false,
+            default: "",
+        },
         questions: [
             {
                 type: mongoose.Types.ObjectId,
-                ref: 'Profile',
+                ref: 'Question',
             },
         ],
-        score: {
-            type: Number,
-            required: true,
-            default: 0,
-        }
     },
     {
         timestamps: true,

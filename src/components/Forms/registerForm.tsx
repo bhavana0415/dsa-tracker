@@ -40,15 +40,21 @@ const RegisterForm = ({ user, setUser, setPage }) => {
             id="email"
             type="email"
             defaultValue={user.email}
+            className="bg-quaternary"
             {...register("email")}
             readOnly
           />
         </div>
         <div className="flex flex-col space-y-1.5">
           <Label htmlFor="lastname">Password</Label>
-          <Input id="password" type="password" {...register("password")} />
+          <Input
+            id="password"
+            type="password"
+            {...register("password")}
+            className="bg-quaternary"
+          />
           {errors.password && (
-            <p className="text-xs text-red-600">{errors.password.message}</p>
+            <p className="text-xs text-error">{errors.password.message}</p>
           )}
         </div>
         <div className="flex flex-col space-y-1.5">
@@ -56,17 +62,18 @@ const RegisterForm = ({ user, setUser, setPage }) => {
           <Input
             id="confirmPassword"
             type="password"
+            className="bg-quaternary"
             {...register("confirmPassword")}
           />
           {errors.confirmPassword && (
-            <p className="text-xs text-red-600">
+            <p className="text-xs text-error">
               {errors.confirmPassword.message}
             </p>
           )}
         </div>
         <Button
           type="submit"
-          className="text-white bg-red-600"
+          className="text-foreground bg-primary"
           style={{ width: "-webkit-fill-available" }}
         >
           Next

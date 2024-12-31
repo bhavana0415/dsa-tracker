@@ -14,9 +14,6 @@ import ChooseAvatar from "../Forms/chooseAvatar";
 const userSchema = {
   email: "",
   password: "",
-  avatar: "",
-  questions: [],
-  score: 0,
 };
 
 export function UserRegistrationForm() {
@@ -32,10 +29,10 @@ export function UserRegistrationForm() {
     }
   };
 
-  const registerUser = async (path: string) => {
+  const registerUser = async (avatar: Number) => {
     const data = {
       ...user,
-      avatar: path,
+      avatar,
     };
     setIsLoading(true);
     try {
@@ -72,21 +69,58 @@ export function UserRegistrationForm() {
     }
   };
 
+  const sendVerification = async (email: string) => {
+    setIsLoading(true);
+    try {
+      const res = await fetch("/api/verification", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ email }),
+      });
+      const data = await res.json();
+
+      if (data.success) {
+        setUser((prevUser: any) => ({
+          ...prevUser,
+          email: email,
+        }));
+        setCode(data.code);
+      } else {
+        toast({
+          title: "Verification failed",
+          description: "Failed to send verification.",
+        });
+      }
+    } catch (error) {
+      toast({
+        title: "Verification failed",
+        description: "Failed to send verification.",
+        variant: "destructive",
+      });
+      console.log(JSON.stringify(error));
+    } finally {
+      setPage(2);
+      setIsLoading(false);
+    }
+  };
+
   return (
     <div className="grid gap-6">
       <Card className="w-[350px] border-none shadow-none">
         <CardHeader>Register</CardHeader>
         <CardContent>
           <Progress
-            value={Math.ceil((page * 100) / 3)}
-            className="w-[60%] h-2 mb-6"
+            value={Math.ceil((page * 100) / 4)}
+            className="h-3 mb-6 border w-full"
           />
           {page == 1 ? (
             <EmailForm
+              isLoading={isLoading}
+              setIsLoading={setIsLoading}
               user={user}
-              setUser={setUser}
-              setPage={setPage}
-              setCode={setCode}
+              sendVerification={sendVerification}
             />
           ) : page == 2 ? (
             <VerifyCodeForm

@@ -2,8 +2,24 @@ import mongoose, { Schema } from "mongoose";
 
 const QuestionSchema = new Schema(
     {
-        data: {
-            type: Object,
+        q_id: {
+            type: String,
+            required: true,
+        },
+        status: {
+            type: Boolean,
+            required: false,
+        },
+        review: {
+            type: Boolean,
+            required: false,
+        },
+        notes: {
+            type: String,
+            required: false,
+        },
+        sheet: {
+            type: String,
             required: true,
         },
         user: {

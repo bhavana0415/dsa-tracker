@@ -45,7 +45,7 @@ const Navbar = () => {
           className="mr-4 flex items-center space-x-2"
           prefetch={false}
         >
-          <span className="font-bold">AlgoVault</span>
+          <span className="font-bold">DSAlgoVault</span>
         </Link>
         <nav className="hidden items-center justify-center space-x-4 md:flex">
           <NavigationMenu className="list-none">
