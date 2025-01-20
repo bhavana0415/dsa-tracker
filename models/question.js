@@ -22,6 +22,10 @@ const QuestionSchema = new Schema(
             type: String,
             required: true,
         },
+        topic: {
+            type: String,
+            required: true,
+        },
         user: {
             type: mongoose.Types.ObjectId,
             required: true,

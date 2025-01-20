@@ -62,10 +62,10 @@ const Navbar = () => {
                     Apna College
                   </NavigationMenuLink>
                   <NavigationMenuLink
-                    href="/dsa/fraz"
+                    href="/dsa/arsh-goyal"
                     className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
                   >
-                    Fraz
+                    Arsh Goyal
                   </NavigationMenuLink>
                   <NavigationMenuLink
                     href="/dsa/love-babbar"
@@ -85,16 +85,16 @@ const Navbar = () => {
           </NavigationMenu>
           <Link
             href="#"
-            className="text-muted-foreground hover:text-foreground"
+            className="text-foreground hover:text-muted-foreground"
             prefetch={false}
           >
             <TimerIcon />
           </Link>
           <button onClick={changeMode}>
             {currentMode == "dark" ? (
-              <LightModeIcon className="text-foreground mx-2" />
+              <LightModeIcon className="text-foreground hover:text-muted-foreground mx-2" />
             ) : (
-              <DarkModeIcon className="text-foreground" />
+              <DarkModeIcon className="text-foreground hover:text-muted-foreground mx-2" />
             )}
           </button>
           {/* <Link
