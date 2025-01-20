@@ -11,20 +11,24 @@ import { useSelector } from "react-redux";
 import { useDispatch } from "react-redux";
 import { setCurrentMode } from "@/store/Features/currentState/currentStateSlice";
 
-const components: { title: string; href: string }[] = [
+const components: { id: string; title: string; href: string }[] = [
   {
+    id: "apna-college",
     title: "Apna College Cheat Sheet",
     href: "/dsa/apna-college",
   },
   {
+    id: "fraz",
     title: "Fraz Cheat Sheet",
     href: "/dsa/fraz",
   },
   {
+    id: "love-babbar",
     title: "Love Babbar Cheat Sheet",
     href: "/dsa/love-babbar",
   },
   {
+    id: "striver",
     title: "Striver Cheat Sheet",
     href: "/dsa/striver",
   },
@@ -80,9 +84,9 @@ const Header = () => {
           className="py-0 peer-checked:h-auto flex h-0 w-full flex-col items-center overflow-hidden transition-all duration-300 lg:ml-24 lg:h-auto lg:flex-row justify-center bg-secondary"
         >
           <ul className="flex w-full items-center m-2 flex-col lg:flex-row justify-center">
-            {components.map((item, index) => (
+            {components.map((item) => (
               <li
-                key={index}
+                key={item.id}
                 className="my-4 lg:my-0 mx-2 justify-center items-center"
               >
                 <Link href={item.href}>{item.title}</Link>
