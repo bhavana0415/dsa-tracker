@@ -1,7 +1,9 @@
 "use client";
 
 import { UserAuthForm } from "@/components/Authentication/user-auth-form";
+import Loader from "@/components/Loader/loader";
 import { Button } from "@/components/ui/button";
+import { Suspense } from "react";
 
 export default function LoginPage() {
   return (
@@ -16,9 +18,12 @@ export default function LoginPage() {
             </Button>
           </a>
         </p>
-      </div><div className="container flex items-center justify-center">
-        <UserAuthForm />
       </div>
+      <Suspense fallback={<Loader isLoading={true} message={"Please wait a moment..."} />}>
+        <div className="container flex items-center justify-center">
+          <UserAuthForm />
+        </div>
+      </Suspense>
     </>
   );
 }
