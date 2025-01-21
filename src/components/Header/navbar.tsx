@@ -20,9 +20,10 @@ import LightModeIcon from "@mui/icons-material/LightMode";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import { useSelector, useDispatch } from "react-redux";
 import { setCurrentMode } from "@/store/Features/currentState/currentStateSlice";
+import { RootState } from '@/store/store'
 
 const Navbar = () => {
-  const currentMode = useSelector((state) => state.currentState.currentMode);
+  const currentMode = useSelector((state: RootState) => state.currentState.currentMode);
   const dispatch = useDispatch();
 
   useEffect(() => {
@@ -179,26 +180,7 @@ const Navbar = () => {
 
 export default Navbar;
 
-function ChevronDownIcon(props) {
-  return (
-    <svg
-      {...props}
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    >
-      <path d="m6 9 6 6 6-6" />
-    </svg>
-  );
-}
-
-function ChevronRightIcon(props) {
+function ChevronRightIcon(props: any) {
   return (
     <svg
       {...props}
@@ -217,7 +199,7 @@ function ChevronRightIcon(props) {
   );
 }
 
-function MenuIcon(props) {
+function MenuIcon(props: any) {
   return (
     <svg
       {...props}

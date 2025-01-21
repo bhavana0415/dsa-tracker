@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { UserAuthForm } from "@/components/Authentication/user-auth-form";
 import { Button } from "@/components/ui/button";
 
@@ -17,9 +16,7 @@ export default function LoginPage() {
             </Button>
           </a>
         </p>
-      </div>
-
-      <div className="container flex items-center justify-center">
+      </div><div className="container flex items-center justify-center">
         <UserAuthForm />
       </div>
     </>

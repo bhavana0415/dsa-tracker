@@ -1,31 +1,51 @@
-import NextAuth from "next-auth";
+import NextAuth, { AuthOptions } from "next-auth";
 import CredentialsProvider from "next-auth/providers/credentials";
 import connectMongoDB from "../../../../lib/mongodb";
 import User from "../../../../../models/user";
 import bcrypt from "bcrypt";
 
-export const authOptions = {
+declare module "next-auth" {
+    interface Session {
+        user: {
+            id: string;
+            email: string;
+            avatar: string;
+        };
+    }
+    interface JWT {
+        id: string;
+        email: string;
+        avatar: string;
+    }
+    interface User {
+        id: string;
+        email: string;
+        avatar: string;
+    }
+}
+
+const authOptions: AuthOptions = {
     providers: [
         CredentialsProvider({
             id: "credentials",
             name: "Credentials",
             credentials: {
-                email: { label: "Email", type: "text", placeholder: "Email" },
-                password: { label: "Password", type: "password" },
+                email: { label: "Email", type: "text", placeholder: "Enter your email" },
+                password: { label: "Password", type: "password", placeholder: "Enter your password" },
             },
             async authorize(credentials) {
-                if (!credentials) {
-                    throw new Error("Credentials not provided.");
+                if (!credentials || !credentials.email || !credentials.password) {
+                    throw new Error("Email and password are required.");
                 }
+
                 await connectMongoDB();
+
                 try {
-                    // Find user by email
                     const user = await User.findOne({ email: credentials.email });
                     if (!user) {
                         throw new Error("No user found with this email.");
                     }
 
-                    // Compare password
                     const isPasswordValid = await bcrypt.compare(
                         credentials.password,
                         user.password
@@ -35,38 +55,41 @@ export const authOptions = {
                         throw new Error("Invalid credentials.");
                     }
 
-                    // Return additional user details
                     return {
                         id: user._id.toString(),
                         email: user.email,
+                        avatar: user.avatar,
                     };
                 } catch (error) {
-                    console.log("Authorize error:", error);
+                    console.error("Authorization error:", error);
                     throw new Error("Authentication failed.");
                 }
             },
         }),
     ],
     callbacks: {
-        // Store user details in JWT
         async jwt({ token, user }) {
             if (user) {
                 token.id = user.id;
                 token.email = user.email;
+                token.avatar = user.avatar;
             }
             return token;
         },
-        // Pass user details from JWT to session
         async session({ session, token }) {
-            session.id = token.id;
-            session.user.email = token.email;
+            session.user = {
+                id: token.id ? String(token.id) : "",
+                email: token.email || "",
+                avatar: token.avatar ? String(token.avatar) : "",
+            };
             return session;
         },
     },
+
     pages: {
-        signIn: "/login", // Custom login page
+        signIn: "/login",
     },
 };
 
-export const handler = NextAuth(authOptions);
+const handler = NextAuth(authOptions);
 export { handler as GET, handler as POST };

@@ -11,7 +11,13 @@ import { Button } from "@/components/ui/button";
 
 type FormData = z.infer<typeof userRegisterSchema>;
 
-const RegisterForm = ({ user, setUser, setPage }) => {
+interface RegisterFormProps {
+  user: any;
+  setUser: any;
+  setPage: any;
+}
+
+const RegisterForm = ({ user, setUser, setPage }: RegisterFormProps) => {
   const {
     register,
     handleSubmit,

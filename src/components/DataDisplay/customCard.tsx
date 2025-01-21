@@ -21,7 +21,15 @@ import {
 } from "@/components/ui/drawer";
 import CustomTable from "./customTable";
 
-const CustomCard = ({ topic, data, count, solved }) => {
+interface CustomCardProps {
+  topic: string;
+  data: any;
+  count: number;
+  solved: number
+}
+
+
+const CustomCard = ({ topic, data, count, solved }: CustomCardProps) => {
   return (
     <Card className="w-full bg-ternary">
       <CardHeader>

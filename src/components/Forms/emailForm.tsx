@@ -12,7 +12,14 @@ import { toast } from "../ui/use-toast";
 
 type FormData = z.infer<typeof userEmailSchema>;
 
-const EmailForm = ({ user, isLoading, setIsLoading, sendVerification }) => {
+interface EmailFormProps {
+  user: any;
+  isLoading: boolean;
+  setIsLoading: any;
+  sendVerification: any;
+}
+
+const EmailForm = ({ user, isLoading, setIsLoading, sendVerification }: EmailFormProps) => {
   const {
     register,
     handleSubmit,

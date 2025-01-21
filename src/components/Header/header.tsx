@@ -10,6 +10,7 @@ import DarkModeIcon from "@mui/icons-material/DarkMode";
 import { useSelector } from "react-redux";
 import { useDispatch } from "react-redux";
 import { setCurrentMode } from "@/store/Features/currentState/currentStateSlice";
+import { RootState } from '@/store/store'
 
 const components: { id: string; title: string; href: string }[] = [
   {
@@ -35,7 +36,7 @@ const components: { id: string; title: string; href: string }[] = [
 ];
 
 const Header = () => {
-  const currentMode = useSelector((state) => state.currentState.currentMode);
+  const currentMode = useSelector((state: RootState) => state.currentState.currentMode);
   const dispatch = useDispatch();
 
   React.useEffect(() => {

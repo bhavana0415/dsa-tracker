@@ -14,14 +14,20 @@ import StarBorderIcon from "@mui/icons-material/StarBorder";
 import LinkIcon from "@mui/icons-material/Link";
 import SwapVertIcon from "@mui/icons-material/SwapVert";
 import { Checkbox } from "../ui/checkbox";
-import { useState } from "react";
+import { AwaitedReactNode, JSXElementConstructor, Key, ReactElement, ReactNode, ReactPortal, useState } from "react";
 
-const CustomTable = ({ data, questionsData, ...props }) => {
+interface CustomTableProps {
+  data: any;
+  questionsData: any;
+  difficulty?: boolean;
+}
+
+const CustomTable = ({ data, questionsData, difficulty }: CustomTableProps) => {
   const [localQuestionsData, setLocalQuestionsData] = useState(questionsData);
-  const [sortOrder, setSortOrder] = useState("asc"); // Sort order: 'asc' or 'desc'
+  const [sortOrder, setSortOrder] = useState("asc");
   const [sortedData, setSortedData] = useState(data);
 
-  const handleStatusChange = (q_id) => {
+  const handleStatusChange = (q_id: any) => {
     const updatedQuestions = [...localQuestionsData];
     const index = updatedQuestions.findIndex((q) => q.q_id === q_id);
     if (index === -1) {
@@ -32,12 +38,12 @@ const CustomTable = ({ data, questionsData, ...props }) => {
     setLocalQuestionsData(updatedQuestions);
   };
 
-  const checkStatus = (q_id) => {
-    return localQuestionsData.some((q) => q.q_id === q_id);
+  const checkStatus = (q_id: Key | null | undefined) => {
+    return localQuestionsData.some((q: { q_id: Key | null | undefined; }) => q.q_id === q_id);
   };
 
-  const getQuestionData = (q_id) => {
-    return localQuestionsData.find((q) => q.q_id === q_id) || {};
+  const getQuestionData = (q_id: Key | null | undefined) => {
+    return localQuestionsData.find((q: { q_id: Key | null | undefined; }) => q.q_id === q_id) || {};
   };
 
   const handleSort = () => {
@@ -60,7 +66,7 @@ const CustomTable = ({ data, questionsData, ...props }) => {
         <TableRow>
           <TableHead>Status</TableHead>
           <TableHead>
-            {props?.difficulty ? (
+            {difficulty ? (
               <span
                 className="flex items-center cursor-pointer"
                 onClick={handleSort}
@@ -77,7 +83,7 @@ const CustomTable = ({ data, questionsData, ...props }) => {
         </TableRow>
       </TableHeader>
       <TableBody>
-        {(props?.difficulty ? sortedData : data).map((item) => {
+        {(difficulty ? sortedData : data).map((item: { q_id: Key | null | undefined; difficulty: string | number | bigint | boolean | ReactElement<any, string | JSXElementConstructor<any>> | Iterable<ReactNode> | ReactPortal | Promise<AwaitedReactNode> | null | undefined; name: string | number | bigint | boolean | ReactElement<any, string | JSXElementConstructor<any>> | Iterable<ReactNode> | ReactPortal | Promise<AwaitedReactNode> | null | undefined; link: string | undefined; }) => {
           const questionData = getQuestionData(item.q_id);
           const { notes = "", review = false } = questionData;
 
@@ -90,7 +96,7 @@ const CustomTable = ({ data, questionsData, ...props }) => {
                 />
               </TableCell>
               <TableCell>
-                {props?.difficulty ? item.difficulty : item.name}
+                {difficulty ? item.difficulty : item.name}
               </TableCell>
               <TableCell>
                 <a href={item.link} target="_blank" rel="noopener noreferrer">

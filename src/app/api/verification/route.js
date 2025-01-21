@@ -1,13 +1,17 @@
 import { NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 
+
 // Handle OPTIONS request for CORS preflight
 export async function OPTIONS() {
     return NextResponse.json(null, {
         headers: {
-            "Access-Control-Allow-Origin": "*", // Allow all origins; restrict as needed
-            "Access-Control-Allow-Methods": "*", // Methods your API supports
-            "Access-Control-Allow-Headers": "Content-Type", // Allowed headers
+            "Access-Control-Allow-Origin": "*",
+            // Allow all origins; restrict as needed
+            "Access-Control-Allow-Methods": "*",
+            // Methods your API supports
+            "Access-Control-Allow-Headers": "Content-Type",
+            // Allowed headers
         },
     });
 }

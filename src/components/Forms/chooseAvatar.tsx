@@ -38,7 +38,12 @@ const avatars = [
   { id: 16, src: Avatar16 },
 ];
 
-const ChooseAvatar = ({ registerUser, isLoading }) => {
+interface ChooseAvatarProps {
+  registerUser: any;
+  isLoading: boolean;
+}
+
+const ChooseAvatar = ({ registerUser, isLoading }: ChooseAvatarProps) => {
   const [selectedAvatar, setSelectedAvatar] = useState<Number | null>(null);
 
   return (
@@ -53,11 +58,10 @@ const ChooseAvatar = ({ registerUser, isLoading }) => {
             width={100}
             height={100}
             onClick={() => setSelectedAvatar(avatar.id)}
-            className={`w-16 h-16 cursor-pointer border-2 rounded-md ${
-              selectedAvatar === avatar.id
+            className={`w-16 h-16 cursor-pointer border-2 rounded-md ${selectedAvatar === avatar.id
                 ? "border-cyan-500"
                 : "border-transparent"
-            }`}
+              }`}
           />
         ))}
       </div>
