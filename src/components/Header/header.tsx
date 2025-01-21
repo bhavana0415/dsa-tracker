@@ -1,103 +1,116 @@
-"use client"
+"use client";
 
-import * as React from "react"
-import Link from "next/link"
+import * as React from "react";
+import avt from "./../../../public/avatar.png";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import Image from "next/image";
+import Link from "next/link";
+import LightModeIcon from "@mui/icons-material/LightMode";
+import DarkModeIcon from "@mui/icons-material/DarkMode";
+import { useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
+import { setCurrentMode } from "@/store/Features/currentState/currentStateSlice";
+import { RootState } from '@/store/store'
 
-import { cn } from "@/lib/utils"
-import {
-    NavigationMenu,
-    NavigationMenuContent,
-    NavigationMenuItem,
-    NavigationMenuLink,
-    NavigationMenuList,
-    NavigationMenuTrigger,
-    navigationMenuTriggerStyle,
-} from "@/components/ui/navigation-menu"
-
-const components: { title: string; href: string }[] = [
-    {
-        title: "Apna College Cheat Sheet",
-        href: "/dsa/apna-college",
-    },
-    {
-        title: "Fraz Cheat Sheet",
-        href: "/dsa/fraz",
-    },
-    {
-        title: "Love Babbar Cheat Sheet",
-        href: "/dsa/love-babbar",
-    },
-    {
-        title: "Striver Cheat Sheet",
-        href: "/dsa/striver",
-    }
-]
+const components: { id: string; title: string; href: string }[] = [
+  {
+    id: "apna-college",
+    title: "Apna College Cheat Sheet",
+    href: "/dsa/apna-college",
+  },
+  {
+    id: "fraz",
+    title: "Fraz Cheat Sheet",
+    href: "/dsa/fraz",
+  },
+  {
+    id: "love-babbar",
+    title: "Love Babbar Cheat Sheet",
+    href: "/dsa/love-babbar",
+  },
+  {
+    id: "striver",
+    title: "Striver Cheat Sheet",
+    href: "/dsa/striver",
+  },
+];
 
 const Header = () => {
-    return (
-        <>
-            <NavigationMenu>
-                <NavigationMenuList>
-                    <NavigationMenuItem>
-                        <NavigationMenuTrigger style={{backgroundColor: "rgb(7, 15, 43)"}} className="text-white">DSA Cheat Sheets</NavigationMenuTrigger>
-                        <NavigationMenuContent>
-                            <ul style={{backgroundColor: "rgb(146, 144, 195)"}} className="grid w-[400px] gap-3 p-2 md:w-[500px] md:grid-cols-2 lg:w-[600px] xs:w-[300px]">
-                                {components.map((component) => (
-                                    <li>
-                                        <NavigationMenuLink asChild>
-                                            <a href={component.href} className="block select-none space-y-1 rounded-md p-2 leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground">
-                                                <div className="text-sm font-medium leading-none text-center">{component.title}</div>
-                                            </a>
-                                        </NavigationMenuLink>
-                                    </li>
-                                ))}
-                            </ul>
-                        </NavigationMenuContent>
-                    </NavigationMenuItem>
-                    <NavigationMenuItem>
-                        <Link href="/docs" legacyBehavior passHref>
-                            <NavigationMenuLink className={`text-white ${navigationMenuTriggerStyle()}`} style={{backgroundColor: "rgb(7, 15, 43)"}} >
-                                Documentation
-                            </NavigationMenuLink>
-                        </Link>
-                    </NavigationMenuItem>
-                    <NavigationMenuItem>
-                        <Link href="/docs" legacyBehavior passHref>
-                            <NavigationMenuLink className={`text-white ${navigationMenuTriggerStyle()}`} style={{backgroundColor: "rgb(7, 15, 43)"}} >
-                                Timer
-                            </NavigationMenuLink>
-                        </Link>
-                    </NavigationMenuItem>
-                </NavigationMenuList>
-            </NavigationMenu>
-        </>
-    )
-}
+  const currentMode = useSelector((state: RootState) => state.currentState.currentMode);
+  const dispatch = useDispatch();
+
+  React.useEffect(() => {
+    if (currentMode == "dark") {
+      document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+    }
+  }, [currentMode]);
+
+  const changeMode = () => {
+    dispatch(setCurrentMode(currentMode == "dark" ? "light" : "dark"));
+  };
+
+  return (
+    <>
+      <header className="w-full h-fit text-slate-700 fixed top-0 z-50 flex flex-col lg:flex-row shadow-b bg-secondary border-b-2 border-slate-500">
+        <a
+          href="/"
+          className="flex items-center whitespace-nowrap text-2xl font-black justify-center m-4"
+        >
+          <p className="font-customFont italic text-foreground">DSAlgoVault</p>
+        </a>
+        <input type="checkbox" className="peer hidden" id="navbar-open" />
+        <label
+          className="absolute top-4 right-4 cursor-pointer lg:hidden"
+          htmlFor="navbar-open"
+        >
+          <svg
+            className="h-7 w-7"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="1.5"
+              d="M4 6h16M4 12h16M4 18h16"
+            ></path>
+          </svg>
+        </label>
+        <nav
+          aria-label="Header Navigation"
+          className="py-0 peer-checked:h-auto flex h-0 w-full flex-col items-center overflow-hidden transition-all duration-300 lg:ml-24 lg:h-auto lg:flex-row justify-center bg-secondary"
+        >
+          <ul className="flex w-full items-center m-2 flex-col lg:flex-row justify-center">
+            {components.map((item) => (
+              <li
+                key={item.id}
+                className="my-4 lg:my-0 mx-2 justify-center items-center"
+              >
+                <Link href={item.href}>{item.title}</Link>
+              </li>
+            ))}
+          </ul>
+          <Avatar>
+            <AvatarImage src={avt.src} />
+            <AvatarFallback>
+              <Image src={avt} alt="Fallback Avatar" width={100} height={100} />
+            </AvatarFallback>
+          </Avatar>
+        </nav>
+        <button onClick={changeMode}>
+          {currentMode ? (
+            <LightModeIcon className="text-foreground mx-2" />
+          ) : (
+            <DarkModeIcon className="text-foreground" />
+          )}
+        </button>
+      </header>
+    </>
+  );
+};
 
 export default Header;
-
-const ListItem = React.forwardRef<
-    React.ElementRef<"a">,
-    React.ComponentPropsWithoutRef<"a">
->(({ className, title, children, ...props }, ref) => {
-    return (
-        <li>
-            <NavigationMenuLink asChild>
-                <a
-                    ref={ref}
-                    className={cn(
-                        "block select-none space-y-1 rounded-md p-3 leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground",
-                        className
-                    )}
-                    {...props}
-                >
-                    <div className="text-sm font-medium leading-none">{title}</div>
-                    <p className="line-clamp-2 text-sm leading-snug text-muted-foreground">
-                        {children}
-                    </p>
-                </a>
-            </NavigationMenuLink>
-        </li>
-    )
-})
-ListItem.displayName = "ListItem"
