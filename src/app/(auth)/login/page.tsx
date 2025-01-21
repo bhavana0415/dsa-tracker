@@ -19,7 +19,7 @@ export default function LoginPage() {
           </a>
         </p>
       </div>
-      <Suspense fallback={<Loader isLoading={true} message={"Please wait a moment..."} />}>
+      <Suspense fallback={<Loader isLoading={true} />}>
         <div className="container flex items-center justify-center">
           <UserAuthForm />
         </div>

@@ -1,4 +1,4 @@
-export default function Loader({ isLoading, message }) {
+export default function Loader({ isLoading }: { isLoading: boolean }) {
     if (!isLoading) {
         return null;
     }
