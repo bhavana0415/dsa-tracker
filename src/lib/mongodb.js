@@ -1,4 +1,6 @@
 import mongoose from "mongoose"
+import "../../models/user";
+import "../../models/question";
 
 const connectMongoDB = async () => {
     try {

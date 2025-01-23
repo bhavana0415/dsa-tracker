@@ -8,8 +8,25 @@ import {
 } from "@/components/ui/accordian";
 import { ApnaCollege } from "../data";
 import CustomTable from "@/components/DataDisplay/customTable";
+import { useSelector } from "react-redux";
+import { AppDispatch, RootState } from "@/store/store";
+import { useDispatch } from "react-redux";
+import { fetchQuestionsBySheetAsync } from "@/store/Features/fetchData/fetchDataSlice";
+import { useSession } from "next-auth/react";
+import { useEffect } from "react";
 
 export default function Page() {
+
+  const { data } = useSession();
+  const { id = "" } = data?.user || {}
+  const apnaCollegeQuestions = useSelector((state: RootState) => state.questions.apnaCollegeQuestions);
+  const dispatch = useDispatch<AppDispatch>();
+  useEffect(() => {
+    if (!apnaCollegeQuestions && id != "") {
+      dispatch(fetchQuestionsBySheetAsync({ userId: id, sheet: "apnaCollegeQuestions" }));
+    }
+  }, [apnaCollegeQuestions, dispatch, id]);
+
   return (
     <div className="p-6">
       {Object.entries(ApnaCollege).map(([topic, topicArray]) => (
@@ -42,7 +59,7 @@ export default function Page() {
                           data={topicArray.filter(
                             (item) => item.difficulty === difficulty
                           )}
-                          questionsData={[]}
+                          questionsData={apnaCollegeQuestions}
                         />
                       ) : (
                         <p className="text-gray-500">

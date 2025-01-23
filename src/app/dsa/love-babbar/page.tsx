@@ -8,18 +8,30 @@ import { Button } from "@/components/ui/button";
 import {
   Dialog,
   DialogContent,
-  DialogDescription,
   DialogFooter,
   DialogHeader,
   DialogTitle,
-  DialogTrigger,
 } from "@/components/ui/dialogue";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
 import CustomTable from "@/components/DataDisplay/customTable";
+import { AppDispatch, RootState } from "@/store/store";
+import { useDispatch } from "react-redux";
+import { useEffect } from "react";
+import { fetchQuestionsBySheetAsync } from "@/store/Features/fetchData/fetchDataSlice";
+import { useSession } from "next-auth/react";
+import { useSelector } from "react-redux";
 
 const Page = () => {
   const [open, setOpen] = useState<string | null>(null);
+
+  const { data } = useSession();
+  const { id = "" } = data?.user || {}
+  const loveBabbarQuestions = useSelector((state: RootState) => state.questions.loveBabbarQuestions);
+  const dispatch = useDispatch<AppDispatch>();
+  useEffect(() => {
+    if (!loveBabbarQuestions && id != "") {
+      dispatch(fetchQuestionsBySheetAsync({ userId: id, sheet: "loveBabbarQuestions" }));
+    }
+  }, [loveBabbarQuestions, dispatch, id]);
 
   const openDialog = (topic: string) => {
     setOpen(topic);
@@ -49,18 +61,18 @@ const Page = () => {
         open={open !== null}
         onOpenChange={(isOpen) => !isOpen && setOpen(null)}
       >
-        <DialogContent className="w-4/5 max-w-none sm:max-w-none h-2/3">
+        <DialogContent className="w-4/5 max-w-none sm:max-w-none h-5/6">
           <DialogHeader>
             <DialogTitle>{open || "Topic Details"}</DialogTitle>
           </DialogHeader>
-          <div className="w-full overflow-y-scroll px-4">
+          <div className="w-full overflow-y-auto px-4">
             {open && (
               <CustomTable
                 data={
                   open
                     ? Object.entries(LoveBabbar).find(
-                        ([topic, _]) => topic === open
-                      )?.[1]
+                      ([topic, _]) => topic === open
+                    )?.[1]
                     : []
                 }
                 questionsData={[]}

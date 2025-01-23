@@ -10,6 +10,10 @@ import EmailForm from "../Forms/emailForm";
 import VerifyCodeForm from "../Forms/verificationForm";
 import RegisterForm from "../Forms/registerForm";
 import ChooseAvatar from "../Forms/chooseAvatar";
+import { useSelector } from "react-redux";
+import { RootState } from "@/store/store";
+import { useDispatch } from "react-redux";
+import { setIsLoading } from "@/store/Features/currentState/currentStateSlice";
 
 const userSchema = {
   email: "",
@@ -21,7 +25,8 @@ export function UserRegistrationForm() {
   const [page, setPage] = React.useState(1);
   const [user, setUser] = React.useState(userSchema);
   const [code, setCode] = React.useState("");
-  const [isLoading, setIsLoading] = React.useState(false);
+  const isLoading = useSelector((state: RootState) => state.currentState.isLoading);
+  const dispatch = useDispatch();
 
   const verifyCode = (verificationCode: string) => {
     if (code == verificationCode) {
@@ -34,7 +39,7 @@ export function UserRegistrationForm() {
       ...user,
       avatar,
     };
-    setIsLoading(true);
+    dispatch(setIsLoading(true));
     try {
       const response = await fetch("http://localhost:3000/api/routes/users", {
         method: "POST",
@@ -65,12 +70,12 @@ export function UserRegistrationForm() {
         variant: "destructive",
       });
     } finally {
-      setIsLoading(false);
+      dispatch(setIsLoading(false));
     }
   };
 
   const sendVerification = async (email: string) => {
-    setIsLoading(true);
+    dispatch(setIsLoading(true));
     try {
       const res = await fetch("/api/verification", {
         method: "POST",
@@ -102,7 +107,7 @@ export function UserRegistrationForm() {
       console.log(JSON.stringify(error));
     } finally {
       setPage(2);
-      setIsLoading(false);
+      dispatch(setIsLoading(false));
     }
   };
 
@@ -117,8 +122,6 @@ export function UserRegistrationForm() {
           />
           {page == 1 ? (
             <EmailForm
-              isLoading={isLoading}
-              setIsLoading={setIsLoading}
               user={user}
               sendVerification={sendVerification}
             />

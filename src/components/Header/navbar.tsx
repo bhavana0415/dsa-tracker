@@ -21,10 +21,14 @@ import DarkModeIcon from "@mui/icons-material/DarkMode";
 import { useSelector, useDispatch } from "react-redux";
 import { setCurrentMode } from "@/store/Features/currentState/currentStateSlice";
 import { RootState } from '@/store/store'
+import Loader from "../Loader/loader";
+import { usePathname } from "next/navigation";
 
 const Navbar = () => {
   const currentMode = useSelector((state: RootState) => state.currentState.currentMode);
+  const isLoading = useSelector((state: RootState) => state.currentState.isLoading);
   const dispatch = useDispatch();
+  const pathname = usePathname();
 
   useEffect(() => {
     if (currentMode == "dark") {
@@ -39,142 +43,147 @@ const Navbar = () => {
   };
 
   return (
-    <header className="sticky top-0 z-40 w-full border-b bg-primary">
-      <div className="container flex h-16 items-center justify-between py-2 md:py-4">
-        <Link
-          href="#"
-          className="mr-4 flex items-center space-x-2"
-          prefetch={false}
-        >
-          <span className="font-bold">DSAlgoVault</span>
-        </Link>
-        <nav className="hidden items-center justify-center space-x-4 md:flex">
-          <NavigationMenu className="list-none">
-            <NavigationMenuItem>
-              <NavigationMenuTrigger className="flex items-center space-x-2 no-marker bg-transparent hover:scale-105 transform transition duration-300">
-                DSA cheat sheets
-              </NavigationMenuTrigger>
-              <NavigationMenuContent className="border-none">
-                <div className="grid w-[200px] gap-0 bg-ternary">
-                  <NavigationMenuLink
-                    href="/dsa/apna-college"
-                    className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
-                  >
-                    Apna College
-                  </NavigationMenuLink>
-                  <NavigationMenuLink
-                    href="/dsa/arsh-goyal"
-                    className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
-                  >
-                    Arsh Goyal
-                  </NavigationMenuLink>
-                  <NavigationMenuLink
-                    href="/dsa/love-babbar"
-                    className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
-                  >
-                    Love Babbar
-                  </NavigationMenuLink>
-                  <NavigationMenuLink
-                    href="/dsa/striver"
-                    className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
-                  >
-                    Striver
-                  </NavigationMenuLink>
-                </div>
-              </NavigationMenuContent>
-            </NavigationMenuItem>
-          </NavigationMenu>
-          <Link
-            href="#"
-            className="text-foreground hover:text-muted-foreground"
-            prefetch={false}
-          >
-            <TimerIcon />
-          </Link>
-          <button onClick={changeMode}>
-            {currentMode == "dark" ? (
-              <LightModeIcon className="text-foreground hover:text-muted-foreground mx-2" />
-            ) : (
-              <DarkModeIcon className="text-foreground hover:text-muted-foreground mx-2" />
-            )}
-          </button>
-          {/* <Link
+    <>
+      {pathname === "/login" || pathname === "/register" ? (<></>) : (
+        <header className="sticky top-0 z-40 w-full border-b bg-primary">
+          <div className="container flex h-16 items-center justify-between py-2 md:py-4">
+            <Link
+              href="#"
+              className="mr-4 flex items-center space-x-2"
+              prefetch={false}
+            >
+              <span className="font-bold">DSAlgoVault</span>
+            </Link>
+            <nav className="hidden items-center justify-center space-x-4 md:flex">
+              <NavigationMenu className="list-none">
+                <NavigationMenuItem>
+                  <NavigationMenuTrigger className="flex items-center space-x-2 no-marker bg-transparent hover:scale-105 transform transition duration-300">
+                    DSA cheat sheets
+                  </NavigationMenuTrigger>
+                  <NavigationMenuContent className="border-none">
+                    <div className="grid w-[200px] gap-0 bg-ternary">
+                      <NavigationMenuLink
+                        href="/dsa/apna-college"
+                        className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
+                      >
+                        Apna College
+                      </NavigationMenuLink>
+                      <NavigationMenuLink
+                        href="/dsa/arsh-goyal"
+                        className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
+                      >
+                        Arsh Goyal
+                      </NavigationMenuLink>
+                      <NavigationMenuLink
+                        href="/dsa/love-babbar"
+                        className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
+                      >
+                        Love Babbar
+                      </NavigationMenuLink>
+                      <NavigationMenuLink
+                        href="/dsa/striver"
+                        className="text-sm text-foreground hover:bg-quaternary p-2 justify-items-center"
+                      >
+                        Striver
+                      </NavigationMenuLink>
+                    </div>
+                  </NavigationMenuContent>
+                </NavigationMenuItem>
+              </NavigationMenu>
+              <Link
+                href="#"
+                className="text-foreground hover:text-muted-foreground"
+                prefetch={false}
+              >
+                <TimerIcon />
+              </Link>
+              <button onClick={changeMode}>
+                {currentMode == "dark" ? (
+                  <LightModeIcon className="text-foreground hover:text-muted-foreground mx-2" />
+                ) : (
+                  <DarkModeIcon className="text-foreground hover:text-muted-foreground mx-2" />
+                )}
+              </button>
+              {/* <Link
             href="/goal"
             className="text-muted-foreground hover:text-foreground"
             prefetch={false}
           >
             Goal
           </Link> */}
-        </nav>
-        <Sheet>
-          <SheetTrigger asChild>
-            <Button variant="ghost" size="icon" className="md:hidden">
-              <MenuIcon className="h-6 w-6" />
-              <span className="sr-only">Toggle menu</span>
-            </Button>
-          </SheetTrigger>
-          <SheetContent side="left" className="md:hidden">
-            <div className="flex flex-col space-y-3 p-6">
-              <Collapsible className="group space-y-2">
-                <CollapsibleTrigger className="flex items-center justify-between">
-                  <span>Features</span>
-                  <ChevronRightIcon className="h-4 w-4 transition-transform transform group-data-[state=open]:rotate-90" />
-                </CollapsibleTrigger>
-                <CollapsibleContent>
-                  <div className="grid gap-2 p-4">
-                    <Link
-                      href="/dsa/apna-college"
-                      className="text-muted-foreground hover:text-foreground"
-                      prefetch={false}
-                    >
-                      Apna College
-                    </Link>
-                    <Link
-                      href="/dsa/fraz"
-                      className="text-muted-foreground hover:text-foreground"
-                      prefetch={false}
-                    >
-                      Fraz
-                    </Link>
-                    <Link
-                      href="/dsa/love-babbar"
-                      className="text-muted-foreground hover:text-foreground"
-                      prefetch={false}
-                    >
-                      Love Babbar
-                    </Link>
-                    <Link
-                      href="/dsa/striver"
-                      className="text-muted-foreground hover:text-foreground"
-                      prefetch={false}
-                    >
-                      Striver
-                    </Link>
-                  </div>
-                </CollapsibleContent>
-              </Collapsible>
-              <Link
-                href="/timer"
-                className="font-bold flex justify-center items-center"
-                prefetch={false}
-              >
-                <TimerIcon />
-              </Link>
-              {/* <Link href="/goal" className="text-muted-foreground" prefetch={false}>
+            </nav>
+            <Sheet>
+              <SheetTrigger asChild>
+                <Button variant="ghost" size="icon" className="md:hidden">
+                  <MenuIcon className="h-6 w-6" />
+                  <span className="sr-only">Toggle menu</span>
+                </Button>
+              </SheetTrigger>
+              <SheetContent side="left" className="md:hidden">
+                <div className="flex flex-col space-y-3 p-6">
+                  <Collapsible className="group space-y-2">
+                    <CollapsibleTrigger className="flex items-center justify-between">
+                      <span>Features</span>
+                      <ChevronRightIcon className="h-4 w-4 transition-transform transform group-data-[state=open]:rotate-90" />
+                    </CollapsibleTrigger>
+                    <CollapsibleContent>
+                      <div className="grid gap-2 p-4">
+                        <Link
+                          href="/dsa/apna-college"
+                          className="text-muted-foreground hover:text-foreground"
+                          prefetch={false}
+                        >
+                          Apna College
+                        </Link>
+                        <Link
+                          href="/dsa/fraz"
+                          className="text-muted-foreground hover:text-foreground"
+                          prefetch={false}
+                        >
+                          Fraz
+                        </Link>
+                        <Link
+                          href="/dsa/love-babbar"
+                          className="text-muted-foreground hover:text-foreground"
+                          prefetch={false}
+                        >
+                          Love Babbar
+                        </Link>
+                        <Link
+                          href="/dsa/striver"
+                          className="text-muted-foreground hover:text-foreground"
+                          prefetch={false}
+                        >
+                          Striver
+                        </Link>
+                      </div>
+                    </CollapsibleContent>
+                  </Collapsible>
+                  <Link
+                    href="/timer"
+                    className="font-bold flex justify-center items-center"
+                    prefetch={false}
+                  >
+                    <TimerIcon />
+                  </Link>
+                  {/* <Link href="/goal" className="text-muted-foreground" prefetch={false}>
                 Goal
               </Link> */}
-              <button onClick={changeMode}>
-                {currentMode == "dark" ? (
-                  <LightModeIcon className="text-foreground mx-2" />
-                ) : (
-                  <DarkModeIcon className="text-foreground" />
-                )}
-              </button>
-            </div>
-          </SheetContent>
-        </Sheet>
-      </div>
-    </header>
+                  <button onClick={changeMode}>
+                    {currentMode == "dark" ? (
+                      <LightModeIcon className="text-foreground mx-2" />
+                    ) : (
+                      <DarkModeIcon className="text-foreground" />
+                    )}
+                  </button>
+                </div>
+              </SheetContent>
+            </Sheet>
+          </div>
+        </header>
+      )}
+      <Loader isLoading={isLoading} />
+    </>
   );
 };
 

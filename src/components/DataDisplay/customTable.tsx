@@ -15,14 +15,17 @@ import LinkIcon from "@mui/icons-material/Link";
 import SwapVertIcon from "@mui/icons-material/SwapVert";
 import { Checkbox } from "../ui/checkbox";
 import { AwaitedReactNode, JSXElementConstructor, Key, ReactElement, ReactNode, ReactPortal, useState } from "react";
+import { Icons } from "../icons";
 
 interface CustomTableProps {
   data: any;
   questionsData: any;
   difficulty?: boolean;
+  sheet?: string;
+  problem?: boolean;
 }
 
-const CustomTable = ({ data, questionsData, difficulty }: CustomTableProps) => {
+const CustomTable = ({ data, questionsData, difficulty, sheet, problem }: CustomTableProps) => {
   const [localQuestionsData, setLocalQuestionsData] = useState(questionsData);
   const [sortOrder, setSortOrder] = useState("asc");
   const [sortedData, setSortedData] = useState(data);
@@ -46,19 +49,28 @@ const CustomTable = ({ data, questionsData, difficulty }: CustomTableProps) => {
     return localQuestionsData.find((q: { q_id: Key | null | undefined; }) => q.q_id === q_id) || {};
   };
 
+  const difficultyOrder = ["Easy", "Medium", "Hard"];
+
   const handleSort = () => {
     const order = sortOrder === "asc" ? "desc" : "asc";
     setSortOrder(order);
 
     const sorted = [...data].sort((a, b) => {
+      const aDifficultyIndex = typeof a.difficulty === "number" ? a.difficulty : difficultyOrder.indexOf(a.difficulty);
+      const bDifficultyIndex = typeof b.difficulty === "number" ? b.difficulty : difficultyOrder.indexOf(b.difficulty);
+
       if (order === "asc") {
-        return a.difficulty.localeCompare(b.difficulty);
+        return aDifficultyIndex - bDifficultyIndex;
       } else {
-        return b.difficulty.localeCompare(a.difficulty);
+        return bDifficultyIndex - aDifficultyIndex;
       }
     });
+
     setSortedData(sorted);
   };
+
+  const Difficulty = ['Easy', 'Medium', 'Hard']
+
 
   return (
     <Table className="bg-quaternary rounded-md">
@@ -77,13 +89,20 @@ const CustomTable = ({ data, questionsData, difficulty }: CustomTableProps) => {
               "Problem"
             )}
           </TableHead>
+          {sheet == "striver" && (
+            <>
+              {problem && <TableHead>Problem</TableHead>}
+              <TableHead>Article</TableHead>
+              <TableHead>Youtube</TableHead>
+            </>
+          )}
           <TableHead>Practice</TableHead>
           <TableHead>Notes</TableHead>
           <TableHead>Review</TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>
-        {(difficulty ? sortedData : data).map((item: { q_id: Key | null | undefined; difficulty: string | number | bigint | boolean | ReactElement<any, string | JSXElementConstructor<any>> | Iterable<ReactNode> | ReactPortal | Promise<AwaitedReactNode> | null | undefined; name: string | number | bigint | boolean | ReactElement<any, string | JSXElementConstructor<any>> | Iterable<ReactNode> | ReactPortal | Promise<AwaitedReactNode> | null | undefined; link: string | undefined; }) => {
+        {(difficulty ? sortedData : data).map((item: any) => {
           const questionData = getQuestionData(item.q_id);
           const { notes = "", review = false } = questionData;
 
@@ -96,10 +115,27 @@ const CustomTable = ({ data, questionsData, difficulty }: CustomTableProps) => {
                 />
               </TableCell>
               <TableCell>
-                {difficulty ? item.difficulty : item.name}
+                {difficulty ? (typeof item.difficulty === "number" ? Difficulty[item.difficulty] : item.difficulty) : item.name}
               </TableCell>
+              {sheet == "striver" && (
+                <>
+                  {problem && <TableCell>
+                    {item.question_title}
+                  </TableCell>}
+                  <TableCell>
+                    <a href={item.post_link} target="_blank" rel="noopener noreferrer">
+                      {item.post_link ? <Icons.article /> : ""}
+                    </a>
+                  </TableCell>
+                  <TableCell>
+                    <a href={item.yt_link} target="_blank" rel="noopener noreferrer">
+                      {item.yt_link ? <Icons.youtube /> : ""}
+                    </a>
+                  </TableCell>
+                </>
+              )}
               <TableCell>
-                <a href={item.link} target="_blank" rel="noopener noreferrer">
+                <a href={sheet === "striver" ? (item.gfg_link || item.cs_link || item.lc_link) : item.link} target="_blank" rel="noopener noreferrer">
                   <LinkIcon />
                 </a>
               </TableCell>
