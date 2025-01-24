@@ -61,7 +61,7 @@ const authOptions: AuthOptions = {
                         avatar: user.avatar,
                     };
                 } catch (error) {
-                    console.error("Authorization error:", error);
+                    console.log("Authorization error:", error);
                     throw new Error("Authentication failed.");
                 }
             },

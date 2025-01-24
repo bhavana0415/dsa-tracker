@@ -17,7 +17,7 @@ export const postQuestions = async (q_id, userId, questionData) => {
         const data = await response.json();
         return data;
     } catch (error) {
-        console.error("Error in getQuestions:", error);
+        console.log("Error in getQuestions:");
         throw error;
     }
 };
@@ -32,7 +32,7 @@ export const fetchUserQuestions = async (userId) => {
         const questions = await response.json();
         return questions;
     } catch (error) {
-        console.error("Error in fetchUserQuestions:", error);
+        console.log("Error in fetchUserQuestions:");
         throw error;
     }
 };
@@ -53,7 +53,7 @@ export const fetchQuestionsBySheet = async (userId, sheet) => {
         const questions = await response.json();
         return questions;
     } catch (error) {
-        console.error("Error in fetchQuestionsBySheet:", error);
+        console.log("Error in fetchQuestionsBySheet:");
         throw error;
     }
 };
@@ -78,7 +78,7 @@ export const fetchQuestionsBySheetAndTopic = async (
         const questions = await response.json();
         return questions;
     } catch (error) {
-        console.error("Error in fetchQuestionsBySheetAndTopic:", error);
+        console.log("Error in fetchQuestionsBySheetAndTopic:");
         throw error;
     }
 };

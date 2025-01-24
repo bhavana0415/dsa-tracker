@@ -1,12 +1,6 @@
 "use client"
 
 import React from "react";
-import { AppDispatch, RootState } from "@/store/store";
-import { useDispatch } from "react-redux";
-import { useEffect } from "react";
-import { fetchQuestionsBySheetAsync } from "@/store/Features/fetchData/fetchDataSlice";
-import { useSession } from "next-auth/react";
-import { useSelector } from "react-redux";
 import { Button } from "@/components/ui/button"
 import {
   Card,
@@ -16,29 +10,10 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card"
-import { Input } from "@/components/ui/input"
-import { Label } from "@/components/ui/label"
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select"
 import { Icons } from "@/components/icons";
 import { useRouter } from "next/navigation";
 
 const Page = () => {
-
-  const { data } = useSession();
-  const { id = "" } = data?.user || {}
-  const striverQuestions = useSelector((state: RootState) => state.questions.striverQuestions);
-  const dispatch = useDispatch<AppDispatch>();
-  useEffect(() => {
-    if (!striverQuestions && id != "") {
-      dispatch(fetchQuestionsBySheetAsync({ userId: id, sheet: "striverQuestions" }));
-    }
-  }, [striverQuestions, dispatch, id]);
   const router = useRouter()
 
   return <div className="flex flex-wrap justify-center">

@@ -75,7 +75,8 @@ const Page = () => {
                     )?.[1]
                     : []
                 }
-                questionsData={[]}
+                questionsData={loveBabbarQuestions}
+                sheet="loveBabbarQuestions"
               />
             )}
           </div>

@@ -20,6 +20,12 @@ import {
   DrawerClose,
 } from "@/components/ui/drawer";
 import CustomTable from "./customTable";
+import { useSelector } from "react-redux";
+import { AppDispatch, RootState } from "@/store/store";
+import { useDispatch } from "react-redux";
+import { useEffect } from "react";
+import { fetchQuestionsBySheetAsync } from "@/store/Features/fetchData/fetchDataSlice";
+import { useSession } from "next-auth/react";
 
 interface CustomCardProps {
   topic: string;
@@ -30,6 +36,17 @@ interface CustomCardProps {
 
 
 const CustomCard = ({ topic, data, count, solved }: CustomCardProps) => {
+
+  const { data: userData } = useSession();
+  const { id = "" } = userData?.user || {}
+  const arshGoyalQuestions = useSelector((state: RootState) => state.questions.arshGoyalQuestions);
+  const dispatch = useDispatch<AppDispatch>();
+  useEffect(() => {
+    if (!arshGoyalQuestions && id != "") {
+      dispatch(fetchQuestionsBySheetAsync({ userId: id, sheet: "arshGoyalQuestions" }));
+    }
+  }, [arshGoyalQuestions, dispatch, id]);
+
   return (
     <Card className="w-full bg-ternary">
       <CardHeader>
@@ -49,7 +66,7 @@ const CustomCard = ({ topic, data, count, solved }: CustomCardProps) => {
               <DrawerTitle>{topic}</DrawerTitle>
             </DrawerHeader>
             <div className="w-full overflow-y-auto p-4">
-              <CustomTable data={data} questionsData={[]} difficulty={true} />
+              <CustomTable data={data} questionsData={arshGoyalQuestions} difficulty={true} sheet="arshGoyalQuestions" />
             </div>
             <DrawerFooter className="p-4 flex justify-end">
               <DrawerClose asChild>

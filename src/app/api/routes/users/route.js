@@ -28,7 +28,7 @@ export async function POST(request) {
 
         return new NextResponse("User Registered", { status: 200 });
     } catch (error) {
-        console.error("Error registering user:", error);
+        console.log("Error registering user:", error);
 
         return new NextResponse("Internal Server Error", { status: 500 });
     }

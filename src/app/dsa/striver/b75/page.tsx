@@ -10,8 +10,25 @@ import CustomTable from "@/components/DataDisplay/customTable";
 import { StriverBlind75 } from "../../data";
 import SidebarLayout from "../Sidebar/sidebar";
 import { Label } from "@/components/ui/label";
+import { AppDispatch, RootState } from "@/store/store";
+import { useDispatch } from "react-redux";
+import { useEffect } from "react";
+import { fetchQuestionsBySheetAsync } from "@/store/Features/fetchData/fetchDataSlice";
+import { useSession } from "next-auth/react";
+import { useSelector } from "react-redux";
 
 const Page = () => {
+
+    const { data } = useSession();
+    const { id = "" } = data?.user || {}
+    const striverQuestions = useSelector((state: RootState) => state.questions.striverQuestions);
+    const dispatch = useDispatch<AppDispatch>();
+    useEffect(() => {
+        if (!striverQuestions && id != "") {
+            dispatch(fetchQuestionsBySheetAsync({ userId: id, sheet: "striverQuestions" }));
+        }
+    }, [striverQuestions, dispatch, id]);
+
     return (
         <SidebarLayout>
             <div className="w-full">
@@ -26,7 +43,7 @@ const Page = () => {
                         <AccordionItem value={head_step_no} className="border-none">
                             <AccordionTrigger>{head_step_no}</AccordionTrigger>
                             <AccordionContent>
-                                <CustomTable data={topics} questionsData={[]} difficulty={true} sheet="striver" />
+                                <CustomTable data={topics} questionsData={striverQuestions} difficulty={true} sheet="striverQuestions" />
                             </AccordionContent>
                         </AccordionItem>
                     </Accordion>

@@ -104,6 +104,11 @@ export const postQuestionAsync = createAsyncThunk<
         try {
             dispatch(setIsLoading(true));
             const response = await postQuestions(q_id, userId, questionData);
+            const data = {
+                userId,
+                sheet: questionData.sheet,
+            };
+            dispatch(fetchQuestionsBySheetAsync(data) as any);
             return response;
         } catch (error) {
             return rejectWithValue(
@@ -115,7 +120,7 @@ export const postQuestionAsync = createAsyncThunk<
     }
 );
 
-// Initial State
+
 const initialState: QuestionState = {
     all_questions: null,
     apnaCollegeQuestions: null,
@@ -153,6 +158,8 @@ export const questionsSlice = createSlice({
                 state.error = action.payload || "Failed to fetch questions";
             })
             .addCase(fetchQuestionsBySheetAsync.fulfilled, (state, action: PayloadAction<{ sheet: string; response: any[] }>) => {
+                console.log(action.payload.sheet);
+                console.log(action.payload.response);
                 switch (action.payload.sheet) {
                     case "apnaCollegeQuestions":
                         state.apnaCollegeQuestions = action.payload.response;
