@@ -21,6 +21,7 @@ import { useDispatch } from "react-redux";
 import { setIsLoading } from "@/store/Features/currentState/currentStateSlice";
 import { useSelector } from "react-redux";
 import { RootState } from "@/store/store";
+import { Icons } from "../icons";
 
 type FormData = z.infer<typeof userAuthSchema>;
 
@@ -41,6 +42,7 @@ export function UserAuthForm() {
   const searchParams = useSearchParams();
   const dispatch = useDispatch();
   const isLoading = useSelector((state: RootState) => state.currentState.isLoading);
+  const [viewPassword, setViewPassword] = React.useState(false);
 
   const checkPassword = async (email: string, password: string) => {
     const callbackUrl = searchParams.get("callbackUrl") || "/";
@@ -114,7 +116,7 @@ export function UserAuthForm() {
                 <div className="relative">
                   <Input
                     id="email"
-                    type="email"
+                    type="text"
                     placeholder="name@example.com"
                     disabled={isLoading}
                     className={`w-full pr-10`}
@@ -148,12 +150,13 @@ export function UserAuthForm() {
                 <div className="relative">
                   <Input
                     id="password"
-                    type="password"
+                    type={viewPassword ? "text" : "password"}
                     placeholder="********"
                     disabled={isLoading}
                     className={`w-full pr-10`}
                     {...register("password")}
                   />
+                  {viewPassword ? <Icons.eyeSlash className="absolute right-2 text-primary top-2 size-6 cursor-pointer" onClick={() => setViewPassword((prev) => !prev)} /> : <Icons.eye className="absolute right-2 text-primary top-2 size-6 cursor-pointer" onClick={() => setViewPassword((prev) => !prev)} />}
                   {errors.password && (
                     <svg
                       xmlns="http://www.w3.org/2000/svg"

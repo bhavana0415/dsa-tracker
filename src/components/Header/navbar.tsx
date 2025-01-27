@@ -15,7 +15,6 @@ import {
   CollapsibleContent,
 } from "@/components/ui/collapsible";
 import TimerIcon from "@mui/icons-material/Timer";
-import { useEffect } from "react";
 import LightModeIcon from "@mui/icons-material/LightMode";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import { useSelector, useDispatch } from "react-redux";
@@ -23,29 +22,39 @@ import { setCurrentMode } from "@/store/Features/currentState/currentStateSlice"
 import { RootState } from '@/store/store'
 import Loader from "../Loader/loader";
 import { usePathname } from "next/navigation";
+import {
+  Avatar,
+  AvatarFallback,
+  AvatarImage,
+} from "@/components/ui/avatar"
+import { signOut, useSession } from "next-auth/react";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuGroup,
+  DropdownMenuItem,
+  DropdownMenuLabel,
+  DropdownMenuSeparator,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu"
 
 const Navbar = () => {
-  const currentMode = useSelector((state: RootState) => state.currentState.currentMode);
-  const isLoading = useSelector((state: RootState) => state.currentState.isLoading);
+  const { currentMode, isLoading } = useSelector((state: RootState) => state.currentState);
   const dispatch = useDispatch();
   const pathname = usePathname();
-
-  useEffect(() => {
-    if (currentMode == "dark") {
-      document.documentElement.classList.add("dark");
-    } else {
-      document.documentElement.classList.remove("dark");
-    }
-  }, [currentMode]);
-
+  const { data } = useSession()
+  const { avatar = "" } = data?.user || {}
   const changeMode = () => {
     dispatch(setCurrentMode(currentMode == "dark" ? "light" : "dark"));
   };
 
+  console.log()
+
   return (
     <>
-      {pathname === "/login" || pathname === "/register" ? (<></>) : (
-        <header className="sticky top-0 z-40 w-full border-b bg-primary">
+      {pathname === "/login" || pathname === "/register" ? (
+        <></>) : (
+        <header className="sticky top-0 z-40 w-full border-b bg-primary flex flex-row items-center flex flex-row">
           <div className="container flex h-16 items-center justify-between py-2 md:py-4">
             <Link
               href="#"
@@ -91,7 +100,8 @@ const Navbar = () => {
                 </NavigationMenuItem>
               </NavigationMenu>
               <Link
-                href="#"
+                href="/timer"
+                target="_blank"
                 className="text-foreground hover:text-muted-foreground"
                 prefetch={false}
               >
@@ -104,13 +114,6 @@ const Navbar = () => {
                   <DarkModeIcon className="text-foreground hover:text-muted-foreground mx-2" />
                 )}
               </button>
-              {/* <Link
-            href="/goal"
-            className="text-muted-foreground hover:text-foreground"
-            prefetch={false}
-          >
-            Goal
-          </Link> */}
             </nav>
             <Sheet>
               <SheetTrigger asChild>
@@ -180,6 +183,33 @@ const Navbar = () => {
               </SheetContent>
             </Sheet>
           </div>
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild className="border-none bg-primary mr-6">
+              <Avatar className="">
+                <AvatarImage src={`/avatars/Avatar${avatar}.svg`} alt="@shadcn" />
+                <AvatarFallback>P</AvatarFallback>
+              </Avatar>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent side="bottom" className="w-fit bg-secondary">
+              <DropdownMenuLabel>My Account</DropdownMenuLabel>
+              <DropdownMenuSeparator />
+              <DropdownMenuGroup>
+                <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
+                  Profile
+                </DropdownMenuItem>
+                <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
+                  Dashboard
+                </DropdownMenuItem>
+                <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
+                  Review
+                </DropdownMenuItem>
+              </DropdownMenuGroup>
+              <DropdownMenuSeparator className="bg-ternary" />
+              <DropdownMenuItem className="hover:bg-ternary cursor-pointer" onClick={() => signOut()}>
+                Log out
+              </DropdownMenuItem>
+            </DropdownMenuContent>
+          </DropdownMenu>
         </header>
       )}
       <Loader isLoading={isLoading} />
