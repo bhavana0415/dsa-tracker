@@ -45,7 +45,7 @@ const EmailForm = ({ user, sendVerification }: EmailFormProps) => {
     dispatch(setIsLoading(true));
     try {
       const response = await fetch(
-        "http://localhost:3000/api/routes/authentication",
+        "/api/routes/authentication",
         {
           method: "POST",
           headers: {

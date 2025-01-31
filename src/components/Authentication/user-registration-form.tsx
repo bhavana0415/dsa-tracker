@@ -41,7 +41,7 @@ export function UserRegistrationForm() {
     };
     dispatch(setIsLoading(true));
     try {
-      const response = await fetch("http://localhost:3000/api/routes/users", {
+      const response = await fetch("/api/routes/users", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
