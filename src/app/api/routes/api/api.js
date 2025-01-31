@@ -1,5 +1,5 @@
 export const postQuestions = async (q_id, userId, questionData) => {
-    const url = `http://localhost:3000/api/routes/questions`;
+    const url = `/api/routes/questions`;
     try {
         const response = await fetch(url, {
             method: "POST",
@@ -23,7 +23,7 @@ export const postQuestions = async (q_id, userId, questionData) => {
 };
 
 export const fetchUserQuestions = async (userId) => {
-    const url = `http://localhost:3000/api/routes/users/${userId}`;
+    const url = `/api/routes/users/${userId}`;
     try {
         const response = await fetch(url, { method: "GET" });
         if (!response.ok) {
@@ -38,7 +38,7 @@ export const fetchUserQuestions = async (userId) => {
 };
 
 export const fetchQuestionsBySheet = async (userId, sheet) => {
-    const url = `http://localhost:3000/api/routes/users/${userId}`;
+    const url = `/api/routes/users/${userId}`;
     try {
         const response = await fetch(url, {
             method: "POST",
@@ -63,7 +63,7 @@ export const fetchQuestionsBySheetAndTopic = async (
     sheet,
     topic
 ) => {
-    const url = `http://localhost:3000/api/routes/users/${userId}`;
+    const url = `/api/routes/users/${userId}`;
     try {
         const response = await fetch(url, {
             method: "PUT",
