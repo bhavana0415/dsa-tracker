@@ -12,7 +12,7 @@ export default function LoginPage() {
         <p className="text-sm">
           Already have an account?
           <a href="/login">
-            <Button className="text-gray-700 font-bold hover:underline">
+            <Button className="text-ternary font-bold hover:underline">
               Login
             </Button>
           </a>

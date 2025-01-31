@@ -20,7 +20,7 @@ export async function GET(_, { params }) {
         }
         return NextResponse.json(existingUser.questions, { status: 200 });
     } catch (error) {
-        console.error("Error while fetching questions:", error);
+        console.log("Error while fetching questions:", error);
         return new NextResponse("Error while fetching questions", { status: 500 });
     }
 }
@@ -40,7 +40,7 @@ export async function POST(request, { params }) {
         const questions = await Question.find({ user: id, sheet }).exec();
         return NextResponse.json(questions, { status: 200 });
     } catch (error) {
-        console.error("Error while fetching questions:", error);
+        console.log("Error while fetching questions:", error);
         return new NextResponse("Error while fetching questions", { status: 500 });
     }
 }
@@ -60,7 +60,7 @@ export async function PUT(request, { params }) {
         const questions = await Question.find({ user: id, sheet, topic }).exec();
         return NextResponse.json(questions, { status: 200 });
     } catch (error) {
-        console.error("Error while fetching questions:", error);
+        console.log("Error while fetching questions:", error);
         return new NextResponse("Error while fetching questions", { status: 500 });
     }
 }

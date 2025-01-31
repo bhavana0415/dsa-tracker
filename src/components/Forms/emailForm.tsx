@@ -9,17 +9,19 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
 import { toast } from "../ui/use-toast";
+import { useSelector } from "react-redux";
+import { RootState } from "@/store/store";
+import { useDispatch } from "react-redux";
+import { setIsLoading } from "@/store/Features/currentState/currentStateSlice";
 
 type FormData = z.infer<typeof userEmailSchema>;
 
 interface EmailFormProps {
   user: any;
-  isLoading: boolean;
-  setIsLoading: any;
   sendVerification: any;
 }
 
-const EmailForm = ({ user, isLoading, setIsLoading, sendVerification }: EmailFormProps) => {
+const EmailForm = ({ user, sendVerification }: EmailFormProps) => {
   const {
     register,
     handleSubmit,
@@ -32,12 +34,15 @@ const EmailForm = ({ user, isLoading, setIsLoading, sendVerification }: EmailFor
     },
   });
 
+  const isLoading = useSelector((state: RootState) => state.currentState.isLoading);
+  const dispatch = useDispatch();
+
   const onSubmitForm = (data: { email: string }) => {
     checkIfRegistered(data.email);
   };
 
   const checkIfRegistered = async (email: string) => {
-    setIsLoading(true);
+    dispatch(setIsLoading(true));
     try {
       const response = await fetch(
         "http://localhost:3000/api/routes/authentication",
@@ -63,7 +68,7 @@ const EmailForm = ({ user, isLoading, setIsLoading, sendVerification }: EmailFor
     } catch (error) {
       console.log("Error during sign-in:", error);
     } finally {
-      setIsLoading(false);
+      dispatch(setIsLoading(false));
     }
   };
 

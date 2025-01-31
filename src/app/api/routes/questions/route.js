@@ -5,58 +5,69 @@ import { NextResponse } from "next/server";
 import mongoose from "mongoose";
 
 export async function POST(request) {
-
     const { q_id, userId, ...questionData } = await request.json();
 
+    // Validate required fields
     if (!q_id || !userId) {
-        return new NextResponse(`Missing required field: ${field}`, { status: 400 });
+        return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
     }
+
     await connectMongoDB();
 
+    // Check if user exists
     let existingUser;
     try {
         existingUser = await User.findById(userId);
     } catch (error) {
-        return new NextResponse("Error while fetching user", { status: 500 });
+        console.error("Error while fetching user:", error);
+        return NextResponse.json({ error: "Error while fetching user" }, { status: 500 });
     }
 
     if (!existingUser) {
-        return new NextResponse("User not found", { status: 404 });
+        return NextResponse.json({ error: "User not found" }, { status: 404 });
     }
 
-    let question = await Question.findOne({ q_id, user: userId });
-    if (question) {
-        for (const key in questionData) {
-            question[key] = questionData[key];
+    let question;
+    try {
+        // Check if question exists
+        question = await Question.findOne({ q_id, user: userId });
+        if (question) {
+            // Update existing question
+            for (const key in questionData) {
+                question[key] = questionData[key];
+            }
+            await question.save();
+            return NextResponse.json({ message: "Question updated", question });
         }
 
-        await question.save();
-        return NextResponse.json({ message: "Question updated", question });
-    }
+        // Create new question
+        question = new Question({
+            q_id,
+            ...questionData,
+            user: userId,
+        });
 
-    question = new Question({
-        q_id,
-        ...questionData,
-        user: userId,
-    });
+        if (!Array.isArray(existingUser.questions)) {
+            existingUser.questions = [];
+        }
 
-    if (!Array.isArray(existingUser.questions)) {
-        existingUser.questions = [];
-    }
-
-    const session = await mongoose.startSession();
-    session.startTransaction();
-    try {
-        await question.save({ session });
-        existingUser.questions.push(question.id);
-        await existingUser.save({ session });
-        await session.commitTransaction();
-        return new NextResponse("Question Created", { status: 201 });
+        const session = await mongoose.startSession();
+        session.startTransaction();
+        try {
+            await question.save({ session });
+            existingUser.questions.push(question.id);
+            await existingUser.save({ session });
+            await session.commitTransaction();
+            session.endSession();
+            return NextResponse.json({ message: "Question created", question });
+        } catch (error) {
+            await session.abortTransaction();
+            session.endSession();
+            console.error("Transaction Error:", error);
+            return NextResponse.json({ error: JSON.stringify(error) }, { status: 500 });
+        }
     } catch (error) {
-        await session.abortTransaction();
-        console.error("Transaction Error:", error);
-        return new NextResponse("Error while creating question", { status: 500 });
-    } finally {
-        session.endSession();
+        console.error("Unexpected Error:", error);
+        return NextResponse.json({ error: "Unexpected error occurred" }, { status: 500 });
     }
 }

@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { ReduxProvider } from "../store/provider";
-import Header from "@/components/Header/header";
 import { Toaster } from "@/components/ui/toaster";
 import AuthProvider from "@/lib/SesssionProvider";
 import Navbar from "@/components/Header/navbar";
@@ -24,7 +23,6 @@ export default function RootLayout({
       <body className={inter.className}>
         <AuthProvider>
           <ReduxProvider>
-            {/* <Header></Header> */}
             <Navbar />
             {children}
           </ReduxProvider>
