@@ -20,32 +20,18 @@ import {
   DrawerClose,
 } from "@/components/ui/drawer";
 import CustomTable from "./customTable";
-import { useSelector } from "react-redux";
-import { AppDispatch, RootState } from "@/store/store";
-import { useDispatch } from "react-redux";
-import { useEffect } from "react";
-import { fetchQuestionsBySheetAsync } from "@/store/Features/fetchData/fetchDataSlice";
-import { useSession } from "next-auth/react";
 
 interface CustomCardProps {
   topic: string;
   data: any;
   count: number;
-  solved: number
+  arshGoyalQuestions: any[];
 }
 
 
-const CustomCard = ({ topic, data, count, solved }: CustomCardProps) => {
+const CustomCard = ({ topic, data, count, arshGoyalQuestions }: CustomCardProps) => {
 
-  const { data: userData } = useSession();
-  const { id = "" } = userData?.user || {}
-  const arshGoyalQuestions = useSelector((state: RootState) => state.questions.arshGoyalQuestions);
-  const dispatch = useDispatch<AppDispatch>();
-  useEffect(() => {
-    if (!arshGoyalQuestions && id != "") {
-      dispatch(fetchQuestionsBySheetAsync({ userId: id, sheet: "arshGoyalQuestions" }));
-    }
-  }, [arshGoyalQuestions, dispatch, id]);
+  const solved = arshGoyalQuestions?.filter((q) => q.status && q.topic === topic).length || 0
 
   return (
     <Card className="w-full bg-ternary">
@@ -53,7 +39,7 @@ const CustomCard = ({ topic, data, count, solved }: CustomCardProps) => {
         <CardTitle>{topic}</CardTitle>
         <CardDescription>Total questions: {count}</CardDescription>
       </CardHeader>
-      <CardContent>
+      <CardContent className="text-sm">
         {solved > 0 ? `Solved: ${solved}` : "Not Stated"}
       </CardContent>
       <CardFooter className="flex justify-end w-full">

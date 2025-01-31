@@ -37,6 +37,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
+import { useState } from "react";
 
 const Navbar = () => {
   const { currentMode, isLoading } = useSelector((state: RootState) => state.currentState);
@@ -123,7 +124,7 @@ const Navbar = () => {
                 </Button>
               </SheetTrigger>
               <SheetContent side="left" className="md:hidden">
-                <div className="flex flex-col space-y-3 p-6">
+                <div className="flex flex-col space-y-3 p-4">
                   <Collapsible className="group space-y-2">
                     <CollapsibleTrigger className="flex items-center justify-between">
                       <span>Features</span>
@@ -152,40 +153,32 @@ const Navbar = () => {
                         >
                           Love Babbar
                         </Link>
-                        <Link
-                          href="/dsa/striver"
-                          className="text-muted-foreground hover:text-foreground"
-                          prefetch={false}
-                        >
-                          Striver
-                        </Link>
+                        <StriverDropdown />
                       </div>
                     </CollapsibleContent>
                   </Collapsible>
-                  <Link
-                    href="/timer"
-                    className="font-bold flex justify-center items-center"
-                    prefetch={false}
-                  >
-                    <TimerIcon />
-                  </Link>
-                  {/* <Link href="/goal" className="text-muted-foreground" prefetch={false}>
-                Goal
-              </Link> */}
-                  <button onClick={changeMode}>
-                    {currentMode == "dark" ? (
-                      <LightModeIcon className="text-foreground mx-2" />
-                    ) : (
-                      <DarkModeIcon className="text-foreground" />
-                    )}
-                  </button>
+                  <div className="flex space-x-2 justify-center">
+                    <Link
+                      href="/timer"
+                      prefetch={false}
+                    >
+                      <TimerIcon />
+                    </Link>
+                    <button onClick={changeMode}>
+                      {currentMode == "dark" ? (
+                        <LightModeIcon className="text-foreground" />
+                      ) : (
+                        <DarkModeIcon className="text-foreground" />
+                      )}
+                    </button>
+                  </div>
                 </div>
               </SheetContent>
             </Sheet>
           </div>
           <DropdownMenu>
             <DropdownMenuTrigger asChild className="border-none bg-primary mr-6">
-              <Avatar className="">
+              <Avatar className="cursor-pointer">
                 <AvatarImage src={`/avatars/Avatar${avatar}.svg`} alt="@shadcn" />
                 <AvatarFallback>P</AvatarFallback>
               </Avatar>
@@ -194,14 +187,11 @@ const Navbar = () => {
               <DropdownMenuLabel>My Account</DropdownMenuLabel>
               <DropdownMenuSeparator />
               <DropdownMenuGroup>
-                <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
+                {/* <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
                   Profile
-                </DropdownMenuItem>
+                </DropdownMenuItem> */}
                 <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
-                  Dashboard
-                </DropdownMenuItem>
-                <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
-                  Review
+                  <Link href="/dashboard">Dashboard</Link>
                 </DropdownMenuItem>
               </DropdownMenuGroup>
               <DropdownMenuSeparator className="bg-ternary" />
@@ -219,6 +209,55 @@ const Navbar = () => {
 
 export default Navbar;
 
+const StriverDropdown = () => {
+
+  const [state, setState] = useState(false);
+
+  return (
+    <Collapsible className="space-y-2" open={state}>
+      <CollapsibleTrigger className="flex items-center justify-between"
+        onClick={() => setState((prev) => !prev)}>
+        <span>Striver</span>
+        <ChevronRightIcon
+          className={`h-4 w-4 transition-transform transform ${state ? "rotate-90" : ""
+            }`}
+        />
+      </CollapsibleTrigger>
+      <CollapsibleContent>
+        <div className="grid gap-2 p-4">
+          <Link
+            href="/dsa/striver/a2z"
+            className="text-muted-foreground hover:text-foreground"
+            prefetch={false}
+          >
+            A2Z DSA
+          </Link>
+          <Link
+            href="/dsa/striver/sde"
+            className="text-muted-foreground hover:text-foreground"
+            prefetch={false}
+          >
+            SDE Sheet
+          </Link>
+          <Link
+            href="/dsa/striver/s79"
+            className="text-muted-foreground hover:text-foreground"
+            prefetch={false}
+          >
+            79 Sheet
+          </Link>
+          <Link
+            href="/dsa/striver/b75"
+            className="text-muted-foreground hover:text-foreground"
+            prefetch={false}
+          >
+            Blind 75
+          </Link>
+        </div>
+      </CollapsibleContent>
+    </Collapsible>
+  )
+}
 function ChevronRightIcon(props: any) {
   return (
     <svg

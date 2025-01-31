@@ -1,6 +1,6 @@
 "use client"
 
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect, useCallback, useRef, useMemo } from "react";
 import { Button } from "@/components/ui/button";
 import {
     Card,
@@ -11,19 +11,33 @@ import {
     CardTitle,
 } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import {
+    AlertDialog,
+    AlertDialogAction,
+    AlertDialogCancel,
+    AlertDialogContent,
+    AlertDialogDescription,
+    AlertDialogFooter,
+    AlertDialogHeader,
+    AlertDialogTitle,
+    AlertDialogTrigger,
+} from "@/components/ui/alert-dialogue"
 
 const Page = () => {
-    const [time, setTime] = useState(1500); // Default to 25 minutes in seconds
+
+    const audioRef = useRef(new Audio('/alarm.mp3'));
+    const [time, setTime] = useState(1500);
     const [intervalId, setIntervalId] = useState<NodeJS.Timeout | null>(null);
     const [activeTab, setActiveTab] = useState("pomo");
+    const [open, setOpen] = useState(false);
 
-    const tabDurations = {
-        pomo: 1500, // 25 minutes
-        short: 300, // 5 minutes
-        long: 900, // 15 minutes
-    };
 
-    // Format time as MM:SS
+    const tabDurations = useMemo(() => ({
+        pomo: 1500,
+        short: 300,
+        long: 900,
+    }), []);
+
     const formatTime = (time: number) => {
         const minutes = Math.floor(time / 60)
             .toString()
@@ -32,15 +46,22 @@ const Page = () => {
         return `${minutes}:${seconds}`;
     };
 
-    // Start the timer
-    const startTimer = () => {
-        if (!intervalId) {
-            const id = setInterval(() => {
-                setTime((prev) => Math.max(prev - 1, 0));
-            }, 1000);
-            setIntervalId(id);
-        }
-    };
+    const startTimer = useCallback(() => {
+        if (intervalId) return;
+        const id = setInterval(() => {
+            setTime((prev) => {
+                if (prev === 0) {
+                    clearInterval(id);
+                    setIntervalId(null);
+                    playAlarm();
+                    setOpen(true);
+                    return 0;
+                }
+                return prev - 1;
+            });
+        }, 1000);
+        setIntervalId(id);
+    }, [intervalId]);
 
     const stopTimer = useCallback(() => {
         if (intervalId) {
@@ -49,22 +70,26 @@ const Page = () => {
         }
     }, [intervalId]);
 
-    // Reset the timer when switching tabs
     useEffect(() => {
         stopTimer();
         setTime(tabDurations[activeTab as keyof typeof tabDurations]);
     }, [activeTab, stopTimer, tabDurations]);
 
-    // Automatically stop the timer when time reaches 0
-    useEffect(() => {
-        if (time === 0) {
-            stopTimer();
-        }
-    }, [time]);
+    const playAlarm = () => {
+        audioRef.current.play();
+    };
+
+    const stopAlarm = () => {
+        audioRef.current.pause();
+        audioRef.current.currentTime = 0;
+        audioRef.current.load();
+        setTime(tabDurations[activeTab as keyof typeof tabDurations]);
+        setOpen(false);
+    };
 
     return (
         <div className="flex justify-center items-center w-full h-full">
-            <Card className="w-full flex flex-col justify-center items-center border-none">
+            <Card className="w-full flex flex-col justify-center items-center border-none shadow-none">
                 <CardHeader className="w-full flex flex-col justify-center items-center">
                     <CardTitle>Pomodoro Timer</CardTitle>
                     <CardDescription>Time to focus!</CardDescription>
@@ -128,6 +153,32 @@ const Page = () => {
                     </Tabs>
                 </CardContent>
             </Card>
+            {open && (
+                <AlertDialog open={open}>
+                    <AlertDialogContent>
+                        <AlertDialogHeader>
+                            <AlertDialogTitle>
+                                {activeTab === "pomo"
+                                    ? "Pomodoro Complete! 🍅"
+                                    : activeTab === "short"
+                                        ? "Short Break Over! ⏳"
+                                        : "Long Break Over! ⏳"}
+                            </AlertDialogTitle>
+                            <AlertDialogDescription>
+                                {activeTab === "pomo"
+                                    ? "Great job! Take a short break before starting your next session."
+                                    : activeTab === "short"
+                                        ? "Hope you feel refreshed! Time to get back to work."
+                                        : "That was a well-deserved break! Now, back to focus mode."}
+                            </AlertDialogDescription>
+                        </AlertDialogHeader>
+                        <AlertDialogFooter>
+                            <AlertDialogAction onClick={stopAlarm}>Close</AlertDialogAction>
+                        </AlertDialogFooter>
+                    </AlertDialogContent>
+                </AlertDialog>
+            )}
+
         </div>
     );
 };

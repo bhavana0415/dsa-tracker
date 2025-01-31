@@ -109,6 +109,7 @@ export const postQuestionAsync = createAsyncThunk<
                 sheet: questionData.sheet,
             };
             dispatch(fetchQuestionsBySheetAsync(data) as any);
+            dispatch(fetchUserQuestionsAsync(userId) as any)
             return response;
         } catch (error) {
             return rejectWithValue(
@@ -130,7 +131,6 @@ const initialState: QuestionState = {
     error: null,
 };
 
-// Slice
 export const questionsSlice = createSlice({
     name: "questions",
     initialState,
