@@ -20,16 +20,22 @@ import {
     AlertDialogFooter,
     AlertDialogHeader,
     AlertDialogTitle,
-    AlertDialogTrigger,
 } from "@/components/ui/alert-dialogue"
 
 const Page = () => {
 
-    const audioRef = useRef(new Audio('/alarm.mp3'));
     const [time, setTime] = useState(1500);
     const [intervalId, setIntervalId] = useState<NodeJS.Timeout | null>(null);
     const [activeTab, setActiveTab] = useState("pomo");
     const [open, setOpen] = useState(false);
+
+    const audioRef = useRef<HTMLAudioElement | null>(null);
+
+    useEffect(() => {
+        if (typeof window !== "undefined") {
+            audioRef.current = new Audio('/alarm.mp3');
+        }
+    }, []);
 
 
     const tabDurations = useMemo(() => ({
@@ -76,13 +82,17 @@ const Page = () => {
     }, [activeTab, stopTimer, tabDurations]);
 
     const playAlarm = () => {
-        audioRef.current.play();
+        if (audioRef.current) {
+            audioRef.current.play();
+        }
     };
 
     const stopAlarm = () => {
-        audioRef.current.pause();
-        audioRef.current.currentTime = 0;
-        audioRef.current.load();
+        if (audioRef.current) {
+            audioRef.current.pause();
+            audioRef.current.currentTime = 0;
+            audioRef.current.load();
+        }
         setTime(tabDurations[activeTab as keyof typeof tabDurations]);
         setOpen(false);
     };
