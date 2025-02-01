@@ -1,7 +1,6 @@
 "use client";
 
-import { Button } from "@mui/material";
-import { ArshGoyal } from "../data";
+import { ArshGoyal } from "@/app/dsa/data";
 import CustomCard from "@/components/DataDisplay/customCard";
 import { useSelector } from "react-redux";
 import { AppDispatch, RootState } from "@/store/store";
@@ -10,6 +9,7 @@ import { useSession } from "next-auth/react";
 import { useDispatch } from "react-redux";
 import { fetchQuestionsBySheetAsync } from "@/store/Features/fetchData/fetchDataSlice";
 import CustomTable from "@/components/DataDisplay/customTable";
+import { Button } from "@/components/ui/button";
 
 export default function Page() {
 
@@ -22,9 +22,6 @@ export default function Page() {
       dispatch(fetchQuestionsBySheetAsync({ userId: id, sheet: "arshGoyalQuestions" }));
     }
   }, [arshGoyalQuestions, dispatch, id]);
-
-  const currentMode = useSelector((state: RootState) => state.currentState.currentMode);
-  const style = currentMode == "dark" ? "bg-black text-red-300" : "bg-red-300 text-black";
 
   const [showReview, setShowReview] = useState(false);
 
@@ -43,7 +40,14 @@ export default function Page() {
 
   return (
     <div className="p-6">
-      <div className="w-full flex justify-end"><Button className={`${style}`} onClick={() => setShowReview((prev) => !prev)}>{showReview ? "Hide" : "Show"} Review Questions</Button></div>
+      <div className="w-full flex justify-end">
+        <Button
+          className="bg-quaternary"
+          onClick={() => setShowReview((prev) => !prev)}
+        >
+          {showReview ? "Hide" : "Show"} Review Questions
+        </Button>
+      </div>
       {showReview ? (
         <div className="p-6">
           <CustomTable

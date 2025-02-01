@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
-import { LoveBabbar } from "../data";
+import { LoveBabbar } from "@/app/dsa/data";
 import { Progress } from "@/components/ui/progress";
 import { Button } from "@/components/ui/button";
 import {
@@ -37,8 +37,7 @@ const Page = () => {
     setOpen(topic);
   };
 
-  const currentMode = useSelector((state: RootState) => state.currentState.currentMode);
-  const style = currentMode == "dark" ? "bg-black text-red-300" : "bg-red-300 text-black";
+
 
   const [showReview, setShowReview] = useState(false);
 
@@ -57,7 +56,7 @@ const Page = () => {
 
   return (
     <div className="p-6">
-      <div className="w-full flex justify-end"><Button className={`${style}`} onClick={() => setShowReview((prev) => !prev)}>{showReview ? "Hide" : "Show"} Review Questions</Button></div>
+      <div className="w-full flex justify-end"><Button className="bg-quaternary" onClick={() => setShowReview((prev) => !prev)}>{showReview ? "Hide" : "Show"} Review Questions</Button></div>
 
       {showReview ? (
         <div className="p-6">

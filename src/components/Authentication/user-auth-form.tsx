@@ -6,7 +6,7 @@ import { signIn } from "next-auth/react";
 import { useForm } from "react-hook-form";
 import Link from "next/link";
 import * as z from "zod";
-import { userAuthSchema } from "../../lib/validations/auth";
+import { userAuthSchema } from "@/lib/validations/auth";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
@@ -21,7 +21,7 @@ import { useDispatch } from "react-redux";
 import { setIsLoading } from "@/store/Features/currentState/currentStateSlice";
 import { useSelector } from "react-redux";
 import { RootState } from "@/store/store";
-import { Icons } from "../icons";
+import { Icons } from "@/components/icons";
 
 type FormData = z.infer<typeof userAuthSchema>;
 

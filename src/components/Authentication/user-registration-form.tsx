@@ -3,13 +3,15 @@
 import * as React from "react";
 import { Label } from "@/components/ui/label";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
-import { Progress } from "../ui/progress";
-import { toast } from "../ui/use-toast";
+import { Progress } from "@/components/ui/progress";
+import { toast } from "@/components/ui/use-toast";
 import { useRouter } from "next/navigation";
-import EmailForm from "../Forms/emailForm";
-import VerifyCodeForm from "../Forms/verificationForm";
-import RegisterForm from "../Forms/registerForm";
-import ChooseAvatar from "../Forms/chooseAvatar";
+import {
+  EmailForm,
+  VerifyCodeForm,
+  RegisterForm,
+  ChooseAvatar,
+} from "@/components/Forms/index";
 import { useSelector } from "react-redux";
 import { RootState } from "@/store/store";
 import { useDispatch } from "react-redux";

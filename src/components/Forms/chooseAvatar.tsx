@@ -1,6 +1,7 @@
 "use client";
+
 import React, { useState } from "react";
-import { Button } from "../ui/button";
+import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import Avatar1 from "../../../public/avatars/Avatar1.svg";
 import Avatar2 from "../../../public/avatars/Avatar2.svg";

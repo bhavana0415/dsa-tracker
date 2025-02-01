@@ -1,5 +1,5 @@
 import { createSlice, createAsyncThunk, PayloadAction } from "@reduxjs/toolkit";
-import { setIsLoading } from "../currentState/currentStateSlice";
+import { setIsLoading } from "@/store/Features/currentState/currentStateSlice";
 import {
     fetchQuestionsBySheet,
     fetchQuestionsBySheetAndTopic,

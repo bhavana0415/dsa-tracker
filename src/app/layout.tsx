@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { ReduxProvider } from "../store/provider";
+import { ReduxProvider } from "@/store/provider";
 import { Toaster } from "@/components/ui/toaster";
 import AuthProvider from "@/lib/SesssionProvider";
 import Navbar from "@/components/Header/navbar";

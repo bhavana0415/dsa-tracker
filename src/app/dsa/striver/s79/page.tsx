@@ -7,8 +7,8 @@ import {
     AccordionTrigger,
 } from "@/components/ui/accordian";
 import CustomTable from "@/components/DataDisplay/customTable";
-import { Striver79, StriverSDE } from "../../data";
-import SidebarLayout from "../Sidebar/sidebar";
+import { Striver79, StriverSDE } from "@/app/dsa/data";
+import SidebarLayout from "@/app/dsa/striver/Sidebar/sidebar";
 import { Label } from "@/components/ui/label";
 import { AppDispatch, RootState } from "@/store/store";
 import { useDispatch } from "react-redux";

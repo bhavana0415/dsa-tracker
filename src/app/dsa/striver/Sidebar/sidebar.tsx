@@ -2,8 +2,8 @@
 
 import CustomTable from "@/components/DataDisplay/customTable";
 import { Icons } from "@/components/icons";
+import { Button } from "@/components/ui/button";
 import { RootState } from "@/store/store";
-import { Button } from "@mui/material";
 import React, { useState } from "react";
 import { useSelector } from "react-redux";
 
@@ -77,32 +77,32 @@ const SidebarLayout = ({ children, stiverSheet, striverQuestions, page }: Sideba
                 <nav>
                     <a
                         href="/dsa/striver/a2z"
-                        className={`flex block py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "A2Z" && 'bg-gray-700 text-white'}`}
+                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "A2Z" && 'bg-gray-700 text-white'}`}
                     >
                         <Icons.a2z />&ensp;Striver&apos;s A2Z Sheet
                     </a>
                     <a
                         href="/dsa/striver/sde"
-                        className={`flex block py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "SDE" && 'bg-gray-700 text-white'}`}
+                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "SDE" && 'bg-gray-700 text-white'}`}
                     >
                         <Icons.sde />&ensp;Striver&apos;s SDE Sheet
                     </a>
                     <a
                         href="/dsa/striver/s79"
-                        className={`flex block py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "79" && 'bg-gray-700 text-white'}`}
+                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "79" && 'bg-gray-700 text-white'}`}
                     >
                         <Icons.s79 />&ensp;Striver&apos;s 79 Sheet
                     </a>
                     <a
                         href="/dsa/striver/b75"
-                        className={`flex block py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "75" && 'bg-gray-700 text-white'}`}
+                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "75" && 'bg-gray-700 text-white'}`}
                     >
                         <Icons.b75 />&ensp;Blind 75 Sheet
                     </a>
                 </nav>
             </aside>
             <div className="w-full p-6">
-                <div className="w-full flex justify-end"><Button className={`${style}`} onClick={() => setShowReview((prev) => !prev)}>{showReview ? "Hide" : "Show"} Review Questions</Button></div>
+                <div className="w-full flex justify-end"><Button className="bg-quaternary" onClick={() => setShowReview((prev) => !prev)}>{showReview ? "Hide" : "Show"} Review Questions</Button></div>
                 {showReview ? (
                     <div className="p-6">
                         <CustomTable
