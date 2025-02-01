@@ -77,25 +77,25 @@ const SidebarLayout = ({ children, stiverSheet, striverQuestions, page }: Sideba
                 <nav>
                     <a
                         href="/dsa/striver/a2z"
-                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "A2Z" && 'bg-gray-700 text-white'}`}
+                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "A2Z" && 'bg-primary'}`}
                     >
                         <Icons.a2z />&ensp;Striver&apos;s A2Z Sheet
                     </a>
                     <a
                         href="/dsa/striver/sde"
-                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "SDE" && 'bg-gray-700 text-white'}`}
+                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "SDE" && 'bg-primary'}`}
                     >
                         <Icons.sde />&ensp;Striver&apos;s SDE Sheet
                     </a>
                     <a
                         href="/dsa/striver/s79"
-                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "79" && 'bg-gray-700 text-white'}`}
+                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "79" && 'bg-primary'}`}
                     >
                         <Icons.s79 />&ensp;Striver&apos;s 79 Sheet
                     </a>
                     <a
                         href="/dsa/striver/b75"
-                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "75" && 'bg-gray-700 text-white'}`}
+                        className={`flex py-2 px-4 transition duration-200 hover:bg-gray-700 hover:text-white ${page === "75" && 'bg-primary'}`}
                     >
                         <Icons.b75 />&ensp;Blind 75 Sheet
                     </a>
