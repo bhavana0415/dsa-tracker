@@ -3,7 +3,11 @@
 @tailwind utilities;
 
 body {
-  @apply bg-secondary text-foreground min-h-screen;
+  @apply bg-secondary text-foreground min-h-screen font-serif;
+}
+
+body > * {
+  @apply font-serif
 }
 
 @layer base {

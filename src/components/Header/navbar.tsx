@@ -37,7 +37,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const Navbar = () => {
   const { currentMode, isLoading } = useSelector((state: RootState) => state.currentState);
@@ -45,16 +45,23 @@ const Navbar = () => {
   const pathname = usePathname();
   const { data } = useSession()
   const { avatar = "" } = data?.user || {}
-  const changeMode = () => {
-    dispatch(setCurrentMode(currentMode == "dark" ? "light" : "dark"));
+  const changeMode = (mode: string) => {
+    dispatch(setCurrentMode(mode));
   };
 
-  console.log()
+  useEffect(() => {
+    if (currentMode === "dark") {
+      document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+    }
+  }, [currentMode]);
 
   return (
     <>
       {pathname === "/login" || pathname === "/register" ? (
-        <></>) : (
+        <></>
+      ) : (
         <header className="sticky top-0 z-40 w-full border-b bg-primary flex flex-row items-center flex flex-row">
           <div className="container flex h-16 items-center justify-between py-2 md:py-4">
             <Link
@@ -108,13 +115,17 @@ const Navbar = () => {
               >
                 <TimerIcon />
               </Link>
-              <button onClick={changeMode}>
-                {currentMode == "dark" ? (
-                  <LightModeIcon className="text-foreground hover:text-muted-foreground mx-2" />
-                ) : (
-                  <DarkModeIcon className="text-foreground hover:text-muted-foreground mx-2" />
-                )}
-              </button>
+              {currentMode == "dark" ? (
+                <LightModeIcon
+                  className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
+                  onClick={() => changeMode("light")}
+                />
+              ) : (
+                <DarkModeIcon
+                  className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
+                  onClick={() => changeMode("dark")}
+                />
+              )}
             </nav>
             <Sheet>
               <SheetTrigger asChild>
@@ -158,28 +169,35 @@ const Navbar = () => {
                     </CollapsibleContent>
                   </Collapsible>
                   <div className="flex space-x-2 justify-center">
-                    <Link
-                      href="/timer"
-                      prefetch={false}
-                    >
+                    <Link href="/timer" prefetch={false}>
                       <TimerIcon />
                     </Link>
-                    <button onClick={changeMode}>
-                      {currentMode == "dark" ? (
-                        <LightModeIcon className="text-foreground" />
-                      ) : (
-                        <DarkModeIcon className="text-foreground" />
-                      )}
-                    </button>
+                    {currentMode == "dark" ? (
+                      <LightModeIcon
+                        className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
+                        onClick={() => changeMode("light")}
+                      />
+                    ) : (
+                      <DarkModeIcon
+                        className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
+                        onClick={() => changeMode("dark")}
+                      />
+                    )}
                   </div>
                 </div>
               </SheetContent>
             </Sheet>
           </div>
           <DropdownMenu>
-            <DropdownMenuTrigger asChild className="border-none bg-primary mr-6">
+            <DropdownMenuTrigger
+              asChild
+              className="border-none bg-primary mr-6"
+            >
               <Avatar className="cursor-pointer">
-                <AvatarImage src={`/avatars/Avatar${avatar}.svg`} alt="@shadcn" />
+                <AvatarImage
+                  src={`/avatars/Avatar${avatar}.svg`}
+                  alt="@shadcn"
+                />
                 <AvatarFallback>P</AvatarFallback>
               </Avatar>
             </DropdownMenuTrigger>
@@ -195,7 +213,10 @@ const Navbar = () => {
                 </DropdownMenuItem>
               </DropdownMenuGroup>
               <DropdownMenuSeparator className="bg-ternary" />
-              <DropdownMenuItem className="hover:bg-ternary cursor-pointer" onClick={() => signOut()}>
+              <DropdownMenuItem
+                className="hover:bg-ternary cursor-pointer"
+                onClick={() => signOut()}
+              >
                 Log out
               </DropdownMenuItem>
             </DropdownMenuContent>

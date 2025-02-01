@@ -13,11 +13,6 @@ export const currentStateSlice = createSlice({
   reducers: {
     setCurrentMode: (state, action) => {
       state.currentMode = action.payload;
-      if (action.payload === 'dark') {
-        document.documentElement.classList.add("dark");
-      } else {
-        document.documentElement.classList.remove("dark");
-      }
       if (typeof window !== "undefined") {
         localStorage.setItem("theme", action.payload);
       }

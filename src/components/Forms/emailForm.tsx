@@ -8,7 +8,7 @@ import { userEmailSchema } from "@/lib/validations/auth";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
-import { toast } from "../ui/use-toast";
+import { toast } from "@/components/ui/use-toast";
 import { useSelector } from "react-redux";
 import { RootState } from "@/store/store";
 import { useDispatch } from "react-redux";

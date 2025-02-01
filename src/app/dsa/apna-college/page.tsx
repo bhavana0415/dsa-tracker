@@ -6,7 +6,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordian";
-import { ApnaCollege } from "../data";
+import { ApnaCollege } from "@/app/dsa/data";
 import CustomTable from "@/components/DataDisplay/customTable";
 import { useSelector } from "react-redux";
 import { AppDispatch, RootState } from "@/store/store";
@@ -28,8 +28,7 @@ export default function Page() {
       dispatch(fetchQuestionsBySheetAsync({ userId: id, sheet: "apnaCollegeQuestions" }));
     }
   }, [apnaCollegeQuestions, dispatch, id]);
-  const currentMode = useSelector((state: RootState) => state.currentState.currentMode);
-  const style = currentMode == "dark" ? "bg-black text-red-300" : "bg-red-300 text-black";
+
 
   const [showReview, setShowReview] = useState(false);
 
@@ -48,7 +47,7 @@ export default function Page() {
 
   return (
     <div className="p-6">
-      <div className="w-full flex justify-end"><Button className={`${style}`} onClick={() => setShowReview((prev) => !prev)}>{showReview ? "Hide" : "Show"} Review Questions</Button></div>
+      <div className="w-full flex justify-end"><Button className="bg-quaternary" onClick={() => setShowReview((prev) => !prev)}>{showReview ? "Hide" : "Show"} Review Questions</Button></div>
       {showReview ? (
         <div className="p-6">
           <CustomTable
