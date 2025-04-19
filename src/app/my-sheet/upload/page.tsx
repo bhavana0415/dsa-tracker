@@ -13,7 +13,7 @@ import {
 } from "@/components/ui/tooltip"
 import { Icons } from '@/components/icons';
 
-export const Page = () => {
+const Page = () => {
 
     const [data, setData] = useState<any>([]);
     const fileInputRef = useRef<HTMLInputElement | null>(null);
