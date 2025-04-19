@@ -102,9 +102,9 @@ export function UserAuthForm() {
   }
 
   return (
-    <div className="grid gap-6">
+    <div className="grid gap-4">
       <Label className="text-center text-lg font-bold">Login to Continue</Label>
-      <Card className="w-[350px]">
+      <Card className="w-[350px] border-none">
         <CardHeader></CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit(onSubmit)}>
@@ -129,7 +129,7 @@ export function UserAuthForm() {
                       viewBox="0 0 24 24"
                       strokeWidth="1.5"
                       stroke="currentColor"
-                      className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-error"
+                      className="absolute right-2 top-5 transform -translate-y-1/2 w-4 h-4 text-error"
                     >
                       <path
                         strokeLinecap="round"
@@ -156,7 +156,7 @@ export function UserAuthForm() {
                     className={`w-full pr-10`}
                     {...register("password")}
                   />
-                  {viewPassword ? <Icons.eyeSlash className="absolute right-2 text-primary top-2 size-6 cursor-pointer" onClick={() => setViewPassword((prev) => !prev)} /> : <Icons.eye className="absolute right-2 text-primary top-2 size-6 cursor-pointer" onClick={() => setViewPassword((prev) => !prev)} />}
+                  {viewPassword ? <Icons.eyeSlash className="absolute right-2 text-black top-2 size-4 cursor-pointer" onClick={() => setViewPassword((prev) => !prev)} /> : <Icons.eye className="absolute right-2 text-black top-2 size-4 cursor-pointer" onClick={() => setViewPassword((prev) => !prev)} />}
                   {errors.password && (
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -164,7 +164,7 @@ export function UserAuthForm() {
                       viewBox="0 0 24 24"
                       strokeWidth="1.5"
                       stroke="currentColor"
-                      className="absolute right-2 top-5 transform -translate-y-1/2 w-6 h-6 text-error"
+                      className="absolute right-2 top-5 transform -translate-y-1/2 w-4 h-4 text-error"
                     >
                       <path
                         strokeLinecap="round"

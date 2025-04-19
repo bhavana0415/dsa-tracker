@@ -20,11 +20,14 @@ export async function POST(request) {
         const hashedPassword = await bcrypt.hash(password, 10);
         const newUser = new User({
             email,
-            questions,
             avatar,
-            password: hashedPassword
+            password: hashedPassword,
+            questions,
+            my_sheet: [],
         });
         await newUser.save();
+
+        console.log("New User Data:", newUser);
 
         return new NextResponse("User Registered", { status: 200 });
     } catch (error) {

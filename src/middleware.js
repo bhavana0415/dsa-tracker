@@ -12,5 +12,5 @@ export default withAuth(
 );
 
 export const config = {
-    matcher: ["/((?!api|login|register).*)"],
+    matcher: ["/((?!api|login|register|timer|$).*)"],
 };

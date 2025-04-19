@@ -5,6 +5,7 @@ import { ReduxProvider } from "@/store/provider";
 import { Toaster } from "@/components/ui/toaster";
 import AuthProvider from "@/lib/SesssionProvider";
 import Navbar from "@/components/Header/navbar";
+import QueryProvider from "@/lib/QueryProvider";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,12 +22,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <AuthProvider>
-          <ReduxProvider>
-            <Navbar />
-            {children}
-          </ReduxProvider>
-        </AuthProvider>
+        <QueryProvider>
+          <AuthProvider>
+            <ReduxProvider>
+              <Navbar />
+              {children}
+            </ReduxProvider>
+          </AuthProvider>
+        </QueryProvider>
         <Toaster />
       </body>
     </html>

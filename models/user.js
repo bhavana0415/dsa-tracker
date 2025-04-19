@@ -23,6 +23,11 @@ const UserSchema = new Schema(
                 ref: 'Question',
             },
         ],
+        my_sheet: {
+            type: [Object],
+            required: true,
+            default: [],
+        },
     },
     {
         timestamps: true,

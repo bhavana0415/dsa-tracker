@@ -82,3 +82,40 @@ export const fetchQuestionsBySheetAndTopic = async (
         throw error;
     }
 };
+
+export const updateUserMySheet = async (u_id, my_sheet) => {
+    const url = `/api/routes/users/sheet/${u_id}`;
+    try {
+        const response = await fetch(url, {
+            method: "PUT",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify({ my_sheet }),
+        });
+
+        if (!response.ok) {
+            const errorMessage = await response.text();
+            throw new Error(`Failed to update user sheet: ${errorMessage}`);
+        }
+
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        throw error;
+    }
+};
+
+export const fetchUserMySheet = async (userId) => {
+    const url = `/api/routes/users/sheet/${userId}`;
+    try {
+        const response = await fetch(url, { method: "GET" });
+        if (!response.ok) {
+            throw new Error("Failed to fetch my sheet");
+        }
+        const questions = await response.json();
+        return questions;
+    } catch (error) {
+        throw error;
+    }
+};

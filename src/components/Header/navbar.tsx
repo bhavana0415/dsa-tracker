@@ -59,7 +59,7 @@ const Navbar = () => {
 
   return (
     <>
-      {pathname === "/login" || pathname === "/register" ? (
+      {pathname === "/login" || pathname === "/register" || pathname === "/timer" ? (
         <></>
       ) : (
         <header className="sticky top-0 z-40 w-full border-b bg-primary flex flex-row items-center flex flex-row">
@@ -138,7 +138,7 @@ const Navbar = () => {
                 <div className="flex flex-col space-y-3 p-4">
                   <Collapsible className="group space-y-2">
                     <CollapsibleTrigger className="flex items-center justify-between">
-                      <span>Features</span>
+                      <span>Sheets</span>
                       <ChevronRightIcon className="h-4 w-4 transition-transform transform group-data-[state=open]:rotate-90" />
                     </CollapsibleTrigger>
                     <CollapsibleContent>
@@ -188,39 +188,41 @@ const Navbar = () => {
               </SheetContent>
             </Sheet>
           </div>
-          <DropdownMenu>
-            <DropdownMenuTrigger
-              asChild
-              className="border-none bg-primary mr-6"
-            >
-              <Avatar className="cursor-pointer">
-                <AvatarImage
-                  src={`/avatars/Avatar${avatar}.svg`}
-                  alt="@shadcn"
-                />
-                <AvatarFallback>P</AvatarFallback>
-              </Avatar>
-            </DropdownMenuTrigger>
-            <DropdownMenuContent side="bottom" className="w-fit bg-secondary">
-              <DropdownMenuLabel>My Account</DropdownMenuLabel>
-              <DropdownMenuSeparator />
-              <DropdownMenuGroup>
-                {/* <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
-                  Profile
-                </DropdownMenuItem> */}
-                <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
-                  <Link href="/dashboard">Dashboard</Link>
-                </DropdownMenuItem>
-              </DropdownMenuGroup>
-              <DropdownMenuSeparator className="bg-ternary" />
-              <DropdownMenuItem
-                className="hover:bg-ternary cursor-pointer"
-                onClick={() => signOut()}
+          {data?.user &&
+            <DropdownMenu>
+              <DropdownMenuTrigger
+                asChild
+                className="border-none bg-primary mr-6"
               >
-                Log out
-              </DropdownMenuItem>
-            </DropdownMenuContent>
-          </DropdownMenu>
+                <Avatar className="cursor-pointer">
+                  <AvatarImage
+                    src={`/avatars/Avatar${avatar}.svg`}
+                    alt="@shadcn"
+                  />
+                  <AvatarFallback>P</AvatarFallback>
+                </Avatar>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent side="bottom" className="w-fit bg-secondary">
+                <DropdownMenuLabel>My Account</DropdownMenuLabel>
+                <DropdownMenuSeparator />
+                <DropdownMenuGroup>
+                  <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
+                    <Link href="/my-sheet">My Sheet</Link>
+                  </DropdownMenuItem>
+                  <DropdownMenuItem className="hover:bg-ternary cursor-pointer">
+                    <Link href="/dashboard">Dashboard</Link>
+                  </DropdownMenuItem>
+                </DropdownMenuGroup>
+                <DropdownMenuSeparator className="bg-ternary" />
+                <DropdownMenuItem
+                  className="hover:bg-ternary cursor-pointer"
+                  onClick={() => signOut()}
+                >
+                  Log out
+                </DropdownMenuItem>
+              </DropdownMenuContent>
+            </DropdownMenu>
+          }
         </header>
       )}
       <Loader isLoading={isLoading} />

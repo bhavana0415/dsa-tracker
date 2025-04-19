@@ -77,8 +77,8 @@ const Page = () => {
     }, {} as Record<string, number>);
 
     return (
-        <div className="flex">
-            <div className="basis-1/4 min-h-screen bg-ternary flex flex-col items-center p-6 shadow-lg rounded-lg">
+        <div className="flex flex-col sm:flex-row">
+            <div className="basis-1/4 h-fit sm:h-auto bg-ternary flex flex-col items-center p-6 shadow-lg rounded-lg">
                 <LabelText className="text-2xl font-semibold text-gray-900 mb-4">📌 Topics Covered</LabelText>
 
                 <div className="flex flex-wrap justify-center gap-1 rounded-lg w-full">
