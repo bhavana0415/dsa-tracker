@@ -287,9 +287,15 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
                                                     </Dialog>
                                                 </>
                                                 : cell.column.id === "Problem" ?
-                                                    <a href={flexRender(cell.column.columnDef.cell, cell.getContext())?.toString()} className='hover:underline'>
+                                                    <a
+                                                        href={cell.getValue() as string}
+                                                        target="_blank"
+                                                        className='hover:underline'
+                                                        rel="noopener noreferrer"
+                                                    >
                                                         {flexRender(cell.column.columnDef.cell, cell.getContext())}
                                                     </a>
+
                                                     :
                                                     flexRender(
                                                         cell.column.columnDef.cell,
