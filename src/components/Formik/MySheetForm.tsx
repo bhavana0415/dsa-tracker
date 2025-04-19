@@ -19,13 +19,11 @@ import {
     DialogTitle,
 } from "@/components/ui/dialogue";
 import { Button } from '../ui/button';
-import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
-import RemoveCircleOutlineIcon from '@mui/icons-material/RemoveCircleOutline';
-import NotesIcon from '@mui/icons-material/Notes';
 import { updateUserMySheet } from '@/app/api/routes/api/api';
 import { useSession } from 'next-auth/react';
 import { toast } from '../ui/use-toast';
 import { useRouter } from 'next/navigation';
+import { Icons } from '../icons';
 
 const validationSchema = Yup.object().shape({
     my_sheet: Yup.array().of(
@@ -119,7 +117,7 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                                             ) : null}
                                                         </TableCell>
                                                         <TableCell>
-                                                            <NotesIcon onClick={() => setOpenNotes(true)} className='cursor-pointer' />
+                                                            <Icons.edit onClick={() => setOpenNotes(true)} className='cursor-pointer' />
                                                             <Dialog open={openNotes} onOpenChange={() => setOpenNotes(false)}>
                                                                 <DialogContent>
                                                                     <DialogHeader>
@@ -132,8 +130,8 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                                             </Dialog>
                                                         </TableCell>
                                                         <TableCell className='flex'>
-                                                            <RemoveCircleOutlineIcon className="m-1 cursor-pointer" onClick={() => arrayHelpers.remove(index)} />
-                                                            <AddCircleOutlineIcon className="m-1 cursor-pointer" onClick={() => arrayHelpers.remove(index)} />
+                                                            <Icons.remove className="m-1 cursor-pointer" onClick={() => arrayHelpers.remove(index)} />
+                                                            <Icons.add className="m-1 cursor-pointer" onClick={() => arrayHelpers.remove(index)} />
                                                         </TableCell>
                                                     </TableRow>
                                                 ))

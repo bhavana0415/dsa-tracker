@@ -1,10 +1,10 @@
 "use client"
 
+import { Icons } from '@/components/icons';
 import Loader from '@/components/Loader/loader';
 import MySheetTable from '@/components/TanstackTable/MySheetTable';
 import { Button } from '@/components/ui/button';
 import { useGetUserMySheet } from '@/hooks/useGetMySheet';
-import FileDownloadIcon from '@mui/icons-material/FileDownload';
 import { useSession } from 'next-auth/react';
 import Link from 'next/link';
 import React from 'react';
@@ -56,7 +56,7 @@ const Page = () => {
                         <p className='italic text-xl p-8 text-center'>Welcome to the custom DSA cheat sheet page! Here you can create your own personalized cheat sheet for Data Structures and Algorithms.</p>
                         <h2 className='underline pt-4'>Steps to Add Your Custom Cheat Sheet</h2>
                         <ol className='list-decimal py-2'>
-                            <li className='p-2'>Download the default Excel template <Button className='bg-success text-secondary hover:scale-105 transform transition duration-300' onClick={downloadFile}>Download<FileDownloadIcon /></Button></li>
+                            <li className='p-2'>Download the default Excel template <Button className='bg-success text-secondary hover:scale-105 transform transition duration-300' onClick={downloadFile}>Download<Icons.fileDownload /></Button></li>
                             <li className='p-2'>Update the Excel sheet with your own data.</li>
                             <li className='p-2'>Upload the updated Excel file</li>
                             <li className='p-2'>Click on the &quot;Save&quot; button to store your custom cheat sheet.</li>

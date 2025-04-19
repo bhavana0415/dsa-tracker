@@ -14,9 +14,6 @@ import {
   CollapsibleTrigger,
   CollapsibleContent,
 } from "@/components/ui/collapsible";
-import TimerIcon from "@mui/icons-material/Timer";
-import LightModeIcon from "@mui/icons-material/LightMode";
-import DarkModeIcon from "@mui/icons-material/DarkMode";
 import { useSelector, useDispatch } from "react-redux";
 import { setCurrentMode } from "@/store/Features/currentState/currentStateSlice";
 import { RootState } from '@/store/store'
@@ -38,6 +35,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 import { useEffect, useState } from "react";
+import { Icons } from "../icons";
 
 const Navbar = () => {
   const { currentMode, isLoading } = useSelector((state: RootState) => state.currentState);
@@ -113,15 +111,15 @@ const Navbar = () => {
                 className="text-foreground hover:text-muted-foreground"
                 prefetch={false}
               >
-                <TimerIcon />
+                <Icons.timer />
               </Link>
               {currentMode == "dark" ? (
-                <LightModeIcon
+                <Icons.lightMode
                   className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
                   onClick={() => changeMode("light")}
                 />
               ) : (
-                <DarkModeIcon
+                <Icons.darkMode
                   className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
                   onClick={() => changeMode("dark")}
                 />
@@ -170,15 +168,15 @@ const Navbar = () => {
                   </Collapsible>
                   <div className="flex space-x-2 justify-center">
                     <Link href="/timer" prefetch={false}>
-                      <TimerIcon />
+                      <Icons.timer />
                     </Link>
                     {currentMode == "dark" ? (
-                      <LightModeIcon
+                      <Icons.lightMode
                         className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
                         onClick={() => changeMode("light")}
                       />
                     ) : (
-                      <DarkModeIcon
+                      <Icons.darkMode
                         className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
                         onClick={() => changeMode("dark")}
                       />

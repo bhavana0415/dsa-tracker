@@ -8,11 +8,6 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import EditNoteIcon from "@mui/icons-material/EditNote";
-import StarIcon from "@mui/icons-material/Star";
-import StarBorderIcon from "@mui/icons-material/StarBorder";
-import LinkIcon from "@mui/icons-material/Link";
-import SwapVertIcon from "@mui/icons-material/SwapVert";
 import { Checkbox } from "@/components/ui/checkbox";
 import { useState } from "react";
 import { Icons } from "../icons";
@@ -148,7 +143,7 @@ const CustomTable = ({
                   className="flex items-center cursor-pointer"
                   onClick={handleSort}
                 >
-                  Difficulty <SwapVertIcon className="ml-2" />
+                  Difficulty <Icons.swap className="ml-2" />
                 </span>
               ) : (
                 "Problem"
@@ -220,14 +215,14 @@ const CustomTable = ({
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <LinkIcon />
+                    <Icons.link />
                   </a>
                 </TableCell>
                 <TableCell onClick={() => openNotesDialog(item.q_id, notes, sheet !== "striverQuestions" ? item.topic : item.head_step_no || item.step_title)}>
-                  {notes === "" ? <EditNoteIcon className="cursor-pointer" /> : <Icons.editNotes className="cursor-pointer size-6" />}
+                  {notes === "" ? <Icons.edit /> : <Icons.editNotes className="cursor-pointer size-6" />}
                 </TableCell>
                 <TableCell>
-                  {review ? <StarIcon className="cursor-pointer size-6" onClick={() => handleReview(item.q_id, review, sheet !== "striverQuestions" ? item.topic : item.head_step_no || item.step_title)} /> : <StarBorderIcon className="cursor-pointer size-6" onClick={() => handleReview(item.q_id, review, sheet !== "striverQuestions" ? item.topic : item.head_step_no || item.step_title)} />}
+                  {review ? <Icons.starFill className="cursor-pointer size-6" onClick={() => handleReview(item.q_id, review, sheet !== "striverQuestions" ? item.topic : item.head_step_no || item.step_title)} /> : <Icons.starBorder className="cursor-pointer size-6" onClick={() => handleReview(item.q_id, review, sheet !== "striverQuestions" ? item.topic : item.head_step_no || item.step_title)} />}
                 </TableCell>
               </TableRow>
             );

@@ -32,8 +32,6 @@ import {
 import { Button } from '../ui/button'
 import { Input } from '../ui/input'
 import { Filter, useSkipper } from './Helper'
-import ArrowCircleUpIcon from '@mui/icons-material/ArrowCircleUp';
-import ArrowCircleDownIcon from '@mui/icons-material/ArrowCircleDown';
 import {
     Dialog,
     DialogContent,
@@ -41,11 +39,11 @@ import {
     DialogHeader,
     DialogTitle,
 } from "@/components/ui/dialogue";
-import NotesIcon from '@mui/icons-material/Notes';
 import { updateUserMySheet } from '@/app/api/routes/api/api'
 import { useSession } from 'next-auth/react'
 import { useRouter } from 'next/navigation'
 import { toast } from '../ui/use-toast'
+import { Icons } from '../icons'
 
 type Question = {
     Problem: string,
@@ -245,8 +243,8 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
                                                         header.getContext()
                                                     )}
                                                     {{
-                                                        asc: <ArrowCircleUpIcon className='mx-2' />,
-                                                        desc: <ArrowCircleDownIcon className='mx-2' />,
+                                                        asc: <Icons.arrowUpCirlce className='mx-2' />,
+                                                        desc: <Icons.arrowDownCircle className='mx-2' />,
                                                     }[header.column.getIsSorted() as string] ?? null}
                                                 </div>
                                                 {header.column.getCanFilter() && header.id !== 'Notes' ? (
@@ -271,7 +269,7 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
                                         <TableCell key={cell.id}>
                                             {cell.column.id === "Notes" ?
                                                 <>
-                                                    <NotesIcon onClick={() => {
+                                                    <Icons.edit onClick={() => {
                                                         setOpenNotes(true);
                                                     }} className='cursor-pointer' />
                                                     <Dialog open={openNotes} onOpenChange={() => setOpenNotes(false)}>
@@ -289,7 +287,7 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
                                                     </Dialog>
                                                 </>
                                                 : cell.column.id === "Problem" ?
-                                                    <a href={flexRender(cell.column.columnDef.cell, cell.getContext())?.toString()}>
+                                                    <a href={flexRender(cell.column.columnDef.cell, cell.getContext())?.toString()} className='hover:underline'>
                                                         {flexRender(cell.column.columnDef.cell, cell.getContext())}
                                                     </a>
                                                     :

@@ -2,17 +2,16 @@
 
 import React, { useRef, useState } from 'react'
 import * as XLSX from 'xlsx';
-import KeyboardBackspaceIcon from '@mui/icons-material/KeyboardBackspace';
 import Link from 'next/link';
 import { Input } from '@/components/ui/input';
 import { MySheetForm } from '@/components/Formik/MySheetForm';
-import InfoIcon from '@mui/icons-material/Info';
 import {
     Tooltip,
     TooltipContent,
     TooltipProvider,
     TooltipTrigger,
 } from "@/components/ui/tooltip"
+import { Icons } from '@/components/icons';
 
 export const Page = () => {
 
@@ -47,7 +46,7 @@ export const Page = () => {
 
     return (
         <div className='w-full h-full p-20 flex flex-col'>
-            <Link href="/my-sheet"><KeyboardBackspaceIcon /> My Sheet</Link>
+            <Link href="/my-sheet"><Icons.arrowBack /> My Sheet</Link>
             <div className='w-full h-full flex justify-center items-center p-6'>
                 {data && data.length > 0 ? (
                     <MySheetForm data={data} />
@@ -66,7 +65,7 @@ export const Page = () => {
                             <sup>
                                 <TooltipProvider>
                                     <Tooltip>
-                                        <TooltipTrigger><InfoIcon /></TooltipTrigger>
+                                        <TooltipTrigger><Icons.info /></TooltipTrigger>
                                         <TooltipContent className='w-fit'>
                                             <strong>Imp*:</strong> Uploading a new file will overwrite <br></br>the existing data in your <em>Sheet</em>. So please <br></br>update your previous sheet instead of new sheet<br></br> if you want to add new data.
                                         </TooltipContent>
