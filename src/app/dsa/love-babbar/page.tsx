@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useState } from "react";
-import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
 import { LoveBabbar } from "@/app/dsa/data";
 import { Progress } from "@/components/ui/progress";
 import { Button } from "@/components/ui/button";
@@ -19,6 +18,7 @@ import { useEffect } from "react";
 import { fetchQuestionsBySheetAsync } from "@/store/Features/fetchData/fetchDataSlice";
 import { useSession } from "next-auth/react";
 import { useSelector } from "react-redux";
+import { Icons } from "@/components/icons";
 
 const Page = () => {
   const [open, setOpen] = useState<string | null>(null);
@@ -81,7 +81,7 @@ const Page = () => {
                 </div>
               </div>
               {topicIndex < Object.entries(LoveBabbar).length - 1 && (
-                <ArrowDownwardIcon />
+                <Icons.arrowDown />
               )}
             </React.Fragment>
           ))}

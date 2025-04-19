@@ -4,8 +4,8 @@ import React from "react";
 const Home = () => {
   return (
     <main className="bg-secondary min-h-screen flex flex-col items-center p-8 text-foreground">
-      <section className="text-center shadow-xl p-6 mb-6">
-        <h2 className="text-4xl font-bold">Track Your DSA Skills with Ease</h2>
+      <section className="text-center p-20">
+        <h1 className="text-4xl font-bold italic">Track Your DSA Skills with Ease</h1>
         <p className="mt-4 max-w-2xl mx-auto">
           The ultimate platform to help you monitor your progress in mastering
           Data Structures and Algorithms. Stay organized, motivated, and
@@ -14,7 +14,7 @@ const Home = () => {
       </section>
 
       <section className="text-center mb-12">
-        <h2 className="text-3xl font-semibold mb-4">
+        <h2 className="text-2xl font-semibold mb-4">
           How DSA Tracker Helps You Succeed
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

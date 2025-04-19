@@ -65,7 +65,7 @@ const Page = () => {
                 }
                 return prev - 1;
             });
-        }, 1000);
+        }, 100);
         setIntervalId(id);
     }, [intervalId]);
 
@@ -77,7 +77,6 @@ const Page = () => {
     }, [intervalId]);
 
     useEffect(() => {
-        stopTimer();
         setTime(tabDurations[activeTab as keyof typeof tabDurations]);
     }, [activeTab, stopTimer, tabDurations]);
 
@@ -95,7 +94,7 @@ const Page = () => {
         }
         setTime(tabDurations[activeTab as keyof typeof tabDurations]);
         setOpen(false);
-    };
+    }
 
     return (
         <div className="flex justify-center items-center w-full h-full">
@@ -111,9 +110,9 @@ const Page = () => {
                         className="w-[400px]"
                     >
                         <TabsList className="grid w-full grid-cols-3">
-                            <TabsTrigger value="pomo">Pomodoro</TabsTrigger>
-                            <TabsTrigger value="short">Short break</TabsTrigger>
-                            <TabsTrigger value="long">Long break</TabsTrigger>
+                            <TabsTrigger value="pomo" onClick={stopTimer}>Pomodoro</TabsTrigger>
+                            <TabsTrigger value="short" onClick={stopTimer}>Short break</TabsTrigger>
+                            <TabsTrigger value="long" onClick={stopTimer}>Long break</TabsTrigger>
                         </TabsList>
                         <TabsContent value="pomo">
                             <Card>
