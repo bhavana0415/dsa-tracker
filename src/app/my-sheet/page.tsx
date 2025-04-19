@@ -56,7 +56,7 @@ const Page = () => {
                         <p className='italic text-xl p-8 text-center'>Welcome to the custom DSA cheat sheet page! Here you can create your own personalized cheat sheet for Data Structures and Algorithms.</p>
                         <h2 className='underline pt-4'>Steps to Add Your Custom Cheat Sheet</h2>
                         <ol className='list-decimal py-2'>
-                            <li className='p-2'>Download the default Excel template <Button className='bg-success text-secondary hover:scale-105 transform transition duration-300' onClick={downloadFile}>Download<Icons.fileDownload /></Button></li>
+                            <li className='p-2'>Download the default Excel template <Button className='bg-success text-secondary hover:scale-105 transform transition duration-300' onClick={downloadFile}>Download<Icons.fileDownload className='size-6' /></Button></li>
                             <li className='p-2'>Update the Excel sheet with your own data.</li>
                             <li className='p-2'>Upload the updated Excel file</li>
                             <li className='p-2'>Click on the &quot;Save&quot; button to store your custom cheat sheet.</li>

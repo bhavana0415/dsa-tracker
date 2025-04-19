@@ -143,7 +143,7 @@ const CustomTable = ({
                   className="flex items-center cursor-pointer"
                   onClick={handleSort}
                 >
-                  Difficulty <Icons.swap className="ml-2" />
+                  Difficulty <Icons.swap className="ml-2 size-6" />
                 </span>
               ) : (
                 "Problem"
@@ -215,11 +215,11 @@ const CustomTable = ({
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <Icons.link />
+                    <Icons.link className="cursor-pointer size-6" />
                   </a>
                 </TableCell>
                 <TableCell onClick={() => openNotesDialog(item.q_id, notes, sheet !== "striverQuestions" ? item.topic : item.head_step_no || item.step_title)}>
-                  {notes === "" ? <Icons.edit /> : <Icons.editNotes className="cursor-pointer size-6" />}
+                  {notes === "" ? <Icons.edit className="cursor-pointer size-6" /> : <Icons.editNotes className="cursor-pointer size-6" />}
                 </TableCell>
                 <TableCell>
                   {review ? <Icons.starFill className="cursor-pointer size-6" onClick={() => handleReview(item.q_id, review, sheet !== "striverQuestions" ? item.topic : item.head_step_no || item.step_title)} /> : <Icons.starBorder className="cursor-pointer size-6" onClick={() => handleReview(item.q_id, review, sheet !== "striverQuestions" ? item.topic : item.head_step_no || item.step_title)} />}

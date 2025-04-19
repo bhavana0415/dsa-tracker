@@ -243,8 +243,8 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
                                                         header.getContext()
                                                     )}
                                                     {{
-                                                        asc: <Icons.arrowUpCirlce className='mx-2' />,
-                                                        desc: <Icons.arrowDownCircle className='mx-2' />,
+                                                        asc: <Icons.arrowUpCirlce className='mx-2 size-6' />,
+                                                        desc: <Icons.arrowDownCircle className='mx-2 size-6' />,
                                                     }[header.column.getIsSorted() as string] ?? null}
                                                 </div>
                                                 {header.column.getCanFilter() && header.id !== 'Notes' ? (
@@ -271,7 +271,7 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
                                                 <>
                                                     <Icons.edit onClick={() => {
                                                         setOpenNotes(true);
-                                                    }} className='cursor-pointer' />
+                                                    }} className='cursor-pointer size-6' />
                                                     <Dialog open={openNotes} onOpenChange={() => setOpenNotes(false)}>
                                                         <DialogContent>
                                                             <DialogHeader>

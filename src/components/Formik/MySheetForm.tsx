@@ -60,6 +60,12 @@ export const MySheetForm = ({ data }: { data: any }) => {
         }
     }
 
+    const getError = (errors: any, touched: any, index: number, field: any) => {
+        return typeof errors.my_sheet?.[index] !== 'string' && errors.my_sheet?.[index]?.[field] && touched.my_sheet?.[index]?.[field] ? (
+            <div>{errors.my_sheet[index][field]}</div>
+        ) : null;
+    };
+
     return (
         <div>
             <h1>My Sheet</h1>
@@ -86,13 +92,11 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                         </TableHeader>
                                         <TableBody>
                                             {values.my_sheet && values.my_sheet.length > 0 ? (
-                                                values.my_sheet.map((_: any, index: React.Key | null | undefined) => (
+                                                values.my_sheet.map((_: any, index: number) => (
                                                     <TableRow key={index} className='border-none'>
                                                         <TableCell className='w-[350px]'>
                                                             <Field name={`my_sheet.${index}.Problem`} className="p-2 rounded-lg bg-primary text-foreground w-full" />
-                                                            {typeof errors.my_sheet?.[index] !== 'string' && errors.my_sheet?.[index]?.Problem && touched.my_sheet?.[index]?.Problem ? (
-                                                                <div>{errors.my_sheet[index].Problem}</div>
-                                                            ) : null}
+                                                            {getError(errors, touched, index, 'Problem')}
                                                         </TableCell>
                                                         <TableCell>
                                                             <Field name={`my_sheet.${index}.Difficulty`} as="select" className="p-2 rounded-lg bg-primary text-foreground">
@@ -101,9 +105,7 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                                                 <option value="Medium">Medium</option>
                                                                 <option value="Hard">Hard</option>
                                                             </Field>
-                                                            {typeof errors.my_sheet?.[index] !== 'string' && errors.my_sheet?.[index]?.Difficulty && touched.my_sheet?.[index]?.Difficulty ? (
-                                                                <div>{errors.my_sheet[index].Difficulty}</div>
-                                                            ) : null}
+                                                            {getError(errors, touched, index, 'Difficulty')}
                                                         </TableCell>
                                                         <TableCell>
                                                             <Field name={`my_sheet.${index}.Status`} as="select" className="p-2 rounded-lg bg-primary text-foreground">
@@ -112,12 +114,10 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                                                 <option value="In Progress">In Progress</option>
                                                                 <option value="Pending">Pending</option>
                                                             </Field>
-                                                            {typeof errors.my_sheet?.[index] !== 'string' && errors.my_sheet?.[index]?.Status && touched.my_sheet?.[index]?.Status ? (
-                                                                <div>{errors.my_sheet[index].Status}</div>
-                                                            ) : null}
+                                                            {getError(errors, touched, index, 'Status')}
                                                         </TableCell>
                                                         <TableCell>
-                                                            <Icons.edit onClick={() => setOpenNotes(true)} className='cursor-pointer' />
+                                                            <Icons.edit onClick={() => setOpenNotes(true)} className='cursor-pointer size-6' />
                                                             <Dialog open={openNotes} onOpenChange={() => setOpenNotes(false)}>
                                                                 <DialogContent>
                                                                     <DialogHeader>
@@ -130,8 +130,8 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                                             </Dialog>
                                                         </TableCell>
                                                         <TableCell className='flex'>
-                                                            <Icons.remove className="m-1 cursor-pointer" onClick={() => arrayHelpers.remove(index)} />
-                                                            <Icons.add className="m-1 cursor-pointer" onClick={() => arrayHelpers.remove(index)} />
+                                                            <Icons.remove className="m-1 cursor-pointer size-6" onClick={() => arrayHelpers.remove(index)} />
+                                                            <Icons.add className="m-1 cursor-pointer size-6" onClick={() => arrayHelpers.remove(index)} />
                                                         </TableCell>
                                                     </TableRow>
                                                 ))

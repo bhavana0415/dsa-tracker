@@ -115,12 +115,12 @@ const Navbar = () => {
               </Link>
               {currentMode == "dark" ? (
                 <Icons.lightMode
-                  className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
+                  className="size-6 text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
                   onClick={() => changeMode("light")}
                 />
               ) : (
                 <Icons.darkMode
-                  className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
+                  className="size-6 text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
                   onClick={() => changeMode("dark")}
                 />
               )}
@@ -168,16 +168,16 @@ const Navbar = () => {
                   </Collapsible>
                   <div className="flex space-x-2 justify-center">
                     <Link href="/timer" prefetch={false}>
-                      <Icons.timer />
+                      <Icons.timer className="cursor-pointer size-6" />
                     </Link>
                     {currentMode == "dark" ? (
                       <Icons.lightMode
-                        className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
+                        className="size-6 text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
                         onClick={() => changeMode("light")}
                       />
                     ) : (
                       <Icons.darkMode
-                        className="text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
+                        className="size-6 text-foreground hover:text-muted-foreground mx-2 cursor-pointer"
                         onClick={() => changeMode("dark")}
                       />
                     )}
