@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { signIn } from "next-auth/react";
+import { signIn, useSession } from "next-auth/react";
 import { useForm } from "react-hook-form";
 import Link from "next/link";
 import * as z from "zod";
@@ -40,19 +40,25 @@ export function UserAuthForm() {
   });
   const router = useRouter();
   const searchParams = useSearchParams();
+  const { data } = useSession();
   const dispatch = useDispatch();
   const isLoading = useSelector((state: RootState) => state.currentState.isLoading);
   const [viewPassword, setViewPassword] = React.useState(false);
+  const callbackUrl = searchParams.get("callbackUrl") || "/";
+
+  React.useEffect(() => {
+    if (data?.user) {
+      router.push(callbackUrl);
+    }
+  }, [data])
 
   const checkPassword = async (email: string, password: string) => {
-    const callbackUrl = searchParams.get("callbackUrl") || "/";
     try {
       const signInResult = await signIn("credentials", {
         email: email,
         password: password,
         redirect: false,
       });
-
       if (signInResult?.ok) {
         router.push(callbackUrl);
       } else {
