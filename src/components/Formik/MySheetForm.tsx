@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useEffect, useState } from 'react';
-import { Formik, Form, Field, FieldArray, useFormikContext } from 'formik';
+import { Formik, Form, Field, FieldArray, useFormikContext, useField } from 'formik';
 import * as Yup from 'yup';
 import {
     Table,
@@ -66,22 +66,24 @@ export const MySheetForm = ({ data }: { data: any }) => {
         ) : null;
     };
 
+    const handleFormSubmit = (values: any, errors: any) => {
+        if (Object.keys(errors).length > 0) {
+            toast({
+                title: "Missing required fields",
+                variant: "destructive"
+            })
+        } else {
+            handleSubmit(values)
+        }
+    }
+
     return (
         <Formik
             initialValues={{ my_sheet: data }}
             validationSchema={validationSchema}
-            onSubmit={handleSubmit}
+            onSubmit={() => console.log("")}
         >
-            {({ values, errors, touched, submitCount }) => {
-
-                useEffect(() => {
-                    if (submitCount > 0 && Object.keys(errors).length > 0) {
-                        toast({
-                            title: "Please fill required fields",
-                            variant: "destructive",
-                        })
-                    }
-                }, [submitCount, errors])
+            {({ values, errors, touched }) => {
 
                 return (
                     <Form>
@@ -150,7 +152,7 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                         </TableBody>
                                     </Table>
                                     <div className='w-full flex justify-end'>
-                                        <Button type="submit" className='bg-quaternary hover:scale-105 hover:bg-ternary'>Submit</Button>
+                                        <Button type="button" className='bg-quaternary hover:scale-105 hover:bg-ternary' onClick={() => handleFormSubmit(values, errors)}>Submit</Button>
                                     </div>
                                 </div>
                             )}
