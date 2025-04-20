@@ -222,9 +222,9 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
     return (
         <div className="p-4 m-4">
             <Table>
-                <TableHeader>
+                <TableHeader className='border-b'>
                     {table.getHeaderGroups().map(headerGroup => (
-                        <TableRow key={headerGroup.id} className='border-none   '>
+                        <TableRow key={headerGroup.id} className='border-none'>
                             {headerGroup.headers.map(header => {
                                 return (
                                     <TableHead key={header.id} colSpan={header.colSpan} className='align-top'>
@@ -233,7 +233,7 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
                                                 <div
                                                     {...{
                                                         className: header.column.getCanSort()
-                                                            ? 'cursor-pointer select-none text-lg'
+                                                            ? 'cursor-pointer select-none text-lg flex'
                                                             : '',
                                                         onClick: header.column.getToggleSortingHandler(),
                                                     }}
@@ -243,12 +243,12 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
                                                         header.getContext()
                                                     )}
                                                     {{
-                                                        asc: <Icons.arrowUpCirlce className='mx-2 size-6' />,
-                                                        desc: <Icons.arrowDownCircle className='mx-2 size-6' />,
+                                                        asc: <Icons.arrowUpCirlce className='mx-2 size-6 text-foreground' />,
+                                                        desc: <Icons.arrowDownCircle className='mx-2 size-6 text-foreground' />,
                                                     }[header.column.getIsSorted() as string] ?? null}
                                                 </div>
                                                 {header.column.getCanFilter() && header.id !== 'Notes' ? (
-                                                    <div>
+                                                    <div className='mb-2'>
                                                         <Filter column={header.column} />
                                                     </div>
                                                 ) : null}
@@ -271,7 +271,7 @@ const MySheetTable = ({ sheetData }: { sheetData: Question[] }) => {
                                                 <>
                                                     <Icons.edit onClick={() => {
                                                         setOpenNotes(true);
-                                                    }} className='cursor-pointer size-6' />
+                                                    }} className='cursor-pointer size-6 text-foreground' />
                                                     <Dialog open={openNotes} onOpenChange={() => setOpenNotes(false)}>
                                                         <DialogContent>
                                                             <DialogHeader>

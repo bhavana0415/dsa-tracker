@@ -27,8 +27,6 @@ export async function POST(request) {
         });
         await newUser.save();
 
-        console.log("New User Data:", newUser);
-
         return new NextResponse("User Registered", { status: 200 });
     } catch (error) {
         console.log("Error registering user:", error);

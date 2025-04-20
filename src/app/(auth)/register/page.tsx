@@ -8,15 +8,14 @@ export default function LoginPage() {
   return (
     <>
       <div className="flex justify-between items-center py-4 px-20">
-        <p></p>
-        <p className="text-sm">
+        <div className="w-full text-sm flex justify-end items-center">
           Already have an account?
           <a href="/login">
             <Button className="text-ternary font-bold hover:underline">
               Login
             </Button>
           </a>
-        </p>
+        </div>
       </div>
 
       <div className="container flex items-center justify-center">
