@@ -46,11 +46,9 @@ export function UserAuthForm() {
   const [viewPassword, setViewPassword] = React.useState(false);
   const callbackUrl = searchParams.get("callbackUrl") || "/";
 
-  React.useEffect(() => {
-    if (data?.user) {
-      router.push(callbackUrl);
-    }
-  }, [data])
+  if (data?.user) {
+    router.push(callbackUrl);
+  }
 
   const checkPassword = async (email: string, password: string) => {
     try {

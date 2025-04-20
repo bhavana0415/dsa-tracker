@@ -63,7 +63,7 @@ const Navbar = () => {
         <header className="sticky top-0 z-40 w-full border-b bg-primary flex flex-row items-center flex flex-row">
           <div className="container flex h-16 items-center justify-between py-2 md:py-4">
             <Link
-              href="#"
+              href="/"
               className="mr-4 flex items-center space-x-2"
               prefetch={false}
             >
