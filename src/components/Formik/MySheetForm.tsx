@@ -1,7 +1,7 @@
 "use client"
 
-import React, { useState } from 'react';
-import { Formik, Form, Field, FieldArray } from 'formik';
+import React, { useEffect, useState } from 'react';
+import { Formik, Form, Field, FieldArray, useFormikContext, useField } from 'formik';
 import * as Yup from 'yup';
 import {
     Table,
@@ -62,19 +62,30 @@ export const MySheetForm = ({ data }: { data: any }) => {
 
     const getError = (errors: any, touched: any, index: number, field: any) => {
         return typeof errors.my_sheet?.[index] !== 'string' && errors.my_sheet?.[index]?.[field] && touched.my_sheet?.[index]?.[field] ? (
-            <div>{errors.my_sheet[index][field]}</div>
+            <div className='text-red-500'>{errors.my_sheet[index][field]}</div>
         ) : null;
     };
 
+    const handleFormSubmit = (values: any, errors: any) => {
+        if (Object.keys(errors).length > 0) {
+            toast({
+                title: "Missing required fields",
+                variant: "destructive"
+            })
+        } else {
+            handleSubmit(values)
+        }
+    }
+
     return (
-        <div>
-            <h1>My Sheet</h1>
-            <Formik
-                initialValues={{ my_sheet: data }}
-                validationSchema={validationSchema}
-                onSubmit={handleSubmit}
-            >
-                {({ values, errors, touched }) => (
+        <Formik
+            initialValues={{ my_sheet: data }}
+            validationSchema={validationSchema}
+            onSubmit={() => console.log("")}
+        >
+            {({ values, errors, touched }) => {
+
+                return (
                     <Form>
                         <FieldArray
                             name="my_sheet"
@@ -83,9 +94,9 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                     <Table>
                                         <TableHeader>
                                             <TableRow>
-                                                <TableHead className='w-[350px]'>Problem</TableHead>
-                                                <TableHead>Difficulty</TableHead>
-                                                <TableHead>Status</TableHead>
+                                                <TableHead className='w-[350px]'>Problem<sup style={{ color: "red" }}>*</sup></TableHead>
+                                                <TableHead>Difficulty<sup style={{ color: "red" }}>*</sup></TableHead>
+                                                <TableHead>Status<sup style={{ color: "red" }}>*</sup></TableHead>
                                                 <TableHead>Notes</TableHead>
                                                 <TableHead>Action</TableHead>
                                             </TableRow>
@@ -95,12 +106,11 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                                 values.my_sheet.map((_: any, index: number) => (
                                                     <TableRow key={index} className='border-none'>
                                                         <TableCell className='w-[350px]'>
-                                                            <Field name={`my_sheet.${index}.Problem`} className="p-2 rounded-lg bg-primary text-foreground w-full" />
+                                                            <Field name={`my_sheet.${index}.Problem`} className={`${getError(errors, touched, index, 'Problem') ? "border-red-500" : ""} p-2 rounded-lg bg-primary text-foreground w-full`} />
                                                             {getError(errors, touched, index, 'Problem')}
                                                         </TableCell>
                                                         <TableCell>
-                                                            <Field name={`my_sheet.${index}.Difficulty`} as="select" className="p-2 rounded-lg bg-primary text-foreground">
-                                                                <option value="">Select Difficulty</option>
+                                                            <Field name={`my_sheet.${index}.Difficulty`} as="select" className={`${getError(errors, touched, index, 'Difficulty') ? "border-red-500" : ""} p-2 rounded-lg bg-primary text-foreground`}>
                                                                 <option value="Easy">Easy</option>
                                                                 <option value="Medium">Medium</option>
                                                                 <option value="Hard">Hard</option>
@@ -108,8 +118,7 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                                             {getError(errors, touched, index, 'Difficulty')}
                                                         </TableCell>
                                                         <TableCell>
-                                                            <Field name={`my_sheet.${index}.Status`} as="select" className="p-2 rounded-lg bg-primary text-foreground">
-                                                                <option value="">Select Status</option>
+                                                            <Field name={`my_sheet.${index}.Status`} as="select" className={`${getError(errors, touched, index, 'Status') ? "border-red-500" : ""} p-2 rounded-lg bg-primary text-foreground`}>
                                                                 <option value="Done">Done</option>
                                                                 <option value="In Progress">In Progress</option>
                                                                 <option value="Pending">Pending</option>
@@ -117,7 +126,7 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                                             {getError(errors, touched, index, 'Status')}
                                                         </TableCell>
                                                         <TableCell>
-                                                            <Icons.edit onClick={() => setOpenNotes(true)} className='cursor-pointer size-6' />
+                                                            <Icons.edit onClick={() => setOpenNotes(true)} className='cursor-pointer size-6 text-foreground' />
                                                             <Dialog open={openNotes} onOpenChange={() => setOpenNotes(false)}>
                                                                 <DialogContent>
                                                                     <DialogHeader>
@@ -130,8 +139,8 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                                             </Dialog>
                                                         </TableCell>
                                                         <TableCell className='flex'>
-                                                            <Icons.remove className="m-1 cursor-pointer size-6" onClick={() => arrayHelpers.remove(index)} />
-                                                            <Icons.add className="m-1 cursor-pointer size-6" onClick={() => arrayHelpers.remove(index)} />
+                                                            <Icons.remove className="text-foreground m-1 cursor-pointer size-6" onClick={() => arrayHelpers.remove(index)} />
+                                                            <Icons.add className="text-foreground m-1 cursor-pointer size-6" onClick={() => arrayHelpers.remove(index)} />
                                                         </TableCell>
                                                     </TableRow>
                                                 ))
@@ -143,104 +152,14 @@ export const MySheetForm = ({ data }: { data: any }) => {
                                         </TableBody>
                                     </Table>
                                     <div className='w-full flex justify-end'>
-                                        <Button type="submit" className='bg-ternary'>Submit</Button>
+                                        <Button type="button" className='bg-quaternary hover:scale-105 hover:bg-ternary' onClick={() => handleFormSubmit(values, errors)}>Submit</Button>
                                     </div>
                                 </div>
                             )}
                         />
                     </Form>
-                )}
-            </Formik>
-        </div>
+                )
+            }}
+        </Formik>
     );
 }
-
-// import React from 'react';
-// import { Formik, Form, Field, FieldArray } from 'formik';
-// import {
-//     Table,
-//     TableBody,
-//     TableCaption,
-//     TableCell,
-//     TableFooter,
-//     TableHead,
-//     TableHeader,
-//     TableRow,
-// } from "@/components/ui/table"
-// import { Button } from '../ui/button';
-
-// const data = [
-//     { Problem: "https://leetcode.com/problems/two-sum/", Difficulty: "Easy", Status: "Pending", Notes: "" },
-//     { Problem: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/", Difficulty: "Easy", Status: "Pending", Notes: "" }
-// ];
-
-// export const MySheetForm = () => (
-//     <div>
-//         <h1>My Sheet</h1>
-//         <Formik
-//             initialValues={{ my_sheet: data }}
-//             onSubmit={values =>
-//                 setTimeout(() => {
-//                     alert(JSON.stringify(values, null, 2));
-//                 }, 500)
-//             }
-//         >
-//             {({ values }) => (
-//                 <Form>
-//                     <FieldArray
-//                         name="my_sheet"
-//                         render={arrayHelpers => (
-//                             <div className='text-black'>
-//                                 <Table>
-//                                     <TableCaption>A list of your recent invoices.</TableCaption>
-//                                     <TableHeader>
-//                                         <TableRow>
-//                                             <TableHead>Problem</TableHead>
-//                                             <TableHead>Difficulty</TableHead>
-//                                             <TableHead>Status</TableHead>
-//                                             <TableHead>Notes</TableHead>
-//                                             <TableHead>Action</TableHead>
-//                                         </TableRow>
-//                                     </TableHeader>
-//                                     <TableBody>
-//                                         {values.my_sheet && values.my_sheet.length > 0 ? (
-//                                             values.my_sheet.map((_, index) => (
-//                                                 <TableRow key={index}>
-//                                                     <TableCell><Field name={`my_sheet.${index}.Problem`} /></TableCell>
-//                                                     <TableCell><Field name={`my_sheet.${index}.Difficulty`} /></TableCell>
-//                                                     <TableCell><Field name={`my_sheet.${index}.Status`} /></TableCell>
-//                                                     <TableCell><Field name={`my_sheet.${index}.Notes`} /></TableCell>
-//                                                     <TableCell>
-//                                                         <Button
-//                                                             type="button"
-//                                                             onClick={() => arrayHelpers.remove(index)} // remove an item from the list
-//                                                         >
-//                                                             -
-//                                                         </Button>
-//                                                         <Button
-//                                                             type="button"
-//                                                             onClick={() => arrayHelpers.insert(index, { Problem: "", Difficulty: "", Status: "", Notes: "" })} // insert an empty object at a position
-//                                                         >
-//                                                             +
-//                                                         </Button>
-//                                                     </TableCell>
-//                                                 </TableRow>
-//                                             ))
-//                                         ) : (
-//                                             <button type="button" onClick={() => arrayHelpers.push({ Problem: "", Difficulty: "", Status: "", Notes: "" })}>
-//                                                 Add an item
-//                                             </button>
-//                                         )}
-//                                     </TableBody>
-//                                 </Table>
-//                                 <div>
-//                                     <button type="submit">Submit</button>
-//                                 </div>
-//                             </div>
-//                         )}
-//                     />
-//                 </Form>
-//             )}
-//         </Formik>
-//     </div>
-// );

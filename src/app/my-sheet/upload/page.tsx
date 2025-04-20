@@ -46,7 +46,7 @@ const Page = () => {
 
     return (
         <div className='w-full h-full p-20 flex flex-col'>
-            <Link href="/my-sheet"><Icons.arrowBack className='size-6' /> My Sheet</Link>
+            <Link href="/my-sheet" className='w-full flex'><Icons.arrowBack className='size-6' /> My Sheet</Link>
             <div className='w-full h-full flex justify-center items-center p-6'>
                 {data && data.length > 0 ? (
                     <MySheetForm data={data} />

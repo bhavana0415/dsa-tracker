@@ -19,8 +19,6 @@ const Page = () => {
         return <Loader isLoading={true} />
     }
 
-    console.log(data.my_sheet)
-
     const downloadFile = async () => {
         const filePath = `/excel_templates/MySheet.xlsx`;
 

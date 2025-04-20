@@ -25,7 +25,6 @@ const SidebarLayout = ({ children, stiverSheet, striverQuestions, page }: Sideba
     function getReviewedQuestions() {
         let result: { q_id: any; step_no?: number; step_title?: string; sub_step_no?: number; sub_step_title?: string; name?: string; link?: string; difficulty?: string; }[] = [];
 
-        console.log("stiverSheet", stiverSheet)
         stiverSheet.forEach((step) => {
             if (step.topics) {
                 step.topics.forEach((ques: any) => {

@@ -80,7 +80,6 @@ const CustomTable = ({
     questionsData?.find((q: { q_id: string }) => q.q_id === q_id) || {};
 
   const handleStatusChange = (q_id: string, topic: string) => {
-    console.log("here", topic)
     const postData = {
       q_id,
       userId: id,
@@ -165,7 +164,6 @@ const CustomTable = ({
           {(difficulty ? sortedData : data).map((item: any) => {
             const questionData = getQuestionData(item.q_id);
             const { notes = "", review = false } = questionData;
-            console.log(item)
 
             return (
               <TableRow key={item.q_id}>

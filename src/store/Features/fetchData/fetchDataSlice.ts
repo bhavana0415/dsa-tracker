@@ -158,8 +158,6 @@ export const questionsSlice = createSlice({
                 state.error = action.payload || "Failed to fetch questions";
             })
             .addCase(fetchQuestionsBySheetAsync.fulfilled, (state, action: PayloadAction<{ sheet: string; response: any[] }>) => {
-                console.log(action.payload.sheet);
-                console.log(action.payload.response);
                 switch (action.payload.sheet) {
                     case "apnaCollegeQuestions":
                         state.apnaCollegeQuestions = action.payload.response;

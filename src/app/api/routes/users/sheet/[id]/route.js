@@ -28,9 +28,6 @@ export async function PUT(request, { params }) {
     const body = await request.json();
     const { my_sheet } = body;
 
-    console.log(my_sheet);
-    debugger;
-
     if (!id || !my_sheet) {
         return new NextResponse("Missing required fields: userId or my_sheet", { status: 400 });
     }
@@ -43,7 +40,6 @@ export async function PUT(request, { params }) {
             return new NextResponse("User not found", { status: 404 });
         }
 
-        console.log("my_sheet", my_sheet)
         existingUser.my_sheet = my_sheet;
         await existingUser.save();
 
