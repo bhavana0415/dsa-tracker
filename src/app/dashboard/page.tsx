@@ -79,7 +79,7 @@ const Page = () => {
     return (
         <div className="flex flex-col sm:flex-row">
             <div className="basis-1/4 h-fit sm:h-auto bg-ternary flex flex-col items-center p-6 shadow-lg rounded-lg">
-                <LabelText className="text-2xl font-semibold text-gray-900 mb-4">📌 Topics Covered</LabelText>
+                <LabelText className="text-2xl font-semibold text-gray-500 mb-4">📌 Topics Covered</LabelText>
 
                 <div className="flex flex-wrap justify-center gap-1 rounded-lg w-full">
                     {Object.entries(topicCount).map(([key, value]) => (
@@ -89,7 +89,7 @@ const Page = () => {
                             className="shadow-lg rounded-lg p-1 m-1 text-foreground bg-quaternary transition-all"
                         >
                             <span className="text-base font-medium">{key}</span>
-                            <span className="text-sm text-gray-500 ml-2">{`X${value}`}</span>
+                            <span className="text-sm ml-2">{`x${value}`}</span>
                         </Badge>
                     ))}
                 </div>
