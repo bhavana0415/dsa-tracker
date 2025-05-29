@@ -22,7 +22,6 @@ import { Button } from '../ui/button';
 import { updateUserMySheet } from '@/app/api/routes/api/api';
 import { useSession } from 'next-auth/react';
 import { toast } from '../ui/use-toast';
-import { useRouter } from 'next/navigation';
 import { Icons } from '../icons';
 
 const validationSchema = Yup.object().shape({
@@ -41,7 +40,6 @@ export const MySheetForm = ({ data }: { data: any }) => {
     const [openNotes, setOpenNotes] = useState(false);
     const { data: userData } = useSession();
     const { id = "" } = userData?.user || {};
-    const router = useRouter();
 
     const handleSubmit = async (data: any) => {
         const response = await updateUserMySheet(id, data.my_sheet);
@@ -50,7 +48,7 @@ export const MySheetForm = ({ data }: { data: any }) => {
                 title: response.message,
                 variant: "default",
             });
-            router.push("/my-sheet");
+            window.location.href = "/my-sheet";
         } else {
             toast({
                 title: 'Unable to upload sheet',
