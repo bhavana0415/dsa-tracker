@@ -85,6 +85,7 @@ const VerifyCodeForm = ({ user, setPage, verifyCode }: VerifyCodeFormProps) => {
         </div>
         <div className="flex justify-between">
           <Button
+            type="button"
             variant="outline"
             className="bg-primary"
             onClick={handleBack}
