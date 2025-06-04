@@ -39,6 +39,10 @@ const VerifyCodeForm = ({ user, setPage, verifyCode }: VerifyCodeFormProps) => {
     verifyCode(data.code);
   };
 
+  const handleBack = (e: { preventDefault: () => void; }) => {
+    e.preventDefault(); setPage(1)
+  }
+
   return (
     <form onSubmit={handleSubmit(onSubmit)}>
       <div className="grid gap-4">
@@ -83,7 +87,7 @@ const VerifyCodeForm = ({ user, setPage, verifyCode }: VerifyCodeFormProps) => {
           <Button
             variant="outline"
             className="bg-primary"
-            onClick={() => setPage(1)}
+            onClick={handleBack}
           >
             Back
           </Button>
